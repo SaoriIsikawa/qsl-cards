@@ -1,2 +1,3 @@
-# qsl-cards
-A collection of my electronic QSL cards for amateur radio contacts.
+# 我的eQSL卡片
+
+我收集的的业余无线电电子 QSL 卡
