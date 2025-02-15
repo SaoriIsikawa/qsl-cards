@@ -1,3 +1,6 @@
-# 我的 eQSL 卡片
+# QSL Cards
 
-我收集的的业余无线电电子 QSL 卡
+![BG7XTQ_SAKURA_Gardens-03_QSL_20241012.png](BG7XTQ_SAKURA_Gardens-03_QSL_20241012.png)
+
+![BG7XTQ_YOMOGI_Gardens-01_QSL_20241218.png](BG7XTQ_YOMOGI_Gardens-01_QSL_20241218.png)
+
