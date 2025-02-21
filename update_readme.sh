@@ -25,3 +25,4 @@ done
 
 echo "README.md 更新完成！"
 
+git add README.md
