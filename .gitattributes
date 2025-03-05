@@ -1,0 +1,9 @@
+* text=auto
+*.md text
+#*.txt text eol=crlf
+*.sh text eol=lf
+.gitignore text eol=lf
+*.png binary
+*.gif binary
+*.jpg binary
+*.jpeg binary
