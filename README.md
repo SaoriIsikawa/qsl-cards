@@ -27,3 +27,8 @@
 
 **SONATE-2 (DP0SNX) (2025-02-16) - SSTV (digital)**  
 ![2025_02_16_SONATE-2.jpg](2025_02_16_SONATE-2.jpg)  
+
+---
+
+**PO-101 (2024-11-18) - FM (digital)**  
+![2024_11_18_PO-101_SWL.jpg](2024_11_18_PO-101_SWL.jpg)  
