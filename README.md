@@ -35,6 +35,6 @@
 
 ---
 
-**ARCTICSAT-1 (RS74S) (2025-04-01) - SSTV (digital)**  
-![2025_04_01_ARCTICSAT-1.png](2025_04_01_ARCTICSAT-1.png)  
+**ArcticSat-1 (RS74S) (2025-04-01) - SSTV (digital)**  
+![2025_04_01_ArcticSat-1.png](2025_04_01_ArcticSat-1.png)  
 
