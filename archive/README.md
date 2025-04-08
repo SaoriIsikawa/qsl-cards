@@ -5,3 +5,7 @@
 
 ---
 
+**XSG (2025-02-13) - AM (paper)**  
+![2025_02_13_Shanghai_Coast_Radio_Station_XSG_120th_Anniversary.png](2025_02_13_Shanghai_Coast_Radio_Station_XSG_120th_Anniversary.png)
+
+---
