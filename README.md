@@ -1,4 +1,4 @@
-# 我收集的业余无线电 QSL/eQSL 卡片
+# 我收集的业余无线电 QSL 卡片
 
 **ORBICRAFT-ZORKIY (RS15S) (2023-05-09) - SSTV (digital)**  
 ![2023_05_09_ORBICRAFT-ZORKIY.png](2023_05_09_ORBICRAFT-ZORKIY.png)  
