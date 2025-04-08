@@ -32,3 +32,9 @@
 
 **PO-101 (2024-11-18) - FM (digital)**  
 ![2024_11_18_PO-101_SWL.jpg](2024_11_18_PO-101_SWL.jpg)  
+
+---
+
+**ARCTICSAT-1 (RS74S) (2025-04-01) - SSTV (digital)**  
+![2025_04_01_ARCTICSAT-1.png](2025_04_01_ARCTICSAT-1.png)  
+
