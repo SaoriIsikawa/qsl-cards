@@ -11,7 +11,7 @@
 ---
 
 **ISS QSL Card for SSTV reception from RS0ISS (2024-10-13)**  
-![2024_10_13_ISS.png](2024_10_13_ISS.png)  
+![2024_10_13_ISS.jpg](2024_10_13_ISS.jpg)  
 
 ---
 
