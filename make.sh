@@ -1,2 +1,154 @@
 #!/bin/bash
+
+# 定义 HTML 头部和样式
+HTML_HEADER="<!DOCTYPE html>
+<html lang=\"zh-CN\">
+<head>
+    <meta charset=\"UTF-8\">
+    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">
+    <title>QSL 卡片存档</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+            color: #333;
+        }
+        h1, h2, h3 {
+            color: #2c3e50;
+        }
+        a {
+            color: #3498db;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 10px auto;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+        }
+        code {
+            background-color: #f5f5f5;
+            padding: 2px 4px;
+            border-radius: 3px;
+            font-family: Consolas, monospace;
+        }
+        pre {
+            background-color: #f5f5f5;
+            padding: 10px;
+            border-radius: 4px;
+            overflow-x: auto;
+        }
+        blockquote {
+            border-left: 4px solid #3498db;
+            padding-left: 15px;
+            color: #555;
+            margin-left: 0;
+        }
+    </style>
+</head>
+<body>"
+
+HTML_FOOTER="</body>
+</html>"
+
+# 处理主 README.md
+{
+    echo "$HTML_HEADER"
+    /c/cmdtool64/cmark-gfm.exe -t html --hardbreaks --smart README.md
+    echo "$HTML_FOOTER"
+} > README.html
+
+# 处理 archive/README.md
+{
+    echo "$HTML_HEADER"
+    /c/cmdtool64/cmark-gfm.exe -t html --hardbreaks --smart ./archive/README.md
+    echo "$HTML_FOOTER"
+} > ./archive/README.html
+
+echo "HTML 文件生成完成。"
+
+# 定义 HTML 头部和样式
+HTML_HEADER="<!DOCTYPE html>
+<html lang=\"zh-CN\">
+<head>
+    <meta charset=\"UTF-8\">
+    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">
+    <title>QSL 卡片存档</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+            color: #333;
+        }
+        h1, h2, h3 {
+            color: #2c3e50;
+        }
+        a {
+            color: #3498db;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 10px auto;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+        }
+        code {
+            background-color: #f5f5f5;
+            padding: 2px 4px;
+            border-radius: 3px;
+            font-family: Consolas, monospace;
+        }
+        pre {
+            background-color: #f5f5f5;
+            padding: 10px;
+            border-radius: 4px;
+            overflow-x: auto;
+        }
+        blockquote {
+            border-left: 4px solid #3498db;
+            padding-left: 15px;
+            color: #555;
+            margin-left: 0;
+        }
+    </style>
+</head>
+<body>"
+
+HTML_FOOTER="</body>
+</html>"
+
+# 处理主 README.md
+{
+    echo "$HTML_HEADER"
+    /c/cmdtool64/cmark-gfm.exe -t html --hardbreaks --smart README.md
+    echo "$HTML_FOOTER"
+} > README.html
+
+# 处理 archive/README.md
+{
+    echo "$HTML_HEADER"
+    /c/cmdtool64/cmark-gfm.exe -t html --hardbreaks --smart ./archive/README.md
+    echo "$HTML_FOOTER"
+} > ./archive/README.html
+
+# 创建 ZIP 存档
 git archive --format=zip --output=/c/Users/Saori/backup/业余无线电/qsl-cards.zip HEAD
+
+echo "HTML 文件生成完成，ZIP 存档已创建。"
