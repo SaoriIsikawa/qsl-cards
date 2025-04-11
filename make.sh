@@ -152,3 +152,11 @@ HTML_FOOTER="</body>
 git archive --format=zip --output=/c/Users/Saori/backup/业余无线电/qsl-cards.zip HEAD
 
 echo "HTML 文件生成完成，ZIP 存档已创建。"
+
+# 建议操作：
+# 对于PNG文件，可以使用ImageMagick转换为JPG格式：
+# mogrify -format jpg *.png
+# 或者调整尺寸并转换（例如限制宽度为1200像素）：
+# mogrify -resize 1200 -quality 85 -format jpg *.png
+# 对于已经较大的JPG文件，可以只调整尺寸或优化质量：
+# mogrify -resize 1200 -quality 85 *.jpg
