@@ -40,5 +40,5 @@
 
 ---
 
-**SamSat-Ionosphere (RS75S) (2025-04-10) - SSTV (digital)**  
+**SamSat-Ionosphere (RS75S) (2025-04-10) - 1k2 FSK (digital)**  
 ![2025_04_10_SamSat-Ionosphere_RS75S.jpg](2025_04_10_SamSat-Ionosphere_RS75S.jpg)  
