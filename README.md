@@ -5,7 +5,7 @@
 
 ---
 
-**SAKURA (JS1YNI) (2024-10-08) - CW (digital)**  
+**SAKURA (JS1YNI) (2024-10-08) - CW GMSK (digital)**  
 ![2024_10_08_SAKURA.jpg](2024_10_08_SAKURA.jpg)  
 
 ---
