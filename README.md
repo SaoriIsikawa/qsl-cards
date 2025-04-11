@@ -37,3 +37,8 @@
 
 **ARCTICSAT-1 (RS74S) (2025-04-01) - SSTV (digital)**  
 ![2025_04_01_ARCTICSAT-1_RS74S.jpg](2025_04_01_ARCTICSAT-1_RS74S.jpg)  
+
+---
+
+**SamSat-Ionosphere (RS75S) (2025-04-10) - SSTV (digital)**  
+![2025_04_10_SamSat-Ionosphere_RS75S.jpg](2025_04_10_SamSat-Ionosphere_RS75S.jpg)  
