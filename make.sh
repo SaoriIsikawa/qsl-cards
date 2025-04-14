@@ -153,6 +153,8 @@ git archive --format=zip --output=/c/Users/Saori/backup/业余无线电/qsl-card
 
 echo "HTML 文件生成完成，ZIP 存档已创建。"
 
+# 消除网格图案（去网纹）：
+# magick result_combined.png -blur 0x1 -unsharp 0x1+1+0.05 result_clean.png
 # 建议操作：
 # 对于PNG文件，可以使用ImageMagick转换为JPG格式：
 # mogrify -format jpg *.png
