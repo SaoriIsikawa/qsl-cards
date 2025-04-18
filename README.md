@@ -47,3 +47,8 @@
 
 **LASARsat (OK0LSR) (2025-04-08) - CW (digital)**  
 ![2025_04_08_OK0LSR.jpg](2025_04_08_OK0LSR.jpg)  
+
+---
+
+**NHK WORLD-JAPAN (2025-03-11) - AM (paper)**  
+![2025_03_11_NHK_WORLD-JAPAN_SWL.jpg](2025_03_11_NHK_WORLD-JAPAN_SWL.jpg)  

@@ -153,6 +153,11 @@ git archive --format=zip --output=/c/Users/Saori/backup/业余无线电/qsl-card
 
 echo "HTML 文件生成完成，ZIP 存档已创建。"
 
+
+# 一步完成
+#magick nhk01.png nhk02.png -append -blur 0x1 -unsharp 0x1+1+0.05 -resize 1200 -quality 85 -format jpg  result_final.jpg
+# 一步完成拼合+去网格
+# magick s1.png s2.png -append -blur 0x0.8 -unsharp 0x0.8+1.2+0.03 result_final.png
 # 消除网格图案（去网纹）：
 # magick result_combined.png -blur 0x1 -unsharp 0x1+1+0.05 result_clean.png
 # 建议操作：
