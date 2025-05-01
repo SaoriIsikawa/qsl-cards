@@ -25,8 +25,8 @@
 
 ---
 
-**Hyperview-1G (RS66S) (2025-01-05) - SSTV (digital)**  
-![2025_01_05_HYPERVIEW-1G_RS66S.jpg](2025_01_05_HYPERVIEW-1G_RS66S.jpg)  
+**HyperView-1G (RS66S) (2025-01-05) - SSTV (digital)**  
+![2025_01_05_HyperView-1G_RS66S.jpg](2025_01_05_HyperView-1G_RS66S.jpg)  
 
 ---
 
