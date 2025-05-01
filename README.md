@@ -20,8 +20,8 @@
 
 ---
 
-**YOMOGI (JS1YMX) (2024-12-10) - CW (digital)**  
-![2024_12_10_YOMOGI_JS1YMX.jpg](2024_12_10_YOMOGI_JS1YMX.jpg)  
+**YOMOGI (JS1YMX) (2025-03-24) - CW (digital)**  
+![2025_03_24_YOMOGI_JS1YMX.jpg](2025_03_24_YOMOGI_JS1YMX.jpg)  
 
 ---
 
