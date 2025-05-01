@@ -36,7 +36,7 @@
 ---
 
 **ArcticSat-1 (RS74S) (2025-04-01) - Robot36 SSTV (digital)**  
-![2025_04_01_ArcticSat-1_RS74S.jpg](2025_04_01_ArcticSat-1_RS74S.jpg)  
+![2025_04_01_ARCTICSAT-1_RS74S.jpg](2025_04_01_ARCTICSAT-1_RS74S.jpg)  
 
 ---
 
