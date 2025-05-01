@@ -30,8 +30,8 @@
 
 ---
 
-**SONATE-2 (DP0SNX) (2025-02-16) - Martin M1 SSTV (digital)**  
-![2025_02_16_SONATE-2_DP0SNX.jpg](2025_02_16_SONATE-2_DP0SNX.jpg)  
+**SONATE-2 (DP0SNX) (2025-04-19) - Martin M1 SSTV (digital)**  
+![2025_04_19_SONATE-2_DP0SNX.jpg](2025_04_19_SONATE-2_DP0SNX.jpg)  
 
 ---
 
