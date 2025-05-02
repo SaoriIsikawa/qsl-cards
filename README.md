@@ -46,7 +46,7 @@
 ---
 
 **LASARsat (OK0LSR) (2025-04-08) - CW (digital)**  
-![2025_04_08_OK0LSR.jpg](2025_04_08_OK0LSR.jpg)  
+![2025_04_08_LASARsat_OK0LSR.jpg](2025_04_08_LASARsat_OK0LSR.jpg)  
 
 ---
 
