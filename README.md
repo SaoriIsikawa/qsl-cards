@@ -58,4 +58,8 @@
 **CroCube (9A0CC) (2025-04-10) - 9k6 GFSK (digital)**  
 ![2025_04_10_CroCube_9A0CC.jpg](2025_04_10_CroCube_9A0CC.jpg)  
 
+---
+
+**ReshUCube-2 (RS37S) (2025-01-28) - 9k6 GFSK (digital)**  
+![2025_01_28_ReshUCube-2_RS37S.jpg](2025_01_28_ReshUCube-2_RS37S.jpg)  
 
