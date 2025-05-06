@@ -60,6 +60,6 @@
 
 ---
 
-**ReshUCube-2 (RS37S) (2025-01-28) - 9k6 GFSK (digital)**  
+**ReshUCube-2 (RS37S) (2025-01-28) - LoRa (digital)**  
 ![2025_01_28_ReshUCube-2_RS37S.jpg](2025_01_28_ReshUCube-2_RS37S.jpg)  
 
