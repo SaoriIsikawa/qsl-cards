@@ -20,6 +20,5 @@
 
 ---
 
-
-**BD8CBU (2025-04-09) - FM (paper)**  
+**BD8CBU (2025-04-09) - FM via SO-50 sat. (paper)**  
 ![2025_04_09_BD8CBU_SWL.jpg](2025_04_09_BD8CBU_SWL.jpg)
