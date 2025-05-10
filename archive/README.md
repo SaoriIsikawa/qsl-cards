@@ -5,6 +5,11 @@
 
 ---
 
+**BPM (2025-03-03) 10MHz - AM (paper)**  
+![2025_03_03_BPM.jpg](2025_03_03_BPM.jpg)
+
+---
+
 **UMKA-1 (RS40S) (2024-10-05) SSTV Robot36 (digital)**  
 ![2024_10_05_UMKA-1_RS40S_SSTV.jpg](2024_10_05_UMKA-1_RS40S_SSTV.jpg)
 
