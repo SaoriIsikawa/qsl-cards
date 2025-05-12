@@ -4,7 +4,7 @@
 
 1. [SONATE-2 (DP0SNX) (2025-04-19)](#sonate-2-dp0snx-2025-04-19)
 2. [CroCube (9A0CC) (2025-04-10)](#crocube-9a0cc-2025-04-10)
-3. [SamSat-Ionosphere (RS75S) (2025-04-10)](#samsat-ionosphere-rs75s-2025-04-10)
+3. [SamSat-Ionosphere (RS75S) (2025-05-11)](#samsat-ionosphere-rs75s-2025-05-11)
 4. [LASARsat (OK0LSR) (2025-04-08)](#lasarsat-ok0lsr-2025-04-08)
 5. [ArcticSat-1 (RS74S) (2025-04-01)](#arcticsat-1-rs74s-2025-04-01)
 6. [YOMOGI (JS1YMX) (2025-03-25)](#yomogi-js1ymx-2025-03-25)
@@ -30,9 +30,9 @@
 
 ---
 
-<a name="samsat-ionosphere-rs75s-2025-04-10"></a>
-**SamSat-Ionosphere (RS75S) (2025-04-10) - 1k2 FSK (digital)**  
-![2025_04_10_SamSat-Ionosphere_RS75S.jpg](2025_04_10_SamSat-Ionosphere_RS75S.jpg)  
+<a name="samsat-ionosphere-rs75s-2025-05-11"></a>
+**SamSat-Ionosphere (RS75S) (2025-05-11) - 1k2 FSK (digital)**  
+![2025_05_11_SamSat-Ionosphere_RS75S.jpg](2025_05_11_SamSat-Ionosphere_RS75S.jpg)  
 
 ---
 
