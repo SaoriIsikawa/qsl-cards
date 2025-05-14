@@ -2,8 +2,8 @@
 
 ## QSL 卡片目录（从新到旧排列）
 
-1. [ROBUSTA-3A (FX6FRD) (2025-05-13)](#robusta-3a-fx6frd-2025-05-13)
-2. [OTP-2 (2025-05-13)](#otp-2-2025-05-13)
+1. [OTP-2 (2025-05-13)](#otp-2-2025-05-13)
+2. [ROBUSTA-3A (FX6FRD) (2025-05-13)](#robusta-3a-fx6frd-2025-05-13)
 3. [SamSat-Ionosphere (RS75S) (2025-05-11)](#samsat-ionosphere-rs75s-2025-05-11)
 4. [SONATE-2 (DP0SNX) (2025-04-19)](#sonate-2-dp0snx-2025-04-19)
 5. [CroCube (9A0CC) (2025-04-10)](#crocube-9a0cc-2025-04-10)
@@ -20,15 +20,15 @@
 
 ---
 
-<a name="robusta-3a-fx6frd-2025-05-13"></a>
-**ROBUSTA-3A (FX6FRD) (2025-05-13) - FSK 9k6 (digital)**  
-![2025_05_13_ROBUSTA-3A_FX6FRD.jpg](2025_05_13_ROBUSTA-3A_FX6FRD.jpg)  
-
----
-
 <a name="otp-2-2025-05-13"></a>
 **OTP-2 (2025-05-13) - GFSK 4k8 (digital)**  
 ![2025_05_13_OTP-2.jpg](2025_05_13_OTP-2.jpg)  
+
+---
+
+<a name="robusta-3a-fx6frd-2025-05-13"></a>
+**ROBUSTA-3A (FX6FRD) (2025-05-13) - FSK 9k6 (digital)**  
+![2025_05_13_ROBUSTA-3A_FX6FRD.jpg](2025_05_13_ROBUSTA-3A_FX6FRD.jpg)  
 
 
 ---
