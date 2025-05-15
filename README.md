@@ -34,19 +34,19 @@
 ---
 
 <a name="sonate-2-dp0snx-2025-04-19"></a>
-**SONATE-2 (DP0SNX) (2025-04-19) - Martin M1 SSTV (digital)**  
+**SONATE-2 (DP0SNX) (2025-04-19) - Martin M1 SSTV FM (F3F) (digital)**  
 ![2025_04_19_SONATE-2_DP0SNX.jpg](2025_04_19_SONATE-2_DP0SNX.jpg)  
 
 ---
 
 <a name="crocube-9a0cc-2025-04-10"></a>
-**CroCube (9A0CC) (2025-04-10) - 9k6 GFSK (digital)**  
+**CroCube (9A0CC) (2025-04-10) - GFSK 9k6 (digital)**  
 ![2025_04_10_CroCube_9A0CC.jpg](2025_04_10_CroCube_9A0CC.jpg)  
 
 ---
 
 <a name="samsat-ionosphere-rs75s-2025-05-11"></a>
-**SamSat-Ionosphere (RS75S) (2025-05-11) - 1k2 FSK (digital)**  
+**SamSat-Ionosphere (RS75S) (2025-05-11) - FSK 1k2 (digital)**  
 ![2025_05_11_SamSat-Ionosphere_RS75S.jpg](2025_05_11_SamSat-Ionosphere_RS75S.jpg)  
 
 ---
@@ -82,7 +82,7 @@
 ---
 
 <a name="hyperview-1g-rs66s-2025-01-05"></a>
-**HyperView-1G (RS66S) (2025-01-05) - SSTV (digital)**  
+**HyperView-1G (RS66S) (2025-01-05) - SSTV Robot72 (digital)**  
 ![2025_01_05_HyperView-1G_RS66S.jpg](2025_01_05_HyperView-1G_RS66S.jpg)  
 
 ---
@@ -100,11 +100,11 @@
 ---
 
 <a name="sakura-js1yni-2024-10-08"></a>
-**SAKURA (JS1YNI) (2024-10-08) - CW GMSK (digital)**  
+**SAKURA (JS1YNI) (2024-10-08) - CW & GMSK (digital)**  
 ![2024_10_08_SAKURA_JS1YNI.jpg](2024_10_08_SAKURA_JS1YNI.jpg)  
 
 ---
 
 <a name="orbicraft-zorkiy-rs15s-2023-05-09"></a>
-**ORBICRAFT-ZORKIY (RS15S) (2023-05-09) - Robot72 SSTV (digital)**  
+**ORBICRAFT-ZORKIY (RS15S) (2023-05-09) - SSTV Robot72 (digital)**  
 ![2023_05_09_ORBICRAFT-ZORKIY_RS15S.jpg](2023_05_09_ORBICRAFT-ZORKIY_RS15S.jpg)  
