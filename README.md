@@ -2,6 +2,7 @@
 
 ## QSL 卡片目录（从新到旧排列）
 
+0. [QUBE (DP2QU) (2025-05-20)](#qube-dp2qu-2025-05-20)
 1. [OTP-2 (2025-05-13)](#otp-2-2025-05-13)
 2. [ROBUSTA-3A (FX6FRD) (2025-05-13)](#robusta-3a-fx6frd-2025-05-13)
 3. [SamSat-Ionosphere (RS75S) (2025-05-11)](#samsat-ionosphere-rs75s-2025-05-11)
@@ -17,6 +18,12 @@
 13. [ISS QSL Card from RS0ISS (2024-10-13)](#iss-qsl-card-from-rs0iss-2024-10-13)
 14. [SAKURA (JS1YNI) (2024-10-08)](#sakura-js1yni-2024-10-08)
 15. [ORBICRAFT-ZORKIY (RS15S) (2023-05-09)](#orbicraft-zorkiy-rs15s-2023-05-09)
+
+---
+
+<a name="qube-dp2qu-2025-05-20"></a>
+**QUBE (DP2QU) (2025-05-20) - GFSK 9k6 (digital)**  
+![2025_05_20_QUBE_DP2QU.jpg](2025_05_20_QUBE_DP2QU.jpg)  
 
 ---
 
