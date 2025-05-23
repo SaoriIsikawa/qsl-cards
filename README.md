@@ -2,6 +2,7 @@
 
 ## QSL 卡片目录（从新到旧排列）
 
+0. [ENSO (ROBUSTA-1E) (FX6FRC) (2025-05-22)](#enso-robusta-1e-fx6frc-2025-05-22)
 1. [QUBE (DP2QU) (2025-05-20)](#qube-dp2qu-2025-05-20)
 2. [OTP-2 (2025-05-13)](#otp-2-2025-05-13)
 3. [ROBUSTA-3A (FX6FRD) (2025-05-13)](#robusta-3a-fx6frd-2025-05-13)
@@ -18,6 +19,12 @@
 14. [ISS QSL Card from RS0ISS (2024-10-13)](#iss-qsl-card-from-rs0iss-2024-10-13)
 15. [SAKURA (JS1YNI) (2024-10-08)](#sakura-js1yni-2024-10-08)
 16. [ORBICRAFT-ZORKIY (RS15S) (2023-05-09)](#orbicraft-zorkiy-rs15s-2023-05-09)
+
+---
+
+<a name="enso-robusta-1e-fx6frc-2025-05-22"></a>
+**ENSO (ROBUSTA-1E) (FX6FRC) (2025-05-22) - FSK 9k6 (digital)**  
+![2025_05_22_ENSO_ROBUSTA-1E_FX6FRC.jpg](2025_05_22_ENSO_ROBUSTA-1E_FX6FRC.jpg)  
 
 ---
 
