@@ -23,13 +23,13 @@
 ---
 
 <a name="xsg-2025-02-13"></a>
-**XSG (2025-02-13) - CW (paper)**  
+**XSG Special Event "120 Years of XSG: Special World Radio Day" (2025-02-13) - CW (paper)**  
 ![2025_02_13_XSG.jpg](2025_02_13_XSG.jpg)
 
 ---
 
 <a name="umka-1-rs40s-2025-02-01"></a>
-**UMKA-1 (RS40S) (2025-02-01) SSTV Robot36 (digital)**  
+**UMKA-1 (RS40S) Special Event "MAYAK" (2025-02-01) SSTV Robot36 (digital)**  
 ![2025_02_01_UMKA-1_RS40S_M.jpg](2025_02_01_UMKA-1_RS40S_M.jpg)
 
 ---
