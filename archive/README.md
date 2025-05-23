@@ -5,7 +5,7 @@
 
 ---
 **UMKA-1 (RS40S) (2024-10-05) SSTV Robot36 (digital)**  
-![2024_10_05_UMKA-1_RS40S_SSTV.jpg](2024_10_05_UMKA-1_RS40S_SSTV.jpg)
+![2024_10_05_UMKA-1_RS40S_Robot36.jpg](2024_10_05_UMKA-1_RS40S_Robot36.jpg)
 
 ---
 
