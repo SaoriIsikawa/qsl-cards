@@ -13,12 +13,13 @@
 8. [ArcticSat-1 (RS74S) (2025-04-01)](#arcticsat-1-rs74s-2025-04-01)
 9. [YOMOGI (JS1YMX) (2025-03-25)](#yomogi-js1ymx-2025-03-25)
 10. [NHK WORLD-JAPAN (2025-03-11)](#nhk-world-japan-2025-03-11)
-11. [ReshUCube-2 (RS37S) (2025-01-28)](#reshucube-2-rs37s-2025-01-28)
-12. [HyperView-1G (RS66S) (2025-01-05)](#hyperview-1g-rs66s-2025-01-05)
-13. [PO-101 (2024-11-18)](#po-101-2024-11-18)
-14. [ISS QSL Card from RS0ISS (2024-10-13)](#iss-qsl-card-from-rs0iss-2024-10-13)
-15. [SAKURA (JS1YNI) (2024-10-08)](#sakura-js1yni-2024-10-08)
-16. [ORBICRAFT-ZORKIY (RS15S) (2023-05-09)](#orbicraft-zorkiy-rs15s-2023-05-09)
+11. [NHK WORLD-JAPAN (2025-03-02)](#nhk-world-japan-2025-03-02)
+12. [ReshUCube-2 (RS37S) (2025-01-28)](#reshucube-2-rs37s-2025-01-28)
+13. [HyperView-1G (RS66S) (2025-01-05)](#hyperview-1g-rs66s-2025-01-05)
+14. [PO-101 (2024-11-18)](#po-101-2024-11-18)
+15. [ISS QSL Card from RS0ISS (2024-10-13)](#iss-qsl-card-from-rs0iss-2024-10-13)
+16. [SAKURA (JS1YNI) (2024-10-08)](#sakura-js1yni-2024-10-08)
+17. [ORBICRAFT-ZORKIY (RS15S) (2023-05-09)](#orbicraft-zorkiy-rs15s-2023-05-09)
 
 ---
 
@@ -87,6 +88,12 @@
 <a name="nhk-world-japan-2025-03-11"></a>
 **NHK WORLD-JAPAN (2025-03-11) - AM (paper)**  
 ![2025_03_11_NHK_WORLD-JAPAN_SWL.jpg](2025_03_11_NHK_WORLD-JAPAN_SWL.jpg)  
+
+---
+
+<a name="nhk-world-japan-2025-03-02"></a>
+**NHK WORLD-JAPAN (2025-03-02) - AM (paper)**  
+![2025_03_02_NHK_WORLD-JAPAN_SWL.jpg](2025_03_02_NHK_WORLD-JAPAN_SWL.jpg)  
 
 ---
 
