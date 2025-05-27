@@ -38,7 +38,7 @@
 ---
 
 <a name="pearl-1c-bv4vb-2025-05-13"></a>
-**PEARL-1C (BV4VB) (2025-05-13) - GMSK 9k6 (digital)**  
+**PEARL-1C (BV4VB) (2025-05-13) - GMSK 9k6 (paper)**  
 ![2025_05_13_PEARL-1C_BV4VB.jpg](2025_05_13_PEARL-1C_BV4VB.jpg)  
 
 ---
