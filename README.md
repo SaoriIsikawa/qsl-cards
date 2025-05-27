@@ -62,7 +62,7 @@
 ---
 
 <a name="sonate-2-dp0snx-2025-04-19"></a>
-**SONATE-2 (DP0SNX) (2025-04-19) - Martin M1 SSTV FM (F3F) (digital)**  
+**SONATE-2 (DP0SNX) (2025-04-19) - SSTV Martin M1 (digital)**  
 ![2025_04_19_SONATE-2_DP0SNX.jpg](2025_04_19_SONATE-2_DP0SNX.jpg)  
 
 ---
@@ -87,7 +87,7 @@
 ---
 
 <a name="arcticsat-1-rs74s-2025-04-01"></a>
-**ArcticSat-1 (RS74S) (2025-04-01) - Robot36 SSTV (digital)**  
+**ArcticSat-1 (RS74S) (2025-04-01) - SSTV Robot36 - 1st of April Event (digital)**  
 ![2025_04_01_ArcticSat-1_RS74S.jpg](2025_04_01_ArcticSat-1_RS74S.jpg)  
 
 ---
