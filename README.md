@@ -4,23 +4,24 @@
 
 1. [ENSO (ROBUSTA-1E) (FX6FRC) (2025-05-22)](#enso-robusta-1e-fx6frc-2025-05-22)
 2. [QUBE (DP2QU) (2025-05-20)](#qube-dp2qu-2025-05-20)
-3. [OTP-2 (2025-05-13)](#otp-2-2025-05-13)
-4. [ROBUSTA-3A (FX6FRD) (2025-05-13)](#robusta-3a-fx6frd-2025-05-13)
-5. [SamSat-Ionosphere (RS75S) (2025-05-11)](#samsat-ionosphere-rs75s-2025-05-11)
-6. [SONATE-2 (DP0SNX) (2025-04-19)](#sonate-2-dp0snx-2025-04-19)
-7. [SamSat-Ionosphere (RS75S) (2025-04-10)](#samsat-ionosphere-rs75s-2025-04-10)
-8. [CroCube (9A0CC) (2025-04-10)](#crocube-9a0cc-2025-04-10)
-9. [LASARsat (OK0LSR) (2025-04-08)](#lasarsat-ok0lsr-2025-04-08)
-10. [ArcticSat-1 (RS74S) (2025-04-01)](#arcticsat-1-rs74s-2025-04-01)
-11. [YOMOGI (JS1YMX) (2025-03-25)](#yomogi-js1ymx-2025-03-25)
-12. [NHK WORLD-JAPAN (2025-03-11)](#nhk-world-japan-2025-03-11)
-13. [NHK WORLD-JAPAN (2025-03-02)](#nhk-world-japan-2025-03-02)
-14. [ReshUCube-2 (RS37S) (2025-01-28)](#reshucube-2-rs37s-2025-01-28)
-15. [HyperView-1G (RS66S) (2025-01-05)](#hyperview-1g-rs66s-2025-01-05)
-16. [PO-101 (2024-11-18)](#po-101-2024-11-18)
-17. [ISS QSL Card from RS0ISS (2024-10-13)](#iss-qsl-card-from-rs0iss-2024-10-13)
-18. [SAKURA (JS1YNI) (2024-10-08)](#sakura-js1yni-2024-10-08)
-19. [ORBICRAFT-ZORKIY (RS15S) (2023-05-09)](#orbicraft-zorkiy-rs15s-2023-05-09)
+3. [PEARL-1C (BV4VB) (2025-05-13)](#pearl-1c-bv4vb-2025-05-13)
+4. [OTP-2 (2025-05-13)](#otp-2-2025-05-13)
+5. [ROBUSTA-3A (FX6FRD) (2025-05-13)](#robusta-3a-fx6frd-2025-05-13)
+6. [SamSat-Ionosphere (RS75S) (2025-05-11)](#samsat-ionosphere-rs75s-2025-05-11)
+7. [SONATE-2 (DP0SNX) (2025-04-19)](#sonate-2-dp0snx-2025-04-19)
+8. [SamSat-Ionosphere (RS75S) (2025-04-10)](#samsat-ionosphere-rs75s-2025-04-10)
+9. [CroCube (9A0CC) (2025-04-10)](#crocube-9a0cc-2025-04-10)
+10. [LASARsat (OK0LSR) (2025-04-08)](#lasarsat-ok0lsr-2025-04-08)
+11. [ArcticSat-1 (RS74S) (2025-04-01)](#arcticsat-1-rs74s-2025-04-01)
+12. [YOMOGI (JS1YMX) (2025-03-25)](#yomogi-js1ymx-2025-03-25)
+13. [NHK WORLD-JAPAN (2025-03-11)](#nhk-world-japan-2025-03-11)
+14. [NHK WORLD-JAPAN (2025-03-02)](#nhk-world-japan-2025-03-02)
+15. [ReshUCube-2 (RS37S) (2025-01-28)](#reshucube-2-rs37s-2025-01-28)
+16. [HyperView-1G (RS66S) (2025-01-05)](#hyperview-1g-rs66s-2025-01-05)
+17. [PO-101 (2024-11-18)](#po-101-2024-11-18)
+18. [ISS QSL Card from RS0ISS (2024-10-13)](#iss-qsl-card-from-rs0iss-2024-10-13)
+19. [SAKURA (JS1YNI) (2024-10-08)](#sakura-js1yni-2024-10-08)
+20. [ORBICRAFT-ZORKIY (RS15S) (2023-05-09)](#orbicraft-zorkiy-rs15s-2023-05-09)
 
 ---
 
@@ -33,6 +34,12 @@
 <a name="qube-dp2qu-2025-05-20"></a>
 **QUBE (DP2QU) (2025-05-20) - GFSK 9k6 (digital)**  
 ![2025_05_20_QUBE_DP2QU.jpg](2025_05_20_QUBE_DP2QU.jpg)  
+
+---
+
+<a name="pearl-1c-bv4vb-2025-05-13"></a>
+**PEARL-1C (BV4VB) (2025-05-13) - GMSK 9k6 (digital)**  
+![2025_05_13_PEARL-1C_BV4VB.jpg](2025_05_13_PEARL-1C_BV4VB.jpg)  
 
 ---
 
@@ -61,7 +68,7 @@
 ---
 
 <a name="samsat-ionosphere-rs75s-2025-04-10"></a>
-**SamSat-Ionosphere (RS75S) (2025-04-10) - FSK 1k2 - 1k2 Gagarin's Day (digital)**  
+**SamSat-Ionosphere (RS75S) (2025-04-10) - FSK 1k2 - Gagarin's Day (digital)**  
 ![2025_04_10_SamSat-Ionosphere_RS75S_Gagarin_s_Day.jpg](2025_04_10_SamSat-Ionosphere_RS75S_Gagarin_s_Day.jpg)  
 
 ---
