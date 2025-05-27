@@ -12,7 +12,7 @@
 ---
 
 <a name="umka-1-rs40s-2025-05-07"></a>
-**UMKA-1 (RS40S) School Space Telescope (2025-05-07) SSTV Robot36 (digital)**  
+**UMKA-1 (RS40S) (2025-05-07) - SSTV Robot36 - School Space Telescope (digital)**  
 ![2025_05_07_UMKA-1_RS40S_SCHOOL.jpg](2025_05_07_UMKA-1_RS40S_SCHOOL.jpg)
 
 ---
@@ -30,13 +30,13 @@
 ---
 
 <a name="xsg-2025-02-13"></a>
-**XSG Special Event "120 Years of XSG: Special World Radio Day" (2025-02-13) - CW (paper)**  
+**XSG (2025-02-13) - CW - Special Event "120 Years of XSG: Special World Radio Day" (paper)**  
 ![2025_02_13_XSG.jpg](2025_02_13_XSG.jpg)
 
 ---
 
 <a name="umka-1-rs40s-2025-02-01"></a>
-**UMKA-1 (RS40S) Special Event "MAYAK" (2025-02-01) SSTV Robot36 (digital)**  
+**UMKA-1 (RS40S) (2025-02-01) - SSTV Robot36 - Special Event "MAYAK" (digital)**  
 ![2025_02_01_UMKA-1_RS40S_M.jpg](2025_02_01_UMKA-1_RS40S_M.jpg)
 
 ---

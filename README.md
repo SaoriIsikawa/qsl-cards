@@ -49,7 +49,7 @@
 ---
 
 <a name="samsat-ionosphere-rs75s-2025-05-11"></a>
-**SamSat-Ionosphere (RS75S) (2025-05-11) - FSK 1k2 (digital)**  
+**SamSat-Ionosphere (RS75S) (2025-05-11) - FSK 1k2 - Victory Day (digital)**  
 ![2025_05_11_SamSat-Ionosphere_RS75S_Victory_Day.jpg](2025_05_11_SamSat-Ionosphere_RS75S_Victory_Day.jpg)  
 
 ---
@@ -61,7 +61,7 @@
 ---
 
 <a name="samsat-ionosphere-rs75s-2025-04-10"></a>
-**SamSat-Ionosphere (RS75S) 1k2 Gagarin's Day (2025-04-10) - FSK 1k2 (digital)**  
+**SamSat-Ionosphere (RS75S) (2025-04-10) - FSK 1k2 - 1k2 Gagarin's Day (digital)**  
 ![2025_04_10_SamSat-Ionosphere_RS75S_Gagarin_s_Day.jpg](2025_04_10_SamSat-Ionosphere_RS75S_Gagarin_s_Day.jpg)  
 
 ---
@@ -86,7 +86,7 @@
 ---
 
 <a name="yomogi-js1ymx-2025-03-25"></a>
-**YOMOGI (JS1YMX) (2025-03-25) last received signal - CW (digital)**  
+**YOMOGI (JS1YMX) (2025-03-25) - CW (digital)**  
 ![2025_03_25_YOMOGI_JS1YMX.jpg](2025_03_25_YOMOGI_JS1YMX.jpg)  
 
 ---
