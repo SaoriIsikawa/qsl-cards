@@ -2,11 +2,18 @@
 
 ## QSL 卡片目录（从新到旧排列）
 
+0. [UMKA-1 (RS40S) (2025-05-07)](#umka-1-rs40s-2025-05-07)
 1. [BPM (2025-03-07)](#bpm-2025-03-07)
 2. [UMKA-1 (RS40S) (2025-03-01)](#umka-1-rs40s-2025-03-01)
 3. [XSG (2025-02-13)](#xsg-2025-02-13)
 4. [UMKA-1 (RS40S) (2025-02-01)](#umka-1-rs40s-2025-02-01)
 5. [UMKA-1 (RS40S) (2024-10-05)](#umka-1-rs40s-2024-10-05)
+
+---
+
+<a name="umka-1-rs40s-2025-05-07"></a>
+**UMKA-1 (RS40S) School Space Telescope (2025-05-07) SSTV Robot36 (digital)**  
+![2025_05_07_UMKA-1_RS40S_SCHOOL.jpg](2025_05_07_UMKA-1_RS40S_SCHOOL.jpg)
 
 ---
 
