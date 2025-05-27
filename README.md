@@ -2,6 +2,7 @@
 
 ## QSL 卡片目录（从新到旧排列）
 
+0. [TechnoSat (DP0TBA) (2025-05-24)](#technosat-dp0tba-2025-05-24)
 1. [ENSO (ROBUSTA-1E) (FX6FRC) (2025-05-22)](#enso-robusta-1e-fx6frc-2025-05-22)
 2. [QUBE (DP2QU) (2025-05-20)](#qube-dp2qu-2025-05-20)
 3. [PEARL-1C (BV4VB) (2025-05-13)](#pearl-1c-bv4vb-2025-05-13)
@@ -22,6 +23,13 @@
 18. [ISS QSL Card from RS0ISS (2024-10-13)](#iss-qsl-card-from-rs0iss-2024-10-13)
 19. [SAKURA (JS1YNI) (2024-10-08)](#sakura-js1yni-2024-10-08)
 20. [ORBICRAFT-ZORKIY (RS15S) (2023-05-09)](#orbicraft-zorkiy-rs15s-2023-05-09)
+
+
+---
+
+<a name="technosat-dp0tba-2025-05-24"></a>
+**TechnoSat (DP0TBA) (2025-05-24) - CW (digital)**  
+![2025_05_24_TechnoSat_DP0TBA.jpg](2025_05_24_TechnoSat_DP0TBA.jpg)  
 
 ---
 
