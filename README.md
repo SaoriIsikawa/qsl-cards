@@ -46,7 +46,7 @@
 ---
 
 <a name="pearl-1c-2025-05-13"></a>
-**珍珠號-1C PEARL-1C (2025-05-13) - GMSK 9k6 (paper)**  
+**珍珠號-1C PEARL-1C (2025-05-13) - GMSK 9k6(!) (paper) [MHz: 435.310 (!)]**  
 ![2025_05_13_PEARL-1C.jpg](2025_05_13_PEARL-1C.jpg)  
 
 ---
@@ -143,7 +143,7 @@
 ---
 
 <a name="sakura-js1yni-2024-10-08"></a>
-**SAKURA (JS1YNI) (2024-10-08) - CW (!) (digital)**  
+**SAKURA (JS1YNI) (2024-10-08) - CW(!) (digital)**  
 ![2024_10_08_SAKURA_JS1YNI.jpg](2024_10_08_SAKURA_JS1YNI.jpg)  
 
 ---
