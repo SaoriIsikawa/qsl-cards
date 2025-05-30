@@ -12,7 +12,7 @@
 ---
 
 <a name="umka-1-rs40s-2025-05-07"></a>
-**UMKA-1 (RS40S) (2025-05-07) - SSTV Robot36 - School Space Telescope (digital)**  
+**UMKA-1 (RS40S) (2025-05-07) - SSTV Robot36 - School Space Telescope (digital) [Frequency: 435.825 (!)]**  
 ![2025_05_07_UMKA-1_RS40S_SCHOOL.jpg](2025_05_07_UMKA-1_RS40S_SCHOOL.jpg)
 
 ---

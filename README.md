@@ -143,7 +143,7 @@
 ---
 
 <a name="sakura-js1yni-2024-10-08"></a>
-**SAKURA (JS1YNI) (2024-10-08) - CW + GMSK (digital)**  
+**SAKURA (JS1YNI) (2024-10-08) - CW (!) (digital)**  
 ![2024_10_08_SAKURA_JS1YNI.jpg](2024_10_08_SAKURA_JS1YNI.jpg)  
 
 ---
