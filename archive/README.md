@@ -5,8 +5,11 @@
 - [UMKA-1 (RS40S) (2025-05-07)](#umka-1-rs40s-2025-05-07)
 - [UMKA-1 (RS40S) (2025-04-18)](#umka-1-rs40s-2025-04-18)
 - [UMKA-1 (RS40S) (2025-04-12)](#umka-1-rs40s-2025-04-12)
+- [UMKA-1 (RS40S) (2025-04-01)](#umka-1-rs40s-2025-04-01)
+- [UMKA-1 (RS40S) (2025-03-08)](#umka-1-rs40s-2025-03-08)
 - [BPM (2025-03-07)](#bpm-2025-03-07)
 - [UMKA-1 (RS40S) (2025-03-01)](#umka-1-rs40s-2025-03-01)
+- [UMKA-1 (RS40S) (2025-02-28)](#umka-1-rs40s-2025-02-28)
 - [XSG (2025-02-13)](#xsg-2025-02-13)
 - [UMKA-1 (RS40S) (2025-02-01)](#umka-1-rs40s-2025-02-01)
 - [UMKA-1 (RS40S) (2024-10-05)](#umka-1-rs40s-2024-10-05)
@@ -31,6 +34,18 @@
 
 ---
 
+<a name="umka-1-rs40s-2025-04-01"></a>
+**UMKA-1 (RS40S) (2025-04-01) - SSTV Robot36 - Special Event "April Fool's Day" (digital)**
+![2025_04_01_UMKA-1_RS40S_1A.jpg](2025_04_01_UMKA-1_RS40S_1A.jpg)
+
+---
+
+<a name="umka-1-rs40s-2025-03-08"></a>
+**UMKA-1 (RS40S) (2025-03-08) - SSTV Robot36 - Special Event "International Women's Day" (digital)**
+![2025_03_08_UMKA-1_RS40S_8M.jpg](2025_03_08_UMKA-1_RS40S_8M.jpg)
+
+---
+
 <a name="bpm-2025-03-07"></a>
 **BPM (2025-03-07) 15MHz - AM (paper)**  
 ![2025_03_07_BPM.jpg](2025_03_07_BPM.jpg)
@@ -40,6 +55,13 @@
 <a name="umka-1-rs40s-2025-03-01"></a>
 **UMKA-1 (RS40S) (2025-03-01) GMSK USP 9k6 (digital)**  
 ![2025_03_01_UMKA-1_RS40S_TLM.jpg](2025_03_01_UMKA-1_RS40S_TLM.jpg)
+
+---
+
+<a name="umka-1-rs40s-2025-02-28"></a>
+**UMKA-1 (RS40S) (2025-02-28) SSTV Robot36 (digital)**  
+![2025_02_28_UMKA-1_RS40S.jpg](2025_02_28_UMKA-1_RS40S.jpg)
+
 
 ---
 
@@ -57,5 +79,5 @@
 
 <a name="umka-1-rs40s-2024-10-05"></a>
 **UMKA-1 (RS40S) (2024-10-05) SSTV Robot36 (digital)**  
-![2024_10_05_UMKA-1_RS40S_Robot36.jpg](2024_10_05_UMKA-1_RS40S_Robot36.jpg)
+![2024_10_05_UMKA-1_RS40S.jpg](2024_10_05_UMKA-1_RS40S.jpg)
 
