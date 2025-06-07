@@ -20,13 +20,13 @@
 ---
 
 <a name="umka-1-rs40s-2025-04-18"></a>
-**UMKA-1 (RS40S) (2025-04-18) - SSTV Robot36 - Special Event "World Amateur Radio Day" (digital)
+**UMKA-1 (RS40S) (2025-04-18) - SSTV Robot36 - Special Event "World Amateur Radio Day" (digital)**
 ![2025_04_18_UMKA-1_RS40S_WARD.jpg](2025_04_18_UMKA-1_RS40S_WARD.jpg)
 
 ---
 
 <a name="umka-1-rs40s-2025-04-12"></a>
-**UMKA-1 (RS40S) (2025-04-12) - SSTV Robot36 - Special Event "Cosmonautics Day" (digital)
+**UMKA-1 (RS40S) (2025-04-12) - SSTV Robot36 - Special Event "Cosmonautics Day" (digital)**
 ![2025_04_12_UMKA-1_RS40S_CD.jpg](2025_04_12_UMKA-1_RS40S_CD.jpg)
 
 ---
