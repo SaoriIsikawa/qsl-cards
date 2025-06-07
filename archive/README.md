@@ -12,6 +12,8 @@
 - [UMKA-1 (RS40S) (2025-02-28)](#umka-1-rs40s-2025-02-28)
 - [XSG (2025-02-13)](#xsg-2025-02-13)
 - [UMKA-1 (RS40S) (2025-02-01)](#umka-1-rs40s-2025-02-01)
+- [Diwata-2 (PO-101) (2024-12-25)](#po-101-2024-12-25)
+- [Diwata-2 (PO-101) (2024-11-18)](#po-101-2024-11-18)
 - [UMKA-1 (RS40S) (2024-10-05)](#umka-1-rs40s-2024-10-05)
 
 ---
@@ -74,6 +76,18 @@
 <a name="umka-1-rs40s-2025-02-01"></a>
 **UMKA-1 (RS40S) (2025-02-01) - SSTV Robot36 - Special Event "MAYAK" (digital)**  
 ![2025_02_01_UMKA-1_RS40S_M.jpg](2025_02_01_UMKA-1_RS40S_M.jpg)
+
+---
+
+<a name="po-101-2024-12-25"></a>
+**Diwata-2 (PO-101) (2024-12-25) - FM - QSO with BG7QOA (digital)**  
+![2024_12_25_PO-101_BG7QOA.jpg](2024_12_25_PO-101_BG7QOA.jpg)
+
+---
+
+<a name="po-101-2024-11-18"></a>
+**Diwata-2 (PO-101) (2024-11-18) - FM - QSO as SWL (digital)**  
+![2024_11_18_PO-101_SWL.jpg](2024_11_18_PO-101_SWL.jpg)
 
 ---
 
