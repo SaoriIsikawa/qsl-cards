@@ -6,6 +6,8 @@
 - [UMKA-1 (RS40S) (2025-04-18)](#umka-1-rs40s-2025-04-18)
 - [UMKA-1 (RS40S) (2025-04-12)](#umka-1-rs40s-2025-04-12)
 - [UMKA-1 (RS40S) (2025-04-01)](#umka-1-rs40s-2025-04-01)
+- [YOMOGI (JS1YMX) (2025-03-24)](#yomogi-js1ymx-2025-03-24)
+- [YOMOGI (JS1YMX) (2025-03-15)](#yomogi-js1ymx-2025-03-15)
 - [UMKA-1 (RS40S) (2025-03-08)](#umka-1-rs40s-2025-03-08)
 - [BPM (2025-03-07)](#bpm-2025-03-07)
 - [UMKA-1 (RS40S) (2025-03-01)](#umka-1-rs40s-2025-03-01)
@@ -13,6 +15,7 @@
 - [XSG (2025-02-13)](#xsg-2025-02-13)
 - [UMKA-1 (RS40S) (2025-02-01)](#umka-1-rs40s-2025-02-01)
 - [Diwata-2 (PO-101) (2024-12-25)](#diwata-2-po-101-2024-12-25)
+- [YOMOGI (JS1YMX) (2024-12-10)](#yomogi-js1ymx-2024-12-10)
 - [UMKA-1 (RS40S) (2024-10-05)](#umka-1-rs40s-2024-10-05)
 
 ---
@@ -38,6 +41,18 @@
 <a name="umka-1-rs40s-2025-04-01"></a>
 **UMKA-1 (RS40S) (2025-04-01) - SSTV Robot36 - Special Event "April Fool's Day" (digital)**
 ![2025_04_01_UMKA-1_RS40S_1A.jpg](2025_04_01_UMKA-1_RS40S_1A.jpg)
+
+---
+
+<a name="yomogi-js1ymx-2025-03-24"></a>
+**YOMOGI (JS1YMX) (2025-03-24) - CW (digital)**  
+![2025_03_24_YOMOGI_JS1YMX.jpg](2025_03_24_YOMOGI_JS1YMX.jpg)  
+
+---
+
+<a name="yomogi-js1ymx-2025-03-15"></a>
+**YOMOGI (JS1YMX) (2025-03-15) - CW (digital)**  
+![2025_03_15_YOMOGI_JS1YMX.jpg](2025_03_15_YOMOGI_JS1YMX.jpg)  
 
 ---
 
@@ -81,6 +96,12 @@
 <a name="diwata-2-po-101-2024-12-25"></a>
 **Diwata-2 (PO-101) (2024-12-25) - FM - QSO with BG7QOA (digital)**  
 ![2024_12_25_PO-101_BG7QOA.jpg](2024_12_25_PO-101_BG7QOA.jpg)
+
+---
+
+<a name="yomogi-js1ymx-2024-12-10"></a>
+**YOMOGI (JS1YMX) (2024-12-10) - CW (digital)**  
+![2024_12_10_YOMOGI_JS1YMX.jpg](2024_12_10_YOMOGI_JS1YMX.jpg)  
 
 ---
 
