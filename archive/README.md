@@ -16,6 +16,7 @@
 - [UMKA-1 (RS40S) (2025-02-01)](#umka-1-rs40s-2025-02-01)
 - [Diwata-2 (PO-101) (2024-12-25)](#diwata-2-po-101-2024-12-25)
 - [YOMOGI (JS1YMX) (2024-12-10)](#yomogi-js1ymx-2024-12-10)
+- [Diwata-2 (PO-101) (2024-11-18)](#diwata-2-po-101-2024-11-18)
 - [UMKA-1 (RS40S) (2024-10-05)](#umka-1-rs40s-2024-10-05)
 
 ---
@@ -102,6 +103,12 @@
 <a name="yomogi-js1ymx-2024-12-10"></a>
 **YOMOGI (JS1YMX) (2024-12-10) - CW (digital)**  
 ![2024_12_10_YOMOGI_JS1YMX.jpg](2024_12_10_YOMOGI_JS1YMX.jpg)  
+
+---
+
+<a name="diwata-2-po-101-2024-11-18"></a>
+**Diwata-2 (PO-101) (2024-11-18) - FM - QSO as SWL (digital)**  
+![2024_11_18_PO-101_SWL.jpg](2024_11_18_PO-101_SWL.jpg)
 
 ---
 

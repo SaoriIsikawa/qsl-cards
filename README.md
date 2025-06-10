@@ -19,7 +19,7 @@
 15. [NHK WORLD-JAPAN (2025-03-02)](#nhk-world-japan-2025-03-02)
 16. [ReshUCube-2 (RS37S) (2025-01-28)](#reshucube-2-rs37s-2025-01-28)
 17. [HyperView-1G (RS66S) (2025-01-05)](#hyperview-1g-rs66s-2025-01-05)
-18. [Diwata2 (PO-101) (2024-11-18)](#diwata-2-po-101-2024-11-18)
+18. [Diwata2 (PO-101) (2025-05-06)](#diwata-2-po-101-2025-05-06)
 19. [ISS QSL Card from RS0ISS (2024-10-13)](#iss-qsl-card-from-rs0iss-2024-10-13)
 20. [SAKURA (JS1YNI) (2024-10-08)](#sakura-js1yni-2024-10-08)
 21. [ORBICRAFT-ZORKIY (RS15S) (2023-05-09)](#orbicraft-zorkiy-rs15s-2023-05-09)
@@ -130,9 +130,9 @@
 
 ---
 
-<a name="diwata-2-po-101-2024-11-18"></a>
-**Diwata-2 (PO-101) (2024-11-18) - FM - QSO as SWL (digital)**  
-![2024_11_18_PO-101_SWL.jpg](2024_11_18_PO-101_SWL.jpg)  
+<a name="diwata-2-po-101-2025-05-06"></a>
+**Diwata-2 (PO-101) (2025-05-06) - FM - QSO as SWL (digital)**  
+![2025_05_06_PO-101_SWL.jpg](2025_05_06_PO-101_SWL.jpg)  
 
 ---
 
