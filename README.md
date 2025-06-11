@@ -2,6 +2,7 @@
 
 ## QSL 卡片目录（从新到旧排列）
 
+0. [STARS (KUKAI daughter) (JR5YBO) (2025-05-25)](#stars-kukai-daughter-jr5ybo-2025-05-25)
 1. [TechnoSat (DP0TBA) (2025-05-24)](#technosat-dp0tba-2025-05-24)
 2. [ENSO (ROBUSTA-1E) (FX6FRC) (2025-05-22)](#enso-robusta-1e-fx6frc-2025-05-22)
 3. [QUBE (DP2QU) (2025-05-20)](#qube-dp2qu-2025-05-20)
@@ -24,6 +25,12 @@
 20. [SAKURA (JS1YNI) (2024-10-08)](#sakura-js1yni-2024-10-08)
 21. [ORBICRAFT-ZORKIY (RS15S) (2023-05-09)](#orbicraft-zorkiy-rs15s-2023-05-09)
 
+
+---
+
+<a name="stars-kukai-daughter-jr5ybo-2025-05-25"></a>
+**STARS (KUKAI daughter) (JR5YBO) (2025-05-25) - CW (digital)**  
+![2025_05_25_STARS_KUKAI_daughter_JR5YBO.jpg](2025_05_25_STARS_KUKAI_daughter_JR5YBO.jpg)  
 
 ---
 
