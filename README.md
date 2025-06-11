@@ -138,7 +138,7 @@
 ---
 
 <a name="diwata-2-po-101-2025-05-06"></a>
-**Diwata-2 (PO-101) (2025-05-06) - FM - QSO as SWL (digital) [Time (UTC): 6:05:00 PM(!)]**  
+**Diwata-2 (PO-101) (2025-05-06) - FM - QSO as SWL (digital) [Time (UTC)(!): 6:05:00 PM]**  
 ![2025_05_06_PO-101_SWL.jpg](2025_05_06_PO-101_SWL.jpg)  
 
 ---
