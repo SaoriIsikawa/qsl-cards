@@ -29,7 +29,7 @@
 
 <a name="stars-kukai-daughter-jr5ybo-2025-05-25"></a>
 **STARS (KUKAI daughter) (JR5YBO) (2025-05-25) - CW (digital)**  
-![2025_05_25_STARS_KUKAI_daughter_JR5YBO.jpg](2025_05_25_STARS_KUKAI_daughter_JR5YBO.jpg)  
+![2025_05_25_STARS_KUKAI_daughter.jpg](2025_05_25_STARS_KUKAI_daughter.jpg)  
 
 ---
 
