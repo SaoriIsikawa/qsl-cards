@@ -29,7 +29,7 @@
 ---
 
 <a name="texas-radio-shortwave-2025-06-06"></a>
-**Texas Radio Shortwave (2025-06-06) - AM (digital)**  
+**Texas Radio Shortwave (2025-06-06) - AM - Program: Music of Kris Kristofferson (digital)**  
 ![2025_06_06_TRSW_Kris_Kristofferson.jpg](2025_06_06_TRSW_Kris_Kristofferson.jpg)  
 
 ---
