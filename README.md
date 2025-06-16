@@ -17,8 +17,8 @@
 13. [LASARsat (OK0LSR) (2025-04-08)](#lasarsat-ok0lsr-2025-04-08)
 14. [ArcticSat-1 (RS74S) (2025-04-01)](#arcticsat-1-rs74s-2025-04-01)
 15. [YOMOGI (JS1YMX) (2025-03-25)](#yomogi-js1ymx-2025-03-25)
-16. [NHK WORLD-JAPAN (2025-03-11)](#nhk-world-japan-2025-03-11)
-17. [NHK WORLD-JAPAN (2025-03-02)](#nhk-world-japan-2025-03-02)
+16. [NHK World-Japan (2025-03-11)](#nhk-world-japan-2025-03-11)
+17. [NHK World-Japan (2025-03-02)](#nhk-world-japan-2025-03-02)
 18. [ReshUCube-2 (RS37S) (2025-01-28)](#reshucube-2-rs37s-2025-01-28)
 19. [HyperView-1G (RS66S) (2025-01-05)](#hyperview-1g-rs66s-2025-01-05)
 20. [Diwata2 (PO-101) (2025-05-06)](#diwata-2-po-101-2025-05-06)
@@ -120,13 +120,13 @@
 ---
 
 <a name="nhk-world-japan-2025-03-11"></a>
-**NHK WORLD-JAPAN (2025-03-11) - AM (paper)**  
+**NHK World-Japan (2025-03-11) - AM (paper)**  
 ![2025_03_11_NHK_WORLD-JAPAN_SWL.jpg](2025_03_11_NHK_WORLD-JAPAN_SWL.jpg)  
 
 ---
 
 <a name="nhk-world-japan-2025-03-02"></a>
-**NHK WORLD-JAPAN (2025-03-02) - AM (paper)**  
+**NHK World-Japan (2025-03-02) - AM (paper)**  
 ![2025_03_02_NHK_WORLD-JAPAN_SWL.jpg](2025_03_02_NHK_WORLD-JAPAN_SWL.jpg)  
 
 ---
