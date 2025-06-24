@@ -30,7 +30,7 @@
 ---
 
 <a name="tigrisat-hnatig-2025-05-23"></a>
-**TIGRISAT (HNATIG) (2025-06-24) - FSK 9k6 -  (digital)**  
+**TIGRISAT (HNATIG) (2025-05-23) - FSK 9k6 -  (digital)**  
 ![2025-05-23_TIGRISAT_HNATIG.jpg](2025-05-23_TIGRISAT_HNATIG.jpg)  
 
 ---
