@@ -2,6 +2,7 @@
 
 ## QSL 卡目录（从新到旧排列）
 
+0. [TIGRISAT (HNATIG) (2025-06-24)](#tigrisat-hnatig-2025-05-23)
 1. [Texas Radio Shortwave (2025-06-06)](#texas-radio-shortwave-2025-06-06)
 2. [STARS (KUKAI daughter) (JR5YBO) (2025-05-25)](#stars-kukai-daughter-jr5ybo-2025-05-25)
 3. [TechnoSat (DP0TBA) (2025-05-24)](#technosat-dp0tba-2025-05-24)
@@ -25,6 +26,12 @@
 21. [ISS QSL Card from RS0ISS (2024-10-13)](#iss-qsl-card-from-rs0iss-2024-10-13)
 22. [SAKURA (JS1YNI) (2024-10-08)](#sakura-js1yni-2024-10-08)
 23. [ORBICRAFT-ZORKIY (RS15S) (2023-05-09)](#orbicraft-zorkiy-rs15s-2023-05-09)
+
+---
+
+<a name="tigrisat-hnatig-2025-05-23"></a>
+**TIGRISAT (HNATIG) (2025-06-24) - FSK 9k6 -  (digital)**  
+![2025-05-23_TIGRISAT_HNATIG.jpg](2025-05-23_TIGRISAT_HNATIG.jpg)  
 
 ---
 
