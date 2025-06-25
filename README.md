@@ -68,7 +68,7 @@
 
 <a name="pearl-1c-pearlc-2025-05-13"></a>
 **珍珠號-1C PEARL-1C (PEARLC) (2025-05-13) - GMSK 9k6(!) (paper) [MHz: 435.310 (!)]**  
-![2025_05_13_PEARL-1C_PEARLC.jpg](2025_05_13_PEARL-1C.jpg)  
+![2025_05_13_PEARL-1C_PEARLC.jpg](2025_05_13_PEARL-1C_PEARLC.jpg)  
 
 ---
 
