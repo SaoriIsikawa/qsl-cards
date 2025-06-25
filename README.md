@@ -8,7 +8,7 @@
 3. [TIGRISAT (HNATIG) (2025-05-23)](#tigrisat-hnatig-2025-05-23)
 4. [ENSO (ROBUSTA-1E) (FX6FRC) (2025-05-22)](#enso-robusta-1e-fx6frc-2025-05-22)
 5. [QUBE (DP2QU) (2025-05-20)](#qube-dp2qu-2025-05-20)
-6. [PEARL-1C (2025-05-13)](#pearl-1c-2025-05-13)
+6. [PEARL-1C (PEARLC) (2025-05-13)](#pearl-1c-pearlc-2025-05-13)
 7. [OTP-2 (2025-05-13)](#otp-2-2025-05-13)
 8. [ROBUSTA-3A (FX6FRD) (2025-05-13)](#robusta-3a-fx6frd-2025-05-13)
 9. [SamSat-Ionosphere (RS75S) (2025-05-11)](#samsat-ionosphere-rs75s-2025-05-11)
@@ -66,9 +66,9 @@
 
 ---
 
-<a name="pearl-1c-2025-05-13"></a>
-**珍珠號-1C PEARL-1C (2025-05-13) - GMSK 9k6(!) (paper) [MHz: 435.310 (!)]**  
-![2025_05_13_PEARL-1C.jpg](2025_05_13_PEARL-1C.jpg)  
+<a name="pearl-1c-pearlc-2025-05-13"></a>
+**珍珠號-1C PEARL-1C (PEARLC) (2025-05-13) - GMSK 9k6(!) (paper) [MHz: 435.310 (!)]**  
+![2025_05_13_PEARL-1C_PEARLC.jpg](2025_05_13_PEARL-1C.jpg)  
 
 ---
 
