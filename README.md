@@ -2,6 +2,7 @@
 
 ## QSL 卡目录（从新到旧排列）
 
+-1. [Texas Radio Shortwave (2025-07-04)](#texas-radio-shortwave-2025-07-04)
 0. [Texas Radio Shortwave (2025-06-06)](#texas-radio-shortwave-2025-06-06)
 1. [STARS (KUKAI daughter) (JR5YBO) (2025-05-25)](#stars-kukai-daughter-jr5ybo-2025-05-25)
 2. [TechnoSat (DP0TBA) (2025-05-24)](#technosat-dp0tba-2025-05-24)
@@ -29,6 +30,11 @@
 
 ---
 
+<a name="texas-radio-shortwave-2025-07-04"></a>
+**Texas Radio Shortwave (2025-07-04) - AM - Program: Music of Albert Collins (digital)**  
+![2025_07_04_TRSW_Albert_Collins.jpg](2025_07_04_TRSW_Albert_Collins.jpg)  
+
+---
 
 <a name="texas-radio-shortwave-2025-06-06"></a>
 **Texas Radio Shortwave (2025-06-06) - AM - Program: Music of Kris Kristofferson (digital)**  
