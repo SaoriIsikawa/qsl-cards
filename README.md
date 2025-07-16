@@ -1,6 +1,6 @@
 # 业余无线电电台 BG7XTQ 拿到的 QSL 卡
 
-## QSL 卡目录（从新到旧排列）
+## QSL 卡目录
 
 1. [Texas Radio Shortwave (2025-07-04)](#texas-radio-shortwave-2025-07-04)
 2. [Texas Radio Shortwave (2025-06-06)](#texas-radio-shortwave-2025-06-06)
@@ -27,7 +27,7 @@
 23. [ISS QSL Card from RS0ISS (2024-10-13)](#iss-qsl-card-from-rs0iss-2024-10-13)
 24. [SAKURA (JS1YNI) (2024-10-08)](#sakura-js1yni-2024-10-08)
 25. [ORBICRAFT-ZORKIY (RS15S) (2023-05-09)](#orbicraft-zorkiy-rs15s-2023-05-09)
-
+26. [2025-07-15 Expedition 73 - ARISS Series 28 - Apollo Soyuz and STS-51F](#expedition-73-ariss-series-28-apollo-soyuz-and-sts-51f-2025-07-15)
 
 ---
 
@@ -179,3 +179,10 @@
 <a name="orbicraft-zorkiy-rs15s-2023-05-09"></a>
 **ORBICRAFT-ZORKIY (RS15S) (2023-05-09) - SSTV Robot72 (digital)**  
 ![2023_05_09_ORBICRAFT-ZORKIY_RS15S.jpg](2023_05_09_ORBICRAFT-ZORKIY_RS15S.jpg)  
+
+
+## Awards and diplomas confirming image receptions (mostly in SSTV)
+
+<a name="expedition-73-ariss-series-28-apollo-soyuz-and-sts-51f-2025-07-15"></a>
+**2025-07-15 Expedition 73 - ARISS Series 28 - Apollo Soyuz and STS-51F**  
+![ariss_sstv_award_2025-07-15.jpg](ariss_sstv_award_2025-07-15.jpg)
