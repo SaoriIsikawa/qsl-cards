@@ -186,7 +186,7 @@
 ## Awards and diplomas confirming image receptions (mostly in SSTV)
 
 <a name="remeasat-ariss-sstv-2025-07-17"></a>
-**2025-07-17 REMEASAT ARISS SSTV - July 14-20, 2025.(!)Typo:Russia**  
+**2025-07-17 REMEASAT ARISS SSTV - July 14-20, 2025.(!)Typo: Russia**  
 ![remeasat_sstv_award_2025_07_17.jpg](remeasat_sstv_award_2025_07_17.jpg)
 
 <a name="expedition-73-ariss-series-28-apollo-soyuz-and-sts-51f-2025-07-15"></a>
