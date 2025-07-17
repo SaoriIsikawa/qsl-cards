@@ -1,6 +1,6 @@
-# 业余无线电电台 BG7XTQ 拿到的 QSL 卡
+# 业余无线电电台 BG7XTQ 拿到的 QSL 卡片/证书
 
-## QSL 卡目录
+## QSL 卡片/证书目录
 
 - [Texas Radio Shortwave (2025-07-04)](#texas-radio-shortwave-2025-07-04)
 - [Texas Radio Shortwave (2025-06-06)](#texas-radio-shortwave-2025-06-06)
