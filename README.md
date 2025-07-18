@@ -183,7 +183,7 @@
 ![2023_05_09_ORBICRAFT-ZORKIY_RS15S.jpg](2023_05_09_ORBICRAFT-ZORKIY_RS15S.jpg)  
 
 
-## Awards and diplomas confirming image receptions (mostly in SSTV)
+## 确认图像接收的奖状和证书（主要为 SSTV 模式图像）
 
 <a name="remeasat-ariss-sstv-2025-07-17"></a>
 **2025-07-17 REMEASAT ARISS SSTV - July 14-20, 2025.(!)Typo: Russia**  
