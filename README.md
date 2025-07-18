@@ -2,6 +2,7 @@
 
 ## QSL 卡片/证书目录
 
+- [Nightjar (XX0UHF) (2025-07-17)](#nightjar-xx0uhf-2025-07-17)
 - [Texas Radio Shortwave (2025-07-04)](#texas-radio-shortwave-2025-07-04)
 - [Texas Radio Shortwave (2025-06-06)](#texas-radio-shortwave-2025-06-06)
 - [STARS (KUKAI daughter) (JR5YBO) (2025-05-25)](#stars-kukai-daughter-jr5ybo-2025-05-25)
@@ -31,6 +32,11 @@
 - [2025-07-17 REMEASAT ARISS SSTV - July 14-20, 2025.](#remeasat-ariss-sstv-2025-07-17)
 - [2025-07-15 Expedition 73 - ARISS Series 28 - Apollo Soyuz and STS-51F](#expedition-73-ariss-series-28-apollo-soyuz-and-sts-51f-2025-07-15)
 
+---
+
+<a name="nightjar-xx0uhf-2025-07-17"></a>
+**Nightjar (XX0UHF) (2025-07-17) - GFSK 4k8 (digital)**
+![2025_07_17_Nightjar_XX0UHF.jpg](2025_07_17_Nightjar_XX0UHF.jpg)
 
 ---
 
