@@ -31,7 +31,7 @@
 - [ORBICRAFT-ZORKIY (RS15S) (2023-05-09)](#orbicraft-zorkiy-rs15s-2023-05-09)
 - [2025-07-17 REMEASAT ARISS SSTV - July 14-20, 2025.](#remeasat-ariss-sstv-2025-07-17)
 - [2025-07-15 Expedition 73 - ARISS Series 28 - Apollo Soyuz and STS-51F](#expedition-73-ariss-series-28-apollo-soyuz-and-sts-51f-2025-07-15)
-
+- [2024-12-04 SSTV diploma - 85th anniversary of the Palace of Pioneers](#sstv-diploma-85th-anniversary-of-the-palace-of-pioneers-2024-12-04)
 
 
 ---
@@ -204,6 +204,14 @@
 **2025-07-17 REMEASAT ARISS SSTV - July 14-20, 2025.(!)Typo: Russia**  
 ![remeasat_sstv_award_2025_07_17.jpg](remeasat_sstv_award_2025-07-17.jpg)
 
+---
+
 <a name="expedition-73-ariss-series-28-apollo-soyuz-and-sts-51f-2025-07-15"></a>
 **2025-07-15 Expedition 73 - ARISS Series 28 - Apollo Soyuz and STS-51F**  
 ![ariss_sstv_award_2025-07-15.jpg](ariss_sstv_award_2025-07-15.jpg)
+
+---
+
+<a name="sstv-diploma-85th-anniversary-of-the-palace-of-pioneers-2024-12-04"></a>
+**SSTV diploma - 85th anniversary of the Palace of Pioneers (2024-12-04) [via RS40S]**  
+![rs40s_sstv.jpg](rs40s_sstv.jpg)
