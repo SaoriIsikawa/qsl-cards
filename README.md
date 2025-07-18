@@ -22,6 +22,7 @@
 - [YOMOGI (JS1YMX) (2025-03-25)](#yomogi-js1ymx-2025-03-25)
 - [NHK World-Japan (2025-03-11)](#nhk-world-japan-2025-03-11)
 - [NHK World-Japan (2025-03-02)](#nhk-world-japan-2025-03-02)
+- [UMKA-1 (RS40S) (2025-03-01)](#umka-1-rs40s-2025-03-01)
 - [ReshUCube-2 (RS37S) (2025-01-28)](#reshucube-2-rs37s-2025-01-28)
 - [HyperView-1G (RS66S) (2025-01-05)](#hyperview-1g-rs66s-2025-01-05)
 - [ISS QSL Card from RS0ISS (2024-10-13)](#iss-qsl-card-from-rs0iss-2024-10-13)
@@ -145,6 +146,12 @@
 <a name="nhk-world-japan-2025-03-02"></a>
 **NHK World-Japan (2025-03-02) - AM (paper)**  
 ![2025_03_02_NHK_WORLD-JAPAN_SWL.jpg](2025_03_02_NHK_WORLD-JAPAN_SWL.jpg)  
+
+---
+
+<a name="umka-1-rs40s-2025-03-01"></a>
+**UMKA-1 (RS40S) (2025-03-01) GMSK USP 9k6 (digital)**  
+![2025_03_01_UMKA-1_RS40S_TLM.jpg](2025_03_01_UMKA-1_RS40S_TLM.jpg)
 
 ---
 
