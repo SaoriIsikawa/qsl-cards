@@ -207,7 +207,7 @@
 ---
 
 <a name="expedition-73-ariss-series-28-apollo-soyuz-and-sts-51f-2025-07-15"></a>
-**2025-07-15 Expedition 73 - ARISS Series 28 - Apollo Soyuz and STS-51F**  
+**2025-07-15 Expedition 73 - ARISS Series 28 - Apollo Soyuz and STS-51F - ARISS SSTV Award**  
 ![ariss_sstv_award_2025-07-15.jpg](ariss_sstv_award_2025-07-15.jpg)
 
 <a name="russia-iss-sstv-award-2025-07-15"></a>
