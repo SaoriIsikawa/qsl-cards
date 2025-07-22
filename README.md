@@ -32,7 +32,7 @@
 
 ## 证书目录
 
-- [2025-07-17 REMEASAT ARISS SSTV - July 14-20, 2025.](#remeasat-ariss-sstv-2025-07-17)
+- [2025-07-17 REMEASAT ARISS SSTV Award](#remeasat-ariss-sstv-2025-07-17)
 - [2025-07-15 Expedition 73 - ARISS Series 28 - Apollo Soyuz and STS-51F - ARISS SSTV Award](#expedition-73-ariss-series-28-apollo-soyuz-and-sts-51f-2025-07-15)
 - [2025-07-15 Russia ISS SSTV Award](#russia-iss-sstv-award-2025-07-15)
 - [2024-12-04 SSTV diploma - 85th anniversary of the Palace of Pioneers](#sstv-diploma-85th-anniversary-of-the-palace-of-pioneers-2024-12-04)
@@ -204,7 +204,7 @@
 ## 确认图像接收的奖状和证书（主要为 SSTV 模式图像）
 
 <a name="remeasat-ariss-sstv-2025-07-17"></a>
-**2025-07-17 REMEASAT ARISS SSTV - July 14-20, 2025.(!)Typo: Russia**  
+**2025-07-17 REMEASAT ARISS SSTV Award(!)Typo: Russia**  
 ![remeasat_sstv_award_2025_07_17.jpg](remeasat_sstv_award_2025-07-17.jpg)
 
 ---
