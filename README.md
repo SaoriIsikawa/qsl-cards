@@ -1,6 +1,6 @@
-# 业余无线电电台 BG7XTQ 拿到的 QSL 卡片/证书
+# 业余无线电电台 BG7XTQ 拿到的 QSL 卡/证书
 
-## QSL 卡片/证书目录
+## QSL 卡目录
 
 - [Nightjar (XX0UHF) (2025-07-17)](#nightjar-xx0uhf-2025-07-17)
 - [Texas Radio Shortwave (2025-07-04)](#texas-radio-shortwave-2025-07-04)
@@ -29,6 +29,9 @@
 - [ISS QSL Card from RS0ISS (2024-10-13)](#iss-qsl-card-from-rs0iss-2024-10-13)
 - [SAKURA (JS1YNI) (2024-10-08)](#sakura-js1yni-2024-10-08)
 - [ORBICRAFT-ZORKIY (RS15S) (2023-05-09)](#orbicraft-zorkiy-rs15s-2023-05-09)
+
+## 证书目录
+
 - [2025-07-17 REMEASAT ARISS SSTV - July 14-20, 2025.](#remeasat-ariss-sstv-2025-07-17)
 - [2025-07-15 Expedition 73 - ARISS Series 28 - Apollo Soyuz and STS-51F - ARISS SSTV Award](#expedition-73-ariss-series-28-apollo-soyuz-and-sts-51f-2025-07-15)
 - [2025-07-15 Russia ISS SSTV Award](#russia-iss-sstv-award-2025-07-15)
