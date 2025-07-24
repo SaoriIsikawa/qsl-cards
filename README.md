@@ -32,10 +32,10 @@
 
 ## 证书目录
 
-- [2025-07-15 Expedition 73 - ARISS Series 28 - Apollo Soyuz and STS-51F - ARISS SSTV Award](#expedition-73-ariss-series-28-apollo-soyuz-and-sts-51f-2025-07-15)
-- [2025-07-15 Russia ISS SSTV award](#russia-iss-sstv-award-2025-07-15)
-- [2025-07-15 FRC ISSTV-SSP diploma](#frc-isstv-ssp-diploma-2025-07-15)
-- [2025-07-15 REMEASAT ARISS SSTV Award](#remeasat-ariss-sstv-2025-07-15)
+- [2025-07-14~20 Expedition 73 - ARISS Series 28 - Apollo Soyuz and STS-51F - ARISS SSTV Award](#expedition-73-ariss-series-28-apollo-soyuz-and-sts-51f-2025-07-15)
+- [2025-07-14~20 Russia ISS SSTV Diploma](#russia-iss-sstv-diploma-2025-07-15)
+- [2025-07-14~20 FRC ISSTV-SSP Diploma](#frc-isstv-ssp-diploma-2025-07-15)
+- [2025-07-14~20 REMEASAT ARISS SSTV Award](#remeasat-ariss-sstv-award-2025-07-15)
 - [2024-12-04 SSTV diploma - 85th anniversary of the Palace of Pioneers](#sstv-diploma-85th-anniversary-of-the-palace-of-pioneers-2024-12-04)
 
 ---
@@ -209,14 +209,14 @@
 ![ariss_sstv_award_2025-07-15.jpg](ariss_sstv_award_2025-07-15.jpg)
 
 <a name="russia-iss-sstv-award-2025-07-15"></a>
-**and Russia ISS SSTV award**
+**and Russia ISS SSTV Diploma**
 ![russia_iss_sstv_award_2025-07-15.jpg](russia_iss_sstv_award_2025-07-15.jpg)
 
 <a name="frc-isstv-ssp-diploma-2025-07-15"></a>
 **and FRC ISSTV-SSP diploma**
 ![frc_isstv_ssp_diploma_2025-07-15.jpg](frc_isstv_ssp_diploma_2025-07-15.jpg)
 
-<a name="remeasat-ariss-sstv-2025-07-15"></a>
+<a name="remeasat-ariss-sstv-award-2025-07-15"></a>
 **and REMEASAT ARISS SSTV Award(!)Typo: Russia**  
 ![remeasat_sstv_award_2025_07_15.jpg](remeasat_sstv_award_2025-07-15.jpg)
 
