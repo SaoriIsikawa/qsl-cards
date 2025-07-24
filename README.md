@@ -205,19 +205,19 @@
 ## 确认图像接收的奖状和证书（主要为 SSTV 模式图像）
 
 <a name="expedition-73-ariss-series-28-apollo-soyuz-and-sts-51f-2025-07-15"></a>
-**2025-07-15 Expedition 73 - ARISS Series 28 - Apollo Soyuz and STS-51F - ARISS SSTV Award**  
+**2025-07-14~20 Expedition 73 - ARISS Series 28 - Apollo Soyuz and STS-51F - ARISS SSTV Award**  
 ![ariss_sstv_award_2025-07-15.jpg](ariss_sstv_award_2025-07-15.jpg)
 
 <a name="russia-iss-sstv-award-2025-07-15"></a>
-**and Russia ISS SSTV Diploma**
+**2025-07-14~20 Russia ISS SSTV Diploma**
 ![russia_iss_sstv_award_2025-07-15.jpg](russia_iss_sstv_award_2025-07-15.jpg)
 
 <a name="frc-isstv-ssp-diploma-2025-07-15"></a>
-**and FRC ISSTV-SSP diploma**
+**2025-07-14~20 FRC ISSTV-SSP diploma**
 ![frc_isstv_ssp_diploma_2025-07-15.jpg](frc_isstv_ssp_diploma_2025-07-15.jpg)
 
 <a name="remeasat-ariss-sstv-award-2025-07-15"></a>
-**and REMEASAT ARISS SSTV Award(!)Typo: Russia**  
+**2025-07-14~20 REMEASAT ARISS SSTV Award(!)Typo: Russia**  
 ![remeasat_sstv_award_2025_07_15.jpg](remeasat_sstv_award_2025-07-15.jpg)
 
 ---
