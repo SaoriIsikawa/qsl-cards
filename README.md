@@ -35,7 +35,7 @@
 - [2025-07-15 Expedition 73 - ARISS Series 28 - Apollo Soyuz and STS-51F - ARISS SSTV Award](#expedition-73-ariss-series-28-apollo-soyuz-and-sts-51f-2025-07-15)
 - [2025-07-15 Russia ISS SSTV award](#russia-iss-sstv-award-2025-07-15)
 - [2025-07-15 FRC ISSTV-SSP diploma](#frc-isstv-ssp-diploma-2025-07-15)
-- [2025-07-17 REMEASAT ARISS SSTV Award](#remeasat-ariss-sstv-2025-07-15)
+- [2025-07-15 REMEASAT ARISS SSTV Award](#remeasat-ariss-sstv-2025-07-15)
 - [2024-12-04 SSTV diploma - 85th anniversary of the Palace of Pioneers](#sstv-diploma-85th-anniversary-of-the-palace-of-pioneers-2024-12-04)
 
 ---
