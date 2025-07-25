@@ -4,6 +4,7 @@
 
 - [Nightjar (XX0UHF) (2025-07-17)](#nightjar-xx0uhf-2025-07-17)
 - [Texas Radio Shortwave (2025-07-04)](#texas-radio-shortwave-2025-07-04)
+- [SAQ (2025-07-02)](#saq-2025-07-02)
 - [Texas Radio Shortwave (2025-06-06)](#texas-radio-shortwave-2025-06-06)
 - [STARS (KUKAI daughter) (JR5YBO) (2025-05-25)](#stars-kukai-daughter-jr5ybo-2025-05-25)
 - [TechnoSat (DP0TBA) (2025-05-24)](#technosat-dp0tba-2025-05-24)
@@ -49,6 +50,12 @@
 <a name="texas-radio-shortwave-2025-07-04"></a>
 **Texas Radio Shortwave (2025-07-04) - AM - Program: Music of Albert Collins (digital)**  
 ![2025_07_04_TRSW_Albert_Collins.jpg](2025_07_04_TRSW_Albert_Collins.jpg)  
+
+---
+
+<a name="saq-2025-07-02"></a>
+**SAQ 100 Year Anniversary Transmissions (2025-07-02) - CW (digital)**
+![2025_07_02_SAQ.jpg](2025_07_02_SAQ.jpg)
 
 ---
 
