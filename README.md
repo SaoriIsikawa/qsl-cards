@@ -2,6 +2,7 @@
 
 ## QSL 卡目录
 
+- [Horizon (RS59S) (2025-08-10)](#horizon-rs59s-2025-08-10)
 - [Texas Radio Shortwave (2025-08-03)](#texas-radio-shortwave-2025-08-03)
 - [Nightjar (XX0UHF) (2025-07-17)](#nightjar-xx0uhf-2025-07-17)
 - [Texas Radio Shortwave (2025-07-04)](#texas-radio-shortwave-2025-07-04)
@@ -41,6 +42,12 @@
 - [2025-07-14~20 FRC ISSTV-SSP Diploma](#frc-isstv-ssp-diploma-2025-07-15)
 - [2025-07-14~20 REMEASAT ARISS SSTV Award](#remeasat-ariss-sstv-award-2025-07-15)
 - [2024-12-04 SSTV diploma - 85th anniversary of the Palace of Pioneers](#sstv-diploma-85th-anniversary-of-the-palace-of-pioneers-2024-12-04)
+
+---
+
+<a name="horizon-rs59s-2025-08-10"></a>
+**Horizon (RS59S) (2025-08-10) - GMSK 9k6 (digital)**
+![2025_08_10_Horizon_RS59S.jpg](2025_08_10_Horizon_RS59S.jpg)
 
 ---
 
