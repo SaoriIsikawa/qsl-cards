@@ -46,7 +46,7 @@
 ---
 
 <a name="horizon-rs59s-2025-08-10"></a>
-**Horizon (RS59S) (2025-08-10) - GMSK 9k6 (digital)**
+**Horizon (RS59S) (2025-08-10) - GMSK 9k6 - Digital Images (digital)**
 ![2025_08_10_Horizon_RS59S.jpg](2025_08_10_Horizon_RS59S.jpg)
 
 ---
