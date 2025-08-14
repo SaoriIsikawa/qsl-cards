@@ -34,7 +34,8 @@
 
 ## 证书目录
 
-- [2025-08-09~10 FRC Buenaventura SSTV Diploma](#frc-buenaventura-sstv-diploma)
+- [2025-08-11 FRC Buenaventura SSTV Diploma ARCTICSAT-1](#frc-buenaventura-sstv-diploma-arcticsat-1)
+- [2025-08-09~10 FRC Buenaventura SSTV Diploma UMKA-1](#frc-buenaventura-sstv-diploma-umka-1)
 - [2025-07-14~20 Expedition 73 - ARISS Series 28 - Apollo Soyuz and STS-51F - ARISS SSTV Award](#expedition-73-ariss-series-28-apollo-soyuz-and-sts-51f-2025-07-15)
 - [2025-07-14~20 Russia ISS SSTV Diploma](#russia-iss-sstv-diploma-2025-07-15)
 - [2025-07-14~20 FRC ISSTV-SSP Diploma](#frc-isstv-ssp-diploma-2025-07-15)
@@ -219,9 +220,15 @@
 
 ## 确认图像接收的奖状和证书（主要为 SSTV 模式图像）
 
-<a name="frc-buenaventura-sstv-diploma"></a>
-**2025-08-09~10 FRC Buenaventura SSTV Diploma**
-![buenaventura_sstv_diploma.jpg](buenaventura_sstv_diploma.jpg)
+<a name="frc-buenaventura-sstv-diploma-arcticsat-1"></a>
+**2025-08-11 FRC Buenaventura SSTV Diploma ARCTICSAT-1**
+![buenaventura_sstv_diploma_arcticsat-1.jpg](buenaventura_sstv_diploma_arcticsat-1.jpg)
+
+---
+
+<a name="frc-buenaventura-sstv-diploma-umka-1"></a>
+**2025-08-09~10 FRC Buenaventura SSTV Diploma UMKA-1**
+![buenaventura_sstv_diploma_umka-1.jpg](buenaventura_sstv_diploma_umka-1.jpg)
 
 ---
 
