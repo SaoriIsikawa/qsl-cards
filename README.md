@@ -2,6 +2,7 @@
 
 ## QSL 卡目录
 
+- [NUSHSat-1 (2025-05-13)](#nushsat-1-2025-05-13)
 - [Horizon (RS59S) (2025-08-10)](#horizon-rs59s-2025-08-10)
 - [Texas Radio Shortwave (2025-08-03)](#texas-radio-shortwave-2025-08-03)
 - [Nightjar (XX0UHF) (2025-07-17)](#nightjar-xx0uhf-2025-07-17)
@@ -42,6 +43,12 @@
 - [2025-07-14~20 FRC ISSTV-SSP Diploma](#frc-isstv-ssp-diploma-2025-07-15)
 - [2025-07-14~20 REMEASAT ARISS SSTV Award](#remeasat-ariss-sstv-award-2025-07-15)
 - [2024-12-04 SSTV diploma - 85th anniversary of the Palace of Pioneers](#sstv-diploma-85th-anniversary-of-the-palace-of-pioneers-2024-12-04)
+
+---
+
+<a name="nushsat-1-2025-05-13"></a>
+**NUSHSat-1 (2025-05-13) - FSK 1k2 - Beacon (digital)**
+![2025_05_13_NUSHSat-1.jpg](2025_05_13_NUSHSat-1.jpg)
 
 ---
 
