@@ -2,6 +2,7 @@
 
 ## QSL 卡目录
 
+- [RTI’s German service (2025-07-26)](#rti-s-german-service-2025-07-26)
 - [NUSHSat-1 (2025-05-13)](#nushsat-1-2025-05-13)
 - [Horizon (RS59S) (2025-08-10)](#horizon-rs59s-2025-08-10)
 - [Texas Radio Shortwave (2025-08-03)](#texas-radio-shortwave-2025-08-03)
@@ -43,6 +44,12 @@
 - [2025-07-14~20 FRC ISSTV-SSP Diploma](#frc-isstv-ssp-diploma-2025-07-15)
 - [2025-07-14~20 REMEASAT ARISS SSTV Award](#remeasat-ariss-sstv-award-2025-07-15)
 - [2024-12-04 SSTV diploma - 85th anniversary of the Palace of Pioneers](#sstv-diploma-85th-anniversary-of-the-palace-of-pioneers-2024-12-04)
+
+---
+
+<a name="rti-s-german-service-2025-07-26"></a>
+**RTI’s German service (2025-07-26) - AM (paper)**
+![2025_07_26_RTI_German_Tamsui.jpg](2025_07_26_RTI_German_Tamsui.jpg)
 
 ---
 
