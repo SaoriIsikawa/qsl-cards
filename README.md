@@ -1,4 +1,4 @@
-# 业余无线电电台 BG7XTQ 拿到的 QSL 卡/证书
+# 业余无线电台 BG7XTQ （前JJ1DSB） 收到的 QSL 卡和证书
 
 ## QSL 卡目录
 
