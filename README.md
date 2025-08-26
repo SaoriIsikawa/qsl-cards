@@ -51,36 +51,30 @@
 <a name="utmn-2-rs27s-2025-06-04"></a>
 **UTMN-2 (RS27S) (2025-06-04) - GMSK USP 9k6 (digital)**
 ![2025_06_04_UTMN-2_RS27S.jpg](2025_06_04_UTMN-2_RS27S.jpg)
-
 ---
 
 **RTI’s German service (2025-07-26) - AM (paper)**
 ![2025_07_26_RTI_German_Tamsui.jpg](2025_07_26_RTI_German_Tamsui.jpg)
-
 ---
 
 <a name="nushsat-1-2025-05-13"></a>
 **NUSHSat-1 (2025-05-13) - FSK 1k2 - Beacon (digital)**
 ![2025_05_13_NUSHSat-1.jpg](2025_05_13_NUSHSat-1.jpg)
-
 ---
 
 <a name="horizon-rs59s-2025-08-10"></a>
 **Horizon (RS59S) (2025-08-10) - GMSK 9k6 - Image Data (digital)**
 ![2025_08_10_Horizon_RS59S.jpg](2025_08_10_Horizon_RS59S.jpg)
-
 ---
 
 <a name="texas-radio-shortwave-2025-08-03"></a>
 **Texas Radio Shortwave (2025-08-03) - AM - Program: Music of Bobby Fuller Four (digital)**  
 ![2025_08_03_TRSW_Bobby_Fuller_Four.jpg](2025_08_03_TRSW_Bobby_Fuller_Four.jpg)  
-
 ---
 
 <a name="nightjar-xx0uhf-2025-07-17"></a>
 **夜鷹號 Nightjar (XX0UHF) (2025-07-17) - GFSK 4k8 (digital)**
 ![2025_07_17_Nightjar_XX0UHF.jpg](2025_07_17_Nightjar_XX0UHF.jpg)
-
 ---
 
 <a name="texas-radio-shortwave-2025-07-04"></a>
