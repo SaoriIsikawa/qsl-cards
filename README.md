@@ -2,6 +2,7 @@
 
 ## QSL 卡目录
 
+- [UTMN-2 (RS27S) (2025-06-04)](#utmn-2-rs27s-2025-06-04)
 - [RTI’s German service (2025-07-26)](#rti-s-german-service-2025-07-26)
 - [NUSHSat-1 (2025-05-13)](#nushsat-1-2025-05-13)
 - [Horizon (RS59S) (2025-08-10)](#horizon-rs59s-2025-08-10)
@@ -47,10 +48,14 @@
 
 ---
 
-<a name="rti-s-german-service-2025-07-26"></a>
+<a name="utmn-2-rs27s-2025-06-04"></a>
+**UTMN-2 (RS27S) (2025-06-04) - GMSK USP 9k6 (digital)**
+![2025_06_04_UTMN-2_RS27S.jpg](2025_06_04_UTMN-2_RS27S.jpg)
+
+---
+
 **RTI’s German service (2025-07-26) - AM (paper)**
 ![2025_07_26_RTI_German_Tamsui.jpg](2025_07_26_RTI_German_Tamsui.jpg)
-
 ---
 
 <a name="nushsat-1-2025-05-13"></a>
