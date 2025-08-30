@@ -98,7 +98,7 @@
 ---
 
 <a name="technosat-dp0tba-2025-05-24"></a>
-**TechnoSat (DP0TBA) (2025-05-24) - CW (digital)**  
+**TechnoSat (DP0TBA) (2025-05-24) - CW via NFM (digital)**  
 ![2025_05_24_TechnoSat_DP0TBA.jpg](2025_05_24_TechnoSat_DP0TBA.jpg)  
 ---
 
@@ -123,7 +123,7 @@
 ---
 
 <a name="otp-2-2025-05-13"></a>
-**OTP-2 (2025-05-13) - GFSK 4k8, Music (digital)**  
+**OTP-2 (2025-05-13) - GFSK 4k8, NFM Music (digital)**  
 ![2025_05_13_OTP-2.jpg](2025_05_13_OTP-2.jpg)  
 ---
 
