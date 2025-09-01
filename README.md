@@ -2,7 +2,7 @@
 
 ## QSL 卡目录
 
-- [SNUGLITE (2025-08-22)](#snuglite-2025-08-22)
+- [SNUGLITE-I (2025-08-22)](#snuglite-i-2025-08-22)
 - [UTMN-2 (RS27S) (2025-06-04)](#utmn-2-rs27s-2025-06-04)
 - [RTI’s German service (2025-07-26)](#rti-s-german-service-2025-07-26)
 - [NUSHSat-1 (2025-05-13)](#nushsat-1-2025-05-13)
@@ -49,9 +49,9 @@
 
 ---
 
-<a name="snuglite-2025-08-22"></a>
-**SNUGLITE (2025-08-22) - GMSK 9k6 (digital)**
-![2025_08_22_SNUGLITE.jpg](2025_08_22_SNUGLITE.jpg)
+<a name="snuglite-i-2025-08-22"></a>
+**SNUGLITE-I (2025-08-22) - GMSK 9k6 (digital)**
+![2025_08_22_SNUGLITE-I.jpg](2025_08_22_SNUGLITE-I.jpg)
 ---
 
 <a name="utmn-2-rs27s-2025-06-04"></a>
