@@ -2,6 +2,7 @@
 
 ## QSL 卡目录
 
+- [SNUGLITE (2025-08-22)](#snuglite-2025-08-22)
 - [UTMN-2 (RS27S) (2025-06-04)](#utmn-2-rs27s-2025-06-04)
 - [RTI’s German service (2025-07-26)](#rti-s-german-service-2025-07-26)
 - [NUSHSat-1 (2025-05-13)](#nushsat-1-2025-05-13)
@@ -46,6 +47,11 @@
 - [2025-07-14~20 REMEASAT ARISS SSTV Award](#remeasat-ariss-sstv-award-2025-07-15)
 - [2024-12-04 SSTV diploma - 85th anniversary of the Palace of Pioneers](#sstv-diploma-85th-anniversary-of-the-palace-of-pioneers-2024-12-04)
 
+---
+
+<a name="snuglite-2025-08-22"></a>
+**SNUGLITE (2025-08-22) - GMSK 9k6 (digital)**
+![2025_08_22_SNUGLITE.jpg](2025_08_22_SNUGLITE.jpg)
 ---
 
 <a name="utmn-2-rs27s-2025-06-04"></a>
