@@ -1,4 +1,4 @@
-# 业余无线电台 BG7XTQ （前JJ1DSB） 收到的 QSL 卡和证书
+# 业余无线电台 BG7XTQ （前 JJ1DSB） 收到的 QSL 卡和证书
 
 ## QSL 卡目录
 
@@ -217,7 +217,7 @@
 **ORBICRAFT-ZORKIY (RS15S) (2023-05-09) - SSTV Robot72 (digital)**  
 ![2023_05_09_ORBICRAFT-ZORKIY_RS15S.jpg](2023_05_09_ORBICRAFT-ZORKIY_RS15S.jpg)  
 
-## 确认图像接收的奖状和证书（主要为 SSTV 模式图像）
+## Awards and diplomas confirming image receptions (mostly in SSTV)
 
 <a name="frc-buenaventura-sstv-diploma-arcticsat-1"></a>
 **2025-08-11 FRC Buenaventura SSTV Diploma ARCTICSAT-1**
