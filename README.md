@@ -129,7 +129,7 @@
 ---
 
 <a name="otp-2-2025-05-13"></a>
-**OTP-2 (2025-05-13) - GFSK 4k8, NFM Music (digital)**  
+**OTP-2 (2025-05-13) - GFSK 4k8 (digital)**  
 [![2025_05_13_OTP-2.jpg](2025_05_13_OTP-2.jpg)](https://db.satnogs.org/satellite/63235)
 ---
 
