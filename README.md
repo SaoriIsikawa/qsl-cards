@@ -59,6 +59,7 @@
 [![2025_06_04_UTMN-2_RS27S.jpg](2025_06_04_UTMN-2_RS27S.jpg)](https://db.satnogs.org/satellite/57203)
 ---
 
+<a name="rti-s-german-service-2025-07-26"></a>
 **RTI’s German service (2025-07-26) - AM (paper)**
 [![2025_07_26_RTI_German_Tamsui.jpg](2025_07_26_RTI_German_Tamsui.jpg)](https://www.rti.org.tw/de/information?uid=15&pid=731)
 ---
