@@ -7,11 +7,8 @@
 - [RTI’s German service (2025-07-26)](#rti-s-german-service-2025-07-26)
 - [NUSHSat-1 (2025-05-13)](#nushsat-1-2025-05-13)
 - [Horizon (2025-08-10)](#horizon-rs59s-2025-08-10)
-- [Texas Radio Shortwave (2025-08-03)](#texas-radio-shortwave-2025-08-03)
 - [NIGHTJAR (2025-07-17)](#nightjar-xx0uhf-2025-07-17)
-- [Texas Radio Shortwave (2025-07-04)](#texas-radio-shortwave-2025-07-04)
 - [SAQ (2025-07-02)](#saq-2025-07-02)
-- [Texas Radio Shortwave (2025-06-06)](#texas-radio-shortwave-2025-06-06)
 - [STARS (2025-05-25)](#stars-kukai-daughter-jr5ybo-2025-05-25)
 - [TechnoSat (2025-05-24)](#technosat-dp0tba-2025-05-24)
 - [TIGRISAT (2025-05-23)](#tigrisat-hnatig-2025-05-23)
@@ -74,29 +71,14 @@
 [![2025_08_10_Horizon_RS59S.jpg](2025_08_10_Horizon_RS59S.jpg)](https://db.satnogs.org/satellite/61757)
 ---
 
-<a name="texas-radio-shortwave-2025-08-03"></a>
-**Texas Radio Shortwave (2025-08-03) - AM - Program: Music of Bobby Fuller Four (digital)**
-![2025_08_03_TRSW_Bobby_Fuller_Four.jpg](2025_08_03_TRSW_Bobby_Fuller_Four.jpg)
----
-
 <a name="nightjar-xx0uhf-2025-07-17"></a>
 **夜鷹號 NIGHTJAR (XX0UHF) (2025-07-17) - GFSK 4k8 (digital)**
 [![2025_07_17_NIGHTJAR_XX0UHF.jpg](2025_07_17_NIGHTJAR_XX0UHF.jpg)](https://db.satnogs.org/satellite/60535)
 ---
 
-<a name="texas-radio-shortwave-2025-07-04"></a>
-**Texas Radio Shortwave (2025-07-04) - AM - Program: Music of Albert Collins (digital)**  
-![2025_07_04_TRSW_Albert_Collins.jpg](2025_07_04_TRSW_Albert_Collins.jpg)  
----
-
 <a name="saq-2025-07-02"></a>
 **SAQ 100 Year Anniversary Transmissions (2025-07-02) - CW (digital)**
 [![2025_07_02_SAQ.jpg](2025_07_02_SAQ.jpg)](https://alexander.n.se/celebrate-100-years-with-saq-grimeton/)
----
-
-<a name="texas-radio-shortwave-2025-06-06"></a>
-**Texas Radio Shortwave (2025-06-06) - AM - Program: Music of Kris Kristofferson (digital)**  
-![2025_06_06_TRSW_Kris_Kristofferson.jpg](2025_06_06_TRSW_Kris_Kristofferson.jpg)  
 ---
 
 <a name="stars-kukai-daughter-jr5ybo-2025-05-25"></a>
