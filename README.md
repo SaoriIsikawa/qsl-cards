@@ -141,7 +141,7 @@
 
 <a name="samsat-ionosphere-rs75s-2025-05-11"></a>
 **SamSat-Ionosphere (RS75S) (2025-05-11) - FSK 1k2 - Victory Day (digital)**  
-[![2025_05_11_SamSat-Ionosphere_RS75S_Victory_Day.jpg](2025_05_11_SamSat-Ionosphere_RS75S_Victory_Day.jpg)](https://db.satnogs.org/satellite/61784)
+[![2025_05_11_SamSat-Ionosphere_RS75S.jpg](2025_05_11_SamSat-Ionosphere_RS75S.jpg)](https://db.satnogs.org/satellite/61784)
 ---
 
 <a name="sonate-2-dp0snx-2025-04-19"></a>
@@ -151,7 +151,7 @@
 
 <a name="samsat-ionosphere-rs75s-2025-04-10"></a>
 **SamSat-Ionosphere (RS75S) (2025-04-10) - FSK 1k2 - Gagarin's Day (digital)**  
-[![2025_04_10_SamSat-Ionosphere_RS75S_Gagarin_s_Day.jpg](2025_04_10_SamSat-Ionosphere_RS75S_Gagarin_s_Day.jpg)](https://db.satnogs.org/satellite/61784)
+[![2025_04_10_SamSat-Ionosphere_RS75S.jpg](2025_04_10_SamSat-Ionosphere_RS75S.jpg)](https://db.satnogs.org/satellite/61784)
 ---
 
 <a name="crocube-9a0cc-2025-04-10"></a>
