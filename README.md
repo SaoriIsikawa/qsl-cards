@@ -200,8 +200,8 @@
 ---
 
 <a name="po-101-diwata-2-2025-05-06"></a>
-**PO-101 (Diwata-2) (2025-05-06) - FM - QSO as SWL (digital) [Time (UTC): 06:05(!)]**  
-[![2025_05_06_PO-101.jpg](2025_05_06_PO-101.jpg)](https://db.satnogs.org/satellite/43678)
+**Diwata-2 (PO-101) (2025-05-06) - FM - QSO as SWL (digital) [Time (UTC): 06:05(!)]**  
+[![2025_05_06_Diwata-2.jpg](2025_05_06_Diwata-2.jpg)](https://db.satnogs.org/satellite/43678)
 ---
 
 <a name="iss-qsl-card-from-rs0iss-2024-10-13"></a>
