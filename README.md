@@ -51,26 +51,26 @@
 
 <a name="snuglite-i-2025-08-22"></a>
 **SNUGLITE-I (2025-08-22) - GMSK 9k6 (digital)**
-![2025_08_22_SNUGLITE-I.jpg](2025_08_22_SNUGLITE-I.jpg)
+![2025_08_22_SNUGLITE-I.jpg](2025_08_22_SNUGLITE-I.jpg)(https://db.satnogs.org/satellite/43784)
 ---
 
 <a name="utmn-2-rs27s-2025-06-04"></a>
 **UTMN-2 (RS27S) (2025-06-04) - GMSK USP 9k6 (digital)**
-![2025_06_04_UTMN-2_RS27S.jpg](2025_06_04_UTMN-2_RS27S.jpg)
+![2025_06_04_UTMN-2_RS27S.jpg](2025_06_04_UTMN-2_RS27S.jpg)(https://db.satnogs.org/satellite/57203)
 ---
 
 **RTI’s German service (2025-07-26) - AM (paper)**
-![2025_07_26_RTI_German_Tamsui.jpg](2025_07_26_RTI_German_Tamsui.jpg)
+![2025_07_26_RTI_German_Tamsui.jpg](2025_07_26_RTI_German_Tamsui.jpg)(https://www.rti.org.tw/de/information?uid=15&pid=731)
 ---
 
 <a name="nushsat-1-2025-05-13"></a>
 **NUSHSat-1 (2025-05-13) - FSK 1k2 - Beacon (digital)**
-![2025_05_13_NUSHSat-1.jpg](2025_05_13_NUSHSat-1.jpg)
+![2025_05_13_NUSHSat-1.jpg](2025_05_13_NUSHSat-1.jpg)(https://db.satnogs.org/satellite/63211)
 ---
 
 <a name="horizon-rs59s-2025-08-10"></a>
 **Horizon (RS59S) (2025-08-10) - GMSK 9k6 - Image Data (digital)**
-![2025_08_10_Horizon_RS59S.jpg](2025_08_10_Horizon_RS59S.jpg)
+![2025_08_10_Horizon_RS59S.jpg](2025_08_10_Horizon_RS59S.jpg)(https://db.satnogs.org/satellite/61757)
 ---
 
 <a name="texas-radio-shortwave-2025-08-03"></a>
@@ -80,7 +80,7 @@
 
 <a name="nightjar-xx0uhf-2025-07-17"></a>
 **夜鷹號 NIGHTJAR (XX0UHF) (2025-07-17) - GFSK 4k8 (digital)**
-![2025_07_17_NIGHTJAR_XX0UHF.jpg](2025_07_17_NIGHTJAR_XX0UHF.jpg)
+![2025_07_17_NIGHTJAR_XX0UHF.jpg](2025_07_17_NIGHTJAR_XX0UHF.jpg)(https://db.satnogs.org/satellite/60535)
 ---
 
 <a name="texas-radio-shortwave-2025-07-04"></a>
@@ -90,7 +90,7 @@
 
 <a name="saq-2025-07-02"></a>
 **SAQ 100 Year Anniversary Transmissions (2025-07-02) - CW (digital)**
-![2025_07_02_SAQ.jpg](2025_07_02_SAQ.jpg)
+![2025_07_02_SAQ.jpg](2025_07_02_SAQ.jpg)(https://alexander.n.se/celebrate-100-years-with-saq-grimeton/)
 ---
 
 <a name="texas-radio-shortwave-2025-06-06"></a>
@@ -100,42 +100,42 @@
 
 <a name="stars-kukai-daughter-jr5ybo-2025-05-25"></a>
 **STARS (KUKAI daughter) (JR5YBO) (2025-05-25) - CW (digital)**  
-![2025_05_25_STARS_KUKAI_daughter.jpg](2025_05_25_STARS_KUKAI_daughter.jpg)  
+![2025_05_25_STARS_KUKAI_daughter.jpg](2025_05_25_STARS_KUKAI_daughter.jpg)(https://db.satnogs.org/satellite/43640)
 ---
 
 <a name="technosat-dp0tba-2025-05-24"></a>
 **TechnoSat (DP0TBA) (2025-05-24) - CW in FM (digital)**  
-![2025_05_24_TechnoSat_DP0TBA.jpg](2025_05_24_TechnoSat_DP0TBA.jpg)  
+![2025_05_24_TechnoSat_DP0TBA.jpg](2025_05_24_TechnoSat_DP0TBA.jpg)(https://db.satnogs.org/satellite/42829)
 ---
 
 <a name="tigrisat-hnatig-2025-05-23"></a>
-**TIGRISAT (HNATIG) (2025-05-23) - FSK 9k6 -  (digital)**  
-![2025_05_23_TIGRISAT_HNATIG.jpg](2025_05_23_TIGRISAT_HNATIG.jpg)  
+**TIGRISAT (HNATIG) (2025-05-23) - FSK 9k6 (digital)**  
+![2025_05_23_TIGRISAT_HNATIG.jpg](2025_05_23_TIGRISAT_HNATIG.jpg)(https://db.satnogs.org/satellite/40043)
 ---
 
 <a name="enso-robusta-1e-fx6frc-2025-05-22"></a>
 **ENSO (ROBUSTA-1E) (FX6FRC) (2025-05-22) - FSK 9k6 (digital)**  
-![2025_05_22_ENSO_ROBUSTA-1E_FX6FRC.jpg](2025_05_22_ENSO_ROBUSTA-1E_FX6FRC.jpg)  
+![2025_05_22_ENSO_ROBUSTA-1E_FX6FRC.jpg](2025_05_22_ENSO_ROBUSTA-1E_FX6FRC.jpg)(https://db.satnogs.org/satellite/58470)
 ---
 
 <a name="qube-dp2qu-2025-05-20"></a>
 **QUBE (DP2QU) (2025-05-20) - GFSK 9k6 (digital)**  
-![2025_05_20_QUBE_DP2QU.jpg](2025_05_20_QUBE_DP2QU.jpg)  
+![2025_05_20_QUBE_DP2QU.jpg](2025_05_20_QUBE_DP2QU.jpg)(https://db.satnogs.org/satellite/60476)
 ---
 
 <a name="pearl-1c-pearlc-2025-05-13"></a>
 **珍珠號-1C PEARL-1C (PEARLC) (2025-05-13) - GMSK 9k6(!) (paper) [MHz: 435.310 (!)]**  
-![2025_05_13_PEARL-1C_PEARLC.jpg](2025_05_13_PEARL-1C_PEARLC.jpg)  
+![2025_05_13_PEARL-1C_PEARLC.jpg](2025_05_13_PEARL-1C_PEARLC.jpg)(https://db.satnogs.org/satellite/58342)
 ---
 
 <a name="otp-2-2025-05-13"></a>
 **OTP-2 (2025-05-13) - GFSK 4k8, NFM Music (digital)**  
-![2025_05_13_OTP-2.jpg](2025_05_13_OTP-2.jpg)  
+![2025_05_13_OTP-2.jpg](2025_05_13_OTP-2.jpg)(https://db.satnogs.org/satellite/63235)
 ---
 
 <a name="robusta-3a-fx6frd-2025-05-13"></a>
 **ROBUSTA-3A (FX6FRD) (2025-05-13) - FSK 9k6 (digital)**  
-![2025_05_13_ROBUSTA-3A_FX6FRD.jpg](2025_05_13_ROBUSTA-3A_FX6FRD.jpg)  
+![2025_05_13_ROBUSTA-3A_FX6FRD.jpg](2025_05_13_ROBUSTA-3A_FX6FRD.jpg)(https://db.satnogs.org/satellite/60243)
 ---
 
 <a name="samsat-ionosphere-rs75s-2025-05-11"></a>
