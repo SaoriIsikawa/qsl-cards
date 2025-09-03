@@ -30,7 +30,7 @@
 - [YOMOGI (2025-03-25)](#yomogi-js1ymx-2025-03-25)
 - [NHK World-Japan (2025-03-11)](#nhk-world-japan-2025-03-11)
 - [NHK World-Japan (2025-03-02)](#nhk-world-japan-2025-03-02)
-- [UMKA-1 (2025-03-01)](#umka-1-rs40s-2025-03-01)
+- [UmKA-1 (2025-03-01)](#umka-1-rs40s-2025-03-01)
 - [ReshUCube-2 (2025-01-28)](#reshucube-2-rs37s-2025-01-28)
 - [HyperView-1G (2025-01-05)](#hyperview-1g-rs66s-2025-01-05)
 - [ISS QSL Card from RS0ISS (2024-10-13)](#iss-qsl-card-from-rs0iss-2024-10-13)
@@ -140,37 +140,37 @@
 
 <a name="samsat-ionosphere-rs75s-2025-05-11"></a>
 **SamSat-Ionosphere (RS75S) (2025-05-11) - FSK 1k2 - Victory Day (digital)**  
-![2025_05_11_SamSat-Ionosphere_RS75S_Victory_Day.jpg](2025_05_11_SamSat-Ionosphere_RS75S_Victory_Day.jpg)  
+[![2025_05_11_SamSat-Ionosphere_RS75S_Victory_Day.jpg](2025_05_11_SamSat-Ionosphere_RS75S_Victory_Day.jpg)](https://db.satnogs.org/satellite/61784)
 ---
 
 <a name="sonate-2-dp0snx-2025-04-19"></a>
 **SONATE-2 (DP0SNX) (2025-04-19) - SSTV Martin M1 (digital)**  
-![2025_04_19_SONATE-2_DP0SNX.jpg](2025_04_19_SONATE-2_DP0SNX.jpg)  
+[![2025_04_19_SONATE-2_DP0SNX.jpg](2025_04_19_SONATE-2_DP0SNX.jpg)](https://db.satnogs.org/satellite/59112)
 ---
 
 <a name="samsat-ionosphere-rs75s-2025-04-10"></a>
 **SamSat-Ionosphere (RS75S) (2025-04-10) - FSK 1k2 - Gagarin's Day (digital)**  
-![2025_04_10_SamSat-Ionosphere_RS75S_Gagarin_s_Day.jpg](2025_04_10_SamSat-Ionosphere_RS75S_Gagarin_s_Day.jpg)  
+[![2025_04_10_SamSat-Ionosphere_RS75S_Gagarin_s_Day.jpg](2025_04_10_SamSat-Ionosphere_RS75S_Gagarin_s_Day.jpg)](https://db.satnogs.org/satellite/61784)
 ---
 
 <a name="crocube-9a0cc-2025-04-10"></a>
 **CroCube (9A0CC) (2025-04-10) - GFSK 9k6 (digital)**  
-![2025_04_10_CroCube_9A0CC.jpg](2025_04_10_CroCube_9A0CC.jpg)  
+[![2025_04_10_CroCube_9A0CC.jpg](2025_04_10_CroCube_9A0CC.jpg)](https://db.satnogs.org/satellite/62394)
 ---
 
 <a name="lasarsat-ok0lsr-2025-04-08"></a>
 **LASARsat (OK0LSR) (2025-04-08) - CW (digital)**  
-![2025_04_08_LASARsat_OK0LSR.jpg](2025_04_08_LASARsat_OK0LSR.jpg)  
+[![2025_04_08_LASARsat_OK0LSR.jpg](2025_04_08_LASARsat_OK0LSR.jpg)](https://db.satnogs.org/satellite/62391)
 ---
 
 <a name="arcticsat-1-rs74s-2025-04-01"></a>
 **ArcticSat-1 (RS74S) (2025-04-01) - SSTV Robot36 - 1st of April Event (digital)**  
-![2025_04_01_ArcticSat-1_RS74S.jpg](2025_04_01_ArcticSat-1_RS74S.jpg)  
+[![2025_04_01_ArcticSat-1_RS74S.jpg](2025_04_01_ArcticSat-1_RS74S.jpg)](https://db.satnogs.org/satellite/61762)
 ---
 
 <a name="yomogi-js1ymx-2025-03-25"></a>
 **YOMOGI (JS1YMX) (2025-03-25) - CW (digital)**  
-![2025_03_25_YOMOGI_JS1YMX.jpg](2025_03_25_YOMOGI_JS1YMX.jpg)  
+[![2025_03_25_YOMOGI_JS1YMX.jpg](2025_03_25_YOMOGI_JS1YMX.jpg)](https://db.satnogs.org/satellite/62298)
 ---
 
 <a name="nhk-world-japan-2025-03-11"></a>
@@ -184,38 +184,38 @@
 ---
 
 <a name="umka-1-rs40s-2025-03-01"></a>
-**UMKA-1 (RS40S) (2025-03-01) GMSK USP 9k6 (digital)**  
-![2025_03_01_UMKA-1_RS40S_TLM.jpg](2025_03_01_UMKA-1_RS40S_TLM.jpg)
+**UmKA-1 (RS40S) (2025-03-01) GMSK USP 9k6 (digital)**  
+[![2025_03_01_UmKA-1_RS40S_TLM.jpg](2025_03_01_UmKA-1_RS40S_TLM.jpg)](https://db.satnogs.org/satellite/57172)
 ---
 
 <a name="reshucube-2-rs37s-2025-01-28"></a>
 **ReshUCube-2 (RS37S) (2025-01-28) - LoRa (digital)**  
-![2025_01_28_ReshUCube-2_RS37S.jpg](2025_01_28_ReshUCube-2_RS37S.jpg)  
+[![2025_01_28_ReshUCube-2_RS37S.jpg](2025_01_28_ReshUCube-2_RS37S.jpg)](https://db.satnogs.org/satellite/57168)
 ---
 
 <a name="hyperview-1g-rs66s-2025-01-05"></a>
 **HyperView-1G (RS66S) (2025-01-05) - SSTV Robot72 (digital)**  
-![2025_01_05_HyperView-1G_RS66S.jpg](2025_01_05_HyperView-1G_RS66S.jpg)  
+[![2025_01_05_HyperView-1G_RS66S.jpg](2025_01_05_HyperView-1G_RS66S.jpg)](https://db.satnogs.org/satellite/61772)
 ---
 
 <a name="po-101-diwata-2-2025-05-06"></a>
 **PO-101 (Diwata-2) (2025-05-06) - FM - QSO as SWL (digital) [Time (UTC): 06:05(!)]**  
-![2025_05_06_PO-101_SWL.jpg](2025_05_06_PO-101_SWL.jpg)  
+[![2025_05_06_PO-101.jpg](2025_05_06_PO-101.jpg)](https://db.satnogs.org/satellite/43678)
 ---
 
 <a name="iss-qsl-card-from-rs0iss-2024-10-13"></a>
 **ISS QSL Card for SSTV reception from RS0ISS (2024-10-13)**  
-![2024_10_13_ISS_RS0ISS.jpg](2024_10_13_ISS_RS0ISS.jpg)  
+[![2024_10_13_ISS_RS0ISS.jpg](2024_10_13_ISS_RS0ISS.jpg)](https://db.satnogs.org/satellite/25544)
 ---
 
 <a name="sakura-js1yni-2024-10-08"></a>
 **SAKURA (JS1YNI) (2024-10-08) - CW(!) (digital)**  
-![2024_10_08_SAKURA_JS1YNI.jpg](2024_10_08_SAKURA_JS1YNI.jpg)  
+[![2024_10_08_SAKURA_JS1YNI.jpg](2024_10_08_SAKURA_JS1YNI.jpg)](https://db.satnogs.org/satellite/60954)
 ---
 
 <a name="orbicraft-zorkiy-rs15s-2023-05-09"></a>
-**ORBICRAFT-ZORKIY (RS15S) (2023-05-09) - SSTV Robot72 (digital)**  
-![2023_05_09_ORBICRAFT-ZORKIY_RS15S.jpg](2023_05_09_ORBICRAFT-ZORKIY_RS15S.jpg)  
+**Orbicraft-Zorkiy (RS15S) (2023-05-09) - SSTV Robot72 (digital)**  
+[![2023_05_09_Orbicraft-Zorkiy_RS15S.jpg](2023_05_09_Orbicraft-Zorkiy_RS15S.jpg)](https://db.satnogs.org/satellite/47960)
 
 ## Awards and diplomas confirming image receptions (mostly in SSTV)
 
