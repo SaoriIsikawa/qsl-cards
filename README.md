@@ -35,7 +35,7 @@
 - [HyperView-1G (2025-01-05)](#hyperview-1g-rs66s-2025-01-05)
 - [ISS QSL Card from RS0ISS (2024-10-13)](#iss-qsl-card-from-rs0iss-2024-10-13)
 - [SAKURA (2024-10-08)](#sakura-js1yni-2024-10-08)
-- [ORBICRAFT-ZORKIY (2023-05-09)](#orbicraft-zorkiy-rs15s-2023-05-09)
+- [Orbicraft-Zorkiy (2023-05-09)](#orbicraft-zorkiy-rs15s-2023-05-09)
 
 ## 证书目录
 
