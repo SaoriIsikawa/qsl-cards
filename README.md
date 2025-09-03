@@ -39,13 +39,13 @@
 
 ## 证书目录
 
-- [2025-08-11 FRC Buenaventura SSTV Diploma ARCTICSAT-1](#frc-buenaventura-sstv-diploma-arcticsat-1)
-- [2025-08-09~10 FRC Buenaventura SSTV Diploma UMKA-1](#frc-buenaventura-sstv-diploma-umka-1)
-- [2025-07-14~20 Expedition 73 - ARISS Series 28 - Apollo Soyuz and STS-51F - ARISS SSTV Award](#expedition-73-ariss-series-28-apollo-soyuz-and-sts-51f-2025-07-15)
+- [2025-08-11 FRC Buenaventura SSTV - ARCTICSAT-1](#frc-buenaventura-sstv-diploma-arcticsat-1)
+- [2025-08-09~10 FRC Buenaventura SSTV - UMKA-1](#frc-buenaventura-sstv-diploma-umka-1)
+- [2025-07-14~20 Expedition 73 ARISS SSTV Award](#expedition-73-ariss-series-28-apollo-soyuz-and-sts-51f-2025-07-15)
 - [2025-07-14~20 Russia ISS SSTV Diploma](#russia-iss-sstv-diploma-2025-07-15)
 - [2025-07-14~20 FRC ISSTV-SSP Diploma](#frc-isstv-ssp-diploma-2025-07-15)
 - [2025-07-14~20 REMEASAT ARISS SSTV Award](#remeasat-ariss-sstv-award-2025-07-15)
-- [2024-12-04 SSTV diploma - 85th anniversary of the Palace of Pioneers](#sstv-diploma-85th-anniversary-of-the-palace-of-pioneers-2024-12-04)
+- [2024-12-04 SSTV Diploma - Palace of Pioneers](#sstv-diploma-85th-anniversary-of-the-palace-of-pioneers-2024-12-04)
 
 ---
 
