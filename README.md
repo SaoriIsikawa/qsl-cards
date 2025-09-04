@@ -202,7 +202,7 @@
 [![2023-05-09_OrbiCraft-Zorkiy.jpg](2023-05-09_OrbiCraft-Zorkiy.jpg)](https://db.satnogs.org/satellite/47960)
 ---
 
-## Awards and diplomas confirming image receptions (mostly in SSTV)
+## 确认图像接收的奖状和证书（大部分是 SSTV）
 
 <a name="orbicraft-zorkiy-diploma"></a>
 **2025-04-07 OrbiCraft-Zorkiy GMSK and SSTV Diploma**
