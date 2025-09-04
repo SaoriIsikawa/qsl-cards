@@ -198,9 +198,9 @@
 ---
 
 <a name="orbicraft-zorkiy-rs15s-2023-05-09"></a>
-**OrbiCraft-Zorkiy (RS15S) (2023-05-09) - SSTV Robot72 (digital)**  
-[![rs15s.jpg](rs15s.jpg)](https://db.satnogs.org/satellite/47960)
-
+**OrbiCraft-Zorkiy (RS15S) (2023-05-09) - SSTV (digital)**  
+[![2023-05-09_OrbiCraft-Zorkiy.jpg](2023-05-09_OrbiCraft-Zorkiy.jpg)](https://db.satnogs.org/satellite/47960)
+---
 
 ## Awards and diplomas confirming image receptions (mostly in SSTV)
 
