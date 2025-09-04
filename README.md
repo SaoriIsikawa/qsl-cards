@@ -32,10 +32,11 @@
 - [HyperView-1G (2025-01-05)](#hyperview-1g-rs66s-2025-01-05)
 - [ISS QSL Card from RS0ISS (2024-10-13)](#iss-qsl-card-from-rs0iss-2024-10-13)
 - [SAKURA (2024-10-08)](#sakura-js1yni-2024-10-08)
-- [Orbicraft-Zorkiy (2023-05-09)](#orbicraft-zorkiy-rs15s-2023-05-09)
+- [OrbiCraft-Zorkiy (2023-05-09)](#orbicraft-zorkiy-rs15s-2023-05-09)
 
 ## 证书目录
 
+- [2025-04-07 OrbiCraft-Zorkiy Diploma](#orbicraft-zorkiy-diploma)
 - [2025-08-11 FRC Buenaventura SSTV - ARCTICSAT-1](#frc-buenaventura-sstv-diploma-arcticsat-1)
 - [2025-08-09~10 FRC Buenaventura SSTV - UMKA-1](#frc-buenaventura-sstv-diploma-umka-1)
 - [2025-07-14~20 Expedition 73 ARISS SSTV Award](#expedition-73-ariss-series-28-apollo-soyuz-and-sts-51f-2025-07-15)
@@ -197,10 +198,16 @@
 ---
 
 <a name="orbicraft-zorkiy-rs15s-2023-05-09"></a>
-**Orbicraft-Zorkiy (RS15S) (2023-05-09) - SSTV Robot72 (digital)**  
-[![2023_05_09_Orbicraft-Zorkiy_RS15S.jpg](2023_05_09_Orbicraft-Zorkiy_RS15S.jpg)](https://db.satnogs.org/satellite/47960)
+**OrbiCraft-Zorkiy (RS15S) (2023-05-09) - SSTV Robot72 (digital)**  
+[![rs15s.jpg](rs15s.jpg)](https://db.satnogs.org/satellite/47960)
+
 
 ## Awards and diplomas confirming image receptions (mostly in SSTV)
+
+<a name="orbicraft-zorkiy-diploma"></a>
+**2025-04-07 OrbiCraft-Zorkiy farewell messages, telemetry and SSTV Diploma**
+![rs15s_sstv.jpg](rs15s_sstv.jpg)
+---
 
 <a name="frc-buenaventura-sstv-diploma-arcticsat-1"></a>
 **2025-08-11 FRC Buenaventura SSTV Diploma ARCTICSAT-1**
