@@ -2,6 +2,7 @@
 
 ## QSL 卡目录
 
+- [ITUpSat-1 (2025-05-20)](#itupsat-1-2025-05-20)
 - [SNUGLITE-I (2025-08-22)](#snuglite-i-2025-08-22)
 - [UTMN-2 (2025-06-04)](#utmn-2-rs27s-2025-06-04)
 - [RTI’s German service (2025-07-26)](#rti-s-german-service-2025-07-26)
@@ -45,6 +46,11 @@
 - [2025-07-14~20 REMEASAT ARISS SSTV Award](#remeasat-ariss-sstv-award-2025-07-15)
 - [2024-12-04 SSTV Diploma - Palace of Pioneers](#sstv-diploma-85th-anniversary-of-the-palace-of-pioneers-2024-12-04)
 
+---
+
+<a name="itupsat-1-2025-05-20"></a>
+**ITUpSAT1 (2025-05-20) - CW in FM (digital)**
+[![itupsat1.jpg](itupsat1.jpg)](https://db.satnogs.org/satellite/35935)
 ---
 
 <a name="snuglite-i-2025-08-22"></a>
