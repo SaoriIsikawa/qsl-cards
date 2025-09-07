@@ -2,7 +2,7 @@
 
 ## QSL 卡目录
 
-- [ITUpSat-1 (2025-05-20)](#itupsat-1-2025-05-20)
+- [ITUpSAT1 (2025-05-20)](#itupsat-1-2025-05-20)
 - [SNUGLITE-I (2025-08-22)](#snuglite-i-2025-08-22)
 - [UTMN-2 (2025-06-04)](#utmn-2-rs27s-2025-06-04)
 - [RTI’s German service (2025-07-26)](#rti-s-german-service-2025-07-26)
