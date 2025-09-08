@@ -49,7 +49,7 @@
 ---
 
 <a name="itupsat-1-2025-05-20"></a>
-**ITUpSAT1 (2025-05-20) - CW in FM (digital)**
+**ITUpSAT1 (2025-05-20) - CW (digital)**
 [![itupsat1.jpg](itupsat1.jpg)](https://db.satnogs.org/satellite/35935)
 ---
 
@@ -94,7 +94,7 @@
 ---
 
 <a name="technosat-dp0tba-2025-05-24"></a>
-**TechnoSat (DP0TBA) (2025-05-24) - CW in FM (digital)**  
+**TechnoSat (DP0TBA) (2025-05-24) - CW (digital)**  
 [![2025_05_24_TechnoSat_DP0TBA.jpg](2025_05_24_TechnoSat_DP0TBA.jpg)](https://db.satnogs.org/satellite/42829)
 ---
 
