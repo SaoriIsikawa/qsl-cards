@@ -2,6 +2,7 @@
 
 ## QSL 卡目录
 
+- [EIRSAT-1 (2025-09-03)](#eirsat-1-2025-09-03)
 - [ITUpSAT1 (2025-05-20)](#itupsat-1-2025-05-20)
 - [SNUGLITE-I (2025-08-22)](#snuglite-i-2025-08-22)
 - [UTMN-2 (2025-06-04)](#utmn-2-rs27s-2025-06-04)
@@ -46,6 +47,11 @@
 - [2025-07-14~20 REMEASAT ARISS SSTV Award](#remeasat-ariss-sstv-award-2025-07-15)
 - [2024-12-04 SSTV Diploma - Palace of Pioneers](#sstv-diploma-85th-anniversary-of-the-palace-of-pioneers-2024-12-04)
 
+---
+
+<a name="eirsat-1-2025-09-03"></a>
+**EIRSAT-1 (2025-09-03) - GFSK 9k6 (digital)**
+[![2025-09-03_EIRSAT-1.jpg](2025-09-03_EIRSAT-1.jpg)](https://db.satnogs.org/satellite/58472)
 ---
 
 <a name="itupsat-1-2025-05-20"></a>
