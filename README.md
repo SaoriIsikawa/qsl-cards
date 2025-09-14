@@ -46,6 +46,7 @@
 - [2025-07-14~20 FRC ISSTV-SSP Diploma](#frc-isstv-ssp-diploma-2025-07-15)
 - [2025-07-14~20 REMEASAT ARISS SSTV Award](#remeasat-ariss-sstv-award-2025-07-15)
 - [2024-12-04 SSTV Diploma - Palace of Pioneers](#sstv-diploma-85th-anniversary-of-the-palace-of-pioneers-2024-12-04)
+- [RS40S Special Event "Victory Day"](#rs40s-victory-day-2025-05-09)
 
 ---
 
@@ -254,4 +255,9 @@
 <a name="sstv-diploma-85th-anniversary-of-the-palace-of-pioneers-2024-12-04"></a>
 **SSTV diploma - 85th anniversary of the Palace of Pioneers (2024-12-04) [via RS40S]**  
 ![rs40s_sstv.jpg](rs40s_sstv.jpg)
+---
+
+<a name="rs40s-victory-day-2025-05-09"></a>
+**RS40S Special Event "Victory Day" (2025-05-09) - SSTV (digital)**  
+![rs40s_victory_day.jpg](rs40s_victory_day.jpg)
 ---
