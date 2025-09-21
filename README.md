@@ -10,7 +10,6 @@
 - [NUSHSat-1 (2025-05-13)](#nushsat-1-2025-05-13)
 - [Horizon (2025-08-10)](#horizon-rs59s-2025-08-10)
 - [NIGHTJAR (2025-07-17)](#nightjar-xx0uhf-2025-07-17)
-- [SAQ (2025-07-02)](#saq-2025-07-02)
 - [STARS (2025-05-25)](#stars-kukai-daughter-jr5ybo-2025-05-25)
 - [TechnoSat (2025-05-24)](#technosat-dp0tba-2025-05-24)
 - [TIGRISAT (2025-05-23)](#tigrisat-hnatig-2025-05-23)
@@ -88,11 +87,6 @@
 <a name="nightjar-xx0uhf-2025-07-17"></a>
 **夜鷹號 NIGHTJAR (XX0UHF) (2025-07-17) - GFSK 4k8 (digital)**
 [![2025_07_17_NIGHTJAR_XX0UHF.jpg](2025_07_17_NIGHTJAR_XX0UHF.jpg)](https://db.satnogs.org/satellite/60535)
----
-
-<a name="saq-2025-07-02"></a>
-**SAQ 100 Year Anniversary Transmissions (2025-07-02) - CW (digital)**
-[![2025_07_02_SAQ.jpg](2025_07_02_SAQ.jpg)](https://alexander.n.se/celebrate-100-years-with-saq-grimeton/)
 ---
 
 <a name="stars-kukai-daughter-jr5ybo-2025-05-25"></a>
