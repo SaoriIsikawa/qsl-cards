@@ -37,7 +37,7 @@
 
 ## 证书目录
 
-- [2025-08-11~25 ENSO "Who is ?" game Diploma](#enso-who-is-game-diploma)
+- [2025-08-11~25 ENSO Contest #1 Diploma](#enso-contest-1-diploma)
 - [RS15S (OrbiCraft-Zorkiy) (2025-04-07) Farewell Diploma](#orbicraft-zorkiy-diploma)
 - [2025-08-11 FRC Buenaventura SSTV - ARCTICSAT-1](#frc-buenaventura-sstv-diploma-arcticsat-1)
 - [2025-08-09~10 FRC Buenaventura SSTV - UMKA-1](#frc-buenaventura-sstv-diploma-umka-1)
@@ -212,9 +212,9 @@
 
 ## 确认图像接收的奖状和证书（大部分是 SSTV）
 
-<a name="enso-who-is-game-diploma"></a>
-**2025-08-11~25 ENSO "Who is ?" game Diploma**
-![diplome_who_is.jpg](diplome_who_is.jpg)
+<a name="enso-contest-1-diploma"></a>
+**2025-08-11~25 ENSO Contest #1 Diploma**
+![enso_diploma_who_is.jpg](enso_diploma_who_is.jpg)
 ---
 
 <a name="orbicraft-zorkiy-diploma"></a>
