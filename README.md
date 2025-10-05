@@ -44,6 +44,7 @@
 - [2025-07-14~20 Expedition 73 ARISS SSTV Award](#expedition-73-ariss-series-28-apollo-soyuz-and-sts-51f-2025-07-15)
 - [2025-07-14~20 Russia ISS SSTV Diploma](#russia-iss-sstv-diploma-2025-07-15)
 - [2025-07-14~20 FRC ISSTV-SSP Diploma](#frc-isstv-ssp-diploma-2025-07-15)
+- [2025-10-03~06 REMEASAT ARISS SSTV Award](#remeasat-ariss-sstv-award-2025-10-04)
 - [2025-07-14~20 REMEASAT ARISS SSTV Award](#remeasat-ariss-sstv-award-2025-07-15)
 - [2024-12-04 SSTV Diploma - Palace of Pioneers](#sstv-diploma-85th-anniversary-of-the-palace-of-pioneers-2024-12-04)
 - [RS40S Special Event "Victory Day"](#rs40s-victory-day-2025-05-09)
@@ -245,6 +246,11 @@
 <a name="frc-isstv-ssp-diploma-2025-07-15"></a>
 **2025-07-14~20 FRC ISSTV-SSP diploma**
 ![frc_isstv_ssp_diploma_2025-07-15.jpg](frc_isstv_ssp_diploma_2025-07-15.jpg)
+---
+
+<a name="remeasat-ariss-sstv-award-2025-10-04"></a>
+**2025-10-03~06 REMEASAT ARISS SSTV Award**  
+![remeasat_sstv_award_2025-10-04.jpg](remeasat_sstv_award_2025-10-04.jpg)
 ---
 
 <a name="remeasat-ariss-sstv-award-2025-07-15"></a>
