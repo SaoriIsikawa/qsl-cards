@@ -18,7 +18,7 @@
 - [PEARL-1C (2025-05-13)](#pearl-1c-pearlc-2025-05-13)
 - [OTP-2 (2025-05-13)](#otp-2-2025-05-13)
 - [ROBUSTA-3A (2025-05-13)](#robusta-3a-fx6frd-2025-05-13)
-- [PO-101 (2025-05-06)](#po-101-diwata-2-2025-05-06)
+- [Diwata-2 (2025-05-06)](#po-101-diwata-2-2025-05-06)
 - [SamSat-Ionosphere (2025-05-11)](#samsat-ionosphere-rs75s-2025-05-11)
 - [SONATE-2 (2025-04-19)](#sonate-2-dp0snx-2025-04-19)
 - [SamSat-Ionosphere (2025-04-10)](#samsat-ionosphere-rs75s-2025-04-10)
