@@ -74,7 +74,7 @@
 
 <a name="rti-s-german-service-2025-07-26"></a>
 **RTI’s German service (2025-07-26) - AM (paper)**
-[![2025-07-26_RTI-DE_SWL.jpg](2025-07-26_RTI-DE_SWL.jpg)](https://www.rti.org.tw/de/information?uid=15&pid=731)
+[![2025-07-26_RTI-DE.jpg](2025-07-26_RTI-DE.jpg)](https://www.rti.org.tw/de/information?uid=15&pid=731)
 ---
 
 <a name="nushsat-1-2025-05-13"></a>
@@ -169,12 +169,12 @@
 
 <a name="nhk-world-japan-2025-03-11"></a>
 **NHK World-Japan (2025-03-11) - AM (paper)**  
-![2025_03_11_NHK_WORLD-JAPAN_SWL.jpg](2025_03_11_NHK_WORLD-JAPAN_SWL.jpg)  
+![2025-03-11_NHK_WORLD-JAPAN.jpg](2025-03-11_NHK_WORLD-JAPAN.jpg)  
 ---
 
 <a name="nhk-world-japan-2025-03-02"></a>
 **NHK World-Japan (2025-03-02) - AM (paper)**  
-![2025_03_02_NHK_WORLD-JAPAN_SWL.jpg](2025_03_02_NHK_WORLD-JAPAN_SWL.jpg)  
+![2025-03-02_NHK_WORLD-JAPAN.jpg](2025-03-02_NHK_WORLD-JAPAN.jpg)  
 ---
 
 <a name="umka-1-rs40s-2025-05-14"></a>
@@ -194,7 +194,7 @@
 
 <a name="po-101-diwata-2-2025-05-06"></a>
 **Diwata-2 (PO-101) (2025-05-06) - FM - QSO as SWL (digital) [Time (UTC): 06:05(!)]**  
-[![2025-05-06_Diwata-2_SWL.jpg](2025-05-06_Diwata-2_SWL.jpg)](https://db.satnogs.org/satellite/43678)
+[![2025-05-06_Diwata-2.jpg](2025-05-06_Diwata-2.jpg)](https://db.satnogs.org/satellite/43678)
 ---
 
 <a name="iss-qsl-card-from-rs0iss-2024-10-13"></a>
