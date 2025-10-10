@@ -3,6 +3,11 @@
 ---
 
 
+<a name="texas-radio-shortwave-2025-10-08"></a>
+**Texas Radio Shortwave (2025-10-08) - AM - Program: MMusic of B.J. Thomas (digital)**
+![2025_10_08_TRSW.jpg](2025_10_08_TRSW.jpg)
+---
+
 <a name="texas-radio-shortwave-2025-08-03"></a>
 **Texas Radio Shortwave (2025-08-03) - AM - Program: Music of Bobby Fuller Four (digital)**
 ![2025_08_03_TRSW_Bobby_Fuller_Four.jpg](2025_08_03_TRSW_Bobby_Fuller_Four.jpg)
