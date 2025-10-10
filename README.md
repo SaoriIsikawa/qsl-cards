@@ -18,7 +18,7 @@
 - [PEARL-1C (2025-05-13)](#pearl-1c-pearlc-2025-05-13)
 - [OTP-2 (2025-05-13)](#otp-2-2025-05-13)
 - [ROBUSTA-3A (2025-05-13)](#robusta-3a-fx6frd-2025-05-13)
-- [Diwata-2 (2025-05-06)](#po-101-diwata-2-2025-05-06)
+- [Diwata-2 (PO-101) (2025-05-06)](#diwata-2-po-101-2025-05-06)
 - [SamSat-Ionosphere (2025-05-11)](#samsat-ionosphere-rs75s-2025-05-11)
 - [SONATE-2 (2025-04-19)](#sonate-2-dp0snx-2025-04-19)
 - [SamSat-Ionosphere (2025-04-10)](#samsat-ionosphere-rs75s-2025-04-10)
@@ -192,8 +192,8 @@
 [![2025_01_05_HyperView-1G_RS66S.jpg](2025_01_05_HyperView-1G_RS66S.jpg)](https://db.satnogs.org/satellite/61772)
 ---
 
-<a name="po-101-diwata-2-2025-05-06"></a>
-**Diwata-2 (PO-101) (2025-05-06) - FM - QSO as SWL (digital) [Time (UTC): 06:05(!)]**  
+<a name="diwata-2-po-101-2025-05-06"></a>
+**Diwata-2 (PO-101) (2025-05-06) - QSO as SWL (digital) [Time (UTC): 06:05(!)]**  
 [![2025-05-06_Diwata-2.jpg](2025-05-06_Diwata-2.jpg)](https://db.satnogs.org/satellite/43678)
 ---
 
@@ -212,7 +212,7 @@
 [![2023-05-09_OrbiCraft-Zorkiy.jpg](2023-05-09_OrbiCraft-Zorkiy.jpg)](https://db.satnogs.org/satellite/47960)
 ---
 
-## 确认图像接收的奖状和证书（大部分是 SSTV）
+## 确认图像接收的奖状和证书
 
 <a name="enso-contest-1-diploma"></a>
 **2025-08-11~25 ENSO Contest #1 Diploma**
