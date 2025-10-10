@@ -2,7 +2,7 @@
 
 ## QSL 卡目录
 
-<!-- - [BOTAN (2025-10-xx)](#botan-2025-10-xx) -->
+- [BOTAN (2025-10-xx)](#botan-2025-10-xx)
 - [EIRSAT-1 (2025-09-03)](#eirsat-1-2025-09-03)
 - [ITUpSAT1 (2025-05-20)](#itupsat-1-2025-05-20)
 - [SNUGLITE-I (2025-08-22)](#snuglite-i-2025-08-22)
