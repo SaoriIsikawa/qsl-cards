@@ -2,6 +2,7 @@
 
 ## QSL 卡目录
 
+<!-- - [BOTAN (2025-10-xx)](#botan-2025-10-xx) -->
 - [EIRSAT-1 (2025-09-03)](#eirsat-1-2025-09-03)
 - [ITUpSAT1 (2025-05-20)](#itupsat-1-2025-05-20)
 - [SNUGLITE-I (2025-08-22)](#snuglite-i-2025-08-22)
@@ -50,6 +51,11 @@
 - [2024-12-04 SSTV Diploma - Palace of Pioneers](#sstv-diploma-85th-anniversary-of-the-palace-of-pioneers-2024-12-04)
 - [RS40S Special Event "Victory Day"](#rs40s-victory-day-2025-05-09)
 
+---
+
+<a name="botan-2025-10-xx"></a>
+**BOTAN (2025-10-xx) - CW (digital)**
+[![]()]()
 ---
 
 <a name="eirsat-1-2025-09-03"></a>
