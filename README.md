@@ -4,8 +4,7 @@
 <table>
 <tr><td>
 
-[BOTAN (2025-10-xx)](#botan-2025-10-xx)  
-[BOTAN (2025-10-yy)](#botan-2025-10-yy)  
+[BOTAN (2025-10-10)](#botan-2025-10-10)  
 [EIRSAT-1 (2025-09-03)](#eirsat-1-2025-09-03)  
 [ITUpSat-1 (2025-05-20)](#itupsat-1-2025-05-20)  
 [SNUGLITE-I (2025-08-22)](#snuglite-i-2025-08-22)  
@@ -67,15 +66,9 @@
 
 ---
 
-<a name="botan-2025-10-xx"></a>
-**BOTAN (2025-10-xx) - GMSK 4k8 (digital)**  
-[![]()](https://db.satnogs.org/satellite/65943)
-
----
-
-<a name="botan-2025-10-yy"></a>
-**BOTAN (2025-10-yy) - CW (digital)**  
-[![]()](https://db.satnogs.org/satellite/65943)
+<a name="botan-2025-10-10"></a>
+**BOTAN (2025-10-10) - CW (digital)**  
+[![2025-10-10_BOTAN_JS1YPT.jpg](2025-10-10_BOTAN_JS1YPT.jpg)](https://db.satnogs.org/satellite/65942)
 
 ---
 
