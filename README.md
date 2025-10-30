@@ -4,6 +4,7 @@
 <table>
 <tr><td>
 
+[ASRTU-1 (2025-10-30)](#asrtu-1-2025-10-30)  
 [CubeBel-2 (2025-10-10)](#cubebel-2-2025-10-10)  
 [BOTAN (2025-10-10)](#botan-2025-10-10)  
 [EIRSAT-1 (2025-09-03)](#eirsat-1-2025-09-03)  
@@ -64,6 +65,12 @@
 - [RS40S Special Event "International Women's Day"](#rs40s-international-women-s-day-2025-03-08)
 - [RS40S Special Event "Saudi Founding Day"](#rs40s-mayak-2025-02-22)
 - [RS40S Special Event "MAYAK"](#rs40s-mayak-2025-02-01)
+
+---
+
+<a name="asrtu-1-2025-10-30"></a>
+**ASRTU-1 (2025-10-30) - BPSK 9k6 - Image Data (digital)**  
+[![2025-10-30_ASRTU-1.jpg](2025-10-30_ASRTU-1.jpg)](https://db.satnogs.org/satellite/61781)
 
 ---
 
