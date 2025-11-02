@@ -4,6 +4,7 @@
 <table>
 <tr><td>
 
+[SAQ (2025-10-24)](#saq-2025-10-24)  
 [ASRTU-1 (2025-10-30)](#asrtu-1-2025-10-30)  
 [CubeBel-2 (2025-10-10)](#cubebel-2-2025-10-10)  
 [BOTAN (2025-10-10)](#botan-2025-10-10)  
@@ -65,6 +66,12 @@
 - [RS40S Special Event "International Women's Day"](#rs40s-international-women-s-day-2025-03-08)
 - [RS40S Special Event "Saudi Founding Day"](#rs40s-mayak-2025-02-22)
 - [RS40S Special Event "MAYAK"](#rs40s-mayak-2025-02-01)
+
+---
+
+<a name="saq-2025-10-24"></a>
+**SAQ (2025-10-24) - CW - UN-Day Oct 24th, 2025 Event (digital)**  
+[![2025-10-24_SAQ_Grimeton.jpg](2025-10-24_SAQ_Grimeton.jpg)](https://alexander.n.se/en/saq-scheduled-to-air-on-un-day-oct-24th-2025/)
 
 ---
 
