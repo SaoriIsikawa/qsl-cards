@@ -15,16 +15,16 @@
 [RTI’s German service (2025-07-26)](#rti-s-german-service-2025-07-26)  
 [NUSHSat-1 (2025-05-13)](#nushsat-1-2025-05-13)  
 [Horizon (2025-08-10)](#horizon-rs59s-2025-08-10)  
-[NIGHTJAR (2025-07-17)](#nightjar-xx0uhf-2025-07-17)  
+[Nightjar (2025-07-17)](#nightjar-xx0uhf-2025-07-17)  
 
 </td><td>
 
-[STARS (KUKAI daughter) (2025-05-25)](#stars-kukai-daughter-jr5ybo-2025-05-25)  
+[STARS (2025-05-25)](#stars-kukai-daughter-jr5ybo-2025-05-25)  
 [TechnoSat (2025-05-24)](#technosat-dp0tba-2025-05-24)  
 [TIGRISAT (2025-05-23)](#tigrisat-hnatig-2025-05-23)  
-[ENSO (2025-05-22)](#enso-robusta-1e-fx6frc-2025-05-22)  
+[ROBUSTA-1E (2025-05-22)](#robusta-1e-enso-fx6frc-2025-05-22)  
 [QUBE (2025-05-20)](#qube-dp2qu-2025-05-20)  
-[PEARL-1C (2025-05-13)](#pearl-1c-pearlc-2025-05-13)  
+[PEARL-1C (2025-05-13)](#pearl-1c-2025-05-13)  
 [OTP-2 (2025-05-13)](#otp-2-2025-05-13)  
 [ROBUSTA-3A (2025-05-13)](#robusta-3a-fx6frd-2025-05-13)  
 [Diwata-2 (2024-12-25)](#diwata-2-po-101-2024-12-25)  
@@ -94,7 +94,7 @@
 ---
 
 <a name="eirsat-1-2025-09-03"></a>
-**EIRSAT-1 (2025-09-03) - GFSK 9k6 (digital)**  
+**EIRSAT-1 (2025-09-03) - GMSK 9k6 (digital)**  
 [![2025-09-03_EIRSAT-1.jpg](2025-09-03_EIRSAT-1.jpg)](https://db.satnogs.org/satellite/58472)
 
 ---
@@ -112,7 +112,7 @@
 ---
 
 <a name="utmn-2-rs27s-2025-06-04"></a>
-**UTMN-2 (RS27S) (2025-06-04) - GMSK USP 9k6 (digital)**  
+**RS27S (UTMN-2, ТюмГУ) (2025-06-04) - GMSK USP 9k6 (digital)**  
 [![2025_06_04_UTMN-2_RS27S.jpg](2025_06_04_UTMN-2_RS27S.jpg)](https://db.satnogs.org/satellite/57203)
 
 ---
@@ -136,13 +136,13 @@
 ---
 
 <a name="nightjar-xx0uhf-2025-07-17"></a>
-**夜鷹號 NIGHTJAR (XX0UHF) (2025-07-17) - GFSK 4k8 (digital)**  
+**Nightjar (夜鷹號) (2025-07-17) - GFSK 4k8 (digital)**  
 [![2025-07-17_Nightjar_XX0UHF.jpg](2025-07-17_Nightjar_XX0UHF.jpg)](https://db.satnogs.org/satellite/60535)
 
 ---
 
 <a name="stars-kukai-daughter-jr5ybo-2025-05-25"></a>
-**STARS (KUKAI daughter) (JR5YBO) (2025-05-25) - CW (digital)**  
+**STARS (KUKAI, 空海) JR5YBO (子) (2025-05-25) - CW (digital)**  
 [![2025-05-25_STARS_KUKAI_daughter.jpg](2025-05-25_STARS_KUKAI_daughter.jpg)](https://db.satnogs.org/satellite/43640)
 
 ---
@@ -154,13 +154,13 @@
 ---
 
 <a name="tigrisat-hnatig-2025-05-23"></a>
-**TIGRISAT (HNATIG) (2025-05-23) - FSK 9k6 (digital)**  
+**TIGRISAT (2025-05-23) - FSK 9k6 (digital)**  
 [![2025_05_23_TIGRISAT_HNATIG.jpg](2025_05_23_TIGRISAT_HNATIG.jpg)](https://db.satnogs.org/satellite/40043)
 
 ---
 
-<a name="enso-robusta-1e-fx6frc-2025-05-22"></a>
-**ENSO (ROBUSTA-1E) (FX6FRC) (2025-05-22) - FSK 9k6 (digital)**  
+<a name="robusta-1e-enso-fx6frc-2025-05-22"></a>
+**ROBUSTA-1E (ENSO, FX6FRC) (2025-05-22) - FSK 9k6 (digital)**  
 [![2025_05_22_ENSO_ROBUSTA-1E_FX6FRC.jpg](2025_05_22_ENSO_ROBUSTA-1E_FX6FRC.jpg)](https://db.satnogs.org/satellite/58470)
 
 ---
@@ -171,9 +171,9 @@
 
 ---
 
-<a name="pearl-1c-pearlc-2025-05-13"></a>
-**PEARLC (PEARL-1C, 珍珠號-1C) (2025-05-13) - GMSK 9k6(!) (paper) [MHz: 435.310 (!)]**  
-[![2025_05_13_PEARL-1C_PEARLC.jpg](2025_05_13_PEARL-1C_PEARLC.jpg)](https://db.satnogs.org/satellite/58342)
+<a name="pearl-1c-2025-05-13"></a>
+**PEARL-1C (珍珠號-1C) (2025-05-13) - GMSK 9k6(!) (paper) [MHz: 435.310 (!)]**  
+[![2025_05_13_PEARL-1C.jpg](2025_05_13_PEARL-1C.jpg)](https://db.satnogs.org/satellite/58342)
 
 ---
 
@@ -190,7 +190,7 @@
 ---
 
 <a name="samsat-ionosphere-rs75s-2025-05-11"></a>
-**SamSat-Ionosphere (RS75S) (2025-05-11) - FSK 1k2 - Victory Day (digital)**  
+**RS75S (SamSat-Ionosphere) (2025-05-11) - FSK 1k2 - Victory Day (digital)**  
 [![2025_05_11_SamSat-Ionosphere_RS75S.jpg](2025_05_11_SamSat-Ionosphere_RS75S.jpg)](https://db.satnogs.org/satellite/61784)
 
 ---
@@ -202,7 +202,7 @@
 ---
 
 <a name="samsat-ionosphere-rs75s-2025-04-10"></a>
-**SamSat-Ionosphere (RS75S) (2025-04-10) - FSK 1k2 - Gagarin's Day (digital)**  
+**RS75S (SamSat-Ionosphere) (2025-04-10) - FSK 1k2 - Gagarin's Day (digital)**  
 [![2025_04_10_SamSat-Ionosphere_RS75S.jpg](2025_04_10_SamSat-Ionosphere_RS75S.jpg)](https://db.satnogs.org/satellite/61784)
 
 ---
@@ -220,7 +220,7 @@
 ---
 
 <a name="arcticsat-1-rs74s-2025-04-01"></a>
-**ArcticSat-1 (RS74S) (2025-04-01) - SSTV Robot36 - 1st of April Event (digital)**  
+**RS74S (Arcticsat-1) (2025-04-01) - SSTV Robot36 - 1st of April Event (digital)**  
 [![2025_04_01_ArcticSat-1_RS74S.jpg](2025_04_01_ArcticSat-1_RS74S.jpg)](https://db.satnogs.org/satellite/61762)
 
 ---
@@ -256,7 +256,7 @@
 ---
 
 <a name="reshucube-2-rs37s-2025-01-28"></a>
-**ReshUCube-2 (RS37S) (2025-01-28) - LoRa (digital)**  
+**RS37S (ReshUCube-2) (2025-01-28) - LoRa (digital)**  
 [![2025_01_28_ReshUCube-2_RS37S.jpg](2025_01_28_ReshUCube-2_RS37S.jpg)](https://db.satnogs.org/satellite/57168)
 
 ---
@@ -287,7 +287,7 @@
 ---
 
 <a name="orbicraft-zorkiy-rs15s-2023-05-09"></a>
-**OrbiCraft-Zorkiy (RS15S) (2023-05-09) - SSTV (digital)**  
+**RS15S (OrbiCraft-Zorkiy) (2023-05-09) - SSTV (digital)**  
 [![2023-05-09_OrbiCraft-Zorkiy.jpg](2023-05-09_OrbiCraft-Zorkiy.jpg)](https://db.satnogs.org/satellite/47960)
 
 ---
