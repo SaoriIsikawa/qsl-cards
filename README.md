@@ -9,7 +9,7 @@
 [CubeBel-2 (2025-10-10)](#cubebel-2-2025-10-10)  
 [BOTAN (2025-10-10)](#botan-2025-10-10)  
 [EIRSAT-1 (2025-09-03)](#eirsat-1-2025-09-03)  
-[ITUpSat-1 (2025-05-20)](#itupsat-1-2025-05-20)  
+[ITUpSat1 (2025-05-20)](#itupsat-1-2025-05-20)  
 [SNUGLITE-I (2025-08-22)](#snuglite-i-2025-08-22)  
 [UTMN-2 (2025-06-04)](#utmn-2-rs27s-2025-06-04)  
 [RTI’s German service (2025-07-26)](#rti-s-german-service-2025-07-26)  
@@ -100,7 +100,7 @@
 ---
 
 <a name="itupsat-1-2025-05-20"></a>
-**ITUpSat-1 (2025-05-20) - CW (digital)**  
+**ITUpSat1 (2025-05-20) - CW (digital)**  
 [![itupsat1.jpg](itupsat1.jpg)](https://db.satnogs.org/satellite/35935)
 
 ---
