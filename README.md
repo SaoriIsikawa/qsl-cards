@@ -76,7 +76,7 @@
 ---
 
 <a name="asrtu-1-2025-10-30"></a>
-**ASRTU-1 (BJ1CR,RS64S) (2025-10-30) - BPSK 9k6 - Image Data (digital)**  
+**ASRTU-1 (阿斯图友谊号) BJ1CR/RS64S (2025-10-30) - BPSK 9k6 - Image Data (digital)**  
 [![2025-10-30_ASRTU-1.jpg](2025-10-30_ASRTU-1.jpg)](https://db.satnogs.org/satellite/61781)
 
 ---
