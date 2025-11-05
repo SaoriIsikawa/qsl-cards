@@ -71,7 +71,7 @@
 ---
 
 <a name="real-2025-08-30"></a>
-**REAL (2025-08-30) - GFSK 9k6 (digital)**  
+**REAL (2025-08-30) - GFSK 9k6 (paper)**  
 [![2025-08-30_REAL_WR9XTX.jpg](2025-08-30_REAL_WR9XTX.jpg)](https://db.satnogs.org/satellite/64875)
 
 ---
