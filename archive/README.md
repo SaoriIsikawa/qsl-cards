@@ -2,8 +2,6 @@
 
 ## 📬 QSL 卡
 
----
-
 <a name="texas-radio-shortwave-2025-10-31"></a>
 **Texas Radio Shortwave (2025-10-31) - AM - Program: 2025 Texas Halloween Music (digital)**
 ![2025-10-31_TRSW_Halloween.jpg](2025-10-31_TRSW_Halloween.jpg)
