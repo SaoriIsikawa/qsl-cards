@@ -68,6 +68,7 @@
 - [RS40S Special Event "International Women's Day"](#rs40s-international-women-s-day-2025-03-08)
 - [RS40S Special Event "Saudi Founding Day"](#rs40s-mayak-2025-02-22)
 - [RS40S Special Event "MAYAK"](#rs40s-mayak-2025-02-01)
+- [2025-10-03~04 RS40S Quest Diploma](#rs40s-quest)
 
 ---
 
@@ -388,5 +389,11 @@
 <a name="rs40s-mayak-2025-02-01"></a>
 **RS40S Special Event "MAYAK" (2025-02-01) - SSTV (digital)**  
 ![2025-02-01_UMKA-1_RS40S.jpg](2025-02-01_UMKA-1_RS40S.jpg)
+
+---
+
+<a name="rs40s-quest"></a>
+**2025-10-03~04 RS40S Quest Diploma**  
+![rs40s_quest.jpg](rs40s_quest.jpg)
 
 ---
