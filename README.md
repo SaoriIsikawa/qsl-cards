@@ -4,8 +4,8 @@
 <table>
 <tr><td>
 
-[RSP-03 (2025-10-25)](#rsp-03-2025-10-25)  
-[REAL (2025-08-30)](#real-2025-08-30)  
+[RSP-03 (2025-10-25)](#rsp-03-js1yoy-2025-10-25)  
+[REAL (2025-08-30)](#real-wr9xtx-2025-08-30)  
 [SAQ (2025-10-24)](#saq-2025-10-24)  
 [ASRTU-1 (2025-10-30)](#asrtu-1-2025-10-30)  
 [CubeBel-2 (2025-10-10)](#cubebel-2-2025-10-10)  
@@ -72,12 +72,12 @@
 
 ---
 
-<a name="rsp-03-2025-10-25"></a>
+<a name="rsp-03-js1yoy-2025-10-25"></a>
 **RSP-03 (2025-10-25) - CW (digital)**  
-[![2025_10_25_RSP-03.jpg](2025_10_25_RSP-03.jpg)](https://db.satnogs.org/satellite/65732)
+[![2025_10_25_RSP-03_JS1YOY.jpg](2025_10_25_RSP-03_JS1YOY.jpg)](https://db.satnogs.org/satellite/65732)
 
 ---
-<a name="real-2025-08-30"></a>
+<a name="real-wr9xtx-2025-08-30"></a>
 **REAL (2025-08-30) - GFSK 9k6 (paper)**  
 [![2025-08-30_REAL_WR9XTX.jpg](2025-08-30_REAL_WR9XTX.jpg)](https://db.satnogs.org/satellite/64875)
 
