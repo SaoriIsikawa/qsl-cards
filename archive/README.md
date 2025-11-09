@@ -2,6 +2,13 @@
 
 ## 📬 QSL 卡
 
+<a name="diwata-2-po-101-2024-11-25"></a>
+**Diwata-2 (PO-101) (2024-11-25) - FM (digital)**  
+(Philippine Space Agency confirmed my QSO with BG7QOA)  
+![2024-12-25_Diwata-2.jpg](2024-12-25_Diwata-2.jpg)
+
+---
+
 <a name="texas-radio-shortwave-2025-10-31"></a>
 **Texas Radio Shortwave (2025-10-31) - AM - Program: 2025 Texas Halloween Music (digital)**
 ![2025-10-31_TRSW_Halloween.jpg](2025-10-31_TRSW_Halloween.jpg)
@@ -62,7 +69,7 @@
 ---
 
 <a name="diwata-2-po-101-2024-11-18"></a>
-**Diwata-2 (PO-101) (2024-11-18) - FM - QSO as SWL (digital)**  
+**Diwata-2 (PO-101) (2024-11-18) - QSO as SWL (digital)**  
 [![2024_11_18_Diwata-2_PO-101.jpg](2024_11_18_Diwata-2_PO-101.jpg)](https://db.satnogs.org/satellite/43678)
 
 ---

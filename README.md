@@ -29,7 +29,7 @@
 [PEARL-1C (2025-05-13)](#pearl-1c-2025-05-13)  
 [OTP-2 (2025-05-13)](#otp-2-2025-05-13)  
 [ROBUSTA-3A (2025-05-13)](#robusta-3a-fx6frd-2025-05-13)  
-[Diwata-2 (2024-12-25)](#diwata-2-po-101-2024-12-25)  
+[Diwata-2 (2024-11-18)](#diwata-2-po-101-2024-12-25)  
 
 </td><td>
 
@@ -281,10 +281,9 @@
 
 ---
 
-<a name="diwata-2-po-101-2024-12-25"></a>
-**Diwata-2 (PO-101) (2024-12-25) - FM (digital)**  
-(Philippine Space Agency confirmed my QSO with BG7QOA)  
-![2024-12-25_Diwata-2.jpg](2024-12-25_Diwata-2.jpg)
+<a name="diwata-2-po-101-2024-11-18"></a>
+**Diwata-2 (PO-101) (2024-11-18) - QSO as SWL (digital)**  
+![2024-11-18_Diwata-2.jpg](2024-11-18_Diwata-2.jpg)
 
 ---
 
