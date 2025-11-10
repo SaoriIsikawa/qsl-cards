@@ -175,44 +175,44 @@
 ---
 
 <a name="enso-2025-11-04"></a>
-**ROBUSTA-1E (ENSO, FX6FRC) (2025-11-04) - 9k6 (digital)**  
+**ENSO (ROBUSTA-1E, FX6FRC) (2025-11-04) - 9k6 (digital)**  
 [![2025-11-04_ENSO_EOL.jpg](2025-11-04_ENSO_EOL.jpg)](https://db.satnogs.org/satellite/58470)
 
 ---
 
 <a name="enso-2025-05-22"></a>
-**ROBUSTA-1E (ENSO, FX6FRC) (2025-05-22) - 9k6 (digital)**  
+**ENSO (ROBUSTA-1E, FX6FRC) (2025-05-22) - 9k6 (digital)**  
 [![2025-05-22_ENSO.jpg](2025-05-22_ENSO.jpg)](https://db.satnogs.org/satellite/58470)
 
 ---
 
 <a name="qube-dp2qu-2025-05-20"></a>
 **QUBE (DP2QU) (2025-05-20) - GFSK 9k6 (digital)**  
-[![2025_05_20_QUBE_DP2QU.jpg](2025_05_20_QUBE_DP2QU.jpg)](https://db.satnogs.org/satellite/60476)
+[![2025-05-20_QUBE_DP2QU.jpg](2025-05-20_QUBE_DP2QU.jpg)](https://db.satnogs.org/satellite/60476)
 
 ---
 
 <a name="pearl-1c-2025-05-13"></a>
 **PEARL-1C (珍珠號-1C) (2025-05-13) - GMSK 9k6(!) (paper) [MHz: 435.310 (!)]**  
-[![2025_05_13_PEARL-1C.jpg](2025_05_13_PEARL-1C.jpg)](https://db.satnogs.org/satellite/58342)
+[![2025-05-13_PEARL-1C.jpg](2025-05-13_PEARL-1C.jpg)](https://db.satnogs.org/satellite/58342)
 
 ---
 
 <a name="otp-2-2025-05-13"></a>
 **OTP-2 (2025-05-13) - GFSK 4k8 (digital)**  
-[![2025_05_13_OTP-2.jpg](2025_05_13_OTP-2.jpg)](https://db.satnogs.org/satellite/63235)
+[![2025-05-13_OTP-2.jpg](2025-05-13_OTP-2.jpg)](https://db.satnogs.org/satellite/63235)
 
 ---
 
 <a name="robusta-3a-fx6frd-2025-05-13"></a>
 **ROBUSTA-3A (FX6FRD) (2025-05-13) - FSK 9k6 (digital)**  
-[![2025_05_13_ROBUSTA-3A_FX6FRD.jpg](2025_05_13_ROBUSTA-3A_FX6FRD.jpg)](https://db.satnogs.org/satellite/60243)
+[![2025-05-13_ROBUSTA-3A_FX6FRD.jpg](2025-05-13_ROBUSTA-3A_FX6FRD.jpg)](https://db.satnogs.org/satellite/60243)
 
 ---
 
 <a name="samsat-ionosphere-rs75s-2025-05-11"></a>
 **RS75S (SamSat-Ionosphere) (2025-05-11) - FSK 1k2 - Victory Day (digital)**  
-[![2025_05_11_SamSat-Ionosphere_RS75S.jpg](2025_05_11_SamSat-Ionosphere_RS75S.jpg)](https://db.satnogs.org/satellite/61784)
+[![2025-05-11_RS75S.jpg](2025-05-11_RS75S.jpg)](https://db.satnogs.org/satellite/61784)
 
 ---
 
@@ -224,7 +224,7 @@
 
 <a name="samsat-ionosphere-rs75s-2025-04-10"></a>
 **RS75S (SamSat-Ionosphere) (2025-04-10) - FSK 1k2 - Gagarin's Day (digital)**  
-[![2025_04_10_SamSat-Ionosphere_RS75S.jpg](2025_04_10_SamSat-Ionosphere_RS75S.jpg)](https://db.satnogs.org/satellite/61784)
+[![2025-04-10_RS75S.jpg](2025-04-10_RS75S.jpg)](https://db.satnogs.org/satellite/61784)
 
 ---
 
@@ -236,13 +236,13 @@
 
 <a name="lasarsat-ok0lsr-2025-04-08"></a>
 **LASARsat (OK0LSR) (2025-04-08) - CW (digital)**  
-[![2025_04_08_LASARsat_OK0LSR.jpg](2025_04_08_LASARsat_OK0LSR.jpg)](https://db.satnogs.org/satellite/62391)
+[![2025-04-08_LASARsat_OK0LSR.jpg](2025-04-08_LASARsat_OK0LSR.jpg)](https://db.satnogs.org/satellite/62391)
 
 ---
 
 <a name="arcticsat-1-rs74s-2025-04-01"></a>
 **RS74S (Arcticsat-1) (2025-04-01) - SSTV Robot36 - 1st of April Event (digital)**  
-[![2025_04_01_ArcticSat-1_RS74S.jpg](2025_04_01_ArcticSat-1_RS74S.jpg)](https://db.satnogs.org/satellite/61762)
+[![2025-04-01_ArcticSat-1_RS74S.jpg](2025-04-01_ArcticSat-1_RS74S.jpg)](https://db.satnogs.org/satellite/61762)
 
 ---
 
