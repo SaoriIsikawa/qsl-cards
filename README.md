@@ -4,6 +4,7 @@
 <table>
 <tr><td>
 
+[ENSO (2025-11-04)](#enso-2025-11-04)  
 [RSP-03 (2025-10-25)](#rsp-03-js1yoy-2025-10-25)  
 [REAL (2025-08-30)](#real-wr9xtx-2025-08-30)  
 [SAQ (2025-10-24)](#saq-2025-10-24)  
@@ -24,7 +25,7 @@
 [STARS (2025-05-25)](#stars-kukai-daughter-jr5ybo-2025-05-25)  
 [TechnoSat (2025-05-24)](#technosat-dp0tba-2025-05-24)  
 [TIGRISAT (2025-05-23)](#tigrisat-hnatig-2025-05-23)  
-[ROBUSTA-1E (2025-05-22)](#robusta-1e-enso-fx6frc-2025-05-22)  
+[ENSO (2025-05-22)](#enso-2025-05-22)  
 [QUBE (2025-05-20)](#qube-dp2qu-2025-05-20)  
 [PEARL-1C (2025-05-13)](#pearl-1c-2025-05-13)  
 [OTP-2 (2025-05-13)](#otp-2-2025-05-13)  
@@ -54,7 +55,7 @@
 
 ## 📜 证书与奖项
 
-- [2025-08-11~25 ENSO Contest #1 Diploma](#enso-contest-1-diploma)
+- [2025-08-11~25 ENSO First Game](#enso-1-who-is-game)
 - [RS15S (OrbiCraft-Zorkiy) (2025-04-07) Farewell Diploma](#orbicraft-zorkiy-diploma)
 - [2025-10-03~09 Expedition 73 - ARISS Series 29 - World Space Week 2025](#expedition-73-ariss-series-29-world-space-week-2025-10-03)
 - [2025-07-14~20 Expedition 73 - ARISS Series 28 - Apollo Soyuz and STS-51F](#expedition-73-ariss-series-28-apollo-soyuz-and-sts-51f-2025-07-14)
@@ -69,6 +70,12 @@
 - [RS40S Special Event "Saudi Founding Day"](#rs40s-mayak-2025-02-22)
 - [RS40S Special Event "MAYAK"](#rs40s-mayak-2025-02-01)
 - [2025-10-03~04 RS40S Quest Diploma](#rs40s-quest)
+
+---
+
+<a name="enso-2025-11-04"></a>
+**ROBUSTA-1E (ENSO, FX6FRC) (2025-11-04) - 9k6 (digital)**  
+[![2025-11-04_ENSO_EOL.jpg](2025-11-04_ENSO_EOL.jpg)](https://db.satnogs.org/satellite/58470)
 
 ---
 
@@ -173,9 +180,9 @@
 
 ---
 
-<a name="robusta-1e-enso-fx6frc-2025-05-22"></a>
-**ROBUSTA-1E (ENSO, FX6FRC) (2025-05-22) - FSK 9k6 (digital)**  
-[![2025_05_22_ENSO_ROBUSTA-1E_FX6FRC.jpg](2025_05_22_ENSO_ROBUSTA-1E_FX6FRC.jpg)](https://db.satnogs.org/satellite/58470)
+<a name="enso-2025-05-22"></a>
+**ROBUSTA-1E (ENSO, FX6FRC) (2025-05-22) - 9k6 (digital)**  
+[![2025-05-22_ENSO.jpg](2025-05-22_ENSO.jpg)](https://db.satnogs.org/satellite/58470)
 
 ---
 
@@ -307,9 +314,9 @@
 
 ## 📜 确认图像接收的证书与奖项
 
-<a name="enso-contest-1-diploma"></a>
-**2025-08-11~25 ENSO Contest #1 Diploma**  
-![enso_diploma_who_is.jpg](enso_diploma_who_is.jpg)
+<a name="enso-1-who-is-game"></a>
+**2025-08-11~25 ROBUSTA-1E (ENSO, FX6FRC) - First game "Who is?"**  
+![enso_1_who_is_game.jpg](enso_1_who_is_game.jpg)
 
 ---
 
