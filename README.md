@@ -56,7 +56,7 @@
 ## 📜 证书与奖项
 
 - [2025-08-11~25 ENSO First Game](#enso-1-who-is-game)
-- [RS15S (OrbiCraft-Zorkiy) (2025-04-07) Farewell Diploma](#orbicraft-zorkiy-diploma)
+- [RS15S (OrbiCraft-Zorkiy) Farewell Diploma](#orbicraft-zorkiy-diploma)
 - [2025-10-03~09 Expedition 73 - ARISS Series 29 - World Space Week 2025](#expedition-73-ariss-series-29-world-space-week-2025-10-03)
 - [2025-07-14~20 Expedition 73 - ARISS Series 28 - Apollo Soyuz and STS-51F](#expedition-73-ariss-series-28-apollo-soyuz-and-sts-51f-2025-07-14)
 - [2025-07-14~20 Russia ISS SSTV Diploma](#russia-iss-sstv-diploma-2025-07-15)
@@ -69,7 +69,7 @@
 - [RS40S Special Event "International Women's Day"](#rs40s-international-women-s-day-2025-03-08)
 - [RS40S Special Event "Saudi Founding Day"](#rs40s-mayak-2025-02-22)
 - [RS40S Special Event "MAYAK"](#rs40s-mayak-2025-02-01)
-- [2025-10-03~04 RS40S Quest Diploma](#rs40s-quest)
+- [2025-10-03~04 RS40S Radio Quest commemorating Sputnik-1](#rs40s-radio-quest)
 
 ---
 
@@ -398,8 +398,8 @@
 
 ---
 
-<a name="rs40s-quest"></a>
-**2025-10-03~04 RS40S Quest Diploma**  
-![rs40s_quest.jpg](rs40s_quest.jpg)
+<a name="rs40s-radio-quest"></a>
+**2025-10-03~04 RS40S Radio Quest commemorating Sputnik-1**  
+![rs40s_radio_quest.jpg](rs40s_radio_quest.jpg)
 
 ---
