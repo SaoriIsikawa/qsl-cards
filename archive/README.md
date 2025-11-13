@@ -2,6 +2,12 @@
 
 ## 📬 QSL 卡
 
+<a name="vorw-2025-11-06"></a>
+**VORW Radio International. (2025-11-06) - AM (digital)**  
+![2025-11-06_VORW.jpg](2025-11-06_VORW.jpg)
+
+---
+
 <a name="diwata-2-po-101-2024-11-25"></a>
 **Diwata-2 (PO-101) (2024-11-25) - FM (digital)**  
 (Philippine Space Agency confirmed my QSO with BG7QOA)  
