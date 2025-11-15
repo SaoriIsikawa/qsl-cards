@@ -104,7 +104,7 @@
 ---
 
 <a name="botan-2025-11-14"></a>
-**BOTAN (JS1YPT) (2025-11-14) - CW (digital)**  
+**BOTAN (JS1YPT) (2025-11-14) - APRS (digital)**  
 [![2025-11-14_BOTAN_APRS.jpg](2025-11-14_BOTAN_APRS.jpg)](https://db.satnogs.org/satellite/65942)
 
 ---
