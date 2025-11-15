@@ -9,6 +9,7 @@
 [SAQ (2025-10-24)](#saq-2025-10-24)  
 [ASRTU-1 (2025-10-30)](#asrtu-1-2025-10-30)  
 [CubeBel-2 (2025-10-10)](#cubebel-2-2025-10-10)  
+[BOTAN (2025-11-14)](#botan-2025-11-14)  
 [BOTAN (2025-10-10)](#botan-2025-10-10)  
 [EIRSAT-1 (2025-09-03)](#eirsat-1-2025-09-03)  
 [ITUpSat1 (2025-05-20)](#itupsat-1-2025-05-20)  
@@ -102,9 +103,15 @@
 
 ---
 
+<a name="botan-2025-11-14"></a>
+**BOTAN (JS1YPT) (2025-11-14) - CW (digital)**  
+[![2025-11-14_BOTAN_APRS.jpg](2025-11-14_BOTAN_APRS.jpg)](https://db.satnogs.org/satellite/65942)
+
+---
+
 <a name="botan-2025-10-10"></a>
 **BOTAN (JS1YPT) (2025-10-10) - CW (digital)**  
-[![2025-10-10_BOTAN_JS1YPT.jpg](2025-10-10_BOTAN_JS1YPT.jpg)](https://db.satnogs.org/satellite/65942)
+[![2025-10-10_BOTAN_CW.jpg](2025-10-10_BOTAN_CW.jpg)](https://db.satnogs.org/satellite/65942)
 
 ---
 
