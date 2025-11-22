@@ -83,7 +83,7 @@
 
 <a name="rsp-03-js1yoy-2025-10-25"></a>
 **RSP-03 (2025-10-25) - CW (digital)**  
-[![2025_10_25_RSP-03_JS1YOY.jpg](2025_10_25_RSP-03_JS1YOY.jpg)](https://db.satnogs.org/satellite/65732)
+[![2025-10-25_RSP-03_JS1YOY.jpg](2025-10-25_RSP-03_JS1YOY.jpg)](https://db.satnogs.org/satellite/65732)
 
 ---
 <a name="real-wr9xtx-2025-08-30"></a>
