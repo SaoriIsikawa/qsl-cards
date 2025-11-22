@@ -4,6 +4,7 @@
 <table>
 <tr><td>
 
+[PolyITAN-1 (2025-09-01)](#polyitan-1-2025-09-01)  
 [RSP-03 (2025-10-25)](#rsp-03-js1yoy-2025-10-25)  
 [REAL (2025-08-30)](#real-wr9xtx-2025-08-30)  
 [SAQ (2025-10-24)](#saq-2025-10-24)  
@@ -71,6 +72,12 @@
 - [RS40S Special Event "Saudi Founding Day"](#rs40s-mayak-2025-02-22)
 - [RS40S Special Event "MAYAK"](#rs40s-mayak-2025-02-01)
 - [2025-10-03~04 RS40S Radio Quest commemorating Sputnik-1](#rs40s-radio-quest)
+
+---
+
+<a name="polyitan-1-2025-09-01"></a>
+**PolyITAN-1 (2025-09-01) - CW (Paper)**  
+[![2025-09-01_PolyITAN-1.jpg](2025-09-01_PolyITAN-1.jpg)](https://db.satnogs.org/satellite/40042)
 
 ---
 
