@@ -45,8 +45,8 @@
 [YOMOGI (2024-12-10)](#yomogi-js1ymx-2024-12-10)  
 [NHK World (2025-03-11)](#nhk-world-japan-2025-03-11)  
 [NHK World (2025-03-02)](#nhk-world-japan-2025-03-02)  
-[UmKA-1 (2025-03-01)](#umka-1-rs40s-2025-03-01)  
-[UmKA-1 (2024-10-05)](#umka-1-rs40s-2024-10-05)  
+[UMKA-1 (2025-03-01)](#umka-1-rs40s-2025-03-01)  
+[UMKA-1 (2024-10-05)](#umka-1-rs40s-2024-10-05)  
 [ReshUCube-2 (2025-01-28)](#reshucube-2-rs37s-2025-01-28)  
 [HyperView-1G (2025-01-05)](#hyperview-1g-rs66s-2025-01-05)  
 [ISS RS0ISS (2024-10-13)](#iss-qsl-card-from-rs0iss-2024-10-13)  
@@ -279,13 +279,13 @@
 ---
 
 <a name="umka-1-rs40s-2025-03-01"></a>
-**RS40S (UmKA-1, УмКА-1) (2025-03-01) - GMSK USP 9k6 (digital)**  
+**RS40S (UMKA-1, УмКА-1) (2025-03-01) - GMSK USP 9k6 (digital)**  
 [![2025-03-01_UMKA-1_RS40S.jpg](2025-03-01_UMKA-1_RS40S.jpg)](https://db.satnogs.org/satellite/57172)
 
 ---
 
 <a name="umka-1-rs40s-2024-10-05"></a>
-**RS40S (UmKA-1, УмКА-1) (2024-10-05) - SSTV (digital)**  
+**RS40S (UMKA-1, УмКА-1) (2024-10-05) - SSTV (digital)**  
 [![2024-10-05_UMKA-1_RS40S.jpg](2024-10-05_UMKA-1_RS40S.jpg)](https://db.satnogs.org/satellite/57172)
 
 ---
