@@ -8,7 +8,6 @@
 [RSP-03 (2025-10-25)](#rsp-03-js1yoy-2025-10-25)  
 [REAL (2025-08-30)](#real-wr9xtx-2025-08-30)  
 [SAQ (2025-10-24)](#saq-2025-10-24)  
-[ASRTU-1 (2025-10-30)](#asrtu-1-2025-10-30)  
 [CubeBel-2 (2025-10-10)](#cubebel-2-2025-10-10)  
 [BOTAN (2025-11-14)](#botan-2025-11-14)  
 [BOTAN (2025-10-10)](#botan-2025-10-10)  
@@ -96,12 +95,6 @@
 <a name="saq-2025-10-24"></a>
 **SAQ (2025-10-24) - CW - UN-Day Oct 24th, 2025 Event (digital)**  
 [![2025-10-24_SAQ_Grimeton.jpg](2025-10-24_SAQ_Grimeton.jpg)](https://alexander.n.se/en/saq-scheduled-to-air-on-un-day-oct-24th-2025/)
-
----
-
-<a name="asrtu-1-2025-10-30"></a>
-**ASRTU-1 (阿斯图友谊号) BJ1CR/RS64S (2025-10-30) - BPSK 9k6 - Image Data (digital)**  
-[![2025-10-30_ASRTU-1.jpg](2025-10-30_ASRTU-1.jpg)](https://db.satnogs.org/satellite/61781)
 
 ---
 
