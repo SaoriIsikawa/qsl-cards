@@ -87,7 +87,7 @@
 
 ---
 <a name="real-wr9xtx-2025-08-30"></a>
-**REAL (2025-08-30) - GFSK 9k6 (paper)**  
+**REAL (2025-08-30) - 9k6 (paper)**  
 [![assets/images/assets/images/2025-08-30_REAL_WR9XTX.jpg](assets/images/2025-08-30_REAL_WR9XTX.jpg)](https://db.satnogs.org/satellite/64875)
 
 ---
@@ -99,7 +99,7 @@
 ---
 
 <a name="cubebel-2-2025-10-10"></a>
-**CubeBel-2 (2025-10-10) - GMSK 9k6 (digital)**  
+**CubeBel-2 (2025-10-10) - 9k6 (digital)**  
 [![assets/images/assets/images/2025-10-10_CubeBel-2.jpg](assets/images/2025-10-10_CubeBel-2.jpg)](https://db.satnogs.org/satellite/57175)
 
 ---
@@ -117,7 +117,7 @@
 ---
 
 <a name="eirsat-1-2025-09-03"></a>
-**EIRSAT-1 (2025-09-03) - GMSK 9k6 (digital)**  
+**EIRSAT-1 (2025-09-03) - 9k6 (digital)**  
 [![assets/images/assets/images/2025-09-03_EIRSAT-1.jpg](assets/images/2025-09-03_EIRSAT-1.jpg)](https://db.satnogs.org/satellite/58472)
 
 ---
@@ -129,13 +129,13 @@
 ---
 
 <a name="snuglite-i-2025-08-22"></a>
-**SNUGLITE-I (2025-08-22) - GMSK 9k6 (digital)**  
+**SNUGLITE-I (2025-08-22) - 9k6 (digital)**  
 [![assets/images/assets/images/2025_08_22_SNUGLITE-I.jpg](assets/images/2025_08_22_SNUGLITE-I.jpg)](https://db.satnogs.org/satellite/43784)
 
 ---
 
 <a name="utmn-2-rs27s-2025-06-04"></a>
-**RS27S (UTMN-2, ТюмГУ) (2025-06-04) - GMSK USP 9k6 (digital)**  
+**RS27S (UTMN-2, ТюмГУ) (2025-06-04) - USP 9k6 (digital)**  
 [![assets/images/assets/images/2025_06_04_UTMN-2_RS27S.jpg](assets/images/2025_06_04_UTMN-2_RS27S.jpg)](https://db.satnogs.org/satellite/57203)
 
 ---
@@ -153,13 +153,13 @@
 ---
 
 <a name="horizon-rs59s-2025-08-10"></a>
-**Horizon (RS59S) (2025-08-10) - GMSK 9k6 - Image Data (digital)**  
+**Horizon (RS59S) (2025-08-10) - 9k6 - Image Data (digital)**  
 [![assets/images/assets/images/2025_08_10_Horizon_RS59S.jpg](assets/images/2025_08_10_Horizon_RS59S.jpg)](https://db.satnogs.org/satellite/61757)
 
 ---
 
 <a name="nightjar-xx0uhf-2025-07-17"></a>
-**Nightjar (夜鷹號) (2025-07-17) - GFSK 4k8 (digital)**  
+**Nightjar (夜鷹號) (2025-07-17) - 4k8 (digital)**  
 [![assets/images/assets/images/2025-07-17_Nightjar_XX0UHF.jpg](assets/images/2025-07-17_Nightjar_XX0UHF.jpg)](https://db.satnogs.org/satellite/60535)
 
 ---
@@ -195,19 +195,19 @@
 ---
 
 <a name="qube-dp2qu-2025-05-20"></a>
-**QUBE (DP2QU) (2025-05-20) - GFSK 9k6 (digital)**  
+**QUBE (DP2QU) (2025-05-20) - 9k6 (digital)**  
 [![assets/images/assets/images/2025-05-20_QUBE_DP2QU.jpg](assets/images/2025-05-20_QUBE_DP2QU.jpg)](https://db.satnogs.org/satellite/60476)
 
 ---
 
 <a name="pearl-1c-2025-05-13"></a>
-**PEARL-1C (珍珠號-1C) (2025-05-13) - GMSK 9k6(!) (paper) [MHz: 435.310 (!)]**  
+**PEARL-1C (珍珠號-1C) (2025-05-13) - 9k6(!) (paper) [MHz: 435.310 (!)]**  
 [![assets/images/assets/images/2025-05-13_PEARL-1C.jpg](assets/images/2025-05-13_PEARL-1C.jpg)](https://db.satnogs.org/satellite/58342)
 
 ---
 
 <a name="otp-2-2025-05-13"></a>
-**OTP-2 (2025-05-13) - GFSK 4k8 (digital)**  
+**OTP-2 (2025-05-13) - 4k8 (digital)**  
 [![assets/images/assets/images/2025-05-13_OTP-2.jpg](assets/images/2025-05-13_OTP-2.jpg)](https://db.satnogs.org/satellite/63235)
 
 ---
@@ -237,7 +237,7 @@
 ---
 
 <a name="crocube-9a0cc-2025-04-10"></a>
-**CroCube (9A0CC) (2025-04-10) - GFSK 9k6 (digital)**  
+**CroCube (9A0CC) (2025-04-10) - 9k6 (digital)**  
 [![assets/images/assets/images/2025_04_10_CroCube_9A0CC.jpg](assets/images/2025_04_10_CroCube_9A0CC.jpg)](https://db.satnogs.org/satellite/62394)
 
 ---
