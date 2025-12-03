@@ -23,6 +23,8 @@
 
 [Radyo Pilipinas World Service (2025-12-01)](#radyo-pilipinas-world-service-2025-12-01)  
 [RTI’s German service (2025-07-26)](#rti-s-german-service-2025-07-26)  
+[NHK World (2025-03-11)](#nhk-world-japan-2025-03-11)  
+[NHK World (2025-03-02)](#nhk-world-japan-2025-03-02)  
 [STARS (2025-05-25)](#stars-kukai-daughter-jr5ybo-2025-05-25)  
 [TechnoSat (2025-05-24)](#technosat-dp0tba-2025-05-24)  
 [TIGRISAT (2025-05-23)](#tigrisat-hnatig-2025-05-23)  
@@ -43,8 +45,6 @@
 [LASARsat (2025-04-08)](#lasarsat-ok0lsr-2025-04-08)  
 [ArcticSat-1 (2025-04-01)](#arcticsat-1-rs74s-2025-04-01)  
 [YOMOGI (2024-12-10)](#yomogi-js1ymx-2024-12-10)  
-[NHK World (2025-03-11)](#nhk-world-japan-2025-03-11)  
-[NHK World (2025-03-02)](#nhk-world-japan-2025-03-02)  
 [UmKA-1 (2025-03-01)](#umka-1-rs40s-2025-03-01)  
 [UmKA-1 (2024-10-05)](#umka-1-rs40s-2024-10-05)  
 [ReshUCube-2 (2025-01-28)](#reshucube-2-rs37s-2025-01-28)  
@@ -171,6 +171,18 @@
 
 ---
 
+<a name="nhk-world-japan-2025-03-11"></a>
+**NHK World-Japan (2025-03-11) - AM (paper)**  
+![assets/images/2025-03-11_NHK_WORLD_JAPAN.jpg](assets/images/2025-03-11_NHK_WORLD_JAPAN.jpg)
+
+---
+
+<a name="nhk-world-japan-2025-03-02"></a>
+**NHK World-Japan (2025-03-02) - AM (paper)**  
+![assets/images/2025-03-02_NHK_WORLD_JAPAN.jpg](assets/images/2025-03-02_NHK_WORLD_JAPAN.jpg)
+
+---
+
 <a name="stars-kukai-daughter-jr5ybo-2025-05-25"></a>
 **STARS (KUKAI, 空海) JR5YBO (子) (2025-05-25) - CW (digital)**  
 [![assets/images/assets/images/2025-05-25_STARS_KUKAI_daughter.jpg](assets/images/2025-05-25_STARS_KUKAI_daughter.jpg)](https://db.satnogs.org/satellite/43640)
@@ -264,18 +276,6 @@
 <a name="yomogi-js1ymx-2024-12-10"></a>
 **YOMOGI (JS1YMX) (2024-12-10) - CW (digital)**  
 [![assets/images/assets/images/2024-12-10_YOMOGI_JS1YMX.jpg](assets/images/2024-12-10_YOMOGI_JS1YMX.jpg)](https://db.satnogs.org/satellite/62298)
-
----
-
-<a name="nhk-world-japan-2025-03-11"></a>
-**NHK World-Japan (2025-03-11) - AM (paper)**  
-![assets/images/2025-03-11_NHK_WORLD_JAPAN.jpg](assets/images/2025-03-11_NHK_WORLD_JAPAN.jpg)
-
----
-
-<a name="nhk-world-japan-2025-03-02"></a>
-**NHK World-Japan (2025-03-02) - AM (paper)**  
-![assets/images/2025-03-02_NHK_WORLD_JAPAN.jpg](assets/images/2025-03-02_NHK_WORLD_JAPAN.jpg)
 
 ---
 
