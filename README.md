@@ -160,7 +160,7 @@
 
 <a name="radyo-pilipinas-world-service-2025-12-01"></a>
 **Radyo Pilipinas World Service (2025-12-01) - AM (digital)**  
-[![assets/images/assets/images/2025-12-01_Radyo_Pilipinas_World_Service.jpg](assets/images/2025-12-01_Radyo_Pilipinas_World_Service.jpg)](https://pbs.gov.ph/)
+[![2025-12-01_Radyo_Pilipinas_World_Service.jpg](assets/images/2025-12-01_Radyo_Pilipinas_World_Service.jpg)](assets/audio/2025-12-02_Radyo_Pilipinas_World_Service.m4a)
 
 ---
 
