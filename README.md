@@ -15,13 +15,14 @@
 [ITUpSat1 (2025-05-20)](#itupsat-1-2025-05-20)  
 [SNUGLITE-I (2025-08-22)](#snuglite-i-2025-08-22)  
 [UTMN-2 (2025-06-04)](#utmn-2-rs27s-2025-06-04)  
-[RTI’s German service (2025-07-26)](#rti-s-german-service-2025-07-26)  
 [NUSHSat-1 (2025-05-13)](#nushsat-1-2025-05-13)  
 [Horizon (2025-08-10)](#horizon-rs59s-2025-08-10)  
 [Nightjar (2025-07-17)](#nightjar-xx0uhf-2025-07-17)  
 
 </td><td>
 
+[Radyo Pilipinas World Service (2025-12-01)](#radyo-pilipinas-world-service-2025-12-01)  
+[RTI’s German service (2025-07-26)](#rti-s-german-service-2025-07-26)  
 [STARS (2025-05-25)](#stars-kukai-daughter-jr5ybo-2025-05-25)  
 [TechnoSat (2025-05-24)](#technosat-dp0tba-2025-05-24)  
 [TIGRISAT (2025-05-23)](#tigrisat-hnatig-2025-05-23)  
@@ -140,12 +141,6 @@
 
 ---
 
-<a name="rti-s-german-service-2025-07-26"></a>
-**RTI’s German service (2025-07-26) - AM (paper)**  
-[![assets/images/assets/images/2025-07-26_RTI-DE.jpg](assets/images/2025-07-26_RTI-DE.jpg)](https://www.rti.org.tw/de/information?uid=15&pid=731)
-
----
-
 <a name="nushsat-1-2025-05-13"></a>
 **NUSHSat-1 (2025-05-13) - FSK 1k2 - Beacon (digital)**  
 [![assets/images/assets/images/2025_05_13_NUSHSat-1.jpg](assets/images/2025_05_13_NUSHSat-1.jpg)](https://db.satnogs.org/satellite/63211)
@@ -161,6 +156,18 @@
 <a name="nightjar-xx0uhf-2025-07-17"></a>
 **Nightjar (夜鷹號) (2025-07-17) - 4k8 (digital)**  
 [![assets/images/assets/images/2025-07-17_Nightjar_XX0UHF.jpg](assets/images/2025-07-17_Nightjar_XX0UHF.jpg)](https://db.satnogs.org/satellite/60535)
+
+---
+
+<a name="radyo-pilipinas-world-service-2025-12-01"></a>
+**Radyo Pilipinas World Service (2025-12-01) - AM (digital)**  
+[![assets/images/assets/images/2025-12-01_Radyo_Pilipinas_World_Service.jpg](assets/images/2025-12-01_Radyo_Pilipinas_World_Service.jpg)](https://pbs.gov.ph/)
+
+---
+
+<a name="rti-s-german-service-2025-07-26"></a>
+**RTI’s German service (2025-07-26) - AM (paper)**  
+[![assets/images/assets/images/2025-07-26_RTI-DE.jpg](assets/images/2025-07-26_RTI-DE.jpg)](https://www.rti.org.tw/de/information?uid=15&pid=731)
 
 ---
 
@@ -262,13 +269,13 @@
 
 <a name="nhk-world-japan-2025-03-11"></a>
 **NHK World-Japan (2025-03-11) - AM (paper)**  
-![assets/images/2025-03-11_NHK_WORLD-JAPAN.jpg](assets/images/2025-03-11_NHK_WORLD-JAPAN.jpg)
+![assets/images/2025-03-11_NHK_WORLD_JAPAN.jpg](assets/images/2025-03-11_NHK_WORLD_JAPAN.jpg)
 
 ---
 
 <a name="nhk-world-japan-2025-03-02"></a>
 **NHK World-Japan (2025-03-02) - AM (paper)**  
-![assets/images/2025-03-02_NHK_WORLD-JAPAN.jpg](assets/images/2025-03-02_NHK_WORLD-JAPAN.jpg)
+![assets/images/2025-03-02_NHK_WORLD_JAPAN.jpg](assets/images/2025-03-02_NHK_WORLD_JAPAN.jpg)
 
 ---
 
