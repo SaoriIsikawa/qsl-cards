@@ -28,7 +28,6 @@
 [STARS (2025-05-25)](#stars-kukai-daughter-jr5ybo-2025-05-25)  
 [TechnoSat (2025-05-24)](#technosat-dp0tba-2025-05-24)  
 [TIGRISAT (2025-05-23)](#tigrisat-hnatig-2025-05-23)  
-[ENSO (2025-11-04)](#enso-2025-11-04)  
 [ENSO (2025-05-22)](#enso-2025-05-22)  
 [QUBE (2025-05-20)](#qube-dp2qu-2025-05-20)  
 [PEARL-1C (2025-05-13)](#pearl-1c-2025-05-13)  
@@ -198,12 +197,6 @@
 <a name="tigrisat-hnatig-2025-05-23"></a>
 **TIGRISAT (2025-05-23) - FSK 9k6 (digital)**  
 [![assets/images/assets/images/2025_05_23_TIGRISAT_HNATIG.jpg](assets/images/2025_05_23_TIGRISAT_HNATIG.jpg)](https://db.satnogs.org/satellite/40043)
-
----
-
-<a name="enso-2025-11-04"></a>
-**ENSO (ROBUSTA-1E, FX6FRC) (2025-11-04) - 9k6 (digital)**  
-[![assets/images/assets/images/2025-11-04_ENSO_EOL.jpg](assets/images/2025-11-04_ENSO_EOL.jpg)](https://db.satnogs.org/satellite/58470)
 
 ---
 

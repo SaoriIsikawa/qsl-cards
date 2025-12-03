@@ -56,6 +56,12 @@
 
 ---
 
+<a name="enso-2025-11-04"></a>
+**ENSO (ROBUSTA-1E, FX6FRC) (2025-11-04) - 9k6 (digital)**  
+[![assets/images/assets/images/2025-11-04_ENSO_EOL.jpg](assets/images/2025-11-04_ENSO_EOL.jpg)](https://db.satnogs.org/satellite/58470)
+
+---
+
 <a name="bg5fpk-2025-08-02"></a>
 **My QSO with BG5FPK (2025-08-02) (paper)**  
 ![2025_08_02_BG5FPK.jpg](2025_08_02_BG5FPK.jpg)
