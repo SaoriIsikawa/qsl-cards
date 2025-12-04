@@ -12,7 +12,7 @@
 [BOTAN (2025-11-14)](#botan-2025-11-14)  
 [BOTAN (2025-10-10)](#botan-2025-10-10)  
 [EIRSAT-1 (2025-09-03)](#eirsat-1-2025-09-03)  
-[ITUpSat1 (2025-05-20)](#itupsat-1-2025-05-20)  
+[ITUpSAT1 (2025-05-20)](#itupsat-1-2025-05-20)  
 [SNUGLITE-I (2025-08-22)](#snuglite-i-2025-08-22)  
 [UTMN-2 (2025-06-04)](#utmn-2-rs27s-2025-06-04)  
 [NUSHSat-1 (2025-05-13)](#nushsat-1-2025-05-13)  
@@ -123,7 +123,7 @@
 ---
 
 <a name="itupsat-1-2025-05-20"></a>
-**ITUpSat1 (2025-05-20) - CW (digital)**  
+**ITUpSAT1 (2025-05-20) - CW (digital)**  
 [![assets/images/assets/images/itupsat1.jpg](assets/images/itupsat1.jpg)](https://db.satnogs.org/satellite/35935)
 
 ---
