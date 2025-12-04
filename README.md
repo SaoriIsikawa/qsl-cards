@@ -148,7 +148,7 @@
 ---
 
 <a name="nushsat-1-2025-05-13"></a>
-**NUSHSat-1 (2025-05-13) - FSK 1k2 - Beacon (digital)**  
+**NUSHSat-1 (2025-05-13) - 1k2 - Beacon (digital)**  
 [![assets/images/2025_05_13_NUSHSat-1.jpg](assets/images/2025_05_13_NUSHSat-1.jpg)](https://db.satnogs.org/satellite/63211)
 
 ---
@@ -202,7 +202,7 @@
 ---
 
 <a name="tigrisat-hnatig-2025-05-23"></a>
-**TIGRISAT (2025-05-23) - FSK 9k6 (digital)**  
+**TIGRISAT (2025-05-23) - 9k6 (digital)**  
 [![assets/images/2025_05_23_TIGRISAT_HNATIG.jpg](assets/images/2025_05_23_TIGRISAT_HNATIG.jpg)](https://db.satnogs.org/satellite/40043)
 
 ---
@@ -232,13 +232,13 @@
 ---
 
 <a name="robusta-3a-fx6frd-2025-05-13"></a>
-**ROBUSTA-3A (FX6FRD) (2025-05-13) - FSK 9k6 (digital)**  
+**ROBUSTA-3A (FX6FRD) (2025-05-13) - 9k6 (digital)**  
 [![assets/images/2025-05-13_ROBUSTA-3A_FX6FRD.jpg](assets/images/2025-05-13_ROBUSTA-3A_FX6FRD.jpg)](https://db.satnogs.org/satellite/60243)
 
 ---
 
 <a name="samsat-ionosphere-rs75s-2025-05-11"></a>
-**RS75S (SamSat-Ionosphere) (2025-05-11) - FSK 1k2 - Victory Day (digital)**  
+**RS75S (SamSat-Ionosphere) (2025-05-11) - 1k2 - Victory Day (digital)**  
 [![assets/images/2025-05-11_RS75S.jpg](assets/images/2025-05-11_RS75S.jpg)](https://db.satnogs.org/satellite/61784)
 
 ---
@@ -250,7 +250,7 @@
 ---
 
 <a name="samsat-ionosphere-rs75s-2025-04-10"></a>
-**RS75S (SamSat-Ionosphere) (2025-04-10) - FSK 1k2 - Gagarin's Day (digital)**  
+**RS75S (SamSat-Ionosphere) (2025-04-10) - 1k2 FSK - Gagarin's Day (digital)**  
 [![assets/images/2025-04-10_RS75S.jpg](assets/images/2025-04-10_RS75S.jpg)](https://db.satnogs.org/satellite/61784)
 
 ---
