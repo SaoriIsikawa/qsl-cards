@@ -4,6 +4,7 @@
 <table>
 <tr><td>
 
+[B100IARU (2025-05-06)](#b100iaru-2025-05-06)  
 [PolyITAN-1 (2025-09-01)](#polyitan-1-2025-09-01)  
 [RSP-03 (2025-10-25)](#rsp-03-js1yoy-2025-10-25)  
 [REAL (2025-08-30)](#real-wr9xtx-2025-08-30)  
@@ -72,6 +73,12 @@
 - [RS40S Special Event "MAYAK"](#rs40s-mayak-2025-02-01)
 - [2025-10-03~04 RS40S Radio Quest commemorating Sputnik-1](#rs40s-radio-quest)
 - [2025-11-11 RS40S Special Event "Space Race"](#rs40s-space-race-2025)
+
+---
+
+<a name="b100iaru-2025-05-06"></a>
+**B100IARU (2025-05-06) - FM - SWL Via PO-101 (Paper)**  
+[![assets/images/2025-05-06_b100iaru.jpg](assets/images/2025-05-06_b100iaru.jpg)](http://www.crac.org.cn/News/Detail?ID=8b9f46aba3384686bbe24ee2e627ee5e)
 
 ---
 
