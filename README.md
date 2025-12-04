@@ -77,84 +77,84 @@
 
 <a name="polyitan-1-2025-09-01"></a>
 **PolyITAN-1 (2025-09-01) - CW (Paper)**  
-[![assets/images/assets/images/2025-09-01_PolyITAN-1.jpg](assets/images/2025-09-01_PolyITAN-1.jpg)](https://db.satnogs.org/satellite/40042)
+[![assets/images/2025-09-01_PolyITAN-1.jpg](assets/images/2025-09-01_PolyITAN-1.jpg)](https://db.satnogs.org/satellite/40042)
 
 ---
 
 <a name="rsp-03-js1yoy-2025-10-25"></a>
 **RSP-03 (2025-10-25) - CW (digital)**  
-[![assets/images/assets/images/2025-10-25_RSP-03_JS1YOY.jpg](assets/images/2025-10-25_RSP-03_JS1YOY.jpg)](https://db.satnogs.org/satellite/65732)
+[![assets/images/2025-10-25_RSP-03_JS1YOY.jpg](assets/images/2025-10-25_RSP-03_JS1YOY.jpg)](https://db.satnogs.org/satellite/65732)
 
 ---
 <a name="real-wr9xtx-2025-08-30"></a>
 **REAL (2025-08-30) - 9k6 (paper)**  
-[![assets/images/assets/images/2025-08-30_REAL_WR9XTX.jpg](assets/images/2025-08-30_REAL_WR9XTX.jpg)](https://db.satnogs.org/satellite/64875)
+[![assets/images/2025-08-30_REAL_WR9XTX.jpg](assets/images/2025-08-30_REAL_WR9XTX.jpg)](https://db.satnogs.org/satellite/64875)
 
 ---
 
 <a name="saq-2025-10-24"></a>
 **SAQ (2025-10-24) - CW - UN-Day Oct 24th, 2025 Event (digital)**  
-[![assets/images/assets/images/2025-10-24_SAQ_Grimeton.jpg](assets/images/2025-10-24_SAQ_Grimeton.jpg)](https://alexander.n.se/en/saq-scheduled-to-air-on-un-day-oct-24th-2025/)
+[![assets/images/2025-10-24_SAQ_Grimeton.jpg](assets/images/2025-10-24_SAQ_Grimeton.jpg)](https://alexander.n.se/en/saq-scheduled-to-air-on-un-day-oct-24th-2025/)
 
 ---
 
 <a name="cubebel-2-2025-10-10"></a>
 **CubeBel-2 (2025-10-10) - 9k6 (digital)**  
-[![assets/images/assets/images/2025-10-10_CubeBel-2.jpg](assets/images/2025-10-10_CubeBel-2.jpg)](https://db.satnogs.org/satellite/57175)
+[![assets/images/2025-10-10_CubeBel-2.jpg](assets/images/2025-10-10_CubeBel-2.jpg)](https://db.satnogs.org/satellite/57175)
 
 ---
 
 <a name="botan-2025-11-14"></a>
-**BOTAN (JS1YPT) (2025-11-14) - APRS (digital)**  
-[![assets/images/assets/images/2025-11-14_BOTAN_APRS.jpg](assets/images/2025-11-14_BOTAN_APRS.jpg)](https://db.satnogs.org/satellite/65942)
+**BOTAN (2025-11-14) - 1k2 Digipeater (digital)**  
+[![assets/images/2025-11-14_botan_digi.jpg](assets/images/2025-11-14_botan_digi.jpg)](https://db.satnogs.org/satellite/65942)
 
 ---
 
 <a name="botan-2025-10-10"></a>
-**BOTAN (JS1YPT) (2025-10-10) - CW (digital)**  
-[![assets/images/assets/images/2025-10-10_BOTAN_CW.jpg](assets/images/2025-10-10_BOTAN_CW.jpg)](https://db.satnogs.org/satellite/65942)
+**BOTAN (2025-10-10) - CW (digital)**  
+[![assets/images/2025-10-10_botan_cw.jpg](assets/images/2025-10-10_botan_cw.jpg)](https://db.satnogs.org/satellite/65942)
 
 ---
 
 <a name="eirsat-1-2025-09-03"></a>
 **EIRSAT-1 (2025-09-03) - 9k6 (digital)**  
-[![assets/images/assets/images/2025-09-03_EIRSAT-1.jpg](assets/images/2025-09-03_EIRSAT-1.jpg)](https://db.satnogs.org/satellite/58472)
+[![assets/images/2025-09-03_EIRSAT-1.jpg](assets/images/2025-09-03_EIRSAT-1.jpg)](https://db.satnogs.org/satellite/58472)
 
 ---
 
 <a name="itupsat-1-2025-05-20"></a>
 **ITUpSAT1 (2025-05-20) - CW (digital)**  
-[![assets/images/assets/images/itupsat1.jpg](assets/images/itupsat1.jpg)](https://db.satnogs.org/satellite/35935)
+[![assets/images/itupsat1.jpg](assets/images/itupsat1.jpg)](https://db.satnogs.org/satellite/35935)
 
 ---
 
 <a name="snuglite-i-2025-08-22"></a>
 **SNUGLITE-I (2025-08-22) - 9k6 (digital)**  
-[![assets/images/assets/images/2025_08_22_snuglite-i.jpg](assets/images/2025_08_22_snuglite-i.jpg)](https://db.satnogs.org/satellite/43784)
+[![assets/images/2025_08_22_snuglite-i.jpg](assets/images/2025_08_22_snuglite-i.jpg)](https://db.satnogs.org/satellite/43784)
 
 ---
 
 <a name="utmn-2-rs27s-2025-06-04"></a>
 **RS27S (UTMN-2, ТюмГУ) (2025-06-04) - USP 9k6 (digital)**  
-[![assets/images/assets/images/2025_06_04_UTMN-2_RS27S.jpg](assets/images/2025_06_04_UTMN-2_RS27S.jpg)](https://db.satnogs.org/satellite/57203)
+[![assets/images/2025_06_04_UTMN-2_RS27S.jpg](assets/images/2025_06_04_UTMN-2_RS27S.jpg)](https://db.satnogs.org/satellite/57203)
 
 ---
 
 <a name="nushsat-1-2025-05-13"></a>
 **NUSHSat-1 (2025-05-13) - FSK 1k2 - Beacon (digital)**  
-[![assets/images/assets/images/2025_05_13_NUSHSat-1.jpg](assets/images/2025_05_13_NUSHSat-1.jpg)](https://db.satnogs.org/satellite/63211)
+[![assets/images/2025_05_13_NUSHSat-1.jpg](assets/images/2025_05_13_NUSHSat-1.jpg)](https://db.satnogs.org/satellite/63211)
 
 ---
 
 <a name="horizon-rs59s-2025-08-10"></a>
 **Horizon (RS59S) (2025-08-10) - 9k6 - Image Data (digital)**  
-[![assets/images/assets/images/2025_08_10_Horizon_RS59S.jpg](assets/images/2025_08_10_Horizon_RS59S.jpg)](https://db.satnogs.org/satellite/61757)
+[![assets/images/2025_08_10_Horizon_RS59S.jpg](assets/images/2025_08_10_Horizon_RS59S.jpg)](https://db.satnogs.org/satellite/61757)
 
 ---
 
 <a name="nightjar-xx0uhf-2025-07-17"></a>
 **Nightjar (夜鷹號) (2025-07-17) - 4k8 (digital)**  
-[![assets/images/assets/images/2025-07-17_Nightjar_XX0UHF.jpg](assets/images/2025-07-17_Nightjar_XX0UHF.jpg)](https://db.satnogs.org/satellite/60535)
+[![assets/images/2025-07-17_Nightjar_XX0UHF.jpg](assets/images/2025-07-17_Nightjar_XX0UHF.jpg)](https://db.satnogs.org/satellite/60535)
 
 ---
 
@@ -166,7 +166,7 @@
 
 <a name="rti-s-german-service-2025-07-26"></a>
 **RTI’s German service (2025-07-26) - AM (paper)**  
-[![assets/images/assets/images/2025-07-26_RTI-DE.jpg](assets/images/2025-07-26_RTI-DE.jpg)](https://www.rti.org.tw/de/information?uid=15&pid=731)
+[![assets/images/2025-07-26_RTI-DE.jpg](assets/images/2025-07-26_RTI-DE.jpg)](https://www.rti.org.tw/de/information?uid=15&pid=731)
 
 ---
 
@@ -184,115 +184,115 @@
 
 <a name="stars-kukai-daughter-jr5ybo-2025-05-25"></a>
 **STARS (KUKAI, 空海) JR5YBO (子) (2025-05-25) - CW (digital)**  
-[![assets/images/assets/images/2025-05-25_STARS_KUKAI_daughter.jpg](assets/images/2025-05-25_STARS_KUKAI_daughter.jpg)](https://db.satnogs.org/satellite/43640)
+[![assets/images/2025-05-25_STARS_KUKAI_daughter.jpg](assets/images/2025-05-25_STARS_KUKAI_daughter.jpg)](https://db.satnogs.org/satellite/43640)
 
 ---
 
 <a name="technosat-dp0tba-2025-05-24"></a>
 **TechnoSat (DP0TBA) (2025-05-24) - CW (digital)**  
-[![assets/images/assets/images/2025_05_24_TechnoSat_DP0TBA.jpg](assets/images/2025_05_24_TechnoSat_DP0TBA.jpg)](https://db.satnogs.org/satellite/42829)
+[![assets/images/2025_05_24_TechnoSat_DP0TBA.jpg](assets/images/2025_05_24_TechnoSat_DP0TBA.jpg)](https://db.satnogs.org/satellite/42829)
 
 ---
 
 <a name="tigrisat-hnatig-2025-05-23"></a>
 **TIGRISAT (2025-05-23) - FSK 9k6 (digital)**  
-[![assets/images/assets/images/2025_05_23_TIGRISAT_HNATIG.jpg](assets/images/2025_05_23_TIGRISAT_HNATIG.jpg)](https://db.satnogs.org/satellite/40043)
+[![assets/images/2025_05_23_TIGRISAT_HNATIG.jpg](assets/images/2025_05_23_TIGRISAT_HNATIG.jpg)](https://db.satnogs.org/satellite/40043)
 
 ---
 
 <a name="enso-2025-05-22"></a>
 **ENSO (ROBUSTA-1E, FX6FRC) (2025-05-22) - 9k6 (digital)**  
-[![assets/images/assets/images/2025-05-22_ENSO.jpg](assets/images/2025-05-22_ENSO.jpg)](https://db.satnogs.org/satellite/58470)
+[![assets/images/2025-05-22_ENSO.jpg](assets/images/2025-05-22_ENSO.jpg)](https://db.satnogs.org/satellite/58470)
 
 ---
 
 <a name="qube-dp2qu-2025-05-20"></a>
 **QUBE (DP2QU) (2025-05-20) - 9k6 (digital)**  
-[![assets/images/assets/images/2025-05-20_QUBE_DP2QU.jpg](assets/images/2025-05-20_QUBE_DP2QU.jpg)](https://db.satnogs.org/satellite/60476)
+[![assets/images/2025-05-20_QUBE_DP2QU.jpg](assets/images/2025-05-20_QUBE_DP2QU.jpg)](https://db.satnogs.org/satellite/60476)
 
 ---
 
 <a name="pearl-1c-2025-05-13"></a>
 **PEARL-1C (珍珠號-1C) (2025-05-13) - 9k6(!) (paper) [MHz: 435.310 (!)]**  
-[![assets/images/assets/images/2025-05-13_PEARL-1C.jpg](assets/images/2025-05-13_PEARL-1C.jpg)](https://db.satnogs.org/satellite/58342)
+[![assets/images/2025-05-13_PEARL-1C.jpg](assets/images/2025-05-13_PEARL-1C.jpg)](https://db.satnogs.org/satellite/58342)
 
 ---
 
 <a name="otp-2-2025-05-13"></a>
 **OTP-2 (2025-05-13) - 4k8 (digital)**  
-[![assets/images/assets/images/2025-05-13_OTP-2.jpg](assets/images/2025-05-13_OTP-2.jpg)](https://db.satnogs.org/satellite/63235)
+[![assets/images/2025-05-13_OTP-2.jpg](assets/images/2025-05-13_OTP-2.jpg)](https://db.satnogs.org/satellite/63235)
 
 ---
 
 <a name="robusta-3a-fx6frd-2025-05-13"></a>
 **ROBUSTA-3A (FX6FRD) (2025-05-13) - FSK 9k6 (digital)**  
-[![assets/images/assets/images/2025-05-13_ROBUSTA-3A_FX6FRD.jpg](assets/images/2025-05-13_ROBUSTA-3A_FX6FRD.jpg)](https://db.satnogs.org/satellite/60243)
+[![assets/images/2025-05-13_ROBUSTA-3A_FX6FRD.jpg](assets/images/2025-05-13_ROBUSTA-3A_FX6FRD.jpg)](https://db.satnogs.org/satellite/60243)
 
 ---
 
 <a name="samsat-ionosphere-rs75s-2025-05-11"></a>
 **RS75S (SamSat-Ionosphere) (2025-05-11) - FSK 1k2 - Victory Day (digital)**  
-[![assets/images/assets/images/2025-05-11_RS75S.jpg](assets/images/2025-05-11_RS75S.jpg)](https://db.satnogs.org/satellite/61784)
+[![assets/images/2025-05-11_RS75S.jpg](assets/images/2025-05-11_RS75S.jpg)](https://db.satnogs.org/satellite/61784)
 
 ---
 
 <a name="sonate-2-dp0snx-2025-02-16"></a>
 **SONATE-2 (DP0SNX) (2025-02-16) - SSTV (digital)**  
-[![assets/images/assets/images/2025-02-16_SONATE-2_DP0SNX.jpg](assets/images/2025-02-16_SONATE-2_DP0SNX.jpg)](https://db.satnogs.org/satellite/59112)
+[![assets/images/2025-02-16_SONATE-2_DP0SNX.jpg](assets/images/2025-02-16_SONATE-2_DP0SNX.jpg)](https://db.satnogs.org/satellite/59112)
 
 ---
 
 <a name="samsat-ionosphere-rs75s-2025-04-10"></a>
 **RS75S (SamSat-Ionosphere) (2025-04-10) - FSK 1k2 - Gagarin's Day (digital)**  
-[![assets/images/assets/images/2025-04-10_RS75S.jpg](assets/images/2025-04-10_RS75S.jpg)](https://db.satnogs.org/satellite/61784)
+[![assets/images/2025-04-10_RS75S.jpg](assets/images/2025-04-10_RS75S.jpg)](https://db.satnogs.org/satellite/61784)
 
 ---
 
 <a name="crocube-9a0cc-2025-04-10"></a>
 **CroCube (9A0CC) (2025-04-10) - 9k6 (digital)**  
-[![assets/images/assets/images/2025_04_10_CroCube_9A0CC.jpg](assets/images/2025_04_10_CroCube_9A0CC.jpg)](https://db.satnogs.org/satellite/62394)
+[![assets/images/2025_04_10_CroCube_9A0CC.jpg](assets/images/2025_04_10_CroCube_9A0CC.jpg)](https://db.satnogs.org/satellite/62394)
 
 ---
 
 <a name="lasarsat-ok0lsr-2025-04-08"></a>
 **LASARsat (OK0LSR) (2025-04-08) - CW (digital)**  
-[![assets/images/assets/images/2025-04-08_LASARsat_OK0LSR.jpg](assets/images/2025-04-08_LASARsat_OK0LSR.jpg)](https://db.satnogs.org/satellite/62391)
+[![assets/images/2025-04-08_LASARsat_OK0LSR.jpg](assets/images/2025-04-08_LASARsat_OK0LSR.jpg)](https://db.satnogs.org/satellite/62391)
 
 ---
 
 <a name="arcticsat-1-rs74s-2025-04-01"></a>
 **RS74S (Arcticsat-1) (2025-04-01) - SSTV Robot36 - 1st of April Event (digital)**  
-[![assets/images/assets/images/2025-04-01_ArcticSat-1_RS74S.jpg](assets/images/2025-04-01_ArcticSat-1_RS74S.jpg)](https://db.satnogs.org/satellite/61762)
+[![assets/images/2025-04-01_ArcticSat-1_RS74S.jpg](assets/images/2025-04-01_ArcticSat-1_RS74S.jpg)](https://db.satnogs.org/satellite/61762)
 
 ---
 
 <a name="yomogi-js1ymx-2024-12-10"></a>
 **YOMOGI (JS1YMX) (2024-12-10) - CW (digital)**  
-[![assets/images/assets/images/2024-12-10_YOMOGI_JS1YMX.jpg](assets/images/2024-12-10_YOMOGI_JS1YMX.jpg)](https://db.satnogs.org/satellite/62298)
+[![assets/images/2024-12-10_YOMOGI_JS1YMX.jpg](assets/images/2024-12-10_YOMOGI_JS1YMX.jpg)](https://db.satnogs.org/satellite/62298)
 
 ---
 
 <a name="umka-1-rs40s-2025-03-01"></a>
 **RS40S (UmKA-1, УмКА-1) (2025-03-01) - 9k6 (digital)**  
-[![assets/images/assets/images/2025-03-01_UMKA-1_RS40S.jpg](assets/images/2025-03-01_UMKA-1_RS40S.jpg)](https://db.satnogs.org/satellite/57172)
+[![assets/images/2025-03-01_UMKA-1_RS40S.jpg](assets/images/2025-03-01_UMKA-1_RS40S.jpg)](https://db.satnogs.org/satellite/57172)
 
 ---
 
 <a name="umka-1-rs40s-2024-10-05"></a>
 **RS40S (UmKA-1, УмКА-1) (2024-10-05) - SSTV (digital)**  
-[![assets/images/assets/images/2024-10-05_UMKA-1_RS40S.jpg](assets/images/2024-10-05_UMKA-1_RS40S.jpg)](https://db.satnogs.org/satellite/57172)
+[![assets/images/2024-10-05_UMKA-1_RS40S.jpg](assets/images/2024-10-05_UMKA-1_RS40S.jpg)](https://db.satnogs.org/satellite/57172)
 
 ---
 
 <a name="reshucube-2-rs37s-2025-01-28"></a>
 **RS37S (ReshUCube-2) (2025-01-28) - LoRa (digital)**  
-[![assets/images/assets/images/2025_01_28_ReshUCube-2_RS37S.jpg](assets/images/2025_01_28_ReshUCube-2_RS37S.jpg)](https://db.satnogs.org/satellite/57168)
+[![assets/images/2025_01_28_ReshUCube-2_RS37S.jpg](assets/images/2025_01_28_ReshUCube-2_RS37S.jpg)](https://db.satnogs.org/satellite/57168)
 
 ---
 
 <a name="hyperview-1g-rs66s-2025-01-05"></a>
 **RS66S New Year's festive broadcast (2025-01-05)**  
-[![assets/images/assets/images/2025-01-05_HyperView-1G_RS66S.jpg](assets/images/2025-01-05_HyperView-1G_RS66S.jpg)](https://db.satnogs.org/satellite/61772)
+[![assets/images/2025-01-05_HyperView-1G_RS66S.jpg](assets/images/2025-01-05_HyperView-1G_RS66S.jpg)](https://db.satnogs.org/satellite/61772)
 
 ---
 
@@ -304,19 +304,19 @@
 
 <a name="iss-qsl-card-from-rs0iss-2024-10-13"></a>
 **ISS QSL Card for SSTV reception from RS0ISS (2024-10-13)**  
-[![assets/images/assets/images/2024_10_13_ISS_RS0ISS.jpg](assets/images/2024_10_13_ISS_RS0ISS.jpg)](https://db.satnogs.org/satellite/25544)
+[![assets/images/2024_10_13_ISS_RS0ISS.jpg](assets/images/2024_10_13_ISS_RS0ISS.jpg)](https://db.satnogs.org/satellite/25544)
 
 ---
 
 <a name="sakura-js1yni-2024-10-08"></a>
 **SAKURA (JS1YNI) (2024-10-08) - CW(!) (digital)**  
-[![assets/images/assets/images/2024_10_08_SAKURA_JS1YNI.jpg](assets/images/2024_10_08_SAKURA_JS1YNI.jpg)](https://db.satnogs.org/satellite/60954)
+[![assets/images/2024_10_08_SAKURA_JS1YNI.jpg](assets/images/2024_10_08_SAKURA_JS1YNI.jpg)](https://db.satnogs.org/satellite/60954)
 
 ---
 
 <a name="orbicraft-zorkiy-rs15s-2023-05-09"></a>
 **RS15S (OrbiCraft-Zorkiy) (2023-05-09) - SSTV (digital)**  
-[![assets/images/assets/images/2023-05-09_OrbiCraft-Zorkiy.jpg](assets/images/2023-05-09_OrbiCraft-Zorkiy.jpg)](https://db.satnogs.org/satellite/47960)
+[![assets/images/2023-05-09_OrbiCraft-Zorkiy.jpg](assets/images/2023-05-09_OrbiCraft-Zorkiy.jpg)](https://db.satnogs.org/satellite/47960)
 
 ---
 
