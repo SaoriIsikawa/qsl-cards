@@ -130,7 +130,7 @@
 
 <a name="snuglite-i-2025-08-22"></a>
 **SNUGLITE-I (2025-08-22) - 9k6 (digital)**  
-[![assets/images/assets/images/2025_08_22_SNUGLITE-I.jpg](assets/images/2025_08_22_SNUGLITE-I.jpg)](https://db.satnogs.org/satellite/43784)
+[![assets/images/assets/images/2025_08_22_snuglite-i.jpg](assets/images/2025_08_22_snuglite-i.jpg)](https://db.satnogs.org/satellite/43784)
 
 ---
 
