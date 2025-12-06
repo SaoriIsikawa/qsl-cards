@@ -57,8 +57,9 @@
 
 ## 📜 证书与奖项
 
-- [2025-08-11~25 ENSO First Game](#enso-1-who-is-game)
-- [RS15S (OrbiCraft-Zorkiy) Farewell Diploma](#orbicraft-zorkiy-diploma)
+- [2025-08-11~25 ENSO First Game](#enso-first-game-who-is)
+- [OrbiCraft-Zorkiy Farewell Diploma](#rs15s-orbicraft-zorkiy-farewell-diploma)
+- [2025-12-05 RS-38S - ARISS Series 30 25th Anniversary/Scouting](#rs38s-ariss-series-30-25th-anniversary-scouting)
 - [2025-10-03~09 Expedition 73 - ARISS Series 29 - World Space Week 2025](#expedition-73-ariss-series-29-world-space-week-2025-10-03)
 - [2025-07-14~20 Expedition 73 - ARISS Series 28 - Apollo Soyuz and STS-51F](#expedition-73-ariss-series-28-apollo-soyuz-and-sts-51f-2025-07-14)
 - [2025-07-14~20 Russia ISS SSTV Diploma](#russia-iss-sstv-diploma-2025-07-15)
@@ -329,15 +330,21 @@
 
 ## 📜 确认图像接收的证书与奖项
 
-<a name="enso-1-who-is-game"></a>
+<a name="enso-first-game-who-is"></a>
 **2025-08-11~25 ROBUSTA-1E (ENSO, FX6FRC) - First game "Who is?"**  
 ![assets/images/enso_1_who_is_game.jpg](assets/images/enso_1_who_is_game.jpg)
 
 ---
 
-<a name="orbicraft-zorkiy-diploma"></a>
+<a name="rs15s-orbicraft-zorkiy-farewell-diploma"></a>
 **RS15S (OrbiCraft-Zorkiy) (2025-04-07) Farewell Diploma**  
 ![assets/images/rs15s_sstv.jpg](assets/images/rs15s_sstv.jpg)
+
+---
+
+<a name="rs38s-ariss-series-30-25th-anniversary-scouting"></a>
+**2025-12-05 RS-38S - ARISS Series 30 25th Anniversary/Scouting**  
+![assets/images/ariss_sstv_award_2025-12-05.jpg](assets/images/ariss_sstv_award_2025-12-05.jpg)
 
 ---
 
