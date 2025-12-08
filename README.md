@@ -60,7 +60,7 @@
 
 - [2025-08-11~25 ENSO First Game](#enso-first-game-who-is)
 - [OrbiCraft-Zorkiy Farewell Diploma](#rs15s-orbicraft-zorkiy-farewell-diploma)
-- [2025-12-05 RS-38S - ARISS Series 30 25th Anniversary/Scouting](#rs38s-ariss-series-30-25th-anniversary-scouting)
+- [2025-12-05~13 25-th of Amateur Radio on the ISS and Scouting (from RS38S)](#25th-anniversary-scouting-from-rs38s)
 - [2025-10-03~09 Expedition 73 - ARISS Series 29 - World Space Week 2025](#expedition-73-ariss-series-29-world-space-week-2025-10-03)
 - [2025-07-14~20 Expedition 73 - ARISS Series 28 - Apollo Soyuz and STS-51F](#expedition-73-ariss-series-28-apollo-soyuz-and-sts-51f-2025-07-14)
 - [2025-07-14~20 Russia ISS SSTV Diploma](#russia-iss-sstv-diploma-2025-07-15)
@@ -349,8 +349,8 @@
 
 ---
 
-<a name="rs38s-ariss-series-30-25th-anniversary-scouting"></a>
-**2025-12-05 RS-38S - ARISS Series 30 25th Anniversary/Scouting**  
+<a name="25th-anniversary-scouting-from-rs38s"></a>
+**2025-12-05~13 25-th of Amateur Radio on the ISS and Scouting (from RS38S)**  
 ![assets/images/ariss_sstv_award_2025-12-05.jpg](assets/images/ariss_sstv_award_2025-12-05.jpg)
 
 ---
