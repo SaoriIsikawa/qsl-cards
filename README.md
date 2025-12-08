@@ -4,6 +4,7 @@
 <table>
 <tr><td>
 
+[PIXL-1 (2025-09-03)](#pixl-1-2025-09-03)  
 [B100IARU (2025-05-06)](#b100iaru-2025-05-06)  
 [PolyITAN-1 (2025-09-01)](#polyitan-1-2025-09-01)  
 [RSP-03 (2025-10-25)](#rsp-03-js1yoy-2025-10-25)  
@@ -74,6 +75,12 @@
 - [RS40S Special Event "MAYAK"](#rs40s-mayak-2025-02-01)
 - [2025-10-03~04 RS40S Radio Quest commemorating Sputnik-1](#rs40s-radio-quest)
 - [2025-11-11 RS40S Special Event "Space Race"](#rs40s-space-race-2025)
+
+---
+
+<a name="pixl-1-2025-09-03"></a>
+**PIXL-1 (2025-09-03) - 9k6 on 400.575 MHz [commercial] (digital)**  
+[![assets/images/2025-09-03_pixl-1.jpg](assets/images/2025-09-03_pixl-1.jpg)](https://db.satnogs.org/satellite/47448)
 
 ---
 
