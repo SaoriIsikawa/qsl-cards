@@ -356,9 +356,9 @@
 
 ---
 
-<a name="russia-iss-sstv-award-2025-12-09"></a>
+<a name="russia-iss-sstv-diploma-2025-12-09"></a>
 **2025-12-05~13 Russia ISS SSTV Diploma**  
-![assets/images/russia_iss_sstv_award_2025-12-09.jpg](assets/images/russia_iss_sstv_award_2025-12-09.jpg)
+![assets/images/diploma_russia_iss_sstv_2025-12-09.jpg](assets/images/diploma_russia_iss_sstv_2025-12-09.jpg)
 
 ---
 
@@ -374,9 +374,9 @@
 
 ---
 
-<a name="russia-iss-sstv-award-2025-07-15"></a>
+<a name="russia-iss-sstv-diploma-2025-07-15"></a>
 **2025-07-14~20 Russia ISS SSTV Diploma**  
-![assets/images/russia_iss_sstv_award_2025-07-15.jpg](assets/images/russia_iss_sstv_award_2025-07-15.jpg)
+![assets/images/diploma_russia_iss_sstv_2025-07-15.jpg](assets/images/diploma_russia_iss_sstv_2025-07-15.jpg)
 
 ---
 
