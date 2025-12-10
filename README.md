@@ -40,11 +40,11 @@
 </td><td>
 
 [SamSat-Ionosphere (2025-05-11)](#samsat-ionosphere-rs75s-2025-05-11)  
-[SONATE-2 (2025-02-16)](#sonate-2-dp0snx-2025-02-16)  
 [SamSat-Ionosphere (2025-04-10)](#samsat-ionosphere-rs75s-2025-04-10)  
 [CroCube (2025-04-10)](#crocube-9a0cc-2025-04-10)  
 [LASARsat (2025-04-08)](#lasarsat-ok0lsr-2025-04-08)  
 [ArcticSat-1 (2025-04-01)](#arcticsat-1-rs74s-2025-04-01)  
+[SONATE-2 (2025-02-16)](#sonate-2-dp0snx-2025-02-16)  
 [YOMOGI (2024-12-10)](#yomogi-js1ymx-2024-12-10)  
 [UmKA-1 (2025-03-01)](#umka-1-rs40s-2025-03-01)  
 [UmKA-1 (2024-10-05)](#umka-1-rs40s-2024-10-05)  
@@ -252,12 +252,6 @@
 
 ---
 
-<a name="sonate-2-dp0snx-2025-02-16"></a>
-**SONATE-2 (DP0SNX) (2025-02-16) - SSTV (digital)**  
-[![assets/images/2025-02-16_SONATE-2_DP0SNX.jpg](assets/images/2025-02-16_SONATE-2_DP0SNX.jpg)](https://db.satnogs.org/satellite/59112)
-
----
-
 <a name="samsat-ionosphere-rs75s-2025-04-10"></a>
 **RS75S (SamSat-Ionosphere) (2025-04-10) - 1k2 FSK - Gagarin's Day (digital)**  
 [![assets/images/2025-04-10_RS75S.jpg](assets/images/2025-04-10_RS75S.jpg)](https://db.satnogs.org/satellite/61784)
@@ -279,6 +273,12 @@
 <a name="arcticsat-1-rs74s-2025-04-01"></a>
 **RS74S (Arcticsat-1) (2025-04-01) - SSTV Robot36 - 1st of April Event (digital)**  
 [![assets/images/2025-04-01_ArcticSat-1_RS74S.jpg](assets/images/2025-04-01_ArcticSat-1_RS74S.jpg)](https://db.satnogs.org/satellite/61762)
+
+---
+
+<a name="sonate-2-dp0snx-2025-02-16"></a>
+**SONATE-2 (DP0SNX) (2025-02-16) - SSTV (digital)**  
+[![assets/images/2025-02-16_SONATE-2_DP0SNX.jpg](assets/images/2025-02-16_SONATE-2_DP0SNX.jpg)](https://db.satnogs.org/satellite/59112)
 
 ---
 
