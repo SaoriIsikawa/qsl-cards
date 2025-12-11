@@ -50,7 +50,6 @@
 [UmKA-1 (2024-10-05)](#umka-1-rs40s-2024-10-05)  
 [ReshUCube-2 (2025-01-28)](#reshucube-2-rs37s-2025-01-28)  
 [HyperView-1G (2025-01-05)](#hyperview-1g-rs66s-2025-01-05)  
-[ISS RS0ISS (2024-10-13)](#iss-qsl-card-from-rs0iss-2024-10-13)  
 [SAKURA (2024-10-08)](#sakura-js1yni-2024-10-08)  
 [OrbiCraft-Zorkiy (2023-05-09)](#orbicraft-zorkiy-rs15s-2023-05-09)
 
@@ -77,11 +76,11 @@
 - [2025-10-03~04 RS40S Radio Quest commemorating Sputnik-1](#rs40s-radio-quest)
 - [2025-11-11 RS40S Special Event "Space Race"](#rs40s-space-race-2025)
 
-## ISS QSL 卡
+## 📬 ISS QSL 卡
 
-- [ISS QSL Card ARISS RS0ISS (2024-10-13)](#iss-2024-10-13)
-- [ISS QSL Card ARISS RS0ISS (2025-08-19)](#iss-2025-08-19)
-- [ISS QSL Card ARISS NA1SS (2025-09-04)](#iss-2025-09-04)
+- [ISS ARISS RS0ISS (2024-10-13)](#iss-2024-10-13)
+- [ISS ARISS RS0ISS (2025-08-19)](#iss-2025-08-19)
+- [ISS ARISS NA1SS (2025-09-04)](#iss-2025-09-04)
 
 ---
 
