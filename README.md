@@ -77,6 +77,12 @@
 - [2025-10-03~04 RS40S Radio Quest commemorating Sputnik-1](#rs40s-radio-quest)
 - [2025-11-11 RS40S Special Event "Space Race"](#rs40s-space-race-2025)
 
+## ISS QSL 卡
+
+- [ISS QSL Card ARISS RS0ISS (2024-10-13)](#iss-2024-10-13)
+- [ISS QSL Card ARISS RS0ISS (2025-08-19)](#iss-2025-08-19)
+- [ISS QSL Card ARISS RS0ISS (2025-09-04)](#iss-2025-09-04)
+
 ---
 
 <a name="pixl-1-2025-09-03"></a>
@@ -318,12 +324,6 @@
 
 ---
 
-<a name="iss-qsl-card-from-rs0iss-2024-10-13"></a>
-**ISS QSL Card for SSTV reception from RS0ISS (2024-10-13)**  
-[![assets/images/2024_10_13_ISS_RS0ISS.jpg](assets/images/2024_10_13_ISS_RS0ISS.jpg)](https://db.satnogs.org/satellite/25544)
-
----
-
 <a name="sakura-js1yni-2024-10-08"></a>
 **SAKURA (JS1YNI) (2024-10-08) - CW(!) (digital)**  
 [![assets/images/2024_10_08_SAKURA_JS1YNI.jpg](assets/images/2024_10_08_SAKURA_JS1YNI.jpg)](https://db.satnogs.org/satellite/60954)
@@ -443,5 +443,25 @@
 <a name="rs40s-space-race-2025"></a>
 **RS40S Special Event "Space Race" (2025-11-11) - 4k8 (digital)**  
 ![assets/images/rs40s_space_race_2025.jpg](assets/images/rs40s_space_race_2025.jpg)
+
+---
+
+## ISS QSL 卡
+
+<a name="iss-2024-10-13"></a>
+**ISS QSL Card for SSTV reception from RS0ISS (2024-10-13)**  
+[![assets/images/2024-10-13_iss.jpg](assets/images/2024-10-13_iss.jpg)](https://db.satnogs.org/satellite/25544)
+
+---
+
+<a name="iss-2025-08-19"></a>
+**ISS QSL Card for APRS reception from RS0ISS (2025-08-19)**  
+[![assets/images/2025-08-19_iss.jpg](assets/images/2025-08-19_iss.jpg)](https://db.satnogs.org/satellite/25544)
+
+---
+
+<a name="iss-2025-09-04"></a>
+**ISS QSL Card for CW ID reception from NA1SS (2025-09-04)**  
+[![assets/images/2025-09-04_iss.jpg](assets/images/2025-09-04_iss.jpg)](https://db.satnogs.org/satellite/25544)
 
 ---
