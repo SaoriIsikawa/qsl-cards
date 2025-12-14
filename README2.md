@@ -2,6 +2,12 @@
 
 ## 📬 QSL 卡
 
+<a name="vorw-2025-12-04"></a>
+**VORW Radio International. (2025-12-04) - AM (digital)**  
+![assets/images/2025-12-04_VORW.jpg](assets/images/2025-12-04_VORW.jpg)
+
+---
+
 <a name="vorw-2025-11-13"></a>
 **VORW Radio International. (2025-11-13) - AM (digital)**  
 ![assets/images/2025-11-13_VORW.jpg](assets/images/2025-11-13_VORW.jpg)
