@@ -319,7 +319,7 @@
 
 <a name="diwata-2-po-101-2024-11-18"></a>
 **Diwata-2 (PO-101) (2024-11-18) - QSO as SWL (digital)**  
-![assets/images/2024-11-18_Diwata-2.jpg](assets/images/2024-11-18_Diwata-2.jpg)
+![assets/images/2024_11_18_diwata-2.jpg](assets/images/2024_11_18_diwata-2.jpg)
 
 ---
 

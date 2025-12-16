@@ -87,14 +87,8 @@
 ---
 
 <a name="diwata-2-po-101-2025-05-06"></a>
-**Diwata-2 (PO-101) (2025-05-06) - QSO as SWL (digital) [Time (UTC): 06:05(!)]**  
-[![assets/images/2025-05-06_Diwata-2_PO-101.jpg](assets/images/2025-05-06_Diwata-2_PO-101.jpg)](https://db.satnogs.org/satellite/43678)
-
----
-
-<a name="diwata-2-po-101-2024-11-18"></a>
-**Diwata-2 (PO-101) (2024-11-18) - QSO as SWL (digital)**  
-[![assets/images/2024_11_18_Diwata-2_PO-101.jpg](assets/images/2024_11_18_Diwata-2_PO-101.jpg)](https://db.satnogs.org/satellite/43678)
+**Diwata-2 (PO-101) (2025-05-06) - QSO as SWL (digital) [Time (UTC): 10:05:00AM (!)]**  
+[![assets/images/2025-05-06_diwata-2.jpg](assets/images/2025-05-06_diwata-2.jpg)](https://db.satnogs.org/satellite/43678)
 
 ---
 
