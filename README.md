@@ -449,7 +449,7 @@
 
 <a name="iss-2024-10-13"></a>
 **ISS QSL Card SSTV RS0ISS (2024-10-13)**  
-[![assets/images/2024-10-13_iss.jpg](assets/images/2024-10-13_iss.jpg)](https://db.satnogs.org/satellite/25544)
+[![assets/images/2024-10-13_iss_sstv.jpg](assets/images/2024-10-13_iss_sstv.jpg)](https://db.satnogs.org/satellite/25544)
 
 ---
 
