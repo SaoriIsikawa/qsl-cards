@@ -1,4 +1,4 @@
-# 📡 业余无线电台 BG7XTQ（前 JJ1DSB）的 QSL 卡和证书
+# QSL 卡和证书
 
 ## 📬 QSL 卡目录
 <table>
@@ -83,6 +83,8 @@
 - [ISS CW NA1SS (2025-09-04)](#iss-2025-09-04)
 
 ---
+
+## 📡 确认接收（遥测）信标的 QSL 卡
 
 <a name="pixl-1-2025-09-03"></a>
 **PIXL-1 (2025-09-03) - 9k6 on 400.575 MHz [commercial] (digital)**  
