@@ -78,9 +78,9 @@
 
 ## 📬 ISS QSL 卡
 
-- [ISS ARISS RS0ISS (2024-10-13)](#iss-2024-10-13)
-- [ISS ARISS RS0ISS (2025-08-19)](#iss-2025-08-19)
-- [ISS ARISS NA1SS (2025-09-04)](#iss-2025-09-04)
+- [ISS SSTV RS0ISS (2024-10-13)](#iss-2024-10-13)
+- [ISS APRS RS0ISS (2025-08-19)](#iss-2025-08-19)
+- [ISS CW NA1SS (2025-09-04)](#iss-2025-09-04)
 
 ---
 
@@ -448,19 +448,19 @@
 ## ISS QSL 卡
 
 <a name="iss-2024-10-13"></a>
-**ISS QSL Card for SSTV reception from RS0ISS (2024-10-13)**  
+**ISS QSL Card SSTV RS0ISS (2024-10-13)**  
 [![assets/images/2024-10-13_iss.jpg](assets/images/2024-10-13_iss.jpg)](https://db.satnogs.org/satellite/25544)
 
 ---
 
 <a name="iss-2025-08-19"></a>
-**ISS QSL Card for APRS reception from RS0ISS (2025-08-19)**  
-[![assets/images/2025-08-19_iss.jpg](assets/images/2025-08-19_iss.jpg)](https://db.satnogs.org/satellite/25544)
+**ISS QSL Card [back] APRS RS0ISS (2025-08-19)**  
+[![assets/images/2025-08-19_iss_aprs.jpg](assets/images/2025-08-19_iss_aprs.jpg)](https://db.satnogs.org/satellite/25544)
 
 ---
 
 <a name="iss-2025-09-04"></a>
-**ISS QSL Card for CW ID reception from NA1SS (2025-09-04)**  
-[![assets/images/2025-09-04_iss.jpg](assets/images/2025-09-04_iss.jpg)](https://db.satnogs.org/satellite/25544)
+**ISS QSL Card [back] CW NA1SS (2025-09-04)**  
+[![assets/images/2025-09-04_iss_cw.jpg](assets/images/2025-09-04_iss_cw.jpg)](https://db.satnogs.org/satellite/25544)
 
 ---
