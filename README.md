@@ -4,6 +4,7 @@
 <table>
 <tr><td>
 
+[TUBIN (2025-12-10)](#tubin-2025-12-10)  
 [PIXL-1 (2025-09-03)](#pixl-1-2025-09-03)  
 [B100IARU (2025-05-06)](#b100iaru-2025-05-06)  
 [PolyITAN-1 (2025-09-01)](#polyitan-1-2025-09-01)  
@@ -85,6 +86,18 @@
 ---
 
 ## 📡 确认接收（遥测）信标的 QSL 卡
+
+<a name="tubin-2025-12-10"></a>
+**TUBIN (DP0TBN) (2025-12-10) - 4k8 (digital)**  
+[![assets/images/tubin.jpg](assets/images/tubin.jpg)](https://db.satnogs.org/satellite/48900)
+
+---
+
+<a name="tubin-2025-12-10"></a>
+**TUBIN (DP0TBN) (2025-12-10) - 4k8 (digital)**  
+[![assets/images/tubin2.jpg](assets/images/tubin2.jpg)](https://db.satnogs.org/satellite/48900)
+
+---
 
 <a name="pixl-1-2025-09-03"></a>
 **PIXL-1 (2025-09-03) - 9k6 on 400.575 MHz [commercial] (digital)**  
