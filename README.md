@@ -10,7 +10,6 @@
 [PolyITAN-1 (2025-09-01)](#polyitan-1-2025-09-01)  
 [RSP-03 (2025-10-25)](#rsp-03-js1yoy-2025-10-25)  
 [REAL (2025-08-30)](#real-wr9xtx-2025-08-30)  
-[SAQ (2025-10-24)](#saq-2025-10-24)  
 [CubeBel-2 (2025-10-10)](#cubebel-2-2025-10-10)  
 [BOTAN (2025-11-14)](#botan-2025-11-14)  
 [BOTAN (2025-10-10)](#botan-2025-10-10)  
@@ -125,12 +124,6 @@
 <a name="real-wr9xtx-2025-08-30"></a>
 **REAL (2025-08-30) - 9k6 (paper)**  
 [![assets/images/2025-08-30_REAL_WR9XTX.jpg](assets/images/2025-08-30_REAL_WR9XTX.jpg)](https://db.satnogs.org/satellite/64875)
-
----
-
-<a name="saq-2025-10-24"></a>
-**SAQ (2025-10-24) - CW - UN-Day Oct 24th, 2025 Event (digital)**  
-[![assets/images/2025-10-24_SAQ_Grimeton.jpg](assets/images/2025-10-24_SAQ_Grimeton.jpg)](https://alexander.n.se/en/saq-scheduled-to-air-on-un-day-oct-24th-2025/)
 
 ---
 
