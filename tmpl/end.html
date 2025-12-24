@@ -1,3 +1,37 @@
 </div>
+<script>
+(function () {
+  function makeCollapsible(titleText) {
+    const headers = document.querySelectorAll(".markdown-body h2");
+    headers.forEach(h => {
+      if (h.textContent.trim().startsWith(titleText)) {
+        h.classList.add("collapsible");
+
+        let content = h.nextElementSibling;
+        const wrapper = document.createElement("div");
+        wrapper.className = "collapsible-content";
+
+        while (content && !/^H[1-6]$/.test(content.tagName)) {
+          const next = content.nextElementSibling;
+          wrapper.appendChild(content);
+          content = next;
+        }
+
+        h.after(wrapper);
+
+        h.addEventListener("click", () => {
+          wrapper.classList.toggle("hidden");
+          h.classList.toggle("collapsed");
+        });
+      }
+    });
+  }
+
+  makeCollapsible("📬 QSL 卡目录");
+  makeCollapsible("📜 证书与奖项");
+  makeCollapsible("📬 ISS QSL 卡");
+})();
+</script>
+
 </body>
 </html>

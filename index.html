@@ -2,8 +2,7 @@
 <html lang="zh-CN">
 <head>
 <meta charset="utf-8">
-<title>电台 BG7XTQ 收集的 QSL 卡和证书</title>
-
+<title>业余无线电台 BG7XTQ 收集的 QSL 卡和证书</title>
 <style>
 /* === INLINE CSS START === */
 .markdown-body {
@@ -1247,7 +1246,30 @@ body {
   margin-right: auto;
   padding: 32px 24px;        /* 上下 / 左右内边距 */
 }
-/* === INLINE CSS END === */
+
+/* === collapsible QSL directory === */
+.collapsible {
+  cursor: pointer;
+  user-select: none;
+}
+
+.collapsible::after {
+  content: " ▾";
+  font-size: 0.9em;
+  color: #666;
+}
+
+.collapsible.collapsed::after {
+  content: " ▸";
+}
+
+.collapsible-content {
+  margin-top: 0.5em;
+}
+
+.collapsible-content.hidden {
+  display: none;
+}/* === INLINE CSS END === */
 </style>
 </head>
 <body>
@@ -1589,5 +1611,39 @@ body {
 <a href="https://db.satnogs.org/satellite/25544"><img src="assets/images/2025-09-04_iss_cw.jpg" alt="assets/images/2025-09-04_iss_cw.jpg" /></a></p>
 <hr />
 </div>
+<script>
+(function () {
+  function makeCollapsible(titleText) {
+    const headers = document.querySelectorAll(".markdown-body h2");
+    headers.forEach(h => {
+      if (h.textContent.trim().startsWith(titleText)) {
+        h.classList.add("collapsible");
+
+        let content = h.nextElementSibling;
+        const wrapper = document.createElement("div");
+        wrapper.className = "collapsible-content";
+
+        while (content && !/^H[1-6]$/.test(content.tagName)) {
+          const next = content.nextElementSibling;
+          wrapper.appendChild(content);
+          content = next;
+        }
+
+        h.after(wrapper);
+
+        h.addEventListener("click", () => {
+          wrapper.classList.toggle("hidden");
+          h.classList.toggle("collapsed");
+        });
+      }
+    });
+  }
+
+  makeCollapsible("📬 QSL 卡目录");
+  makeCollapsible("📜 证书与奖项");
+  makeCollapsible("📬 ISS QSL 卡");
+})();
+</script>
+
 </body>
 </html>

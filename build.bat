@@ -34,5 +34,16 @@ echo [2/4] 生成 HTML 头 + 内联 CSS...
 
 del "%TMP_HTML%"
 
+echo [3/4] tidy 美化 HTML...
+tidy.exe ^
+  -quiet ^
+  -indent ^
+  -indent-spaces 2 ^
+  -wrap 0 ^
+  -utf8 ^
+  --custom-tags yes ^
+  -modify ^
+  "%OUT%"
+
 echo [4/4] 完成：%OUT%
 pause

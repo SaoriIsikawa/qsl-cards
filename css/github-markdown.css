@@ -1239,3 +1239,27 @@ body {
   margin-right: auto;
   padding: 32px 24px;        /* 上下 / 左右内边距 */
 }
+
+/* === collapsible QSL directory === */
+.collapsible {
+  cursor: pointer;
+  user-select: none;
+}
+
+.collapsible::after {
+  content: " ▾";
+  font-size: 0.9em;
+  color: #666;
+}
+
+.collapsible.collapsed::after {
+  content: " ▸";
+}
+
+.collapsible-content {
+  margin-top: 0.5em;
+}
+
+.collapsible-content.hidden {
+  display: none;
+}
