@@ -1,4 +1,5 @@
-
+*.md text eol=crlf
+*.html text eol=crlf
 *.bat text eol=crlf
 *.sh text eol=lf
 .gitignore text eol=lf
