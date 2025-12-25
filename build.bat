@@ -38,10 +38,9 @@ echo [3/4] tidy 美化 HTML...
 tidy.exe ^
   -quiet ^
   -indent ^
-  -indent-spaces 2 ^
+  --indent-spaces 2 ^
   -wrap 0 ^
   -utf8 ^
-  --custom-tags yes ^
   -modify ^
   "%OUT%"
 
