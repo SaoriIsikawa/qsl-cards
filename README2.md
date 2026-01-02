@@ -1,4 +1,4 @@
-# 📡 业余无线电台 BG7XTQ（前 JJ1DSB）的 QSL 卡
+# QSL 卡和证书
 
 ## 📬 QSL 卡
 
