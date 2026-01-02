@@ -52,14 +52,20 @@
 ---
 
 <a name="saq-2025-10-24"></a>
+**SAQ (2025-12-24) - CW - Christmas Eve Morning Transmission, December 24th 2025 event (digital)**  
+![assets/images/2025-12-24_saq.jpg](assets/images/2025-12-24_saq.jpg)
+
+---
+
+<a name="saq-2025-10-24"></a>
 **SAQ (2025-10-24) - CW - UN-Day Oct 24th, 2025 Event (digital)**  
-[![assets/images/2025-10-24_SAQ_Grimeton.jpg](assets/images/2025-10-24_SAQ_Grimeton.jpg)](https://alexander.n.se/en/saq-scheduled-to-air-on-un-day-oct-24th-2025/)
+[![assets/images/2025-10-24_saq.jpg](assets/images/2025-10-24_saq.jpg)](https://alexander.n.se/en/saq-scheduled-to-air-on-un-day-oct-24th-2025/)
 
 ---
 
 <a name="saq-2025-07-02"></a>
 **SAQ 100 Year Anniversary Transmissions (2025-07-02) - CW (digital)**  
-[![assets/images/2025_07_02_SAQ.jpg](assets/images/2025_07_02_SAQ.jpg)](https://alexander.n.se/celebrate-100-years-with-saq-grimeton/)
+[![assets/images/2025_07_02_saq.jpg](assets/images/2025_07_02_saq.jpg)](https://alexander.n.se/celebrate-100-years-with-saq-grimeton/)
 
 ---
 
