@@ -1,11 +1,5 @@
-<h1>
-  业余无线电台
-  <img src="https://www.hrdlog.net/callplate.aspx?user=BG7XTQ"
-       alt="HRDLOG Callplate"
-       height="40"
-       style="vertical-align: middle;">
-  的 QSL 卡和证书
-</h1>
+# QSL 卡和证书
+![HRDLOG Callplate](https://www.hrdlog.net/callplate.aspx?user=BG7XTQ)
 
 ## 📬 QSL 卡目录
 <table>
