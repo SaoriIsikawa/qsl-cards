@@ -1,5 +1,4 @@
 # QSL 卡和证书
-![HRDLOG Callplate](https://www.hrdlog.net/callplate.aspx?user=BG7XTQ)
 
 ## 📬 QSL 卡目录
 <table>
