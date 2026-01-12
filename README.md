@@ -4,6 +4,7 @@
 <table>
 <tr><td>
 
+[SPIRONE (2025-11-29)](#spirone-2025-11-29)  
 [TUBIN (2025-12-10)](#tubin-2025-12-10)  
 [PIXL-1 (2025-09-03)](#pixl-1-2025-09-03)  
 [B100IARU (2025-05-06)](#b100iaru-2025-05-06)  
@@ -83,6 +84,12 @@
 - [ISS CW NA1SS (2025-09-04)](#iss-2025-09-04)
 
 ## 📡 QSL 卡
+
+<a name="spirone-2025-11-29"></a>
+**SPIRONE (2025-11-29) - 9k6 (digital)**  
+[![assets/images/2025-11-29_spirone.jpg](assets/images/2025-11-29_spirone.jpg)](https://db.satnogs.org/satellite/98492)
+
+---
 
 <a name="tubin-2025-12-10"></a>
 **TUBIN (DP0TBN) (2025-12-10) - 4k8 (digital)**  
