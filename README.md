@@ -87,7 +87,7 @@
 ## 📡 QSL 卡
 
 <a name="asrtu-1-2025-10-30"></a>
-**ASRTU-1 (阿斯图友谊号) BJ1CR/RS64S (2025-10-30) - BPSK 9k6 - Image Data (digital)**  
+**ASRTU-1 (阿斯图友谊号) BJ1CR/RS64S (2025-10-30) - BPSK 9k6 - Image Data (paper)**  
 [![assets/images/2025-10-30_asrtu-1.jpg](assets/images/2025-10-30_asrtu-1.jpg)](https://db.satnogs.org/satellite/61781)
 
 ---
