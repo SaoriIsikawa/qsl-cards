@@ -5,6 +5,7 @@
 <tr><td>
 
 [SPIRONE (2025-11-29)](#spirone-2025-11-29)  
+[ASRTU-1 (2025-10-30)](#asrtu-1-2025-10-30)  
 [TUBIN (2025-12-10)](#tubin-2025-12-10)  
 [PIXL-1 (2025-09-03)](#pixl-1-2025-09-03)  
 [B100IARU (2025-05-06)](#b100iaru-2025-05-06)  
@@ -84,6 +85,12 @@
 - [ISS CW NA1SS (2025-09-04)](#iss-2025-09-04)
 
 ## 📡 QSL 卡
+
+<a name="asrtu-1-2025-10-30"></a>
+**ASRTU-1 (阿斯图友谊号) BJ1CR/RS64S (2025-10-30) - BPSK 9k6 - Image Data (digital)**  
+[![2025-10-30_asrtu-1.jpg](2025-10-30_asrtu-1.jpg)](https://db.satnogs.org/satellite/61781)
+
+---
 
 <a name="spirone-2025-11-29"></a>
 **SPIRONE (2025-11-29) - 9k6 (digital)**  
