@@ -1,4 +1,4 @@
-# QSL 卡和证书
+# 业余无线电台 BG7XTQ (前 JJ1DSB) 的 QSL 卡
 
 ## 📬 QSL 卡目录
 <table>
@@ -20,10 +20,10 @@
 [EIRSAT-1 (2025-09-03)](#eirsat-1-2025-09-03)  
 [ITUpSAT1 (2025-05-20)](#itupsat-1-2025-05-20)  
 [SNUGLITE-I (2025-08-22)](#snuglite-i-2025-08-22)  
-[UTMN-2 (2025-06-04)](#utmn-2-rs27s-2025-06-04)  
 
 </td><td>
 
+[UTMN-2 (2025-06-04)](#utmn-2-rs27s-2025-06-04)  
 [NUSHSat-1 (2025-05-13)](#nushsat-1-2025-05-13)  
 [Horizon (2025-08-10)](#horizon-rs59s-2025-08-10)  
 [Nightjar (2025-07-17)](#nightjar-xx0uhf-2025-07-17)  
@@ -38,10 +38,10 @@
 [QUBE (2025-05-20)](#qube-dp2qu-2025-05-20)  
 [PEARL-1C (2025-05-13)](#pearl-1c-2025-05-13)  
 [OTP-2 (2025-05-13)](#otp-2-2025-05-13)  
-[ROBUSTA-3A (2025-05-13)](#robusta-3a-fx6frd-2025-05-13)  
 
 </td><td>
 
+[ROBUSTA-3A (2025-05-13)](#robusta-3a-fx6frd-2025-05-13)  
 [Diwata-2 (2024-11-18)](#diwata-2-po-101-2024-11-18)  
 [SamSat-Ionosphere (2025-05-11)](#samsat-ionosphere-rs75s-2025-05-11)  
 [SamSat-Ionosphere (2025-04-10)](#samsat-ionosphere-rs75s-2025-04-10)  
@@ -58,7 +58,6 @@
 [OrbiCraft-Zorkiy (2023-05-09)](#orbicraft-zorkiy-rs15s-2023-05-09)
 
 </td></tr></table>
-
 
 ## 📜 证书与奖项
 
