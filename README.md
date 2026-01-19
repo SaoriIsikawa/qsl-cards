@@ -341,7 +341,7 @@
 ---
 
 <a name="reshucube-2-rs37s-2025-01-28"></a>
-**RS37S (ReshUCube-2) (2025-01-28) - LoRa (BW=125 kHz, SF=7, CR=4/5) (digital)**  
+**RS37S (ReshUCube-2) (2025-01-28) - LoRa (digital)**  
 [![assets/images/2025_01_28_ReshUCube-2_RS37S.jpg](assets/images/2025_01_28_ReshUCube-2_RS37S.jpg)](https://db.satnogs.org/satellite/57168)
 
 ---
