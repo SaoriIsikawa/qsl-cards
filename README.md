@@ -4,6 +4,8 @@
 <table>
 <tr><td>
 
+[BY2HIT (2025-12-19)](#by2hit-2025-12-19)  
+[BY2HIT (2025-12-18)](#by2hit-2025-12-18)  
 [ASRTU-1 (2025-10-30)](#asrtu-1-2025-10-30)  
 [SPIRONE (2025-11-29)](#spirone-2025-11-29)  
 [TUBIN (2025-12-10)](#tubin-2025-12-10)  
@@ -87,8 +89,20 @@
 
 ## 📡 QSL 卡
 
+<a name="by2hit-2025-12-19"></a>
+**BY2HIT (2025-12-19) - FM - SWL, PROP: AO-123 (paper)**  
+[assets/images/2025-12-19_BY2HIT.jpg](assets/images/2025-12-19_BY2HIT.jpg)
+
+---
+
+<a name="by2hit-2025-12-18"></a>
+**ASRTU-1 (AO-123) (2025-12-18) - BPSK 9k6 - Image Data (paper)**  
+[assets/images/2025-12-18_BY2HIT.jpg](assets/images/2025-12-18_BY2HIT.jpg)
+
+---
+
 <a name="asrtu-1-2025-10-30"></a>
-**ASRTU-1 (阿斯图友谊号) BJ1CR/RS64S (2025-10-30) - BPSK 9k6 - Image Data (paper)**  
+**ASRTU-1 (AO-123) BJ1CR/RS64S (2025-10-30) - BPSK 9k6 - Image Data (paper)**  
 [![assets/images/2025-10-30_asrtu-1.jpg](assets/images/2025-10-30_asrtu-1.jpg)](https://db.satnogs.org/satellite/61781)
 
 ---
