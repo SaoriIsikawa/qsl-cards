@@ -4,6 +4,7 @@
 <table>
 <tr><td>
 
+[Innocube (2026-01-14)](#innocube-2026-01-14)  
 [BY2HIT (2025-12-19)](#by2hit-2025-12-19)  
 [ASRTU-1 (2025-12-18)](#asrtu-1-2025-12-18)  
 [ASRTU-1 (2025-10-30)](#asrtu-1-2025-10-30)  
@@ -87,6 +88,12 @@
 - [ISS CW NA1SS (2025-09-04)](#iss-2025-09-04)
 
 ## 📡 QSL 卡
+
+<a name="innocube-2026-01-14"></a>
+**Innocube (2026-01-14) - CW (digital)**  
+[![assets/images/innocube_anniversary.jpg](assets/imagesinnocube_anniversary.jpg)](https://db.satnogs.org/satellite/62616)
+
+---
 
 <a name="by2hit-2025-12-19"></a>
 **BY2HIT (2025-12-19) - FM - SWL, PROP: AO-123 (paper)**  
