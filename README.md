@@ -91,7 +91,7 @@
 
 <a name="innocube-2026-01-14"></a>
 **Innocube (2026-01-14) - CW (digital)**  
-[![assets/images/innocube_anniversary.jpg](assets/imagesinnocube_anniversary.jpg)](https://db.satnogs.org/satellite/62616)
+[![assets/images/innocube_anniversary.jpg](assets/images/innocube_anniversary.jpg)](https://db.satnogs.org/satellite/62616)
 
 ---
 
