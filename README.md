@@ -31,8 +31,8 @@
 [Nightjar (2025-07-17)](#nightjar-xx0uhf-2025-07-17)  
 [Radyo Pilipinas World Service (2025-12-01)](#radyo-pilipinas-world-service-2025-12-01)  
 [RTI’s German service (2025-07-26)](#rti-s-german-service-2025-07-26)  
-[NHK WORLD-JAPAN (2025-03-11)](#nhk-world-japan-2025-03-11)  
-[NHK WORLD-JAPAN (2025-03-02)](#nhk-world-japan-2025-03-02)  
+[NHK World-Japan (2025-03-11)](#nhk-world-japan-2025-03-11)  
+[NHK World-Japan (2025-03-02)](#nhk-world-japan-2025-03-02)  
 [STARS (2025-05-25)](#stars-kukai-daughter-jr5ybo-2025-05-25)  
 [TechnoSat (2025-05-24)](#technosat-dp0tba-2025-05-24)  
 [TIGRISAT (2025-05-23)](#tigrisat-hnatig-2025-05-23)  
@@ -100,7 +100,7 @@
 ---
 
 <a name="innocube-2026-01-14"></a>
-**Innocube (2026-01-14) - CW (digital)**  
+**Innocube (TUBSAT-31) (2026-01-14) - CW (digital)**  
 [![assets/images/innocube_anniversary.jpg](assets/images/innocube_anniversary.jpg)](https://db.satnogs.org/satellite/62616)
 
 ---
