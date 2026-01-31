@@ -82,7 +82,7 @@
 - [RS40S Special Event "MAYAK"](#rs40s-mayak-2025-02-01)
 - [2025-10-03~04 RS40S Radio Quest commemorating Sputnik-1](#rs40s-radio-quest)
 - [2025-11-11 RS40S Special Event "Space Race"](#rs40s-space-race-2025)
-- [RS40S RS38S Orbital Quest](#rs40s-rs38s-orbital-quest)
+- [2026-01-05 RS40S RS38S Orbital Quest](#rs40s-rs38s-orbital-quest)
 
 
 ## 📬 ISS QSL 卡
@@ -497,7 +497,7 @@
 ---
 
 <a name="rs40s-rs38s-orbital-quest"></a>
-**RS40S RS38S Orbital Quest**  
+**2026-01-05 RS40S RS38S Orbital Quest**  
 ![assets/images/rs40s_rs38s_orbital_quest.jpg](assets/images/rs40s_rs38s_orbital_quest.jpg)
 
 ---
