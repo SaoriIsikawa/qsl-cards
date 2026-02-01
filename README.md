@@ -4,6 +4,7 @@
 <table>
 <tr><td>
 
+[QMR-KWT 2 (2026-02-01)](#qmr-kwt-2-2026-02-01)  
 [Astrocast 0.1 (2025-12-01)](#astrocast-2025-12-01)  
 [Innocube (2026-01-14)](#innocube-2026-01-14)  
 [BY2HIT (2025-12-19)](#by2hit-2025-12-19)  
@@ -93,6 +94,12 @@
 
 ## 📡 QSL 卡
 
+<a name="qmr-kwt-2-2026-02-01"></a>
+**QMR-KWT 2 (2026-02-01) - 2k4 & FM Voice (digital)**  
+[![assets/images/2026-02-01_qmr-kwt-2.jpg](assets/images/2026-02-01_qmr-kwt-2.jpg)](https://db.satnogs.org/satellite/98448)
+
+---
+
 <a name="astrocast-2025-12-01"></a>
 **Astrocast 0.1 (HB9GSF) (2025-12-01) - 1k2 (paper)**  
 [![assets/images/2025-12-01_astrocast.jpg](assets/images/2025-12-01_astrocast.jpg)](https://db.satnogs.org/satellite/43798)
@@ -112,7 +119,7 @@
 ---
 
 <a name="asrtu-1-2025-12-18"></a>
-**ASRTU-1 (AO-123, 阿斯图友谊号) (2025-12-18) - BPSK 9k6 - Image Data (paper)**  
+**ASRTU-1 (AO-123, 阿斯图友谊号) (2025-12-18) - BPSK 9k6 (!) - Image Data (paper)**  
 ![assets/images/2025-12-18_asrtu-1.jpg](assets/images/2025-12-18_asrtu-1.jpg)
 
 ---
