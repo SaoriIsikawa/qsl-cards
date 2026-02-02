@@ -19,6 +19,7 @@
 [REAL (2025-08-30)](#real-wr9xtx-2025-08-30)  
 [CubeBel-2 (2025-10-10)](#cubebel-2-2025-10-10)  
 [BOTAN (2025-11-14)](#botan-2025-11-14)  
+[BOTAN (2025-10-14)](#botan-2025-10-14)  
 [BOTAN (2025-10-10)](#botan-2025-10-10)  
 [EIRSAT-1 (2025-09-03)](#eirsat-1-2025-09-03)  
 
@@ -95,7 +96,7 @@
 ## 📡 QSL 卡
 
 <a name="qmr-kwt-2-2026-02-01"></a>
-**QMR-KWT 2 (2026-02-01) - 2k4 & FM Voice (digital)**  
+**QMR-KWT 2 (2026-02-01) - 2k4 & Voice (digital)**  
 [![assets/images/2026-02-01_qmr-kwt-2.jpg](assets/images/2026-02-01_qmr-kwt-2.jpg)](https://db.satnogs.org/satellite/98448)
 
 ---
@@ -186,6 +187,12 @@
 <a name="botan-2025-11-14"></a>
 **BOTAN (2025-11-14) - 1k2 Digipeater (digital)**  
 [![assets/images/2025-11-14_botan_digi.jpg](assets/images/2025-11-14_botan_digi.jpg)](https://db.satnogs.org/satellite/65942)
+
+---
+
+<a name="botan-2025-10-14"></a>
+**BOTAN (2025-10-14) - 4k8 (digital)**  
+[![assets/images/2025-10-14_botan_4k8.jpg](assets/images/2025-10-14_botan_4k8.jpg)](https://db.satnogs.org/satellite/65942)
 
 ---
 
