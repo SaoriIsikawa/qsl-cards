@@ -1,4 +1,4 @@
-# 业余无线电台 BG7XTQ (前 JJ1DSB) 的 QSL 卡
+# 业余无线电台 BG7XTQ (前JJ1DSB) 收藏的 QSL 卡
 
 ## 📬 QSL 卡目录
 <table>
