@@ -4,6 +4,7 @@
 <table>
 <tr><td>
 
+[LEOPARD (2026-02-04)](#leopard-2026-02-04)  
 [QMR-KWT 2 (2026-02-01)](#qmr-kwt-2-2026-02-01)  
 [Astrocast 0.1 (2025-12-01)](#astrocast-2025-12-01)  
 [Innocube (2026-01-14)](#innocube-2026-01-14)  
@@ -94,6 +95,12 @@
 - [ISS CW NA1SS (2025-09-04)](#iss-2025-09-04)
 
 ## 📡 QSL 卡
+
+<a name="leopard-2026-02-04"></a>
+**LEOPARD (2026-02-04) - CW (digital)**  
+[![assets/images/2026-02-04_leopard.jpg](assets/images/2026-02-04_leopard.jpg)](https://db.satnogs.org/satellite/98397)
+
+---
 
 <a name="qmr-kwt-2-2026-02-01"></a>
 **QMR-KWT 2 (2026-02-01) - 2k4 & Voice (digital)**  
