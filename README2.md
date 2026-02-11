@@ -2,6 +2,13 @@
 
 ## 📬 QSL 卡
 
+<a name="bg7ruf_so-125-2026-02-09"></a>
+**BG7RUF (2026-02-09) - FM (digital)**  
+(BG7RUF confirmed my QSO with BG7RUF via SO-125)  
+![assets/images/2026-02-09_bg7ruf_so-125.jpg](assets/images/2026-02-09_bg7ruf_so-125.jpg)
+
+---
+
 <a name="vorw-2025-12-04"></a>
 **VORW Radio International. (2025-12-04) - AM (digital)**  
 ![assets/images/2025-12-04_VORW.jpg](assets/images/2025-12-04_VORW.jpg)
