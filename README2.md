@@ -4,14 +4,14 @@
 
 <a name="ba8afk_so-124-2025-11-09"></a>
 **BA8AFK (2025-11-09) - FM (paper)**  
-(BA8AFK confirmed my QSO via SO-124)  
+(BA8AFK confirmed my SWL via SO-124)  
 ![assets/images/2025-11-09_ba8afk_2.jpg](assets/images/2025-11-09_ba8afk_2.jpg)
 
 ---
 
 <a name="ba8afk_so-124-2025-11-09"></a>
 **BA8AFK (2025-11-09) - FM (paper)**  
-(BA8AFK confirmed my QSO via SO-124)  
+(BA8AFK confirmed my SWL via SO-124)  
 ![assets/images/2025-11-09_ba8afk.jpg](assets/images/2025-11-09_ba8afk.jpg)
 
 ---
