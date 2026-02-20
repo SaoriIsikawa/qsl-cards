@@ -2,9 +2,23 @@
 
 ## 📬 QSL 卡
 
+<a name="ba8afk_so-124-2025-11-09"></a>
+**BA8AFK (2025-11-09) - FM (paper)**  
+(BA8AFK confirmed my QSO via SO-124)  
+![assets/images/2025-11-09_ba8afk_2.jpg](assets/images/2025-11-09_ba8afk_2.jpg)
+
+---
+
+<a name="ba8afk_so-124-2025-11-09"></a>
+**BA8AFK (2025-11-09) - FM (paper)**  
+(BA8AFK confirmed my QSO via SO-124)  
+![assets/images/2025-11-09_ba8afk.jpg](assets/images/2025-11-09_ba8afk.jpg)
+
+---
+
 <a name="bg7ruf_so-125-2026-02-09"></a>
 **BG7RUF (2026-02-09) - FM (digital)**  
-(BG7RUF confirmed my QSO with BG7RUF via SO-125)  
+(BG7RUF confirmed my QSO via SO-125)  
 ![assets/images/2026-02-09_bg7ruf_so-125.jpg](assets/images/2026-02-09_bg7ruf_so-125.jpg)
 
 ---
