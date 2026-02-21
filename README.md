@@ -102,7 +102,7 @@
 ---
 
 <a name="qmr-kwt-2-2026-02-01"></a>
-**RS95S (QMR-KWT 2) (2026-02-01) - 2k4 & Voice (digital)**  
+**RS95S (QMR-KWT 2) (2026-02-01) - 2k4 & Voice Repeater (digital)**  
 [![assets/images/2026-02-01_qmr-kwt-2.jpg](assets/images/2026-02-01_qmr-kwt-2.jpg)](https://db.satnogs.org/satellite/98448)
 
 ---
