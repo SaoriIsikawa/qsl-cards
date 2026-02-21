@@ -162,7 +162,7 @@
 ---
 
 <a name="b100iaru-2025-05-06"></a>
-**B100IARU (2025-05-06) - FM - SWL, PROP: PO-101 (Paper)**  
+**B100IARU (2025-05-06) - Voice Repeater - SWL via PO-101 (Paper)**  
 [![assets/images/2025-05-06_b100iaru.jpg](assets/images/2025-05-06_b100iaru.jpg)](http://www.crac.org.cn/News/Detail?ID=8b9f46aba3384686bbe24ee2e627ee5e)
 
 ---
