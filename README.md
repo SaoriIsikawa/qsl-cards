@@ -120,19 +120,19 @@
 ---
 
 <a name="by2hit-2025-12-19"></a>
-**BY2HIT (2025-12-19) - FM - SWL, PROP: AO-123 (paper)**  
+**BY2HIT (2025-12-19) - Voice Repeater - SWL via AO-123 (ASRTU-1) (paper)**  
 ![assets/images/2025-12-19_BY2HIT.jpg](assets/images/2025-12-19_BY2HIT.jpg)
 
 ---
 
 <a name="asrtu-1-2025-12-18"></a>
-**ASRTU-1 (AO-123, 阿斯图友谊号) (2025-12-18) - BPSK 9k6 (!) - Image Data (paper)**  
+**AO-123 (ASRTU-1, 阿斯图友谊号) (2025-12-18) - BPSK 9k6 (!) - Image Data (paper)**  
 ![assets/images/2025-12-18_asrtu-1.jpg](assets/images/2025-12-18_asrtu-1.jpg)
 
 ---
 
 <a name="asrtu-1-2025-10-30"></a>
-**ASRTU-1 (AO-123, 阿斯图友谊号) (2025-10-30) - BPSK 9k6 - Image Data (paper)**  
+**AO-123 (ASRTU-1, 阿斯图友谊号) (2025-10-30) - BPSK 9k6 - Image Data (paper)**  
 [![assets/images/2025-10-30_asrtu-1.jpg](assets/images/2025-10-30_asrtu-1.jpg)](https://db.satnogs.org/satellite/61781)
 
 ---
