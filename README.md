@@ -4,6 +4,8 @@
 <table>
 <tr><td>
 
+[Geoscan satellites](#geoscan-satellites)  
+[239Alferov (2025-08-17)](#239alferov-2025-08-17)  
 [LEOPARD (2026-02-04)](#leopard-2026-02-04)  
 [QMR-KWT 2 (2026-02-01)](#qmr-kwt-2-2026-02-01)  
 [Astrocast 0.1 (2025-12-01)](#astrocast-2025-12-01)  
@@ -94,6 +96,18 @@
 - [ISS CW NA1SS (2025-09-04)](#iss-2025-09-04)
 
 ## 📡 QSL 卡
+
+<a name="geoscan-satellites"></a>
+**Geoscan satellites - 9k6 (digital)**  
+![assets/images/geoscan_satellites.jpg](assets/images/geoscan_satellites.jpg)
+
+---
+
+<a name="239alferov-2025-08-17"></a>
+**239Alferov (RS61S) (2025-08-17) - 9k6 - Image Data (digital)**  
+[![assets/images/2025-08-17_239alferov.jpg](assets/images/2025-08-17_239alferov.jpg)](https://db.satnogs.org/satellite/64881)
+
+---
 
 <a name="leopard-2026-02-04"></a>
 **LEOPARD (2026-02-04) - CW (digital)**  
