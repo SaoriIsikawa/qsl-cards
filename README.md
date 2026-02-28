@@ -110,7 +110,7 @@
 ---
 
 <a name="leopard-2026-02-04"></a>
-**LEOPARD (2026-02-04) - CW (digital)**  
+**LEOPARD (JG6YBW) (2026-02-04) - CW on 400.960 MHz [commercial] (digital)**  
 [![assets/images/2026-02-04_leopard.jpg](assets/images/2026-02-04_leopard.jpg)](https://db.satnogs.org/satellite/98397)
 
 ---
