@@ -141,13 +141,13 @@
 ---
 
 <a name="asrtu-1-2025-12-18"></a>
-**AO-123 (ASRTU-1, 阿斯图友谊号) (2025-12-18) - BPSK 9k6 (!) - Image Data (paper)**  
+**AO-123 (ASRTU-1, 阿斯图友谊号) (2025-12-18) - BPSK 9k6 (!) - SSDV (paper)**  
 ![assets/images/2025-12-18_asrtu-1.jpg](assets/images/2025-12-18_asrtu-1.jpg)
 
 ---
 
 <a name="asrtu-1-2025-10-30"></a>
-**AO-123 (ASRTU-1, 阿斯图友谊号) (2025-10-30) - BPSK 9k6 - Image Data (paper)**  
+**AO-123 (ASRTU-1, 阿斯图友谊号) (2025-10-30) - BPSK 9k6 - SSDV (paper)**  
 [![assets/images/2025-10-30_asrtu-1.jpg](assets/images/2025-10-30_asrtu-1.jpg)](https://db.satnogs.org/satellite/61781)
 
 ---
