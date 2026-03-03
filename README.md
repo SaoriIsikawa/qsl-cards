@@ -87,6 +87,7 @@
 - [2025-10-03~04 RS40S Radio Quest commemorating Sputnik-1](#rs40s-radio-quest)
 - [2025-11-11 RS40S Special Event "Space Race"](#rs40s-space-race-2025)
 - [2026-01-05 RS40S RS38S Orbital Quest](#rs40s-rs38s-orbital-quest)
+- [2026-02-24 Contest "Photo of the Earth from the Horizon satellite"](#contest-horizon-2026-02-24)
 
 
 ## 📬 ISS QSL 卡
@@ -533,6 +534,12 @@
 <a name="rs40s-rs38s-orbital-quest"></a>
 **2026-01-05 RS40S RS38S Orbital Quest**  
 ![assets/images/rs40s_rs38s_orbital_quest.jpg](assets/images/rs40s_rs38s_orbital_quest.jpg)
+
+---
+
+<a name="contest-horizon-2026-02-24"></a>
+**2026-02-24 Contest "Photo of the Earth from the Horizon satellite"**  
+![assets/images/horizon.jpg](assets/images/horizon.jpg)
 
 ---
 
