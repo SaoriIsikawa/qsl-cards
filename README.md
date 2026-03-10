@@ -7,6 +7,7 @@
 [Geoscan satellites](#geoscan-satellites)  
 [239Alferov (2025-08-17)](#239alferov-2025-08-17)  
 [LEOPARD (2026-02-04)](#leopard-2026-02-04)  
+[QMR-KWT 2 (2026-02-21)](#qmr-kwt-2-2026-02-21)  
 [QMR-KWT 2 (2026-02-01)](#qmr-kwt-2-2026-02-01)  
 [Astrocast 0.1 (2025-12-01)](#astrocast-2025-12-01)  
 [Innocube (2026-01-14)](#innocube-2026-01-14)  
@@ -113,6 +114,12 @@
 <a name="leopard-2026-02-04"></a>
 **LEOPARD (JG6YBW) (2026-02-04) - CW on 400.960 MHz [commercial] (digital)**  
 [![assets/images/2026-02-04_leopard.jpg](assets/images/2026-02-04_leopard.jpg)](https://db.satnogs.org/satellite/98397)
+
+---
+
+<a name="qmr-kwt-2-2026-02-21"></a>
+**RS95S (QMR-KWT 2) (2026-02-21) - 9k6 (digital)**  
+[![assets/images/2026-02-21_qmr-kwt-2.jpg](assets/images/2026-02-21_qmr-kwt-2.jpg)](https://db.satnogs.org/satellite/98448)
 
 ---
 
