@@ -118,7 +118,7 @@
 ---
 
 <a name="qmr-kwt-2-2026-02-21"></a>
-**RS95S (QMR-KWT 2) (2026-02-21) - 9k6 (digital)**  
+**RS95S (QMR-KWT 2) (2026-02-21) - 9k6 (digital) [Location: OL42dt (!)]**  
 [![assets/images/2026-02-21_qmr-kwt-2.jpg](assets/images/2026-02-21_qmr-kwt-2.jpg)](https://db.satnogs.org/satellite/98448)
 
 ---
