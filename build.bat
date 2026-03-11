@@ -44,8 +44,8 @@ tidy.exe ^
   -modify ^
   "%OUT%"
 
-echo [4/4] 原生懒加载...
-python add_lazy.py index.html
+rem echo [4/4] 原生懒加载...
+rem python add_lazy.py index.html
 
 echo [5/4] 完成：%OUT%
 pause

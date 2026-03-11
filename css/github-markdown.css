@@ -225,6 +225,7 @@
 }
 
 .markdown-body img {
+  background-color: var(--bgColor-muted); /* 图片未加载出时的占位色 */
   border-style: none;
   max-width: 100%;
   box-sizing: content-box;
