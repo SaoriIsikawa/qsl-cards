@@ -101,7 +101,7 @@
 
 <a name="geoscan-satellites"></a>
 **Geoscan satellites - 9k6 (digital)**  
-![assets/images/geoscan_satellites.jpg](assets/images/geoscan_satellites.jpg)
+![assets/images/geoscan_satellites_2.jpg](assets/images/geoscan_satellites_2.jpg)
 
 ---
 
