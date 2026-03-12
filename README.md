@@ -286,13 +286,13 @@
 
 <a name="nhk-world-japan-2025-03-11"></a>
 **NHK World-Japan (2025-03-11) - AM (paper)**  
-![assets/images/2025-03-11_NHK_WORLD_JAPAN.jpg](assets/images/2025-03-11_NHK_WORLD_JAPAN.jpg)
+![assets/images/2025-03-11_nhk_world-japan.jpg](assets/images/2025-03-11_nhk_world-japan.jpg)
 
 ---
 
 <a name="nhk-world-japan-2025-03-02"></a>
 **NHK World-Japan (2025-03-02) - AM (paper)**  
-![assets/images/2025-03-02_NHK_WORLD_JAPAN.jpg](assets/images/2025-03-02_NHK_WORLD_JAPAN.jpg)
+![assets/images/2025-03-02_nhk_world-japan.jpg](assets/images/2025-03-02_nhk_world-japan.jpg)
 
 ---
 
