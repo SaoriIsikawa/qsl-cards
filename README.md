@@ -101,7 +101,7 @@
 ## 📡 QSL 卡
 
 <a name="innosat-geoscan"></a>
-**InnoSat 3, InnoSat 16, Geoscan 1–6 - 9k6 (digital)**  
+**InnoSat 3, InnoSat 16 and Geoscan 1–6 - 9k6 (digital)**  
 ![assets/images/innosat_geoscan_2.jpg](assets/images/innosat_geoscan_2.jpg)
 
 ---
