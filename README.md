@@ -4,7 +4,7 @@
 <table>
 <tr><td>
 
-[Geoscan satellites](#geoscan-satellites)  
+[InnoSat 3, InnoSat 16, Geoscan 1–6](#innosat-geoscan)  
 [239Alferov (2025-08-17)](#239alferov-2025-08-17)  
 [LEOPARD (2026-02-04)](#leopard-2026-02-04)  
 [QMR-KWT 2 (2026-02-25)](#qmr-kwt-2-2026-02-25)  
@@ -100,7 +100,7 @@
 
 ## 📡 QSL 卡
 
-<a name="geoscan-satellites"></a>
+<a name="innosat-geoscan"></a>
 **InnoSat 3, InnoSat 16, Geoscan 1–6 - 9k6 (digital)**  
 ![assets/images/innosat_geoscan_2.jpg](assets/images/innosat_geoscan_2.jpg)
 
