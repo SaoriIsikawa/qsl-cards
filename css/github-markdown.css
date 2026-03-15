@@ -871,7 +871,10 @@
 .markdown-body pre code,
 .markdown-body pre tt {
   display: inline;
-  max-width: auto;
+  /* 修改后：如果你想取消限制，请改用 none */
+  max-width: none; 
+  /* 或者如果你想表达宽度自动 */
+  /*  width: auto; */
   padding: 0;
   margin: 0;
   overflow: visible;
@@ -956,9 +959,11 @@
   font-family: monospace;
 }
 
+/*
 .markdown-body body:has(:modal) {
   padding-right: var(--dialog-scrollgutter) !important;
 }
+*/
 
 .markdown-body .pl-c {
   color: var(--color-prettylights-syntax-comment);

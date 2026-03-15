@@ -19,10 +19,10 @@ if not exist "%CSS%" (
   exit /b 1
 )
 
-echo [1/4] 渲染 Markdown...
+echo [1/5] 渲染 Markdown...
 cmark-gfm --to html --github-pre-lang --unsafe "%MD%" > "%TMP_HTML%"
 
-echo [2/4] 生成 HTML 头 + 内联 CSS...
+echo [2/5] 生成 HTML 头 + 内联 CSS...
 (
   type tmpl\header.html
   type "%CSS%"
@@ -34,7 +34,7 @@ echo [2/4] 生成 HTML 头 + 内联 CSS...
 
 del "%TMP_HTML%"
 
-echo [3/4] tidy 美化 HTML...
+echo [3/5] tidy 美化 HTML...
 tidy.exe ^
   -quiet ^
   -indent ^
@@ -44,8 +44,17 @@ tidy.exe ^
   -modify ^
   "%OUT%"
 
-rem echo [4/4] 原生懒加载...
+rem echo [4/5] 原生懒加载...
 rem python add_lazy.py index.html
 
-echo [5/4] 完成：%OUT%
+echo [4/5] 修复html锚点...
+rem 执行转换，输出到临时文件
+C:\cmdtool32\awk.exe -f fix_anchors.awk index.html > index.tmp
+
+rem 检查上一步是否成功（避免报错时误删原文件）
+if %ERRORLEVEL% EQU 0 (
+    move /y index.tmp index.html
+)
+
+echo [5/5] 完成：%OUT%
 pause
