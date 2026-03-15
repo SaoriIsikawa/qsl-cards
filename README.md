@@ -102,7 +102,7 @@
 ## 📡 QSL 卡
 
 <a name="sakhacube-cholbon-2026-02-21"></a>
-**SAKHACUBE-CHOLBON (RS18S) (2026-02-21) - 2k4 and SSTV (digital)**  
+**RS18S (SAKHACUBE-CHOLBON) (2026-02-21) - SSTV and 2k4 (digital)**  
 [![assets/images/2026-02-21_rs18s.jpg](assets/images/2026-02-21_rs18s.jpg)](https://db.satnogs.org/satellite/67290)
 
 ---
