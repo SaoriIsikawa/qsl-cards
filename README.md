@@ -4,6 +4,7 @@
 <table>
 <tr><td>
 
+[SAKHACUBE-CHOLBON (2026-02-21)](#sakhacube-cholbon-2026-02-21)  
 [InnoSat 3, InnoSat 16, Geoscan 1–6](#innosat-geoscan)  
 [239Alferov (2025-08-17)](#239alferov-2025-08-17)  
 [LEOPARD (2026-02-04)](#leopard-2026-02-04)  
@@ -99,6 +100,12 @@
 - [ISS CW NA1SS (2025-09-04)](#iss-2025-09-04)
 
 ## 📡 QSL 卡
+
+<a name="sakhacube-cholbon-2026-02-21"></a>
+**SAKHACUBE-CHOLBON (RS18S) (2026-02-21) - 2k4 and SSTV (digital)**  
+[![assets/images/2026-02-21_rs18s.jpg](assets/images/2026-02-21_rs18s.jpg)](https://db.satnogs.org/satellite/67290)
+
+---
 
 <a name="innosat-geoscan"></a>
 **InnoSat 3, InnoSat 16 and Geoscan 1–6 - 9k6 (digital)**  
