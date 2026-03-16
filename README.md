@@ -8,9 +8,9 @@
 [InnoSat 3, InnoSat 16, Geoscan 1–6](#innosat-geoscan)  
 [239Alferov (2025-08-17)](#239alferov-2025-08-17)  
 [LEOPARD (2026-02-04)](#leopard-2026-02-04)  
-[QMR-KWT 2 (2026-02-25)](#qmr-kwt-2-2026-02-25)  
-[QMR-KWT 2 (2026-02-21)](#qmr-kwt-2-2026-02-21)  
-[QMR-KWT 2 (2026-02-01)](#qmr-kwt-2-2026-02-01)  
+[QMR-KWT-2 (2026-02-25)](#qmr-kwt-2-2026-02-25)  
+[QMR-KWT-2 (2026-02-21)](#qmr-kwt-2-2026-02-21)  
+[QMR-KWT-2 (2026-02-01)](#qmr-kwt-2-2026-02-01)  
 [Astrocast 0.1 (2025-12-01)](#astrocast-2025-12-01)  
 [Innocube (2026-01-14)](#innocube-2026-01-14)  
 [BY2HIT (2025-12-19)](#by2hit-2025-12-19)  
@@ -126,19 +126,19 @@
 ---
 
 <a name="qmr-kwt-2-2026-02-25"></a>
-**RS95S (QMR-KWT 2) (2026-02-25) - SSTV (digital)**  
+**RS95S (QMR-KWT-2) (2026-02-25) - SSTV (digital)**  
 [![assets/images/2026-02-25_qmr-kwt-2.jpg](assets/images/2026-02-25_qmr-kwt-2.jpg)](https://db.satnogs.org/satellite/98448)
 
 ---
 
 <a name="qmr-kwt-2-2026-02-21"></a>
-**RS95S (QMR-KWT 2) (2026-02-21) - 9k6 (digital) [Location: OL42dt (!)]**  
+**RS95S (QMR-KWT-2) (2026-02-21) - 9k6 (digital) [Location: OL42dt (!)]**  
 [![assets/images/2026-02-21_qmr-kwt-2.jpg](assets/images/2026-02-21_qmr-kwt-2.jpg)](https://db.satnogs.org/satellite/98448)
 
 ---
 
 <a name="qmr-kwt-2-2026-02-01"></a>
-**RS95S (QMR-KWT 2) (2026-02-01) - 2k4 & Voice Repeater (digital)**  
+**RS95S (QMR-KWT-2) (2026-02-01) - 2k4 & Voice Repeater (digital)**  
 [![assets/images/2026-02-01_qmr-kwt-2.jpg](assets/images/2026-02-01_qmr-kwt-2.jpg)](https://db.satnogs.org/satellite/98448)
 
 ---
