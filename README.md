@@ -91,7 +91,7 @@
 - [2025-11-11 RS40S Special Event "Space Race"](#rs40s-space-race-2025)
 - [2026-01-05 RS40S RS38S Orbital Quest](#rs40s-rs38s-orbital-quest)
 - [2026-02-24 Contest "Photo of the Earth from the Horizon satellite"](#contest-horizon-2026-02-24)
-- [2025-11-04 ~ 2026-02-29 BOTAN APRS Uplink Campaign](#botan-aprs-uplink-campaign)
+- [2025-11-04 ~ 2026-02-29 BOTAN APRS 受信証明書](#botan-aprs)
 
 ## 📬 ISS QSL 卡
 
@@ -564,11 +564,10 @@
 
 ---
 
-<a name="botan-aprs-uplink-campaign"></a>
-**BOTAN (2025-11-04 ~ 2026-02-29) - APRS Uplink Campaign (digital)**  
-![assets/images/botan_aprs.jpg](assets/images/botan_aprs.jpg)
+<a name="botan-aprs"></a>
+**2025-11-04 ~ 2026-02-29 BOTAN APRS 受信証明書**  
+[![assets/images/botan_aprs.jpg](assets/images/botan_aprs.jpg)](assets/images/botan_aprs.png)
 
----
 
 ## ISS QSL 卡
 
