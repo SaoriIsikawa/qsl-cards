@@ -103,13 +103,13 @@
 
 <div id="sakhacube-cholbon-2026-02-21"></div>
 
-### 📡 SAKHACUBE-CHOLBON
+### 🛰️ SAKHACUBE-CHOLBON
 
-| 🛰️ QSL Information | 🖼️ QSL Preview |
+| 📡 QSL Information | 🖼️ QSL Preview |
 | :--- | :--- |
-| **Name:** RS18S (SAKHACUBE-CHOLBON) <br> **Callsign:** RS18S <br> **QSL Format:** Digital <br> **SatNOGS DB:** [67290](https://db.satnogs.org/satellite/67290) | [![RS18S QSL Card 2026-02-21](assets/images/2026-02-21_rs18s.jpg)](https://db.satnogs.org/satellite/67290) |
+| **Name:** RS18S (SAKHACUBE-CHOLBON) <br> **Callsign:** RS18S <br> **Verification Type:** Image & Telemetry <br> **QSL Format:** Digital <br> **SatNOGS DB:** [67290](https://db.satnogs.org/satellite/67290) | [![RS18S QSL Card 2026-02-21](assets/images/2026-02-21_rs18s.jpg)](https://db.satnogs.org/satellite/67290) |
 
-#### 📊 Reception Log (3 Records)
+#### 📊 Reception Log
 | Date (UTC) | Time (UTC) | Frequency | Mode | RST |
 | :--- | :--- | :--- | :--- | :--- |
 | 2026-02-21 | 15:39 | 437.350 MHz | SSTV | |
