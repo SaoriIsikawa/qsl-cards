@@ -103,21 +103,15 @@
 
 | 📡 QSL Information | 🖼️ QSL Preview |
 | :--- | :--- |
-| <div id="sakhacube-cholbon-2026-02-21"></div><br><br> **Name:** SAKHACUBE-CHOLBON <br> **Callsign:** `RS18S` <br> **Verification Type:** Image & Telemetry <br> **QSL Format:** Digital <br> **SatNOGS DB:** [67290](https://db.satnogs.org/satellite/67290) | [![RS18S QSL Card 2026-02-21](assets/images/2026-02-21_rs18s.jpg)](https://db.satnogs.org/satellite/67290) |
-| <div id="innosat-geoscan"></div><br><br> **Satellites:** InnoSat 3, InnoSat 16, <br> &nbsp;&nbsp;Geoscan 1, <br> &nbsp;&nbsp;Geoscan 2, <br> &nbsp;&nbsp;Geoscan 3, <br> &nbsp;&nbsp;Geoscan 4, <br> &nbsp;&nbsp;Geoscan 5, <br> &nbsp;&nbsp;Geoscan 6 <br> **Total Satellites:** 8 <br> **Verification Type:** Telemetry <br> **QSL Format:** Digital <br> **SatNOGS DB:** | ![assets/images/innosat_geoscan_2.jpg](assets/images/innosat_geoscan_2.jpg) |
+| <div id="sakhacube-cholbon-2026-02-21"></div><br><br> **Name:** SAKHACUBE-CHOLBON <br> **Callsign:** `RS18S` <br> **Verification Type:** Image & Telemetry <br> **Mode:** SSTV & 2k4 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [67290](https://db.satnogs.org/satellite/67290) | [![RS18S QSL Card 2026-02-21](assets/images/2026-02-21_rs18s.jpg)](https://db.satnogs.org/satellite/67290) |
+| <div id="innosat-geoscan"></div><br><br> **Satellites:** InnoSat 3, InnoSat 16, <br> &nbsp;&nbsp;Geoscan 1, <br> &nbsp;&nbsp;Geoscan 2, <br> &nbsp;&nbsp;Geoscan 3, <br> &nbsp;&nbsp;Geoscan 4, <br> &nbsp;&nbsp;Geoscan 5, <br> &nbsp;&nbsp;Geoscan 6 <br> **Total Satellites:** 8 <br> **Verification Type:** Telemetry <br> **Mode:** 9k6 <br> **QSL Format:** Digital <br> **SatNOGS DB:** | ![assets/images/innosat_geoscan_2.jpg](assets/images/innosat_geoscan_2.jpg) |
+| <div id="239alferov-2025-08-17"></div><br><br> **Name:** 239Alferov <br> **Callsign:** `RS61S` <br> **Verification Type:** Image Data <br> **Mode:** 9k6 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [64881](https://db.satnogs.org/satellite/64881) | [![RS61S QSL Card 2025-08-17](assets/images/2025-08-17_239alferov.jpg)](https://db.satnogs.org/satellite/64881) |
+| <div id="leopard-2026-02-04"></div><br><br> **Name:** LEOPARD <br> **Callsign:** `JG6YBW` <br> **Verification Type:** Telemetry <br> **Mode:** CW <br> [commercial] <br> **QSL Format:** Digital <br> **SatNOGS DB:** [67687](https://db.satnogs.org/satellite/67687) | [![LEOPARD QSL Card 2026-02-04](assets/images/2026-02-04_leopard.jpg)](https://db.satnogs.org/satellite/67687) |
 
 
-<a name="239alferov-2025-08-17"></a>
-**239Alferov (RS61S) (2025-08-17) - 9k6 - Image Data (digital)**  
-[![assets/images/2025-08-17_239alferov.jpg](assets/images/2025-08-17_239alferov.jpg)](https://db.satnogs.org/satellite/64881)
 
----
 
-<a name="leopard-2026-02-04"></a>
-**LEOPARD (JG6YBW) (2026-02-04) - CW on 400.960 MHz [commercial] (digital)**  
-[![assets/images/2026-02-04_leopard.jpg](assets/images/2026-02-04_leopard.jpg)](https://db.satnogs.org/satellite/98397)
 
----
 
 <a name="qmr-kwt-2-2026-02-25"></a>
 **RS95S (QMR-KWT-2) (2026-02-25) - SSTV (digital)**  
