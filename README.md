@@ -103,20 +103,18 @@
 
 <div id="sakhacube-cholbon-2026-02-21"></div>
 
-### SAKHACUBE-CHOLBON
+### 📡 SAKHACUBE-CHOLBON
 
-| Attribute | Details |
+| 🛰️ QSL Information | 🖼️ QSL Preview |
 | :--- | :--- |
-| **Satellite** | RS18S (SAKHACUBE-CHOLBON) |
-| **Callsign** | RS18S |
-| **Date (UTC)** | 2026-02-21 |
-| **Time (UTC)** | 15:39 |
-| **Frequency** | 437.350 MHz |
-| **Mode** | SSTV & 2k4 |
-| **QSL Format** | Digital |
-| **SatNOGS DB** | [67290](https://db.satnogs.org/satellite/67290) |
+| **Name:** RS18S (SAKHACUBE-CHOLBON) <br> **Callsign:** RS18S <br> **QSL Format:** Digital <br> **SatNOGS DB:** [67290](https://db.satnogs.org/satellite/67290) | [![RS18S QSL Card 2026-02-21](assets/images/2026-02-21_rs18s.jpg)](https://db.satnogs.org/satellite/67290) |
 
-[![QSL Card: RS18S (SAKHACUBE-CHOLBON) SSTV and 2k4 2026-02-21](assets/images/2026-02-21_rs18s.jpg)](https://db.satnogs.org/satellite/67290)
+#### 📊 Reception Log (3 Records)
+| Date (UTC) | Time (UTC) | Frequency | Mode | RST |
+| :--- | :--- | :--- | :--- | :--- |
+| 2026-02-21 | 15:39 | 437.350 MHz | SSTV | |
+| 2026-02-21 | 15:39 | 437.350 MHz | 2k4 GMSK | |
+| 2026-02-21 | 15:41 | 437.350 MHz | SSTV | |
 
 ---
 
@@ -372,7 +370,7 @@
 ---
 
 <a name="samsat-ionosphere-rs75s-2025-05-11"></a>
-**RS75S (SamSat-Ionosphere) (2025-05-11) - 1k2 - Victory Day (digital)**  
+**RS75S (SamSat-Ionosphere) (2025-05-11) - 1k2 FSK - Victory Day (digital)**  
 [![assets/images/2025-05-11_RS75S.jpg](assets/images/2025-05-11_RS75S.jpg)](https://db.satnogs.org/satellite/61784)
 
 ---
@@ -453,7 +451,6 @@
 **RS15S (OrbiCraft-Zorkiy) (2023-05-09) - SSTV (digital)**  
 [![assets/images/2023-05-09_OrbiCraft-Zorkiy.jpg](assets/images/2023-05-09_OrbiCraft-Zorkiy.jpg)](https://db.satnogs.org/satellite/47960)
 
----
 
 ## Waiting for QSL cards from
 - [ ] AISat (2026-02-17) - CW
