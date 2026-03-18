@@ -20,7 +20,7 @@ if not exist "%CSS%" (
 )
 
 echo [1/5] 渲染 Markdown...
-cmark-gfm --to html --github-pre-lang --unsafe "%MD%" > "%TMP_HTML%"
+cmark-gfm -t html --github-pre-lang --unsafe -e table -e autolink -e strikethrough -e tasklist -e footnotes -e tagfilter "%MD%" > "%TMP_HTML%"
 
 echo [2/5] 生成 HTML 头 + 内联 CSS...
 (

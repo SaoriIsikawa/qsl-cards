@@ -1,8 +1,8 @@
-# 业余无线电台 BG7XTQ (前JJ1DSB) 收藏的 QSL 卡
+# 业余无线电台 BG7XTQ 的 QSL 收藏
 
 ## 📬 QSL 卡目录
 <table>
-<tr><td>
+<tr><td valign="top">
 
 [SAKHACUBE-CHOLBON (2026-02-21)](#sakhacube-cholbon-2026-02-21)  
 [InnoSat 3, InnoSat 16, Geoscan 1–6](#innosat-geoscan)  
@@ -23,7 +23,7 @@
 [PolyITAN-1 (2025-09-01)](#polyitan-1-2025-09-01)  
 [RSP-03 (2025-10-25)](#rsp-03-js1yoy-2025-10-25)  
 
-</td><td>
+</td><td valign="top">
 
 [REAL (2025-08-30)](#real-wr9xtx-2025-08-30)  
 [CubeBel-2 (2025-10-10)](#cubebel-2-2025-10-10)  
@@ -45,7 +45,7 @@
 [TechnoSat (2025-05-24)](#technosat-dp0tba-2025-05-24)  
 [TIGRISAT (2025-05-23)](#tigrisat-hnatig-2025-05-23)  
 
-</td><td>
+</td><td valign="top">
 
 [ENSO (2025-05-22)](#enso-2025-05-22)  
 [QUBE (2025-05-20)](#qube-dp2qu-2025-05-20)  
@@ -99,11 +99,24 @@
 - [ISS APRS RS0ISS (2025-08-19)](#iss-2025-08-19)
 - [ISS CW NA1SS (2025-09-04)](#iss-2025-09-04)
 
-## 📡 QSL 卡
+## 📡 QSL 卡详情
 
-<a name="sakhacube-cholbon-2026-02-21"></a>
-**RS18S (SAKHACUBE-CHOLBON) (2026-02-21) - SSTV and 2k4 (digital)**  
-[![assets/images/2026-02-21_rs18s.jpg](assets/images/2026-02-21_rs18s.jpg)](https://db.satnogs.org/satellite/67290)
+<div id="sakhacube-cholbon-2026-02-21"></div>
+
+### SAKHACUBE-CHOLBON
+
+| Attribute | Details |
+| :--- | :--- |
+| **Satellite** | RS18S (SAKHACUBE-CHOLBON) |
+| **Callsign** | RS18S |
+| **Date (UTC)** | 2026-02-21 |
+| **Time (UTC)** | 15:39 |
+| **Frequency** | 437.350 MHz |
+| **Mode** | SSTV & 2k4 |
+| **QSL Format** | Digital |
+| **SatNOGS DB** | [67290](https://db.satnogs.org/satellite/67290) |
+
+[![QSL Card: RS18S (SAKHACUBE-CHOLBON) SSTV and 2k4 2026-02-21](assets/images/2026-02-21_rs18s.jpg)](https://db.satnogs.org/satellite/67290)
 
 ---
 
@@ -441,6 +454,10 @@
 [![assets/images/2023-05-09_OrbiCraft-Zorkiy.jpg](assets/images/2023-05-09_OrbiCraft-Zorkiy.jpg)](https://db.satnogs.org/satellite/47960)
 
 ---
+
+## Waiting for QSL cards from
+- [ ] AISat (2026-02-17) - CW
+
 
 ## 📜 确认图像接收的证书与奖项
 
