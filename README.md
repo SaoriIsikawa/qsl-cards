@@ -5,7 +5,7 @@
 <tr><td valign="top">
 
 [SAKHACUBE-CHOLBON (2026-02-21)](#sakhacube-cholbon-2026-02-21)  
-[InnoSat 3, InnoSat 16, Geoscan 1–6](#innosat-geoscan)  
+[InnoSat 3/16 & Geoscan 1–6](#innosat-geoscan)  
 [239Alferov (2025-08-17)](#239alferov-2025-08-17)  
 [LEOPARD (2026-02-04)](#leopard-2026-02-04)  
 [QMR-KWT-2 (2026-02-25)](#qmr-kwt-2-2026-02-25)  
@@ -101,28 +101,11 @@
 
 ## 📡 QSL 卡详情
 
-<div id="sakhacube-cholbon-2026-02-21"></div>
-
-### 🛰️ SAKHACUBE-CHOLBON
-
 | 📡 QSL Information | 🖼️ QSL Preview |
 | :--- | :--- |
-| **Name:** RS18S (SAKHACUBE-CHOLBON) <br> **Callsign:** RS18S <br> **Verification Type:** Image & Telemetry <br> **QSL Format:** Digital <br> **SatNOGS DB:** [67290](https://db.satnogs.org/satellite/67290) | [![RS18S QSL Card 2026-02-21](assets/images/2026-02-21_rs18s.jpg)](https://db.satnogs.org/satellite/67290) |
+| <div id="sakhacube-cholbon-2026-02-21"></div><br><br> **Name:** SAKHACUBE-CHOLBON <br> **Callsign:** `RS18S` <br> **Verification Type:** Image & Telemetry <br> **QSL Format:** Digital <br> **SatNOGS DB:** [67290](https://db.satnogs.org/satellite/67290) | [![RS18S QSL Card 2026-02-21](assets/images/2026-02-21_rs18s.jpg)](https://db.satnogs.org/satellite/67290) |
+| <div id="innosat-geoscan"></div><br><br> **Satellites:** InnoSat 3, InnoSat 16, <br> &nbsp;&nbsp;Geoscan 1, <br> &nbsp;&nbsp;Geoscan 2, <br> &nbsp;&nbsp;Geoscan 3, <br> &nbsp;&nbsp;Geoscan 4, <br> &nbsp;&nbsp;Geoscan 5, <br> &nbsp;&nbsp;Geoscan 6 <br> **Total Satellites:** 8 <br> **Verification Type:** Telemetry <br> **QSL Format:** Digital <br> **SatNOGS DB:** | ![assets/images/innosat_geoscan_2.jpg](assets/images/innosat_geoscan_2.jpg) |
 
-#### 📊 Reception Log
-| Date (UTC) | Time (UTC) | Frequency | Mode | RST |
-| :--- | :--- | :--- | :--- | :--- |
-| 2026-02-21 | 15:39 | 437.350 MHz | SSTV | |
-| 2026-02-21 | 15:39 | 437.350 MHz | 2k4 GMSK | |
-| 2026-02-21 | 15:41 | 437.350 MHz | SSTV | |
-
----
-
-<a name="innosat-geoscan"></a>
-**InnoSat 3, InnoSat 16 and Geoscan 1–6 - 9k6 (digital)**  
-![assets/images/innosat_geoscan_2.jpg](assets/images/innosat_geoscan_2.jpg)
-
----
 
 <a name="239alferov-2025-08-17"></a>
 **239Alferov (RS61S) (2025-08-17) - 9k6 - Image Data (digital)**  
