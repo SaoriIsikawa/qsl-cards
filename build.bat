@@ -57,4 +57,4 @@ rem     move /y index.tmp index.html
 rem )
 
 echo [5/5] 完成：%OUT%
-pause
+
