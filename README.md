@@ -4,6 +4,7 @@
 <table>
 <tr><td valign="top">
 
+[SNUGLITE-III HANA & DURI](#snuglite-iii-hana-duri)  
 [SAKHACUBE-CHOLBON (2026-02-21)](#sakhacube-cholbon-2026-02-21)  
 [InnoSat 3/16 & Geoscan 1–6](#innosat-geoscan)  
 [239Alferov (2025-08-17)](#239alferov-2025-08-17)  
@@ -103,10 +104,11 @@
 
 | 📡 QSL Information | 🖼️ QSL Preview |
 | :--- | :--- |
-| <div id="sakhacube-cholbon-2026-02-21"></div><br><br> **Name:** SAKHACUBE-CHOLBON <br> **Callsign:** `RS18S` <br> **Verification Type:** Image & Telemetry <br> **Mode:** SSTV & 2k4 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [67290](https://db.satnogs.org/satellite/67290) | [![RS18S QSL Card 2026-02-21](assets/images/2026-02-21_rs18s.jpg)](https://db.satnogs.org/satellite/67290) |
-| <div id="innosat-geoscan"></div><br><br> **Satellites:** InnoSat 3, InnoSat 16, <br> &nbsp;&nbsp;Geoscan 1, <br> &nbsp;&nbsp;Geoscan 2, <br> &nbsp;&nbsp;Geoscan 3, <br> &nbsp;&nbsp;Geoscan 4, <br> &nbsp;&nbsp;Geoscan 5, <br> &nbsp;&nbsp;Geoscan 6 <br> **Total Satellites:** 8 <br> **Verification Type:** Telemetry <br> **Mode:** 9k6 <br> **QSL Format:** Digital <br> **SatNOGS DB:** | ![assets/images/innosat_geoscan_2.jpg](assets/images/innosat_geoscan_2.jpg) |
-| <div id="239alferov-2025-08-17"></div><br><br> **Name:** 239Alferov <br> **Callsign:** `RS61S` <br> **Verification Type:** Image Data <br> **Mode:** 9k6 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [64881](https://db.satnogs.org/satellite/64881) | [![RS61S QSL Card 2025-08-17](assets/images/2025-08-17_239alferov.jpg)](https://db.satnogs.org/satellite/64881) |
-| <div id="leopard-2026-02-04"></div><br><br> **Name:** LEOPARD <br> **Callsign:** `JG6YBW` <br> **Verification Type:** Telemetry <br> **Mode:** CW <br> [commercial] <br> **QSL Format:** Digital <br> **SatNOGS DB:** [67687](https://db.satnogs.org/satellite/67687) | [![LEOPARD QSL Card 2026-02-04](assets/images/2026-02-04_leopard.jpg)](https://db.satnogs.org/satellite/67687) |
+| <div id="snuglite-iii-hana-duri"></div><br><br> **Name:** SNUGLITE-III HANA & DURI <br> **Callsign:** `DS0DH` <br> **Mode:** 9k6 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [98496](https://db.satnogs.org/satellite/98496) [98497](https://db.satnogs.org/satellite/98497) | ![SNUGLITE-III DURI & HANA QSL Card](assets/images/snuglite-iii_hana_duri.jpg) |
+| <div id="sakhacube-cholbon-2026-02-21"></div><br><br> **Name:** SAKHACUBE-CHOLBON <br> **Callsign:** `RS18S` <br> **Mode:** SSTV & 2k4 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [67290](https://db.satnogs.org/satellite/67290) | [![RS18S QSL Card 2026-02-21](assets/images/2026-02-21_rs18s.jpg)](https://db.satnogs.org/satellite/67290) |
+| <div id="innosat-geoscan"></div><br><br> **Satellites:** InnoSat 3, InnoSat 16, <br> &nbsp;&nbsp;Geoscan 1, <br> &nbsp;&nbsp;Geoscan 2, <br> &nbsp;&nbsp;Geoscan 3, <br> &nbsp;&nbsp;Geoscan 4, <br> &nbsp;&nbsp;Geoscan 5, <br> &nbsp;&nbsp;Geoscan 6 <br> **Total Satellites:** 8 <br> **Mode:** 9k6 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [64894](https://db.satnogs.org/satellite/64894) [64878](https://db.satnogs.org/satellite/64878) <br> &nbsp;&nbsp; [64880](https://db.satnogs.org/satellite/64880) <br> &nbsp;&nbsp; [64890](https://db.satnogs.org/satellite/64890) <br> &nbsp;&nbsp; [64893](https://db.satnogs.org/satellite/64893) <br> &nbsp;&nbsp; [64892](https://db.satnogs.org/satellite/64892) <br> &nbsp;&nbsp; [64891](https://db.satnogs.org/satellite/64891) <br> &nbsp;&nbsp; [64879](https://db.satnogs.org/satellite/64879) | ![assets/images/innosat_geoscan_2.jpg](assets/images/innosat_geoscan_2.jpg) |
+| <div id="239alferov-2025-08-17"></div><br><br> **Name:** 239Alferov <br> **Callsign:** `RS61S` <br> **Mode:** 9k6 Image Data <br> **QSL Format:** Digital <br> **SatNOGS DB:** [64881](https://db.satnogs.org/satellite/64881) | [![RS61S QSL Card 2025-08-17](assets/images/2025-08-17_239alferov.jpg)](https://db.satnogs.org/satellite/64881) |
+| <div id="leopard-2026-02-04"></div><br><br> **Name:** LEOPARD <br> **Callsign:** `JG6YBW` <br> **Mode:** CW <br> [commercial] <br> **QSL Format:** Digital <br> **SatNOGS DB:** [67687](https://db.satnogs.org/satellite/67687) | [![LEOPARD QSL Card 2026-02-04](assets/images/2026-02-04_leopard.jpg)](https://db.satnogs.org/satellite/67687) |
 
 
 
