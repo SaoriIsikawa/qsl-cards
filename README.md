@@ -9,9 +9,9 @@
 [InnoSat 3/16 & Geoscan 1–6](#innosat-geoscan)  
 [239Alferov (2025-08-17)](#239alferov-2025-08-17)  
 [LEOPARD (2026-02-04)](#leopard-2026-02-04)  
-[QMR-KWT-2 (2026-02-25)](#qmr-kwt-2-2026-02-25)  
-[QMR-KWT-2 (2026-02-21)](#qmr-kwt-2-2026-02-21)  
-[QMR-KWT-2 (2026-02-01)](#qmr-kwt-2-2026-02-01)  
+[QMR-KWT 2 (2026-02-25)](#qmr-kwt-2-2026-02-25)  
+[QMR-KWT 2 (2026-02-21)](#qmr-kwt-2-2026-02-21)  
+[QMR-KWT 2 (2026-02-01)](#qmr-kwt-2-2026-02-01)  
 [Astrocast 0.1 (2025-12-01)](#astrocast-2025-12-01)  
 [Innocube (2026-01-14)](#innocube-2026-01-14)  
 [BY2HIT (2025-12-19)](#by2hit-2025-12-19)  
@@ -111,30 +111,15 @@
 | <div id="leopard-2026-02-04"></div><br><br> **Name:** LEOPARD <br> **Callsign:** `JG6YBW` <br> **Mode:** CW <br> [commercial] <br> **QSL Format:** Digital <br> **SatNOGS DB:** [67687](https://db.satnogs.org/satellite/67687) | [![LEOPARD QSL Card 2026-02-04](assets/images/2026-02-04_leopard.jpg)](https://db.satnogs.org/satellite/67687) |
 | <div id="qmr-kwt-2-2026-02-25"></div><br><br> **Name:** QMR-KWT 2 <br> **Callsign:** `RS95S` <br> **Mode:** SSTV <br> **QSL Format:** Digital <br> **SatNOGS DB:** [67291](https://db.satnogs.org/satellite/67291) | [![QMR-KWT 2 QSL Card 2026-02-25](assets/images/2026-02-25_qmr-kwt-2.jpg)](https://db.satnogs.org/satellite/67291) |
 | <div id="qmr-kwt-2-2026-02-21"></div><br><br> **Name:** QMR-KWT 2 <br> **Callsign:** `RS95S` <br> **Mode:** 9k6 <br> **Location:** ~~EM99tv~~ OL42dt <br> **QSL Format:** Digital <br> **SatNOGS DB:** [67291](https://db.satnogs.org/satellite/67291) | [![QMR-KWT 2 QSL Card 2026-02-21](assets/images/2026-02-21_qmr-kwt-2.jpg)](https://db.satnogs.org/satellite/67291) |
+| <div id="qmr-kwt-2-2026-02-01"></div><br><br> **Name:** QMR-KWT 2 <br> **Callsign:** `RS95S` <br> **Mode:** 2k4 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [67291](https://db.satnogs.org/satellite/67291) | [![QMR-KWT 2 QSL Card 2026-02-01](assets/images/2026-02-01_qmr-kwt-2.jpg)](https://db.satnogs.org/satellite/67291) |
+| <div id="astrocast-2025-12-01"></div><br><br> **Name:** Astrocast 0.1 <br> **Callsign:** `HB9GSF` <br> **Mode:** 1k2 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [43798](https://db.satnogs.org/satellite/43798) | [![Astrocast 0.1 QSL Card 2025-12-01](assets/images/2025-12-01_astrocast.jpg)](https://db.satnogs.org/satellite/43798) |
+| <div id="innocube-2026-01-14"></div><br><br> **Name:** Innocube (TUBSAT-31) <br> **Callsign:** `DP1NNO` <br> **Mode:** CW <br> **QSL Format:** Digital <br> **SatNOGS DB:** [62616](https://db.satnogs.org/satellite/62616) | [![Innocube QSL Card 2026-01-14](assets/images/innocube_anniversary.jpg)](https://db.satnogs.org/satellite/62616) |
 
 
-[//]: | <div id="xxx"></div><br><br> **Name:** xxxx <br> **Callsign:** `xxxx` <br> **Mode:** xxxx <br> **QSL Format:** Digital <br> **SatNOGS DB:** [yyyyy](https://db.satnogs.org/satellite/yyyyy) | [![ZZZZZ QSL Card 2026-xx-yy](assets/images/xxxx.jpg)](https://db.satnogs.org/satellite/ZZZZZ) |
+[//]:     | <div id="xxx"></div><br><br> **Name:** xxxx <br> **Callsign:** `xxxx` <br> **Mode:** xxxx <br> **QSL Format:** Digital <br> **SatNOGS DB:** [yyyyy](https://db.satnogs.org/satellite/yyyyy) | [![ZZZZZ QSL Card 2026-xx-yy](assets/images/xxxx.jpg)](https://db.satnogs.org/satellite/ZZZZZ) |
 
 
 
-
-<a name="qmr-kwt-2-2026-02-01"></a>
-**RS95S (QMR-KWT-2) (2026-02-01) - 2k4 & Voice Repeater (digital)**  
-[![assets/images/2026-02-01_qmr-kwt-2.jpg](assets/images/2026-02-01_qmr-kwt-2.jpg)](https://db.satnogs.org/satellite/98448)
-
----
-
-<a name="astrocast-2025-12-01"></a>
-**Astrocast 0.1 (HB9GSF) (2025-12-01) - 1k2 (paper)**  
-[![assets/images/2025-12-01_astrocast.jpg](assets/images/2025-12-01_astrocast.jpg)](https://db.satnogs.org/satellite/43798)
-
----
-
-<a name="innocube-2026-01-14"></a>
-**Innocube (TUBSAT-31) (2026-01-14) - CW (digital)**  
-[![assets/images/innocube_anniversary.jpg](assets/images/innocube_anniversary.jpg)](https://db.satnogs.org/satellite/62616)
-
----
 
 <a name="by2hit-2025-12-19"></a>
 **BY2HIT (2025-12-19) - Voice Repeater - SWL via AO-123 (ASRTU-1) (paper)**  
