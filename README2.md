@@ -2,6 +2,12 @@
 
 ## 📬 QSL 卡
 
+<a name="b100iaru-2025-05-06"></a>
+**B100IARU (2025-05-06) - Voice Repeater - SWL via PO-101 (Paper)**  
+[![assets/images/2025-05-06_b100iaru.jpg](assets/images/2025-05-06_b100iaru.jpg)](http://www.crac.org.cn/News/Detail?ID=8b9f46aba3384686bbe24ee2e627ee5e)
+
+---
+
 <a name="ba8afk_so-124-2025-11-09"></a>
 **BA8AFK (2025-11-09) - FM (paper)**  
 (BA8AFK confirmed my SWL via SO-124)  

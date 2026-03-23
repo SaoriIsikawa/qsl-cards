@@ -15,15 +15,14 @@
 [QMR-KWT 2 (2026-02-01)](#qmr-kwt-2-2026-02-01)  
 [Astrocast 0.1 (2025-12-01)](#astrocast-2025-12-01)  
 [Innocube (2026-01-14)](#innocube-2026-01-14)  
-[BY2HIT (2025-12-19)](#by2hit-2025-12-19)  
+[ASRTU-1 (2025-12-19)](#asrtu-1-2025-12-19)  
 [ASRTU-1 (2025-12-18)](#asrtu-1-2025-12-18)  
 [ASRTU-1 (2025-10-30)](#asrtu-1-2025-10-30)  
 [SPIRONE (2025-11-29)](#spirone-2025-11-29)  
 [TUBIN (2025-12-10)](#tubin-2025-12-10)  
 [PIXL-1 (2025-09-03)](#pixl-1-2025-09-03)  
-[B100IARU (2025-05-06)](#b100iaru-2025-05-06)  
 [PolyITAN-1 (2025-09-01)](#polyitan-1-2025-09-01)  
-[RSP-03 (2025-10-25)](#rsp-03-js1yoy-2025-10-25)  
+[RSP-03 (2025-10-25)](#rsp-03-2025-10-25)  
 
 </td><td valign="top">
 
@@ -116,52 +115,18 @@
 | <div id="qmr-kwt-2-2026-02-01"></div><br><br> **Name:** QMR-KWT 2 <br> **Callsign:** `RS95S` <br> **Mode:** 2k4 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [67291](https://db.satnogs.org/satellite/67291) | [![QMR-KWT 2 QSL Card 2026-02-01](assets/images/2026-02-01_qmr-kwt-2.jpg)](https://db.satnogs.org/satellite/67291) |
 | <div id="astrocast-2025-12-01"></div><br><br> **Name:** Astrocast 0.1 <br> **Callsign:** `HB9GSF` <br> **Mode:** 1k2 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [43798](https://db.satnogs.org/satellite/43798) | [![Astrocast 0.1 QSL Card 2025-12-01](assets/images/2025-12-01_astrocast.jpg)](https://db.satnogs.org/satellite/43798) |
 | <div id="innocube-2026-01-14"></div><br><br> **Name:** Innocube (TUBSAT-31) <br> **Callsign:** `DP1NNO` <br> **Mode:** CW <br> **QSL Format:** Digital <br> **SatNOGS DB:** [62616](https://db.satnogs.org/satellite/62616) | [![Innocube QSL Card 2026-01-14](assets/images/innocube_anniversary.jpg)](https://db.satnogs.org/satellite/62616) |
-| <div id="by2hit-2025-12-19"></div><br><br> **Name:** ASRTU-1, AO-123, 阿斯图友谊号 <br> **Callsign:** `RS64S,BJ2CR` <br> **Mode:** Voice Repeater <br> [SWL] <br> **QSL Format:** Paper <br> **SatNOGS DB:** [61781](https://db.satnogs.org/satellite/61781) | [![ASRTU-1 QSL Card 2025-12-19](assets/images/2025-12-19_asrtu-1.jpg)](https://db.satnogs.org/satellite/61781) |
+| <div id="asrtu-1-2025-12-19"></div><br><br> **Name:** ASRTU-1, AO-123, 阿斯图友谊号 <br> **Callsign:** `RS64S,BJ2CR` <br> **Mode:** Voice Repeater <br> [SWL] <br> **QSL Format:** Paper <br> **SatNOGS DB:** [61781](https://db.satnogs.org/satellite/61781) | [![ASRTU-1 QSL Card 2025-12-19](assets/images/2025-12-19_asrtu-1.jpg)](https://db.satnogs.org/satellite/61781) |
 | <div id="asrtu-1-2025-12-18"></div><br><br> **Name:** ASRTU-1, AO-123, 阿斯图友谊号 <br> **Callsign:** `RS64S,BJ2CR` <br> **Mode:** ~~FM~~ USB <br> BPSK 9k6 SSDV <br> **QSL Format:** Paper <br> **SatNOGS DB:** [61781](https://db.satnogs.org/satellite/61781) | [![ASRTU-1 QSL Card 2025-12-18](assets/images/2025-12-18_asrtu-1.jpg)](https://db.satnogs.org/satellite/61781) |
 | <div id="asrtu-1-2025-10-30"></div><br><br> **Name:** ASRTU-1, AO-123, 阿斯图友谊号 <br> **Callsign:** `RS64S,BJ2CR` <br> **Mode:** USB <br> BPSK 9k6 SSDV <br> **QSL Format:** Paper <br> **SatNOGS DB:** [61781](https://db.satnogs.org/satellite/61781) | [![ASRTU-1 QSL Card 2025-10-30](assets/images/2025-10-30_asrtu-1.jpg)](https://db.satnogs.org/satellite/61781) |
 | <div id="spirone-2025-11-29"></div><br><br> **Name:** SPIRONE <br> **Callsign:** `6K0FX` <br> **Mode:** 9k6 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [98492](https://db.satnogs.org/satellite/98492) | [![SPIRONE QSL Card 2025-11-29](assets/images/2025-11-29_spirone.jpg)](https://db.satnogs.org/satellite/98492) |
+| <div id="tubin-2025-12-10"></div><br><br> **Name:** TUBIN, TUBSAT-27 <br> **Callsign:** `DP0TBN` <br> **Mode:** 4k8 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [48900](https://db.satnogs.org/satellite/48900) | [![TUBIN QSL Card 2025-12-10](assets/images/2025-12-10_tubin.jpg)](https://db.satnogs.org/satellite/48900) |
+| <div id="tubin-2025-12-10"></div><br><br> **Name:** TUBIN, TUBSAT-27 <br> **Callsign:** `DP0TBN` <br> **Mode:** 4k8 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [48900](https://db.satnogs.org/satellite/48900) | [![TUBIN QSL Card 2025-12-10](assets/images/2025-12-10_tubin_2.jpg)](https://db.satnogs.org/satellite/48900) |
+| <div id="pixl-1-2025-09-03"></div><br><br> **Name:** PIXL-1, CUBEL <br> **Callsign:**  <br>  **Frequency:** 400.575 MHz <br> **Mode:** 9k6 <br> [commercial] <br> **QSL Format:** Digital <br> **SatNOGS DB:** [47448](https://db.satnogs.org/satellite/47448) | [![PIXL-1 QSL Card 2025-09-03](assets/images/2025-09-03_pixl-1.jpg)](https://db.satnogs.org/satellite/47448) |
+| <div id="polyitan-1-2025-09-01"></div><br><br> **Name:** PolyITAN-1 <br> **Callsign:** `EM0UKP` <br> **Mode:** CW <br> **QSL Format:** Paper <br> **SatNOGS DB:** [40042](https://db.satnogs.org/satellite/40042) | [![PolyITAN-1 QSL Card 2025-09-01](assets/images/2025-09-01_PolyITAN-1.jpg)](https://db.satnogs.org/satellite/40042) |
+| <div id="rsp-03-2025-10-25"></div><br><br> **Name:** RSP-03 <br> **Callsign:** `JS1YOY` <br> **Mode:** CW <br> **QSL Format:** Digital <br> **SatNOGS DB:** [65732](https://db.satnogs.org/satellite/65732) | [![RSP-03 QSL Card 2025-10-25](assets/images/2025-10-25_rsp-03.jpg)](https://db.satnogs.org/satellite/2025-10-25) |
 
-[//]:     | <div id="xxx"></div><br><br> **Name:** xxxx <br> **Callsign:** `xxxx` <br> **Mode:** xxxx <br> **QSL Format:** Digital <br> **SatNOGS DB:** [yyyyy](https://db.satnogs.org/satellite/yyyyy) | [![ZZZZZ QSL Card 2026-xx-yy](assets/images/xxxx.jpg)](https://db.satnogs.org/satellite/ZZZZZ) |
+[//]:   | <div id="锚点"></div><br><br> **Name:** 名称 <br> **Callsign:** `呼号` <br> **Mode:** 模式 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [00000](https://db.satnogs.org/satellite/00000) | [![名称 QSL Card yyyy-mm-dd](assets/images/文件名.jpg)](https://db.satnogs.org/satellite/00000) |
 
-
----
-
-
----
-
-<a name="tubin-2025-12-10"></a>
-**TUBIN (DP0TBN) (2025-12-10) - 4k8 (digital)**  
-[![assets/images/tubin.jpg](assets/images/tubin.jpg)](https://db.satnogs.org/satellite/48900)
-
----
-
-<a name="tubin2-2025-12-10"></a>
-**TUBIN (DP0TBN) (2025-12-10) - 4k8 (digital)**  
-[![assets/images/tubin2.jpg](assets/images/tubin2.jpg)](https://db.satnogs.org/satellite/48900)
-
----
-
-<a name="pixl-1-2025-09-03"></a>
-**PIXL-1 (2025-09-03) - 9k6 on 400.575 MHz [commercial] (digital)**  
-[![assets/images/2025-09-03_pixl-1.jpg](assets/images/2025-09-03_pixl-1.jpg)](https://db.satnogs.org/satellite/47448)
-
----
-
-<a name="b100iaru-2025-05-06"></a>
-**B100IARU (2025-05-06) - Voice Repeater - SWL via PO-101 (Paper)**  
-[![assets/images/2025-05-06_b100iaru.jpg](assets/images/2025-05-06_b100iaru.jpg)](http://www.crac.org.cn/News/Detail?ID=8b9f46aba3384686bbe24ee2e627ee5e)
-
----
-
-<a name="polyitan-1-2025-09-01"></a>
-**PolyITAN-1 (2025-09-01) - CW (Paper)**  
-[![assets/images/2025-09-01_PolyITAN-1.jpg](assets/images/2025-09-01_PolyITAN-1.jpg)](https://db.satnogs.org/satellite/40042)
-
----
-
-<a name="rsp-03-js1yoy-2025-10-25"></a>
-**RSP-03 (2025-10-25) - CW (digital)**  
-[![assets/images/2025-10-25_RSP-03_JS1YOY.jpg](assets/images/2025-10-25_RSP-03_JS1YOY.jpg)](https://db.satnogs.org/satellite/65732)
 
 ---
 <a name="real-wr9xtx-2025-08-30"></a>
