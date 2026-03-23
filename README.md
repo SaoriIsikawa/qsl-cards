@@ -116,34 +116,16 @@
 | <div id="qmr-kwt-2-2026-02-01"></div><br><br> **Name:** QMR-KWT 2 <br> **Callsign:** `RS95S` <br> **Mode:** 2k4 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [67291](https://db.satnogs.org/satellite/67291) | [![QMR-KWT 2 QSL Card 2026-02-01](assets/images/2026-02-01_qmr-kwt-2.jpg)](https://db.satnogs.org/satellite/67291) |
 | <div id="astrocast-2025-12-01"></div><br><br> **Name:** Astrocast 0.1 <br> **Callsign:** `HB9GSF` <br> **Mode:** 1k2 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [43798](https://db.satnogs.org/satellite/43798) | [![Astrocast 0.1 QSL Card 2025-12-01](assets/images/2025-12-01_astrocast.jpg)](https://db.satnogs.org/satellite/43798) |
 | <div id="innocube-2026-01-14"></div><br><br> **Name:** Innocube (TUBSAT-31) <br> **Callsign:** `DP1NNO` <br> **Mode:** CW <br> **QSL Format:** Digital <br> **SatNOGS DB:** [62616](https://db.satnogs.org/satellite/62616) | [![Innocube QSL Card 2026-01-14](assets/images/innocube_anniversary.jpg)](https://db.satnogs.org/satellite/62616) |
-
+| <div id="by2hit-2025-12-19"></div><br><br> **Name:** ASRTU-1, AO-123, 阿斯图友谊号 <br> **Callsign:** `RS64S,BJ2CR` <br> **Mode:** Voice Repeater <br> [SWL] <br> **QSL Format:** Paper <br> **SatNOGS DB:** [61781](https://db.satnogs.org/satellite/61781) | [![ASRTU-1 QSL Card 2025-12-19](assets/images/2025-12-19_asrtu-1.jpg)](https://db.satnogs.org/satellite/61781) |
+| <div id="asrtu-1-2025-12-18"></div><br><br> **Name:** ASRTU-1, AO-123, 阿斯图友谊号 <br> **Callsign:** `RS64S,BJ2CR` <br> **Mode:** ~~FM~~ USB <br> BPSK 9k6 SSDV <br> **QSL Format:** Paper <br> **SatNOGS DB:** [61781](https://db.satnogs.org/satellite/61781) | [![ASRTU-1 QSL Card 2025-12-18](assets/images/2025-12-18_asrtu-1.jpg)](https://db.satnogs.org/satellite/61781) |
+| <div id="asrtu-1-2025-10-30"></div><br><br> **Name:** ASRTU-1, AO-123, 阿斯图友谊号 <br> **Callsign:** `RS64S,BJ2CR` <br> **Mode:** USB <br> BPSK 9k6 SSDV <br> **QSL Format:** Paper <br> **SatNOGS DB:** [61781](https://db.satnogs.org/satellite/61781) | [![ASRTU-1 QSL Card 2025-10-30](assets/images/2025-10-30_asrtu-1.jpg)](https://db.satnogs.org/satellite/61781) |
+| <div id="spirone-2025-11-29"></div><br><br> **Name:** SPIRONE <br> **Callsign:** `6K0FX` <br> **Mode:** 9k6 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [98492](https://db.satnogs.org/satellite/98492) | [![SPIRONE QSL Card 2025-11-29](assets/images/2025-11-29_spirone.jpg)](https://db.satnogs.org/satellite/98492) |
 
 [//]:     | <div id="xxx"></div><br><br> **Name:** xxxx <br> **Callsign:** `xxxx` <br> **Mode:** xxxx <br> **QSL Format:** Digital <br> **SatNOGS DB:** [yyyyy](https://db.satnogs.org/satellite/yyyyy) | [![ZZZZZ QSL Card 2026-xx-yy](assets/images/xxxx.jpg)](https://db.satnogs.org/satellite/ZZZZZ) |
 
 
-
-
-<a name="by2hit-2025-12-19"></a>
-**BY2HIT (2025-12-19) - Voice Repeater - SWL via AO-123 (ASRTU-1) (paper)**  
-![assets/images/2025-12-19_BY2HIT.jpg](assets/images/2025-12-19_BY2HIT.jpg)
-
 ---
 
-<a name="asrtu-1-2025-12-18"></a>
-**AO-123 (ASRTU-1, 阿斯图友谊号) (2025-12-18) - BPSK 9k6 (!) - SSDV (paper)**  
-![assets/images/2025-12-18_asrtu-1.jpg](assets/images/2025-12-18_asrtu-1.jpg)
-
----
-
-<a name="asrtu-1-2025-10-30"></a>
-**AO-123 (ASRTU-1, 阿斯图友谊号) (2025-10-30) - BPSK 9k6 - SSDV (paper)**  
-[![assets/images/2025-10-30_asrtu-1.jpg](assets/images/2025-10-30_asrtu-1.jpg)](https://db.satnogs.org/satellite/61781)
-
----
-
-<a name="spirone-2025-11-29"></a>
-**SPIRONE (2025-11-29) - 9k6 (digital)**  
-[![assets/images/2025-11-29_spirone.jpg](assets/images/2025-11-29_spirone.jpg)](https://db.satnogs.org/satellite/98492)
 
 ---
 
