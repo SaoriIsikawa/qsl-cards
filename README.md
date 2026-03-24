@@ -4,6 +4,7 @@
 <table>
 <tr><td valign="top">
 
+[CubeBug-2 (2026-03-22)](#cubebug-2-2026-03-22)  
 [LilacSat-2 (2025-05-16)](#lilacsat-2-2025-05-16)  
 [SNUGLITE-III HANA & DURI](#snuglite-iii-hana-duri)  
 [SAKHACUBE-CHOLBON (2026-02-21)](#sakhacube-cholbon-2026-02-21)  
@@ -104,6 +105,7 @@
 
 | 📡 QSL Information | 🖼️ QSL Preview |
 | :--- | :--- |
+| <div id="cubebug-2-2026-03-22"></div><br><br> **Name:** CubeBug-2 <br> **Callsign:** `CUBEB2` <br> **Mode:** 1k2 AFSK <br> **QSL Format:** Digital <br> **SatNOGS DB:** [39440](https://db.satnogs.org/satellite/39440) | [![CubeBug-2 QSL Card 2026-03-22](assets/images/2026-03-22_cubebug-2.jpg)](https://db.satnogs.org/satellite/39440) |
 | <div id="lilacsat-2-2025-05-16"></div><br><br> **Name:** LilacSat-2, CAS-3H, 紫丁香2号 <br> **Callsign:** `BJ1SI` <br> **Mode:** 4k8 <br> **QSL Format:** Paper <br> **SatNOGS DB:** [40908](https://db.satnogs.org/satellite/40908) | ![LilacSat-2 QSL Card](assets/images/2025-05-16_lilacsat-2.jpg) |
 | <div id="snuglite-iii-hana-duri"></div><br><br> **Name:** SNUGLITE-III HANA & DURI <br> **Callsign:** `DS0DH` <br> **Mode:** 9k6 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [98496](https://db.satnogs.org/satellite/98496) [98497](https://db.satnogs.org/satellite/98497) | ![SNUGLITE-III DURI & HANA QSL Card](assets/images/snuglite-iii_hana_duri.jpg) |
 | <div id="sakhacube-cholbon-2026-02-21"></div><br><br> **Name:** SAKHACUBE-CHOLBON <br> **Callsign:** `RS18S` <br> **Mode:** SSTV & 2k4 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [67290](https://db.satnogs.org/satellite/67290) | [![RS18S QSL Card 2026-02-21](assets/images/2026-02-21_rs18s.jpg)](https://db.satnogs.org/satellite/67290) |
