@@ -4,6 +4,7 @@
 <table>
 <tr><td valign="top">
 
+[SONATE-2 (2026-03-08)](#sonate-2-2026-03-08)  
 [CubeBug-2 (2026-03-22)](#cubebug-2-2026-03-22)  
 [LilacSat-2 (2025-05-16)](#lilacsat-2-2025-05-16)  
 [SNUGLITE-III HANA & DURI](#snuglite-iii-hana-duri)  
@@ -105,6 +106,7 @@
 
 | 📡 QSL Information | 🖼️ QSL Preview |
 | :--- | :--- |
+| <div id="sonate-2-2026-03-08"></div><br><br> **Name:** SONATE-2 <br> **Callsign:** `DP0SNX` <br> **Mode:** SSTV <br> **QSL Format:** Digital <br> **SatNOGS DB:** [59112](https://db.satnogs.org/satellite/59112) | [![SONATE-2 QSL Card 2026-03-08](assets/images/2026-03-08_sonate-2.jpg)](https://db.satnogs.org/satellite/59112) |
 | <div id="cubebug-2-2026-03-22"></div><br><br> **Name:** CubeBug-2 <br> **Callsign:** `CUBEB2` <br> **Mode:** 1k2 AFSK <br> **QSL Format:** Digital <br> **SatNOGS DB:** [39440](https://db.satnogs.org/satellite/39440) | [![CubeBug-2 QSL Card 2026-03-22](assets/images/2026-03-22_cubebug-2.jpg)](https://db.satnogs.org/satellite/39440) |
 | <div id="lilacsat-2-2025-05-16"></div><br><br> **Name:** LilacSat-2, CAS-3H, 紫丁香2号 <br> **Callsign:** `BJ1SI` <br> **Mode:** 4k8 <br> **QSL Format:** Paper <br> **SatNOGS DB:** [40908](https://db.satnogs.org/satellite/40908) | ![LilacSat-2 QSL Card](assets/images/2025-05-16_lilacsat-2.jpg) |
 | <div id="snuglite-iii-hana-duri"></div><br><br> **Name:** SNUGLITE-III HANA & DURI <br> **Callsign:** `DS0DH` <br> **Mode:** 9k6 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [98496](https://db.satnogs.org/satellite/98496) [98497](https://db.satnogs.org/satellite/98497) | ![SNUGLITE-III DURI & HANA QSL Card](assets/images/snuglite-iii_hana_duri.jpg) |
@@ -126,6 +128,7 @@
 | <div id="pixl-1-2025-09-03"></div><br><br> **Name:** PIXL-1, CUBEL <br> **Callsign:**  <br>  **Frequency:** 400.575 MHz <br> **Mode:** 9k6 <br> [commercial] <br> **QSL Format:** Digital <br> **SatNOGS DB:** [47448](https://db.satnogs.org/satellite/47448) | [![PIXL-1 QSL Card 2025-09-03](assets/images/2025-09-03_pixl-1.jpg)](https://db.satnogs.org/satellite/47448) |
 | <div id="polyitan-1-2025-09-01"></div><br><br> **Name:** PolyITAN-1 <br> **Callsign:** `EM0UKP` <br> **Mode:** CW <br> **QSL Format:** Paper <br> **SatNOGS DB:** [40042](https://db.satnogs.org/satellite/40042) | [![PolyITAN-1 QSL Card 2025-09-01](assets/images/2025-09-01_PolyITAN-1.jpg)](https://db.satnogs.org/satellite/40042) |
 | <div id="rsp-03-2025-10-25"></div><br><br> **Name:** RSP-03 <br> **Callsign:** `JS1YOY` <br> **Mode:** CW <br> **QSL Format:** Digital <br> **SatNOGS DB:** [65732](https://db.satnogs.org/satellite/65732) | [![RSP-03 QSL Card 2025-10-25](assets/images/2025-10-25_rsp-03.jpg)](https://db.satnogs.org/satellite/2025-10-25) |
+
 
 [//]:   | <div id="锚点"></div><br><br> **Name:** 名称 <br> **Callsign:** `呼号` <br> **Mode:** 模式 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [00000](https://db.satnogs.org/satellite/00000) | [![名称 QSL Card yyyy-mm-dd](assets/images/文件名.jpg)](https://db.satnogs.org/satellite/00000) |
 
