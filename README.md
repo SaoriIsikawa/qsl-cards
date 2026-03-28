@@ -128,47 +128,16 @@
 | <div id="pixl-1-2025-09-03"></div><br><br> **Name:** PIXL-1, CUBEL <br> **Callsign:**  <br>  **Frequency:** 400.575 MHz <br> **Mode:** 9k6 <br> [commercial] <br> **QSL Format:** Digital <br> **SatNOGS DB:** [47448](https://db.satnogs.org/satellite/47448) | [![PIXL-1 QSL Card 2025-09-03](assets/images/2025-09-03_pixl-1.jpg)](https://db.satnogs.org/satellite/47448) |
 | <div id="polyitan-1-2025-09-01"></div><br><br> **Name:** PolyITAN-1 <br> **Callsign:** `EM0UKP` <br> **Mode:** CW <br> **QSL Format:** Paper <br> **SatNOGS DB:** [40042](https://db.satnogs.org/satellite/40042) | [![PolyITAN-1 QSL Card 2025-09-01](assets/images/2025-09-01_PolyITAN-1.jpg)](https://db.satnogs.org/satellite/40042) |
 | <div id="rsp-03-2025-10-25"></div><br><br> **Name:** RSP-03 <br> **Callsign:** `JS1YOY` <br> **Mode:** CW <br> **QSL Format:** Digital <br> **SatNOGS DB:** [65732](https://db.satnogs.org/satellite/65732) | [![RSP-03 QSL Card 2025-10-25](assets/images/2025-10-25_rsp-03.jpg)](https://db.satnogs.org/satellite/2025-10-25) |
+| <div id="real-wr9xtx-2025-08-30"></div><br><br> **Name:** REAL <br> **Callsign:** `WR9XTX` <br> **Mode:** 9k6 <br> **QSL Format:** Paper <br> **SatNOGS DB:** [64875](https://db.satnogs.org/satellite/64875) | [![REAL QSL Card 2025-08-30](assets/images/2025-08-30_real.jpg)](https://db.satnogs.org/satellite/64875) |
+| <div id="cubebel-2-2025-10-10"></div><br><br> **Name:** CubeBel-2 <br> **Callsign:** `EU11S` <br> **Mode:** 9k6 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [57175](https://db.satnogs.org/satellite/57175) | [![CubeBel-2 QSL Card 2025-10-10](assets/images/2025-10-10_CubeBel-2.jpg)](https://db.satnogs.org/satellite/57175) |
+| <div id="botan-2025-11-14"></div><br><br> **Name:** BOTAN <br> **Callsign:** `JS1YPT` <br> **Mode:** 1k2 Digipeater <br> **QSL Format:** Digital <br> **SatNOGS DB:** [65942](https://db.satnogs.org/satellite/65942) | [![BOTAN QSL Card 2025-11-14](assets/images/2025-11-14_botan_digi.jpg)](https://db.satnogs.org/satellite/65942) |
+| <div id="botan-2025-10-14"></div><br><br> **Name:** BOTAN <br> **Callsign:** `JS1YPT` <br> **Mode:** 4k8 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [65942](https://db.satnogs.org/satellite/65942) | [![BOTAN QSL Card 2025-10-14](assets/images/2025-10-14_botan_4k8.jpg)](https://db.satnogs.org/satellite/65942) |
+| <div id="botan-2025-10-10"></div><br><br> **Name:** BOTAN <br> **Callsign:** `JS1YPT` <br> **Mode:** CW <br> **QSL Format:** Digital <br> **SatNOGS DB:** [65942](https://db.satnogs.org/satellite/65942) | [![BOTAN QSL Card 2025-10-10](assets/images/2025-10-10_botan_cw.jpg)](https://db.satnogs.org/satellite/65942) |
+| <div id="eirsat-1-2025-09-03"></div><br><br> **Name:** EIRSAT-1 <br> **Mode:** 9k6 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [58472](https://db.satnogs.org/satellite/58472) | [![名称 QSL Card 2025-09-03](assets/images/2025-09-03_EIRSAT-1.jpg)](https://db.satnogs.org/satellite/58472) |
 
 
 [//]:   | <div id="锚点"></div><br><br> **Name:** 名称 <br> **Callsign:** `呼号` <br> **Mode:** 模式 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [00000](https://db.satnogs.org/satellite/00000) | [![名称 QSL Card yyyy-mm-dd](assets/images/文件名.jpg)](https://db.satnogs.org/satellite/00000) |
 
-
----
-<a name="real-wr9xtx-2025-08-30"></a>
-**REAL (2025-08-30) - 9k6 (paper)**  
-[![assets/images/2025-08-30_REAL_WR9XTX.jpg](assets/images/2025-08-30_REAL_WR9XTX.jpg)](https://db.satnogs.org/satellite/64875)
-
----
-
-<a name="cubebel-2-2025-10-10"></a>
-**CubeBel-2 (2025-10-10) - 9k6 (digital)**  
-[![assets/images/2025-10-10_CubeBel-2.jpg](assets/images/2025-10-10_CubeBel-2.jpg)](https://db.satnogs.org/satellite/57175)
-
----
-
-<a name="botan-2025-11-14"></a>
-**BOTAN (2025-11-14) - 1k2 Digipeater (digital)**  
-[![assets/images/2025-11-14_botan_digi.jpg](assets/images/2025-11-14_botan_digi.jpg)](https://db.satnogs.org/satellite/65942)
-
----
-
-<a name="botan-2025-10-14"></a>
-**BOTAN (2025-10-14) - 4k8 (digital)**  
-[![assets/images/2025-10-14_botan_4k8.jpg](assets/images/2025-10-14_botan_4k8.jpg)](https://db.satnogs.org/satellite/65942)
-
----
-
-<a name="botan-2025-10-10"></a>
-**BOTAN (2025-10-10) - CW (digital)**  
-[![assets/images/2025-10-10_botan_cw.jpg](assets/images/2025-10-10_botan_cw.jpg)](https://db.satnogs.org/satellite/65942)
-
----
-
-<a name="eirsat-1-2025-09-03"></a>
-**EIRSAT-1 (2025-09-03) - 9k6 (digital)**  
-[![assets/images/2025-09-03_EIRSAT-1.jpg](assets/images/2025-09-03_EIRSAT-1.jpg)](https://db.satnogs.org/satellite/58472)
-
----
 
 <a name="itupsat-1-2025-05-20"></a>
 **ITUpSAT1 (2025-05-20) - CW (digital)**  
