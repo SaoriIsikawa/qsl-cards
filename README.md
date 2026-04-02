@@ -23,12 +23,12 @@
 [ASRTU-1 (2025-10-30)](#asrtu-1-2025-10-30)  
 [SPIRONE (2025-11-29)](#spirone-2025-11-29)  
 [TUBIN (2025-12-10)](#tubin-2025-12-10)  
-[PIXL-1 (2025-09-03)](#pixl-1-2025-09-03)  
-[PolyITAN-1 (2025-09-01)](#polyitan-1-2025-09-01)  
-[RSP-03 (2025-10-25)](#rsp-03-2025-10-25)  
 
 </td><td valign="top">
 
+[PIXL-1 (2025-09-03)](#pixl-1-2025-09-03)  
+[PolyITAN-1 (2025-09-01)](#polyitan-1-2025-09-01)  
+[RSP-03 (2025-10-25)](#rsp-03-2025-10-25)  
 [REAL (2025-08-30)](#real-wr9xtx-2025-08-30)  
 [CubeBel-2 (2025-10-10)](#cubebel-2-2025-10-10)  
 [BOTAN (2025-11-14)](#botan-2025-11-14)  
@@ -46,11 +46,11 @@
 [NHK World-Japan (2025-03-11)](#nhk-world-japan-2025-03-11)  
 [NHK World-Japan (2025-03-02)](#nhk-world-japan-2025-03-02)  
 [STARS (2025-05-25)](#stars-kukai-daughter-jr5ybo-2025-05-25)  
-[TechnoSat (2025-05-24)](#technosat-dp0tba-2025-05-24)  
-[TIGRISAT (2025-05-23)](#tigrisat-hnatig-2025-05-23)  
 
 </td><td valign="top">
 
+[TechnoSat (2025-05-24)](#technosat-dp0tba-2025-05-24)  
+[TIGRISAT (2025-05-23)](#tigrisat-hnatig-2025-05-23)  
 [ENSO (2025-05-22)](#enso-2025-05-22)  
 [QUBE (2025-05-20)](#qube-dp2qu-2025-05-20)  
 [PEARL-1C (2025-05-13)](#pearl-1c-2025-05-13)  
