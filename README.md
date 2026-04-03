@@ -38,6 +38,8 @@
 [EIRSAT-1 (2025-09-03)](#eirsat-1-2025-09-03)  
 [ITUpSAT1 (2025-05-20)](#itupsat-1-2025-05-20)  
 [SNUGLITE-I (2025-08-22)](#snuglite-i-2025-08-22)  
+[LASARsat (2026-03-24)](#lasarsat-2026-03-24)  
+[LASARsat (2025-04-08)](#lasarsat-2025-04-08)  
 [UTMN-2 (2025-06-04)](#utmn-2-rs27s-2025-06-04)  
 [NUSHSat-1 (2025-05-13)](#nushsat-1-2025-05-13)  
 [Horizon (2025-08-10)](#horizon-rs59s-2025-08-10)  
@@ -61,7 +63,6 @@
 [SamSat-Ionosphere (2025-05-11)](#samsat-ionosphere-rs75s-2025-05-11)  
 [SamSat-Ionosphere (2025-04-10)](#samsat-ionosphere-rs75s-2025-04-10)  
 [CroCube (2025-04-10)](#crocube-9a0cc-2025-04-10)  
-[LASARsat (2025-04-08)](#lasarsat-ok0lsr-2025-04-08)  
 [ArcticSat-1 (2025-04-01)](#arcticsat-1-rs74s-2025-04-01)  
 [SONATE-2 (2025-02-16)](#sonate-2-dp0snx-2025-02-16)  
 [YOMOGI (2024-12-10)](#yomogi-js1ymx-2024-12-10)  
@@ -137,11 +138,14 @@
 | <div id="botan-2025-11-14"></div><br><br> **Name:** BOTAN <br> **Callsign:** `JS1YPT` <br> **Mode:** 1k2 Digipeater <br> **QSL Format:** Digital <br> **SatNOGS DB:** [65942](https://db.satnogs.org/satellite/65942) | [![BOTAN QSL Card 2025-11-14](assets/images/2025-11-14_botan_digi.jpg)](https://db.satnogs.org/satellite/65942) |
 | <div id="botan-2025-10-14"></div><br><br> **Name:** BOTAN <br> **Callsign:** `JS1YPT` <br> **Mode:** 4k8 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [65942](https://db.satnogs.org/satellite/65942) | [![BOTAN QSL Card 2025-10-14](assets/images/2025-10-14_botan_4k8.jpg)](https://db.satnogs.org/satellite/65942) |
 | <div id="botan-2025-10-10"></div><br><br> **Name:** BOTAN <br> **Callsign:** `JS1YPT` <br> **Mode:** CW <br> **QSL Format:** Digital <br> **SatNOGS DB:** [65942](https://db.satnogs.org/satellite/65942) | [![BOTAN QSL Card 2025-10-10](assets/images/2025-10-10_botan_cw.jpg)](https://db.satnogs.org/satellite/65942) |
-| <div id="eirsat-1-2025-09-03"></div><br><br> **Name:** EIRSAT-1 <br> **Mode:** 9k6 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [58472](https://db.satnogs.org/satellite/58472) | [![名称 QSL Card 2025-09-03](assets/images/2025-09-03_EIRSAT-1.jpg)](https://db.satnogs.org/satellite/58472) |
-| <div id="itupsat-1-2025-05-20"></div><br><br> **Name:** ITUpSAT1 <br> **Callsign:** `ITUPSAT` <br> **Mode:** CW <br> **QSL Format:** Digital <br> **SatNOGS DB:** [35935](https://db.satnogs.org/satellite/35935) | [![名称 QSL Card 2025-05-20](assets/images/itupsat1.jpg)](https://db.satnogs.org/satellite/35935) |
-| <div id="snuglite-i-2025-08-22"></div><br><br> **Name:** SNUGLITE-I <br> **Mode:** 9k6 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [43784](https://db.satnogs.org/satellite/43784) | [![名称 QSL Card 2025-08-22](assets/images/2025_08_22_snuglite-i.jpg)](https://db.satnogs.org/satellite/43784) |
+| <div id="eirsat-1-2025-09-03"></div><br><br> **Name:** EIRSAT-1 <br> **Mode:** 9k6 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [58472](https://db.satnogs.org/satellite/58472) | [![EIRSAT-1 QSL Card 2025-09-03](assets/images/2025-09-03_EIRSAT-1.jpg)](https://db.satnogs.org/satellite/58472) |
+| <div id="itupsat-1-2025-05-20"></div><br><br> **Name:** ITUpSAT1 <br> **Callsign:** `ITUPSAT` <br> **Mode:** CW <br> **QSL Format:** Digital <br> **SatNOGS DB:** [35935](https://db.satnogs.org/satellite/35935) | [![ITUpSAT1 QSL Card 2025-05-20](assets/images/itupsat1.jpg)](https://db.satnogs.org/satellite/35935) |
+| <div id="snuglite-i-2025-08-22"></div><br><br> **Name:** SNUGLITE-I <br> **Mode:** 9k6 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [43784](https://db.satnogs.org/satellite/43784) | [![SNUGLITE-I QSL Card 2025-08-22](assets/images/2025_08_22_snuglite-i.jpg)](https://db.satnogs.org/satellite/43784) |
+| <div id="lasarsat-2026-03-24"></div><br><br> **Name:** LASARsat <br> **Callsign:** `OK0LSR` <br> **Mode:** 9k6 <br> **QSL Format:** Digital <br> **Frequency:** ~~436.254~~ 436.925 MHz <br> **SatNOGS DB:** [62391](https://db.satnogs.org/satellite/62391) | [![LASARsat QSL Card 2026-03-24](assets/images/2026-03-24_lasarsat.jpg)](https://db.satnogs.org/satellite/62391) |
+| <div id="lasarsat-2025-04-08"></div><br><br> **Name:** LASARsat <br> **Callsign:** `OK0LSR` <br> **Mode:** CW <br> **QSL Format:** Digital <br> **SatNOGS DB:** [62391](https://db.satnogs.org/satellite/62391) | [![LASARsat QSL Card 2025-04-08](assets/images/2025-04-08_lasarsat.jpg)](https://db.satnogs.org/satellite/62391) |
 
 [//]:   | <div id="锚点"></div><br><br> **Name:** 名称 <br> **Callsign:** `呼号` <br> **Mode:** 模式 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [00000](https://db.satnogs.org/satellite/00000) | [![名称 QSL Card yyyy-mm-dd](assets/images/文件名.jpg)](https://db.satnogs.org/satellite/00000) |
+
 
 
 <a name="utmn-2-rs27s-2025-06-04"></a>
@@ -258,11 +262,6 @@
 
 ---
 
-<a name="lasarsat-ok0lsr-2025-04-08"></a>
-**LASARsat (OK0LSR) (2025-04-08) - CW (digital)**  
-[![assets/images/2025-04-08_LASARsat_OK0LSR.jpg](assets/images/2025-04-08_LASARsat_OK0LSR.jpg)](https://db.satnogs.org/satellite/62391)
-
----
 
 <a name="arcticsat-1-rs74s-2025-04-01"></a>
 **RS74S (Arcticsat-1) (2025-04-01) - SSTV Robot36 - 1st of April Event (digital)**  
