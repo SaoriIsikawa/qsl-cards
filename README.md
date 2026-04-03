@@ -43,7 +43,7 @@
 [UTMN-2 (2025-06-04)](#utmn-2-rs27s-2025-06-04)  
 [NUSHSat-1 (2025-05-13)](#nushsat-1-2025-05-13)  
 [Horizon (2025-08-10)](#horizon-rs59s-2025-08-10)  
-[Nightjar (2025-07-17)](#nightjar-xx0uhf-2025-07-17)  
+[Nightjar (2025-07-17)](#nightjar-2025-07-17)  
 [Radyo Pilipinas World Service (2025-12-01)](#radyo-pilipinas-world-service-2025-12-01)  
 [RTI’s German service (2025-07-26)](#rti-s-german-service-2025-07-26)  
 [NHK World-Japan (2025-03-11)](#nhk-world-japan-2025-03-11)  
@@ -109,18 +109,18 @@
 
 | 📡 QSL Information | 🖼️ QSL Preview |
 | :--- | :--- |
-| <div id="haarp-2025-11-21"></div><br><br> **Name:** HAARP <br> **Mode:** AM <br> **QSL Format:** Paper | ![HAARP QSL Card 2025-11-21](assets/images/2025-11-21_haarp.jpg) |
-| <div id="sonate-2-2026-03-08"></div><br><br> **Name:** SONATE-2 <br> **Callsign:** `DP0SNX` <br> **Mode:** SSTV <br> **QSL Format:** Digital <br> **SatNOGS DB:** [59112](https://db.satnogs.org/satellite/59112) | [![SONATE-2 QSL Card 2026-03-08](assets/images/2026-03-08_sonate-2.jpg)](https://db.satnogs.org/satellite/59112) |
+| <div id="haarp-2025-11-21"></div><br><br> **Name:** HAARP <br> **Mode:** AM[^haarp] <br> **QSL Format:** Paper | ![HAARP QSL Card 2025-11-21](assets/images/2025-11-21_haarp.jpg) |
+| <div id="sonate-2-2026-03-08"></div><br><br> **Name:** SONATE-2 <br> **Callsign:** `DP0SNX` <br> **Mode:** SSTV Martin M1 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [59112](https://db.satnogs.org/satellite/59112) | [![SONATE-2 QSL Card 2026-03-08](assets/images/2026-03-08_sonate-2.jpg)](https://db.satnogs.org/satellite/59112) |
 | <div id="cubebug-2-2026-03-22"></div><br><br> **Name:** CubeBug-2 <br> **Callsign:** `CUBEB2` <br> **Mode:** 1k2 AFSK <br> **QSL Format:** Digital <br> **SatNOGS DB:** [39440](https://db.satnogs.org/satellite/39440) | [![CubeBug-2 QSL Card 2026-03-22](assets/images/2026-03-22_cubebug-2.jpg)](https://db.satnogs.org/satellite/39440) |
 | <div id="lilacsat-2-2025-05-16"></div><br><br> **Name:** LilacSat-2, CAS-3H, 紫丁香2号 <br> **Callsign:** `BJ1SI` <br> **Mode:** 4k8 <br> **QSL Format:** Paper <br> **SatNOGS DB:** [40908](https://db.satnogs.org/satellite/40908) | ![LilacSat-2 QSL Card](assets/images/2025-05-16_lilacsat-2.jpg) |
-| <div id="snuglite-iii-hana-duri"></div><br><br> **Name:** SNUGLITE-III HANA & DURI <br> **Callsign:** `DS0DH` <br> **Mode:** 9k6 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [98496](https://db.satnogs.org/satellite/98496) [98497](https://db.satnogs.org/satellite/98497) | ![SNUGLITE-III DURI & HANA QSL Card](assets/images/snuglite-iii_hana_duri.jpg) |
+| <div id="snuglite-iii-hana-duri"></div><br><br> **Name:** SNUGLITE-III HANA[^hana] & DURI <br> **Callsign:** `DS0DH` <br> **Mode:** 9k6 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [98496](https://db.satnogs.org/satellite/98496) [98497](https://db.satnogs.org/satellite/98497) | ![SNUGLITE-III DURI & HANA QSL Card](assets/images/snuglite-iii_hana_duri.jpg) |
 | <div id="sakhacube-cholbon-2026-03-07"></div><br><br> **Name:** SAKHACUBE-CHOLBON <br> **Callsign:** `RS18S` <br> **Mode:** SSTV <br> **QSL Format:** Digital <br> **SatNOGS DB:** [67290](https://db.satnogs.org/satellite/67290) | [![RS18S QSL Card 2026-03-07](assets/images/2026-03-07_rs18s.jpg)](https://db.satnogs.org/satellite/67290) |
 | <div id="sakhacube-cholbon-2026-02-21"></div><br><br> **Name:** SAKHACUBE-CHOLBON <br> **Callsign:** `RS18S` <br> **Mode:** SSTV & 2k4 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [67290](https://db.satnogs.org/satellite/67290) | [![RS18S QSL Card 2026-02-21](assets/images/2026-02-21_rs18s.jpg)](https://db.satnogs.org/satellite/67290) |
 | <div id="innosat-geoscan"></div><br><br> **Satellites:** InnoSat 3, InnoSat 16, <br> &nbsp;&nbsp;Geoscan 1, <br> &nbsp;&nbsp;Geoscan 2, <br> &nbsp;&nbsp;Geoscan 3, <br> &nbsp;&nbsp;Geoscan 4, <br> &nbsp;&nbsp;Geoscan 5, <br> &nbsp;&nbsp;Geoscan 6 <br> **Total Satellites:** 8 <br> **Mode:** 9k6 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [64894](https://db.satnogs.org/satellite/64894) [64878](https://db.satnogs.org/satellite/64878) <br> &nbsp;&nbsp; [64880](https://db.satnogs.org/satellite/64880) <br> &nbsp;&nbsp; [64890](https://db.satnogs.org/satellite/64890) <br> &nbsp;&nbsp; [64893](https://db.satnogs.org/satellite/64893) <br> &nbsp;&nbsp; [64892](https://db.satnogs.org/satellite/64892) <br> &nbsp;&nbsp; [64891](https://db.satnogs.org/satellite/64891) <br> &nbsp;&nbsp; [64879](https://db.satnogs.org/satellite/64879) | ![assets/images/innosat_geoscan_2.jpg](assets/images/innosat_geoscan_2.jpg) |
 | <div id="239alferov-2025-08-17"></div><br><br> **Name:** 239Alferov <br> **Callsign:** `RS61S` <br> **Mode:** 9k6 Image Data <br> **QSL Format:** Digital <br> **SatNOGS DB:** [64881](https://db.satnogs.org/satellite/64881) | [![RS61S QSL Card 2025-08-17](assets/images/2025-08-17_239alferov.jpg)](https://db.satnogs.org/satellite/64881) |
 | <div id="leopard-2026-02-04"></div><br><br> **Name:** LEOPARD <br> **Callsign:** `JG6YBW` <br> **Mode:** CW <br> [commercial] <br> **QSL Format:** Digital <br> **SatNOGS DB:** [67687](https://db.satnogs.org/satellite/67687) | [![LEOPARD QSL Card 2026-02-04](assets/images/2026-02-04_leopard.jpg)](https://db.satnogs.org/satellite/67687) |
 | <div id="qmr-kwt-2-2026-02-25"></div><br><br> **Name:** QMR-KWT 2 <br> **Callsign:** `RS95S` <br> **Mode:** SSTV <br> **QSL Format:** Digital <br> **SatNOGS DB:** [67291](https://db.satnogs.org/satellite/67291) | [![QMR-KWT 2 QSL Card 2026-02-25](assets/images/2026-02-25_qmr-kwt-2.jpg)](https://db.satnogs.org/satellite/67291) |
-| <div id="qmr-kwt-2-2026-02-21"></div><br><br> **Name:** QMR-KWT 2 <br> **Callsign:** `RS95S` <br> **Mode:** 9k6 <br> **Location:** ~~EM99tv~~ OL42dt <br> **QSL Format:** Digital <br> **SatNOGS DB:** [67291](https://db.satnogs.org/satellite/67291) | [![QMR-KWT 2 QSL Card 2026-02-21](assets/images/2026-02-21_qmr-kwt-2.jpg)](https://db.satnogs.org/satellite/67291) |
+| <div id="qmr-kwt-2-2026-02-21"></div><br><br> **Name:** QMR-KWT 2 <br> **Callsign:** `RS95S` <br> **Mode:** 9k6 <br> **Location:** ~~EM99tv~~ OL42dt <br> **QSL Format:** Paper <br> **SatNOGS DB:** [67291](https://db.satnogs.org/satellite/67291) | [![QMR-KWT 2 QSL Card 2026-02-21](assets/images/2026-02-21_qmr-kwt-2.jpg)](https://db.satnogs.org/satellite/67291) |
 | <div id="qmr-kwt-2-2026-02-01"></div><br><br> **Name:** QMR-KWT 2 <br> **Callsign:** `RS95S` <br> **Mode:** 2k4 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [67291](https://db.satnogs.org/satellite/67291) | [![QMR-KWT 2 QSL Card 2026-02-01](assets/images/2026-02-01_qmr-kwt-2.jpg)](https://db.satnogs.org/satellite/67291) |
 | <div id="astrocast-2025-12-01"></div><br><br> **Name:** Astrocast 0.1 <br> **Callsign:** `HB9GSF` <br> **Mode:** 1k2 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [43798](https://db.satnogs.org/satellite/43798) | [![Astrocast 0.1 QSL Card 2025-12-01](assets/images/2025-12-01_astrocast.jpg)](https://db.satnogs.org/satellite/43798) |
 | <div id="innocube-2026-01-14"></div><br><br> **Name:** Innocube, TUBSAT-31 <br> **Callsign:** `DP1NNO` <br> **Mode:** CW <br> **QSL Format:** Digital <br> **SatNOGS DB:** [62616](https://db.satnogs.org/satellite/62616) | [![Innocube QSL Card 2026-01-14](assets/images/innocube_anniversary.jpg)](https://db.satnogs.org/satellite/62616) |
@@ -131,7 +131,7 @@
 | <div id="tubin-2025-12-10"></div><br><br> **Name:** TUBIN, TUBSAT-27 <br> **Callsign:** `DP0TBN` <br> **Mode:** 4k8 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [48900](https://db.satnogs.org/satellite/48900) | [![TUBIN QSL Card 2025-12-10](assets/images/2025-12-10_tubin.jpg)](https://db.satnogs.org/satellite/48900) |
 | <div id="tubin-2025-12-10"></div><br><br> **Name:** TUBIN, TUBSAT-27 <br> **Callsign:** `DP0TBN` <br> **Mode:** 4k8 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [48900](https://db.satnogs.org/satellite/48900) | [![TUBIN QSL Card 2025-12-10](assets/images/2025-12-10_tubin_2.jpg)](https://db.satnogs.org/satellite/48900) |
 | <div id="pixl-1-2025-09-03"></div><br><br> **Name:** PIXL-1, CUBEL <br> **Callsign:**  <br>  **Frequency:** 400.575 MHz <br> **Mode:** 9k6 <br> [commercial] <br> **QSL Format:** Digital <br> **SatNOGS DB:** [47448](https://db.satnogs.org/satellite/47448) | [![PIXL-1 QSL Card 2025-09-03](assets/images/2025-09-03_pixl-1.jpg)](https://db.satnogs.org/satellite/47448) |
-| <div id="polyitan-1-2025-09-01"></div><br><br> **Name:** PolyITAN-1 <br> **Callsign:** `EM0UKP` <br> **Mode:** CW <br> **QSL Format:** Paper <br> **SatNOGS DB:** [40042](https://db.satnogs.org/satellite/40042) | [![PolyITAN-1 QSL Card 2025-09-01](assets/images/2025-09-01_PolyITAN-1.jpg)](https://db.satnogs.org/satellite/40042) |
+| <div id="polyitan-1-2025-09-01"></div><br><br> **Name:** PolyITAN-1 <br> **Callsign:** `EM0UKP` <br> **Mode:** CW[^polyitan] <br> **QSL Format:** Paper <br> **SatNOGS DB:** [40042](https://db.satnogs.org/satellite/40042) | [![PolyITAN-1 QSL Card 2025-09-01](assets/images/2025-09-01_PolyITAN-1.jpg)](https://db.satnogs.org/satellite/40042) |
 | <div id="rsp-03-2025-10-25"></div><br><br> **Name:** RSP-03 <br> **Callsign:** `JS1YOY` <br> **Mode:** CW <br> **QSL Format:** Digital <br> **SatNOGS DB:** [65732](https://db.satnogs.org/satellite/65732) | [![RSP-03 QSL Card 2025-10-25](assets/images/2025-10-25_rsp-03.jpg)](https://db.satnogs.org/satellite/2025-10-25) |
 | <div id="real-wr9xtx-2025-08-30"></div><br><br> **Name:** REAL <br> **Callsign:** `WR9XTX` <br> **Mode ~~2-WAY~~ 1-WAY:** ~~SSB~~ 9k6 <br> **QSL Format:** Paper <br> **SatNOGS DB:** [64875](https://db.satnogs.org/satellite/64875) | [![REAL QSL Card 2025-08-30](assets/images/2025-08-30_real.jpg)](https://db.satnogs.org/satellite/64875) |
 | <div id="cubebel-2-2025-10-10"></div><br><br> **Name:** CubeBel-2 <br> **Callsign:** `EU11S` <br> **Mode:** 9k6 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [57175](https://db.satnogs.org/satellite/57175) | [![CubeBel-2 QSL Card 2025-10-10](assets/images/2025-10-10_CubeBel-2.jpg)](https://db.satnogs.org/satellite/57175) |
@@ -139,77 +139,26 @@
 | <div id="botan-2025-10-14"></div><br><br> **Name:** BOTAN <br> **Callsign:** `JS1YPT` <br> **Mode:** 4k8 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [65942](https://db.satnogs.org/satellite/65942) | [![BOTAN QSL Card 2025-10-14](assets/images/2025-10-14_botan_4k8.jpg)](https://db.satnogs.org/satellite/65942) |
 | <div id="botan-2025-10-10"></div><br><br> **Name:** BOTAN <br> **Callsign:** `JS1YPT` <br> **Mode:** CW <br> **QSL Format:** Digital <br> **SatNOGS DB:** [65942](https://db.satnogs.org/satellite/65942) | [![BOTAN QSL Card 2025-10-10](assets/images/2025-10-10_botan_cw.jpg)](https://db.satnogs.org/satellite/65942) |
 | <div id="eirsat-1-2025-09-03"></div><br><br> **Name:** EIRSAT-1 <br> **Mode:** 9k6 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [58472](https://db.satnogs.org/satellite/58472) | [![EIRSAT-1 QSL Card 2025-09-03](assets/images/2025-09-03_EIRSAT-1.jpg)](https://db.satnogs.org/satellite/58472) |
-| <div id="itupsat-1-2025-05-20"></div><br><br> **Name:** ITUpSAT1 <br> **Callsign:** `ITUPSAT` <br> **Mode:** CW <br> **QSL Format:** Digital <br> **SatNOGS DB:** [35935](https://db.satnogs.org/satellite/35935) | [![ITUpSAT1 QSL Card 2025-05-20](assets/images/itupsat1.jpg)](https://db.satnogs.org/satellite/35935) |
+| <div id="itupsat-1-2025-05-20"></div><br><br> **Name:** ITUpSAT1 <br> **Callsign:** `ITUPSAT` <br> **Mode:** CW[^itupsat] <br> **QSL Format:** Digital <br> **SatNOGS DB:** [35935](https://db.satnogs.org/satellite/35935) | [![ITUpSAT1 QSL Card 2025-05-20](assets/images/itupsat1.jpg)](https://db.satnogs.org/satellite/35935) |
 | <div id="snuglite-i-2025-08-22"></div><br><br> **Name:** SNUGLITE-I <br> **Mode:** 9k6 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [43784](https://db.satnogs.org/satellite/43784) | [![SNUGLITE-I QSL Card 2025-08-22](assets/images/2025_08_22_snuglite-i.jpg)](https://db.satnogs.org/satellite/43784) |
 | <div id="lasarsat-2026-03-24"></div><br><br> **Name:** LASARsat <br> **Callsign:** `OK0LSR` <br> **Mode:** 9k6 <br> **QSL Format:** Digital <br> **Frequency:** ~~436.254~~ 436.925 MHz <br> **SatNOGS DB:** [62391](https://db.satnogs.org/satellite/62391) | [![LASARsat QSL Card 2026-03-24](assets/images/2026-03-24_lasarsat.jpg)](https://db.satnogs.org/satellite/62391) |
 | <div id="lasarsat-2025-04-08"></div><br><br> **Name:** LASARsat <br> **Callsign:** `OK0LSR` <br> **Mode:** CW <br> **QSL Format:** Digital <br> **SatNOGS DB:** [62391](https://db.satnogs.org/satellite/62391) | [![LASARsat QSL Card 2025-04-08](assets/images/2025-04-08_lasarsat.jpg)](https://db.satnogs.org/satellite/62391) |
 | <div id="utmn-2-rs27s-2025-06-04"></div><br><br> **Name:** UTMN-2, ТюмГУ <br> **Callsign:** `RS27S` <br> **Mode:** USP 9k6 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [57203](https://db.satnogs.org/satellite/57203) | [![UTMN-2 QSL Card 2025-06-04](assets/images/2025_06_04_UTMN-2_RS27S.jpg)](https://db.satnogs.org/satellite/57203) |
 | <div id="nushsat-1-2025-05-13"></div><br><br> **Name:** NUSHSat-1 <br> **Mode:** 1k2 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [63211](https://db.satnogs.org/satellite/63211) | [![NUSHSat-1 QSL Card 2025-05-13](assets/images/2025_05_13_NUSHSat-1.jpg)](https://db.satnogs.org/satellite/63211) |
 | <div id="horizon-rs59s-2025-08-10"></div><br><br> **Name:** Horizon <br> **Callsign:** `RS59S` <br> **Mode:** 9k6 Image Data <br> **QSL Format:** Digital <br> **SatNOGS DB:** [61757](https://db.satnogs.org/satellite/61757) | [![Horizon QSL Card 2025-08-10](assets/images/2025_08_10_Horizon_RS59S.jpg)](https://db.satnogs.org/satellite/61757) |
+| <div id="nightjar-2025-07-17"></div><br><br> **Name:** Nightjar <br> **Callsign:** `XX0UHF` <br> **Mode:** 4k8 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [60535](https://db.satnogs.org/satellite/60535) | [![Nightjar QSL Card 2025-07-17](assets/images/2025-07-17_nightjar.jpg)](https://db.satnogs.org/satellite/60535) |
+| <div id="radyo-pilipinas-world-service-2025-12-01"></div><br><br> **Name:** Radyo Pilipinas World Service <br> **Mode:** AM <br> **QSL Format:** Digital | [![Radyo Pilipinas World Service QSL Card 2025-03-02](assets/images/2025-12-01_Radyo_Pilipinas_World_Service.jpg)](2025-12-02_Radyo_Pilipinas_World_Service.m4a) |
+| <div id="rti-s-german-service-2025-07-26"></div><br><br> **Name:** RTI’s German service <br> **Mode:** AM <br> **QSL Format:** Paper | [![RTI’s German service QSL Card 2025-03-02](assets/images/2025-07-26_RTI-DE.jpg)](https://www.rti.org.tw/de/information?uid=15&pid=731) |
+| <div id="nhk-world-japan-2025-03-11"></div><br><br> **Name:** NHK World-Japan <br> **Mode:** AM <br> **QSL Format:** Paper | [![NHK World-Japan QSL Card 2025-03-11](assets/images/2025-03-11_nhk_world-japan.jpg)](assets/images/2025-03-11_nhk_world-japan.jpg) |
+| <div id="nhk-world-japan-2025-03-02"></div><br><br> **Name:** NHK World-Japan <br> **Mode:** AM <br> **QSL Format:** Paper | [![NHK World-Japan QSL Card 2025-03-02](assets/images/2025-03-02_nhk_world-japan.jpg)](assets/images/2025-03-02_nhk_world-japan.jpg) |
+| <div id="stars-kukai-daughter-jr5ybo-2025-05-25"></div><br><br> **Name:** STARS KUKAI: Daughter (子) <br> **Callsign:** `JR5YBO` <br> **Mode:** CW <br> **QSL Format:** Digital <br> **SatNOGS DB:** [33498](https://db.satnogs.org/satellite/33498) | [![STARS KUKAI: Daughter (子) QSL Card 2025-05-25](assets/images/2025-05-25_STARS_KUKAI_daughter.jpg)](https://db.satnogs.org/satellite/33498) |
+| <div id="technosat-dp0tba-2025-05-24"></div><br><br> **Name:** TechnoSat <br> **Callsign:** `DP0TBA` <br> **Mode:** CW[^technosat] <br> **QSL Format:** Digital <br> **SatNOGS DB:** [42829](https://db.satnogs.org/satellite/42829) | [![TechnoSat QSL Card 2025-05-24](assets/images/2025_05_24_TechnoSat_DP0TBA.jpg)](https://db.satnogs.org/satellite/42829) |
+| <div id="tigrisat-hnatig-2025-05-23"></div><br><br> **Name:** TIGRISAT <br> **Callsign:** `HNATIG` <br> **Mode:** 9k6 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [40043](https://db.satnogs.org/satellite/40043) | [![TIGRISAT QSL Card 2025-05-23](assets/images/2025_05_23_TIGRISAT_HNATIG.jpg)](https://db.satnogs.org/satellite/40043) |
+| <div id="enso-2025-05-22"></div><br><br> **Name:** ENSO, ROBUSTA-1E <br> **Callsign:** `FX6FRC` <br> **Mode:** 9k6 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [58470](https://db.satnogs.org/satellite/58470) | [![名称 QSL Card 2025-05-22](assets/images/2025-05-22_ENSO.jpg)](https://db.satnogs.org/satellite/58470) |
+| <div id="qube-dp2qu-2025-05-20"></div><br><br> **Name:** QUBE <br> **Callsign:** `DP2QU` <br> **Mode:** 9k6 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [60476](https://db.satnogs.org/satellite/60476) | [![QUBE QSL Card 2025-05-20](assets/images/2025-05-20_QUBE_DP2QU.jpg)](https://db.satnogs.org/satellite/60476) |
 
 [//]:   | <div id="锚点"></div><br><br> **Name:** 名称 <br> **Callsign:** `呼号` <br> **Mode:** 模式 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [00000](https://db.satnogs.org/satellite/00000) | [![名称 QSL Card yyyy-mm-dd](assets/images/文件名.jpg)](https://db.satnogs.org/satellite/00000) |
 
----
-
-<a name="nightjar-xx0uhf-2025-07-17"></a>
-**Nightjar (夜鷹號) (2025-07-17) - 4k8 (digital)**  
-[![assets/images/2025-07-17_Nightjar_XX0UHF.jpg](assets/images/2025-07-17_Nightjar_XX0UHF.jpg)](https://db.satnogs.org/satellite/60535)
-
----
-
-<a name="radyo-pilipinas-world-service-2025-12-01"></a>
-**Radyo Pilipinas World Service (2025-12-01) - AM (digital)**  
-[![2025-12-01_Radyo_Pilipinas_World_Service.jpg](assets/images/2025-12-01_Radyo_Pilipinas_World_Service.jpg)](assets/audio/2025-12-02_Radyo_Pilipinas_World_Service.m4a)
-
----
-
-<a name="rti-s-german-service-2025-07-26"></a>
-**RTI’s German service (2025-07-26) - AM (paper)**  
-[![assets/images/2025-07-26_RTI-DE.jpg](assets/images/2025-07-26_RTI-DE.jpg)](https://www.rti.org.tw/de/information?uid=15&pid=731)
-
----
-
-<a name="nhk-world-japan-2025-03-11"></a>
-**NHK World-Japan (2025-03-11) - AM (paper)**  
-![assets/images/2025-03-11_nhk_world-japan.jpg](assets/images/2025-03-11_nhk_world-japan.jpg)
-
----
-
-<a name="nhk-world-japan-2025-03-02"></a>
-**NHK World-Japan (2025-03-02) - AM (paper)**  
-![assets/images/2025-03-02_nhk_world-japan.jpg](assets/images/2025-03-02_nhk_world-japan.jpg)
-
----
-
-<a name="stars-kukai-daughter-jr5ybo-2025-05-25"></a>
-**STARS (KUKAI, 空海) JR5YBO (子) (2025-05-25) - CW (digital)**  
-[![assets/images/2025-05-25_STARS_KUKAI_daughter.jpg](assets/images/2025-05-25_STARS_KUKAI_daughter.jpg)](https://db.satnogs.org/satellite/43640)
-
----
-
-<a name="technosat-dp0tba-2025-05-24"></a>
-**TechnoSat (DP0TBA) (2025-05-24) - CW (digital)**  
-[![assets/images/2025_05_24_TechnoSat_DP0TBA.jpg](assets/images/2025_05_24_TechnoSat_DP0TBA.jpg)](https://db.satnogs.org/satellite/42829)
-
----
-
-<a name="tigrisat-hnatig-2025-05-23"></a>
-**TIGRISAT (2025-05-23) - 9k6 (digital)**  
-[![assets/images/2025_05_23_TIGRISAT_HNATIG.jpg](assets/images/2025_05_23_TIGRISAT_HNATIG.jpg)](https://db.satnogs.org/satellite/40043)
-
----
-
-<a name="enso-2025-05-22"></a>
-**ENSO (ROBUSTA-1E, FX6FRC) (2025-05-22) - 9k6 (digital)**  
-[![assets/images/2025-05-22_ENSO.jpg](assets/images/2025-05-22_ENSO.jpg)](https://db.satnogs.org/satellite/58470)
-
----
-
-<a name="qube-dp2qu-2025-05-20"></a>
-**QUBE (DP2QU) (2025-05-20) - 9k6 (digital)**  
-[![assets/images/2025-05-20_QUBE_DP2QU.jpg](assets/images/2025-05-20_QUBE_DP2QU.jpg)](https://db.satnogs.org/satellite/60476)
-
----
 
 <a name="pearl-1c-2025-05-13"></a>
 **PEARL-1C (珍珠號-1C) (2025-05-13) - 9k6(!) (paper) [MHz: 435.310 (!)]**  
@@ -457,3 +406,10 @@
 [![assets/images/2025-09-04_iss_cw.jpg](assets/images/2025-09-04_iss_cw.jpg)](https://db.satnogs.org/satellite/25544)
 
 ---
+### 脚注内容
+
+[^haarp]: I use WebSDR.
+[^hana]: HANA's singals are not decoded.
+[^itupsat]: CW in FM.
+[^polyitan]: CW in FM.
+[^technosat]: CW in FM.
