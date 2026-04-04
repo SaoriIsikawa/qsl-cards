@@ -48,10 +48,10 @@
 [RTI’s German service (2025-07-26)](#rti-s-german-service-2025-07-26)  
 [NHK World-Japan (2025-03-11)](#nhk-world-japan-2025-03-11)  
 [NHK World-Japan (2025-03-02)](#nhk-world-japan-2025-03-02)  
-[STARS (2025-05-25)](#stars-kukai-daughter-jr5ybo-2025-05-25)  
 
 </td><td valign="top">
 
+[STARS (2025-05-25)](#stars-kukai-daughter-jr5ybo-2025-05-25)  
 [TechnoSat (2025-05-24)](#technosat-dp0tba-2025-05-24)  
 [TIGRISAT (2025-05-23)](#tigrisat-hnatig-2025-05-23)  
 [ENSO (2025-05-22)](#enso-2025-05-22)  
@@ -64,7 +64,6 @@
 [SamSat-Ionosphere (2025-04-10)](#samsat-ionosphere-rs75s-2025-04-10)  
 [CroCube (2025-04-10)](#crocube-9a0cc-2025-04-10)  
 [ArcticSat-1 (2025-04-01)](#arcticsat-1-rs74s-2025-04-01)  
-[SONATE-2 (2025-02-16)](#sonate-2-dp0snx-2025-02-16)  
 [YOMOGI (2024-12-10)](#yomogi-js1ymx-2024-12-10)  
 [UmKA-1 (2025-03-01)](#umka-1-rs40s-2025-03-01)  
 [UmKA-1 (2024-10-05)](#umka-1-rs40s-2024-10-05)  
@@ -131,7 +130,7 @@
 | <div id="tubin-2025-12-10"></div><br><br> **Name:** TUBIN, TUBSAT-27 <br> **Callsign:** `DP0TBN` <br> **Mode:** 4k8 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [48900](https://db.satnogs.org/satellite/48900) | [![TUBIN QSL Card 2025-12-10](assets/images/2025-12-10_tubin.jpg)](https://db.satnogs.org/satellite/48900) |
 | <div id="tubin-2025-12-10"></div><br><br> **Name:** TUBIN, TUBSAT-27 <br> **Callsign:** `DP0TBN` <br> **Mode:** 4k8 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [48900](https://db.satnogs.org/satellite/48900) | [![TUBIN QSL Card 2025-12-10](assets/images/2025-12-10_tubin_2.jpg)](https://db.satnogs.org/satellite/48900) |
 | <div id="pixl-1-2025-09-03"></div><br><br> **Name:** PIXL-1, CUBEL <br> **Callsign:**  <br>  **Frequency:** 400.575 MHz <br> **Mode:** 9k6 <br> [commercial] <br> **QSL Format:** Digital <br> **SatNOGS DB:** [47448](https://db.satnogs.org/satellite/47448) | [![PIXL-1 QSL Card 2025-09-03](assets/images/2025-09-03_pixl-1.jpg)](https://db.satnogs.org/satellite/47448) |
-| <div id="polyitan-1-2025-09-01"></div><br><br> **Name:** PolyITAN-1 <br> **Callsign:** `EM0UKP` <br> **Mode:** CW[^polyitan] <br> **QSL Format:** Paper <br> **SatNOGS DB:** [40042](https://db.satnogs.org/satellite/40042) | [![PolyITAN-1 QSL Card 2025-09-01](assets/images/2025-09-01_PolyITAN-1.jpg)](https://db.satnogs.org/satellite/40042) |
+| <div id="polyitan-1-2025-09-01"></div><br><br> **Name:** PolyITAN-1 <br> **Callsign:** `EM0UKP` <br> **Mode:** 9k6[^polyitan] <br> ~~**[✓] Confirming our QSO**~~ <br> **~~2~~ 1 Way** <br> **QSL Format:** Paper <br> **SatNOGS DB:** [40042](https://db.satnogs.org/satellite/40042) | [![PolyITAN-1 QSL Card 2025-09-01](assets/images/2025-09-01_PolyITAN-1.jpg)](https://db.satnogs.org/satellite/40042) |
 | <div id="rsp-03-2025-10-25"></div><br><br> **Name:** RSP-03 <br> **Callsign:** `JS1YOY` <br> **Mode:** CW <br> **QSL Format:** Digital <br> **SatNOGS DB:** [65732](https://db.satnogs.org/satellite/65732) | [![RSP-03 QSL Card 2025-10-25](assets/images/2025-10-25_rsp-03.jpg)](https://db.satnogs.org/satellite/2025-10-25) |
 | <div id="real-wr9xtx-2025-08-30"></div><br><br> **Name:** REAL <br> **Callsign:** `WR9XTX` <br> **Mode ~~2-WAY~~ 1-WAY:** ~~SSB~~ 9k6 <br> **QSL Format:** Paper <br> **SatNOGS DB:** [64875](https://db.satnogs.org/satellite/64875) | [![REAL QSL Card 2025-08-30](assets/images/2025-08-30_real.jpg)](https://db.satnogs.org/satellite/64875) |
 | <div id="cubebel-2-2025-10-10"></div><br><br> **Name:** CubeBel-2 <br> **Callsign:** `EU11S` <br> **Mode:** 9k6 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [57175](https://db.satnogs.org/satellite/57175) | [![CubeBel-2 QSL Card 2025-10-10](assets/images/2025-10-10_CubeBel-2.jpg)](https://db.satnogs.org/satellite/57175) |
@@ -146,7 +145,7 @@
 | <div id="utmn-2-rs27s-2025-06-04"></div><br><br> **Name:** UTMN-2, ТюмГУ <br> **Callsign:** `RS27S` <br> **Mode:** USP 9k6 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [57203](https://db.satnogs.org/satellite/57203) | [![UTMN-2 QSL Card 2025-06-04](assets/images/2025_06_04_UTMN-2_RS27S.jpg)](https://db.satnogs.org/satellite/57203) |
 | <div id="nushsat-1-2025-05-13"></div><br><br> **Name:** NUSHSat-1 <br> **Mode:** 1k2 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [63211](https://db.satnogs.org/satellite/63211) | [![NUSHSat-1 QSL Card 2025-05-13](assets/images/2025_05_13_NUSHSat-1.jpg)](https://db.satnogs.org/satellite/63211) |
 | <div id="horizon-rs59s-2025-08-10"></div><br><br> **Name:** Horizon <br> **Callsign:** `RS59S` <br> **Mode:** 9k6 Image Data <br> **QSL Format:** Digital <br> **SatNOGS DB:** [61757](https://db.satnogs.org/satellite/61757) | [![Horizon QSL Card 2025-08-10](assets/images/2025_08_10_Horizon_RS59S.jpg)](https://db.satnogs.org/satellite/61757) |
-| <div id="nightjar-2025-07-17"></div><br><br> **Name:** Nightjar <br> **Callsign:** `XX0UHF` <br> **Mode:** 4k8 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [60535](https://db.satnogs.org/satellite/60535) | [![Nightjar QSL Card 2025-07-17](assets/images/2025-07-17_nightjar.jpg)](https://db.satnogs.org/satellite/60535) |
+| <div id="nightjar-2025-07-17"></div><br><br> **Name:** Nightjar, 夜鷹號 <br> **Callsign:** `XX0UHF` <br> **Mode:** 4k8 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [60535](https://db.satnogs.org/satellite/60535) | [![Nightjar QSL Card 2025-07-17](assets/images/2025-07-17_nightjar.jpg)](https://db.satnogs.org/satellite/60535) |
 | <div id="radyo-pilipinas-world-service-2025-12-01"></div><br><br> **Name:** Radyo Pilipinas World Service <br> **Mode:** AM <br> **QSL Format:** Digital | [![Radyo Pilipinas World Service QSL Card 2025-03-02](assets/images/2025-12-01_Radyo_Pilipinas_World_Service.jpg)](2025-12-02_Radyo_Pilipinas_World_Service.m4a) |
 | <div id="rti-s-german-service-2025-07-26"></div><br><br> **Name:** RTI’s German service <br> **Mode:** AM <br> **QSL Format:** Paper | [![RTI’s German service QSL Card 2025-03-02](assets/images/2025-07-26_RTI-DE.jpg)](https://www.rti.org.tw/de/information?uid=15&pid=731) |
 | <div id="nhk-world-japan-2025-03-11"></div><br><br> **Name:** NHK World-Japan <br> **Mode:** AM <br> **QSL Format:** Paper | [![NHK World-Japan QSL Card 2025-03-11](assets/images/2025-03-11_nhk_world-japan.jpg)](assets/images/2025-03-11_nhk_world-japan.jpg) |
@@ -156,62 +155,16 @@
 | <div id="tigrisat-hnatig-2025-05-23"></div><br><br> **Name:** TIGRISAT <br> **Callsign:** `HNATIG` <br> **Mode:** 9k6 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [40043](https://db.satnogs.org/satellite/40043) | [![TIGRISAT QSL Card 2025-05-23](assets/images/2025_05_23_TIGRISAT_HNATIG.jpg)](https://db.satnogs.org/satellite/40043) |
 | <div id="enso-2025-05-22"></div><br><br> **Name:** ENSO, ROBUSTA-1E <br> **Callsign:** `FX6FRC` <br> **Mode:** 9k6 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [58470](https://db.satnogs.org/satellite/58470) | [![名称 QSL Card 2025-05-22](assets/images/2025-05-22_ENSO.jpg)](https://db.satnogs.org/satellite/58470) |
 | <div id="qube-dp2qu-2025-05-20"></div><br><br> **Name:** QUBE <br> **Callsign:** `DP2QU` <br> **Mode:** 9k6 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [60476](https://db.satnogs.org/satellite/60476) | [![QUBE QSL Card 2025-05-20](assets/images/2025-05-20_QUBE_DP2QU.jpg)](https://db.satnogs.org/satellite/60476) |
+| <div id="pearl-1c-2025-05-13"></div><br><br> **Name:** PEARL-1C, 珍珠號-1C <br> **Callsign:** `PEARLC` <br> **MHz:** ~~9k6~~ 435.310 <br> **Mode:** 9k6 GMSK <br> **QSL Format:** Paper <br> **SatNOGS DB:** [58342](https://db.satnogs.org/satellite/58342) | [![PEARL-1C QSL Card 2025-05-13](assets/images/2025-05-13_PEARL-1C.jpg)](https://db.satnogs.org/satellite/58342) |
+| <div id="otp-2-2025-05-13"></div><br><br> **Name:** OTP-2 <br> **Callsign:** `OTP-2` <br> **Mode:** 4k8 & Merody <br> **QSL Format:** Digital <br> **SatNOGS DB:** [63235](https://db.satnogs.org/satellite/63235) | [![OTP-2 QSL Card 2025-05-13](assets/images/2025-05-13_OTP-2.jpg)](https://db.satnogs.org/satellite/63235) |
+| <div id="robusta-3a-fx6frd-2025-05-13"></div><br><br> **Name:** ROBUSTA-3A <br> **Callsign:** `FX6FRD` <br> **Mode:** 9k6 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [60243](https://db.satnogs.org/satellite/60243) | [![ROBUSTA-3A QSL Card 2025-05-13](assets/images/2025-05-13_ROBUSTA-3A_FX6FRD.jpg)](https://db.satnogs.org/satellite/60243) |
+| <div id="samsat-ionosphere-rs75s-2025-05-11"></div><br><br> **Name:** SamSat-Ionosphere <br> **Callsign:** `RS75S` <br> **Mode:** 1k2 FSK <br> **Event:** Victory Day <br> **QSL Format:** Digital <br> **SatNOGS DB:** [61784](https://db.satnogs.org/satellite/61784) | [![SamSat-Ionosphere QSL Card 2025-05-11](assets/images/2025-05-11_RS75S.jpg)](https://db.satnogs.org/satellite/61784) |
+| <div id="samsat-ionosphere-rs75s-2025-04-10"></div><br><br> **Name:** SamSat-Ionosphere <br> **Callsign:** `RS75S` <br> **Mode:** 1k2 FSK <br> **Event:** Gagarin's Day <br> **QSL Format:** Digital <br> **SatNOGS DB:** [61784](https://db.satnogs.org/satellite/61784) | [![SamSat-Ionosphere QSL Card 2025-04-10](assets/images/2025-04-10_RS75S.jpg)](https://db.satnogs.org/satellite/61784) |
+| <div id="crocube-9a0cc-2025-04-10"></div><br><br> **Name:** CroCube <br> **Callsign:** `9A0CC` <br> **Mode:** 9k6 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [62394](https://db.satnogs.org/satellite/62394) | [![CroCube QSL Card 2025-04-10](assets/images/2025_04_10_CroCube_9A0CC.jpg)](https://db.satnogs.org/satellite/62394) |
+| <div id="arcticsat-1-rs74s-2025-04-01"></div><br><br> **Name:** ArcticSat-1 <br> **Callsign:** `RS74S` <br> **Mode:** SSTV Robot36 <br> **Event:** 1st of April Event <br> **QSL Format:** Digital <br> **SatNOGS DB:** [61762](https://db.satnogs.org/satellite/61762) | [![ArcticSat-1 QSL Card 2025-04-01](assets/images/2025-04-01_ArcticSat-1_RS74S.jpg)](https://db.satnogs.org/satellite/61762) |
+| <div id="yomogi-js1ymx-2024-12-10"></div><br><br> **Name:** YOMOGI <br> **Callsign:** `JS1YMX` <br> **Mode:** CW <br> **QSL Format:** Digital <br> **SatNOGS DB:** [62298](https://db.satnogs.org/satellite/62298) | [![名称 QSL Card 2024-12-10](assets/images/2024-12-10_YOMOGI_JS1YMX.jpg)](https://db.satnogs.org/satellite/62298) |
 
 [//]:   | <div id="锚点"></div><br><br> **Name:** 名称 <br> **Callsign:** `呼号` <br> **Mode:** 模式 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [00000](https://db.satnogs.org/satellite/00000) | [![名称 QSL Card yyyy-mm-dd](assets/images/文件名.jpg)](https://db.satnogs.org/satellite/00000) |
-
-
-<a name="pearl-1c-2025-05-13"></a>
-**PEARL-1C (珍珠號-1C) (2025-05-13) - 9k6(!) (paper) [MHz: 435.310 (!)]**  
-[![assets/images/2025-05-13_PEARL-1C.jpg](assets/images/2025-05-13_PEARL-1C.jpg)](https://db.satnogs.org/satellite/58342)
-
----
-
-<a name="otp-2-2025-05-13"></a>
-**OTP-2 (2025-05-13) - 4k8 (digital)**  
-[![assets/images/2025-05-13_OTP-2.jpg](assets/images/2025-05-13_OTP-2.jpg)](https://db.satnogs.org/satellite/63235)
-
----
-
-<a name="robusta-3a-fx6frd-2025-05-13"></a>
-**ROBUSTA-3A (FX6FRD) (2025-05-13) - 9k6 (digital)**  
-[![assets/images/2025-05-13_ROBUSTA-3A_FX6FRD.jpg](assets/images/2025-05-13_ROBUSTA-3A_FX6FRD.jpg)](https://db.satnogs.org/satellite/60243)
-
----
-
-<a name="samsat-ionosphere-rs75s-2025-05-11"></a>
-**RS75S (SamSat-Ionosphere) (2025-05-11) - 1k2 FSK - Victory Day (digital)**  
-[![assets/images/2025-05-11_RS75S.jpg](assets/images/2025-05-11_RS75S.jpg)](https://db.satnogs.org/satellite/61784)
-
----
-
-<a name="samsat-ionosphere-rs75s-2025-04-10"></a>
-**RS75S (SamSat-Ionosphere) (2025-04-10) - 1k2 FSK - Gagarin's Day (digital)**  
-[![assets/images/2025-04-10_RS75S.jpg](assets/images/2025-04-10_RS75S.jpg)](https://db.satnogs.org/satellite/61784)
-
----
-
-<a name="crocube-9a0cc-2025-04-10"></a>
-**CroCube (9A0CC) (2025-04-10) - 9k6 (digital)**  
-[![assets/images/2025_04_10_CroCube_9A0CC.jpg](assets/images/2025_04_10_CroCube_9A0CC.jpg)](https://db.satnogs.org/satellite/62394)
-
----
-
-
-<a name="arcticsat-1-rs74s-2025-04-01"></a>
-**RS74S (Arcticsat-1) (2025-04-01) - SSTV Robot36 - 1st of April Event (digital)**  
-[![assets/images/2025-04-01_ArcticSat-1_RS74S.jpg](assets/images/2025-04-01_ArcticSat-1_RS74S.jpg)](https://db.satnogs.org/satellite/61762)
-
----
-
-<a name="sonate-2-dp0snx-2025-02-16"></a>
-**SONATE-2 (DP0SNX) (2025-02-16) - SSTV (digital)**  
-[![assets/images/2025-02-16_SONATE-2_DP0SNX.jpg](assets/images/2025-02-16_SONATE-2_DP0SNX.jpg)](https://db.satnogs.org/satellite/59112)
-
----
-
-<a name="yomogi-js1ymx-2024-12-10"></a>
-**YOMOGI (JS1YMX) (2024-12-10) - CW (digital)**  
-[![assets/images/2024-12-10_YOMOGI_JS1YMX.jpg](assets/images/2024-12-10_YOMOGI_JS1YMX.jpg)](https://db.satnogs.org/satellite/62298)
 
 ---
 
@@ -409,7 +362,7 @@
 ### 脚注内容
 
 [^haarp]: I use WebSDR.
-[^hana]: HANA's singals are not decoded.
+[^hana]: I see HANA's singal but not decoded.
 [^itupsat]: CW in FM.
-[^polyitan]: CW in FM.
+[^polyitan]: I received text message "CQ de EM0UKPI QSL via UT4UZB k".
 [^technosat]: CW in FM.
