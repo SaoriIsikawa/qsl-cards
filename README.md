@@ -97,6 +97,8 @@
 - [2026-01-05 RS40S RS38S Orbital Quest](#rs40s-rs38s-orbital-quest)
 - [2026-02-24 Contest "Photo of the Earth from the Horizon satellite"](#contest-horizon-2026-02-24)
 - [2025-11-04 ~ 2026-02-29 BOTAN APRS 受信証明書](#botan-aprs-shoumeisho)
+- [2026-04-10~14 Expedition 74 - ARISS Series 31 - World Space Commemoration](#ariss-sstv-award-2026-04-10)
+
 
 ## 📬 ISS QSL 卡
 
@@ -338,6 +340,12 @@
 <a name="botan-aprs-shoumeisho"></a>
 **2025-11-04 ~ 2026-02-29 BOTAN APRS 受信証明書**  
 [![assets/images/botan_aprs_shoumeisho.jpg](assets/images/botan_aprs_shoumeisho.jpg)](assets/images/botan_aprs_shoumeisho.png)
+
+---
+
+<a name="ariss-sstv-award-2026-04-10"></a>
+**2026-04-10~14 Expedition 74 - ARISS Series 31 - World Space Commemoration - ARISS SSTV Award**  
+![assets/images/ariss_sstv_award_2026-04-10.jpg](assets/images/ariss_sstv_award_2026-04-10.jpg)
 
 
 ## ISS QSL 卡
