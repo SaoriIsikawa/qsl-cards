@@ -134,6 +134,12 @@
 
 ## 📜 确认图像接收的证书与奖项
 
+<a name="frc-isstv-ssp-diploma-2026-04-10"></a>
+**2026-04-10~14 FRC ISSTV-SSP diploma**  
+![assets/images/frc_isstv_ssp_diploma_2026-04-10.jpg](assets/images/frc_isstv_ssp_diploma_2026-04-10.jpg)
+
+---
+
 <a name="frc-buenaventura-sstv-diploma-arcticsat-1"></a>
 **2025-08-11 FRC Buenaventura SSTV Diploma ARCTICSAT-1**  
 ![assets/images/buenaventura_sstv_diploma_arcticsat-1.jpg](assets/images/buenaventura_sstv_diploma_arcticsat-1.jpg)
