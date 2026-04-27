@@ -100,7 +100,7 @@
 - [2026-02-24 Contest "Photo of the Earth from the Horizon satellite"](#contest-horizon-2026-02-24)
 - [2025-11-04 ~ 2026-02-29 BOTAN APRS 受信証明書](#botan-aprs-shoumeisho)
 - [2026-04-10~14 Expedition 74 - ARISS Series 31 - World Space Commemoration](#ariss-sstv-award-2026-04-10)
-- [2026-02-06~09 92nd Anniversary of LABRE](#92nd-anniversary-of-labre-2026-02-06)
+- [2026-02-06~09 92nd Anniversary of LABRE (from RS40S)](#92nd-anniversary-of-labre-2026-02-06)
 
 ## 📬 ISS QSL 卡
 
@@ -354,7 +354,7 @@
 ---
 
 <a name="92nd-anniversary-of-labre-2026-02-06"></a>
-**2026-02-06~09 92nd Anniversary of LABRE**  
+**2026-02-06~09 92nd Anniversary of LABRE (from RS40S)**  
 ![assets/images/labre_92nd.jpg](assets/images/labre_92nd.jpg)
 
 
