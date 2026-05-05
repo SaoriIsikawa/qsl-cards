@@ -14,7 +14,7 @@
 [SAKHACUBE-CHOLBON (2026-04-11)](#sakhacube-cholbon-2026-04-11)  
 [SAKHACUBE-CHOLBON (2026-03-07)](#sakhacube-cholbon-2026-03-07)  
 [SAKHACUBE-CHOLBON (2026-02-21)](#sakhacube-cholbon-2026-02-21)  
-[InnoSat 3/16 & Geoscan 1–6](#innosat-geoscan)  
+[InnoSat3, Geoscan-1 - Geoscan-6, InnoSat16](#innosat-geoscan)  
 [239Alferov (2025-08-17)](#239alferov-2025-08-17)  
 [LEOPARD (2026-02-04)](#leopard-2026-02-04)  
 [QMR-KWT 2 (2026-02-25)](#qmr-kwt-2-2026-02-25)  
