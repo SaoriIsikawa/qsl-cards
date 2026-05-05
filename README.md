@@ -93,12 +93,12 @@
 - [RS40S Special Event "Cosmonautics Day"](#rs40s-cosmonautics-day-2025-04-12)
 - [RS40S Special Event "April Fool's Day"](#rs40s-april-fool-s-day-2025-04-01)
 - [RS40S Special Event "International Women's Day"](#rs40s-international-women-s-day-2025-03-08)
-- [RS40S Special Event "Saudi Founding Day"](#rs40s-mayak-2025-02-22)
 - [RS40S Special Event "MAYAK"](#rs40s-mayak-2025-02-01)
 - [2025-10-03~04 RS40S Radio Quest commemorating Sputnik-1](#rs40s-radio-quest)
 - [2025-11-11 RS40S Special Event "Space Race"](#rs40s-space-race-2025)
 - [2026-01-05 RS40S RS38S Orbital Quest](#rs40s-rs38s-orbital-quest)
 - [2026-02-24 Contest "Photo of the Earth from the Horizon satellite"](#contest-horizon-2026-02-24)
+- [2026-04-11 Horizon satellite space quiz](#horizon-satellite-space-quiz-2026-04-11)
 - [2025-11-04 ~ 2026-02-29 BOTAN APRS 受信証明書](#botan-aprs-shoumeisho)
 - [2026-04-10~14 Expedition 74 - ARISS Series 31 - World Space Commemoration](#ariss-sstv-award-2026-04-10)
 - [2026-02-06~09 92nd Anniversary of LABRE (from RS40S)](#92nd-anniversary-of-labre-2026-02-06)
@@ -307,12 +307,6 @@
 
 ---
 
-<a name="rs40s-mayak-2025-02-22"></a>
-**RS40S Special Event "Saudi Founding Day" (2025-02-22) - SSTV (digital)**  
-![assets/images/2025-02-22_UMKA-1_RS40S.jpg](assets/images/2025-02-22_UMKA-1_RS40S.jpg)
-
----
-
 <a name="rs40s-mayak-2025-02-01"></a>
 **RS40S Special Event "MAYAK" (2025-02-01) - SSTV (digital)**  
 ![assets/images/2025-02-01_UMKA-1_RS40S.jpg](assets/images/2025-02-01_UMKA-1_RS40S.jpg)
@@ -340,6 +334,12 @@
 <a name="contest-horizon-2026-02-24"></a>
 **2026-02-24 Contest "Photo of the Earth from the Horizon satellite"**  
 ![assets/images/horizon.jpg](assets/images/horizon.jpg)
+
+---
+
+<a name="horizon-satellite-space-quiz-2026-04-11"></a>
+**2026-04-11 Horizon satellite space quiz**  
+![assets/images/horizon_space_quiz.jpg](assets/images/horizon_space_quiz.jpg)
 
 ---
 
