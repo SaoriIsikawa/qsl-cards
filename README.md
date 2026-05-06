@@ -98,7 +98,7 @@
 - [2025-11-11 RS40S Special Event "Space Race"](#rs40s-space-race-2025)
 - [2026-01-05 RS40S RS38S Orbital Quest](#rs40s-rs38s-orbital-quest)
 - [2026-02-24 Contest "Photo of the Earth from the Horizon satellite"](#contest-horizon-2026-02-24)
-- [2026-04-11 Horizon satellite space quiz](#horizon-satellite-space-quiz-2026-04-11)
+- [2026-04-11 Horizon satellite Cosmonautics Day game](#horizon-satellite-cosmonautics-day-game-2026-04-11)
 - [2025-11-04 ~ 2026-02-29 BOTAN APRS 受信証明書](#botan-aprs-shoumeisho)
 - [2026-04-10~14 Expedition 74 - ARISS Series 31 - World Space Commemoration](#ariss-sstv-award-2026-04-10)
 - [2026-02-06~09 92nd Anniversary of LABRE (from RS40S)](#92nd-anniversary-of-labre-2026-02-06)
@@ -337,8 +337,8 @@
 
 ---
 
-<a name="horizon-satellite-space-quiz-2026-04-11"></a>
-**2026-04-11 Horizon satellite space quiz**  
+<a name="horizon-satellite-cosmonautics-day-game-2026-04-11"></a>
+**2026-04-11 Horizon satellite Cosmonautics Day game**  
 ![assets/images/horizon_space_quiz.jpg](assets/images/horizon_space_quiz.jpg)
 
 ---
