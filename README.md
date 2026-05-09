@@ -86,6 +86,7 @@
 - [2025-10-03~09 Expedition 73 - ARISS Series 29 - World Space Week 2025](#expedition-73-ariss-series-29-world-space-week-2025-10-03)
 - [2025-07-14~20 Expedition 73 - ARISS Series 28 - Apollo Soyuz and STS-51F](#expedition-73-ariss-series-28-apollo-soyuz-and-sts-51f-2025-07-14)
 - [2025-07-14~20 Russia ISS SSTV Diploma](#russia-iss-sstv-diploma-2025-07-15)
+- [2026-05-08~12 Russia ISS SSTV Diploma](#russia-iss-sstv-diploma-2026-05-08)
 - [2024-12-04 SSTV Diploma - Palace of Pioneers](#sstv-diploma-85th-anniversary-of-the-palace-of-pioneers-2024-12-04)
 - [RS40S Special Event "Victory Day"](#rs40s-victory-day-2025-05-09)
 - [RS40S School Space Telescope](#rs40s-school-space-telescope-2025-05-07)
@@ -262,6 +263,12 @@
 <a name="russia-iss-sstv-diploma-2025-07-15"></a>
 **2025-07-14~20 Russia ISS SSTV Diploma**  
 ![assets/images/diploma_russia_iss_sstv_2025-07-15.jpg](assets/images/diploma_russia_iss_sstv_2025-07-15.jpg)
+
+---
+
+<a name="russia-iss-sstv-diploma-2026-05-08"></a>
+**2026-05-08~12 Russia ISS SSTV Diploma**  
+![assets/images/diploma_russia_iss_sstv_2026-05-08.jpg](assets/images/diploma_russia_iss_sstv_2026-05-08.jpg)
 
 ---
 
