@@ -158,6 +158,12 @@
 
 ---
 
+<a name="remeasat-ariss-sstv-award-2026-05-08"></a>
+**2026-05-08~12 REMEASAT ARISS SSTV Award**  
+![assets/images/remeasat_sstv_award_2026-05-08.jpg](assets/images/remeasat_sstv_award_2026-05-08.jpg)
+
+---
+
 <a name="remeasat-ariss-sstv-award-2026-04-10"></a>
 **2026-04-10~14 REMEASAT ARISS SSTV Award**  
 ![assets/images/remeasat_sstv_award_2026-04-10.jpg](assets/images/remeasat_sstv_award_2026-04-10.jpg)
