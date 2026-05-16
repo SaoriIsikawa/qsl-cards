@@ -134,9 +134,21 @@
 
 ## 📜 确认图像接收的证书与奖项
 
+<a name="frc-isstv-ssp-diploma-2025-07-15"></a>
+**2025-07-14~20 FRC ISSTV-SSP diploma**  
+![assets/images/frc_isstv_ssp_diploma_2025-07-15.jpg](assets/images/frc_isstv_ssp_diploma_2025-07-15.jpg)
+
+---
+
 <a name="frc-isstv-ssp-diploma-2026-04-10"></a>
 **2026-04-10~14 FRC ISSTV-SSP diploma**  
 ![assets/images/frc_isstv_ssp_diploma_2026-04-10.jpg](assets/images/frc_isstv_ssp_diploma_2026-04-10.jpg)
+
+---
+
+<a name="frc-isstv-ssp-diploma-2026-05-10"></a>
+**2026-05-08~12 FRC ISSTV-SSP diploma**  
+![assets/images/frc_isstv_ssp_diploma_2026-05-10.jpg](assets/images/frc_isstv_ssp_diploma_2026-05-10.jpg)
 
 ---
 
@@ -149,12 +161,6 @@
 <a name="frc-buenaventura-sstv-diploma-umka-1"></a>
 **2025-08-09~10 FRC Buenaventura SSTV Diploma UMKA-1**  
 ![assets/images/buenaventura_sstv_diploma_umka-1.jpg](assets/images/buenaventura_sstv_diploma_umka-1.jpg)
-
----
-
-<a name="frc-isstv-ssp-diploma-2025-07-15"></a>
-**2025-07-14~20 FRC ISSTV-SSP diploma**  
-![assets/images/frc_isstv_ssp_diploma_2025-07-15.jpg](assets/images/frc_isstv_ssp_diploma_2025-07-15.jpg)
 
 ---
 
