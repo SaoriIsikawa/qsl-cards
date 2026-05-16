@@ -8,7 +8,7 @@ set OUT=index2.html
 set TMP_HTML=content.html
 
 if not exist "%MD%" (
-  echo 错误：README.md 不存在
+  echo 错误：README2.md 不存在
   pause
   exit /b 1
 )
