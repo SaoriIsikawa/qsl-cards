@@ -24,14 +24,14 @@
 [QMR-KWT-2 (2026-02-01)](#qmr-kwt-2-2026-02-01)  
 [Astrocast 0.1 (2025-12-01)](#astrocast-2025-12-01)  
 [Innocube (2026-01-14)](#innocube-2026-01-14)  
+
+</td><td valign="top">
+
 [ASRTU-1 (2025-12-19)](#asrtu-1-2025-12-19)  
 [ASRTU-1 (2025-12-18)](#asrtu-1-2025-12-18)  
 [ASRTU-1 (2025-10-30)](#asrtu-1-2025-10-30)  
 [SPIRONE (2025-11-29)](#spirone-2025-11-29)  
 [TUBIN (2025-12-10)](#tubin-2025-12-10)  
-
-</td><td valign="top">
-
 [PIXL-1 (2025-09-03)](#pixl-1-2025-09-03)  
 [PolyITAN-1 (2025-09-01)](#polyitan-1-2025-09-01)  
 [RSP-03 (2025-10-25)](#rsp-03-2025-10-25)  
@@ -49,13 +49,13 @@
 [NUSHSat-1 (2025-05-13)](#nushsat-1-2025-05-13)  
 [Horizon (2025-08-10)](#horizon-rs59s-2025-08-10)  
 [Nightjar (2025-07-17)](#nightjar-2025-07-17)  
+
+</td><td valign="top">
+
 [Radyo Pilipinas World Service (2025-12-01)](#radyo-pilipinas-world-service-2025-12-01)  
 [RTI’s German service (2025-07-26)](#rti-s-german-service-2025-07-26)  
 [NHK World-Japan (2025-03-11)](#nhk-world-japan-2025-03-11)  
 [NHK World-Japan (2025-03-02)](#nhk-world-japan-2025-03-02)  
-
-</td><td valign="top">
-
 [STARS (2025-05-25)](#stars-kukai-daughter-jr5ybo-2025-05-25)  
 [TechnoSat (2025-05-24)](#technosat-dp0tba-2025-05-24)  
 [TIGRISAT (2025-05-23)](#tigrisat-hnatig-2025-05-23)  
