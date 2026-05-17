@@ -56,5 +56,8 @@ rem if %ERRORLEVEL% EQU 0 (
 rem     move /y index.tmp index.html
 rem )
 
+:: 调用build2.bat
+call build2.bat
+
 echo [5/5] 完成：%OUT%
 
