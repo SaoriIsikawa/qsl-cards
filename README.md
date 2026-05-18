@@ -222,10 +222,6 @@
 [![assets/images/2023-05-09_OrbiCraft-Zorkiy.jpg](assets/images/2023-05-09_OrbiCraft-Zorkiy.jpg)](https://db.satnogs.org/satellite/47960)
 
 
-## Waiting for QSL cards from
-- [ ] AISat (2026-02-17) - CW
-
-
 ## 📜 确认图像接收的证书与奖项
 
 <a name="enso-first-game-who-is"></a>
