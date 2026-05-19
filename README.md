@@ -105,6 +105,7 @@
 - [2025-11-04 ~ 2026-02-29 BOTAN APRS 受信証明書](#botan-aprs-shoumeisho)
 - [2026-04-10~14 Expedition 74 - ARISS Series 31 - World Space Commemoration](#ariss-sstv-award-2026-04-10)
 - [2026-02-06~09 92nd Anniversary of LABRE (from RS40S)](#92nd-anniversary-of-labre-2026-02-06)
+- [2026-04-23~26 Scouts Day - Rádio Clube de Pelotas (from RS40S)](#2026-04-26-scouts-day)
 
 ## 📬 ISS QSL 卡
 
@@ -365,6 +366,12 @@
 <a name="92nd-anniversary-of-labre-2026-02-06"></a>
 **2026-02-06~09 92nd Anniversary of LABRE (from RS40S)**  
 ![assets/images/labre_92nd.jpg](assets/images/labre_92nd.jpg)
+
+---
+
+<a name="2026-04-26-scouts-day"></a>
+**2026-04-23~26 Scouts Day - Rádio Clube de Pelotas (from RS40S)**  
+![assets/images/2026-04-26_scouts-day.jpg](assets/images/2026-04-26_scouts-day.jpg)
 
 
 ## ISS QSL 卡
