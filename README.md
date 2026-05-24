@@ -384,9 +384,6 @@
 
 ## ISS QSL 卡
 
----
-
-
 | 📡 QSL Information | 🖼️ QSL Preview |
 | :--- | :--- |
 | <div id="iss-2024-10-13"></div><br><br> **Name:** ISS <br> **Callsign:** `RS0ISS` <br> **Mode:** SSTV <br> **QSL Format:** Paper <br> **SatNOGS DB:** [25544](https://db.satnogs.org/satellite/25544) | [![ISS QSL Card 2024-10-13](assets/images/2024-10-13_iss_sstv.jpg)](https://db.satnogs.org/satellite/25544) |
