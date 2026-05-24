@@ -87,6 +87,8 @@
 - [2025-12-05~13 Russia ISS SSTV Diploma](#russia-iss-sstv-diploma-2025-12-09)
 - [2025-10-03~09 Expedition 73 - ARISS Series 29 - World Space Week 2025](#expedition-73-ariss-series-29-world-space-week-2025-10-03)
 - [2025-07-14~20 Expedition 73 - ARISS Series 28 - Apollo Soyuz and STS-51F](#expedition-73-ariss-series-28-apollo-soyuz-and-sts-51f-2025-07-14)
+- [2026-04-10~14 Expedition 74 - ARISS Series 31 - World Space Commemoration](#ariss-sstv-award-2026-04-10)
+- [2026-05-08~12 Expedition 74 - ARISS Series 32 - Cooperation in Space](#ariss-sstv-award-2026-05-08)
 - [2025-07-14~20 Russia ISS SSTV Diploma](#russia-iss-sstv-diploma-2025-07-15)
 - [2026-05-08~12 Russia ISS SSTV Diploma](#russia-iss-sstv-diploma-2026-05-08)
 - [2024-12-04 SSTV Diploma - Palace of Pioneers](#sstv-diploma-85th-anniversary-of-the-palace-of-pioneers-2024-12-04)
@@ -103,15 +105,15 @@
 - [2026-02-24 Contest "Photo of the Earth from the Horizon satellite"](#contest-horizon-2026-02-24)
 - [2026-04-11 Horizon satellite Cosmonautics Day game](#horizon-satellite-cosmonautics-day-game-2026-04-11)
 - [2025-11-04 ~ 2026-02-29 BOTAN APRS 受信証明書](#botan-aprs-shoumeisho)
-- [2026-04-10~14 Expedition 74 - ARISS Series 31 - World Space Commemoration](#ariss-sstv-award-2026-04-10)
 - [2026-02-06~09 92nd Anniversary of LABRE (from RS40S)](#92nd-anniversary-of-labre-2026-02-06)
 - [2026-04-23~26 Scouts Day - Rádio Clube de Pelotas (from RS40S)](#2026-04-26-scouts-day)
 
 ## 📬 ISS QSL 卡
 
 - [ISS SSTV RS0ISS (2024-10-13)](#iss-2024-10-13)
-- [ISS APRS RS0ISS (2025-08-19)](#iss-2025-08-19)
 - [ISS CW NA1SS (2025-09-04)](#iss-2025-09-04)
+- [ISS APRS RS0ISS 1-way (2025-08-19)](#iss-2025-08-19)
+- [ISS APRS RS0ISS 2-way (2026-02-27)](#iss-2026-02-27)
 
 ## 📡 QSL 卡详情
 
@@ -261,6 +263,18 @@
 
 ---
 
+<a name="ariss-sstv-award-2026-04-10"></a>
+**2026-04-10~14 Expedition 74 - ARISS Series 31 - World Space Commemoration - ARISS SSTV Award**  
+![assets/images/ariss_sstv_award_2026-04-10.jpg](assets/images/ariss_sstv_award_2026-04-10.jpg)
+
+---
+
+<a name="ariss-sstv-award-2026-05-08"></a>
+**2026-05-08~12 Expedition 74 - ARISS Series 32 - Cooperation in Space**  
+![assets/images/ariss_sstv_award_2026-05-08.jpg](assets/images/ariss_sstv_award_2026-05-08.jpg)
+
+---
+
 <a name="russia-iss-sstv-diploma-2025-07-15"></a>
 **2025-07-14~20 Russia ISS SSTV Diploma**  
 ![assets/images/diploma_russia_iss_sstv_2025-07-15.jpg](assets/images/diploma_russia_iss_sstv_2025-07-15.jpg)
@@ -357,12 +371,6 @@
 
 ---
 
-<a name="ariss-sstv-award-2026-04-10"></a>
-**2026-04-10~14 Expedition 74 - ARISS Series 31 - World Space Commemoration - ARISS SSTV Award**  
-![assets/images/ariss_sstv_award_2026-04-10.jpg](assets/images/ariss_sstv_award_2026-04-10.jpg)
-
----
-
 <a name="92nd-anniversary-of-labre-2026-02-06"></a>
 **2026-02-06~09 92nd Anniversary of LABRE (from RS40S)**  
 ![assets/images/labre_92nd.jpg](assets/images/labre_92nd.jpg)
@@ -376,21 +384,15 @@
 
 ## ISS QSL 卡
 
-<a name="iss-2024-10-13"></a>
-**ISS QSL Card SSTV RS0ISS (2024-10-13)**  
-[![assets/images/2024-10-13_iss_sstv.jpg](assets/images/2024-10-13_iss_sstv.jpg)](https://db.satnogs.org/satellite/25544)
-
 ---
 
-<a name="iss-2025-08-19"></a>
-**ISS QSL Card [back] APRS RS0ISS (2025-08-19)**  
-[![assets/images/2025-08-19_iss_aprs.jpg](assets/images/2025-08-19_iss_aprs.jpg)](https://db.satnogs.org/satellite/25544)
 
----
-
-<a name="iss-2025-09-04"></a>
-**ISS QSL Card [back] CW NA1SS (2025-09-04)**  
-[![assets/images/2025-09-04_iss_cw.jpg](assets/images/2025-09-04_iss_cw.jpg)](https://db.satnogs.org/satellite/25544)
+| 📡 QSL Information | 🖼️ QSL Preview |
+| :--- | :--- |
+| <div id="iss-2024-10-13"></div><br><br> **Name:** ISS <br> **Callsign:** `RS0ISS` <br> **Mode:** SSTV <br> **QSL Format:** Paper <br> **SatNOGS DB:** [25544](https://db.satnogs.org/satellite/25544) | [![ISS QSL Card 2024-10-13](assets/images/2024-10-13_iss_sstv.jpg)](https://db.satnogs.org/satellite/25544) |
+| <div id="iss-2025-09-04"></div><br><br> **Name:** ISS <br> **Callsign:** `NA1SS` <br> **Mode:** Repeater CW ID <br> **QSL Format:** Paper <br> **SatNOGS DB:** [25544](https://db.satnogs.org/satellite/25544) | [![ISS QSL Card 2025-09-04](assets/images/2025-09-04_iss_cw.jpg)](https://db.satnogs.org/satellite/25544) |
+| <div id="iss-2025-08-19"></div><br><br> **Name:** ISS <br> **Callsign:** `RS0ISS` <br> **Mode:** APRS 1-way <br> **QSL Format:** Paper <br> **SatNOGS DB:** [25544](https://db.satnogs.org/satellite/25544) | [![ISS QSL Card 2025-08-19](assets/images/2025-08-19_iss_aprs.jpg)](https://db.satnogs.org/satellite/25544) |
+| <div id="iss-2026-02-27"></div><br><br> **Name:** ISS <br> **Callsign:** `RS0ISS` <br> **Mode:** APRS 2-way <br> **QSL Format:** Paper <br> **SatNOGS DB:** [25544](https://db.satnogs.org/satellite/25544) | [![ISS QSL Card 2026-02-27](assets/images/2026-02-27_iss_aprs_2-way.jpg)](https://db.satnogs.org/satellite/25544) |
 
 ---
 ### 脚注内容
