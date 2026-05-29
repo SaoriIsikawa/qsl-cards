@@ -1,4 +1,4 @@
-# 业余无线电台 BG7XTQ 的 QSL 收藏
+# 业余无线电台 BG7XTQ 的 QSL 卡收藏
 
 ## 📬 QSL 卡目录
 <table>

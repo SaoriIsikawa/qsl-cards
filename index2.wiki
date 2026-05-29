@@ -1,0 +1,121 @@
+= 业余无线电台 BG7XTQ 的 QSL 卡收藏 =
+
+== 📬 QSL 卡 ==
+
+*B100IARU (2025-05-06) - Voice Repeater - SWL via PO-101 (Paper)*
+
+[[http://www.crac.org.cn/News/Detail?ID=8b9f46aba3384686bbe24ee2e627ee5e|{{assets/images/2025-05-06_b100iaru.jpg}}]]
+
+----
+
+*BA8AFK (2025-11-09) - FM (paper)*
+(BA8AFK confirmed my SWL via SO-124)
+
+{{assets/images/2025-11-09_ba8afk_2.jpg}}
+
+----
+
+*BA8AFK (2025-11-09) - FM (paper)*
+(BA8AFK confirmed my SWL via SO-124)
+
+{{assets/images/2025-11-09_ba8afk.jpg}}
+
+----
+
+*BG7RUF (2026-02-09) - FM (digital)*
+(BG7RUF confirmed my QSO via SO-125)
+
+{{assets/images/2026-02-09_bg7ruf_so-125.jpg}}
+
+----
+
+*VORW Radio International. (2025-12-04) - AM (digital)*
+
+{{assets/images/2025-12-04_VORW.jpg}}
+
+----
+
+*VORW Radio International. (2025-11-13) - AM (digital)*
+
+{{assets/images/2025-11-13_VORW.jpg}}
+
+----
+
+*VORW Radio International. (2025-11-06) - AM (digital)*
+
+{{assets/images/2025-11-06_VORW.jpg}}
+
+----
+
+*Diwata-2 (PO-101) (2024-11-25) - FM (digital)*
+(Philippine Space Agency confirmed my QSO with BG7QOA)
+
+{{assets/images/2024-12-25_Diwata-2.jpg}}
+
+----
+
+*Texas Radio Shortwave (2025-10-31) - AM - Program: 2025 Texas Halloween Music (digital)*
+
+{{assets/images/2025-10-31_TRSW_Halloween.jpg}}
+
+----
+
+*Texas Radio Shortwave (2025-10-08) - AM - Program: Music of B.J. Thomas (digital)*
+
+{{assets/images/2025_10_08_TRSW.jpg}}
+
+----
+
+*Texas Radio Shortwave (2025-08-03) - AM - Program: Music of Bobby Fuller Four (digital)*
+
+{{assets/images/2025_08_03_TRSW_Bobby_Fuller_Four.jpg}}
+
+----
+
+*Texas Radio Shortwave (2025-07-04) - AM - Program: Music of Albert Collins (digital)*
+
+{{assets/images/2025_07_04_TRSW_Albert_Collins.jpg}}
+
+----
+
+*SAQ (2025-12-24) - CW - Christmas Eve Morning Transmission, December 24th 2025 event (digital)*
+
+{{assets/images/2025-12-24_saq.jpg}}
+
+----
+
+*SAQ (2025-10-24) - CW - UN-Day Oct 24th, 2025 Event (digital)*
+
+[[https://alexander.n.se/en/saq-scheduled-to-air-on-un-day-oct-24th-2025/|{{assets/images/2025-10-24_saq.jpg}}]]
+
+----
+
+*SAQ 100 Year Anniversary Transmissions (2025-07-02) - CW (digital)*
+
+[[https://alexander.n.se/celebrate-100-years-with-saq-grimeton/|{{assets/images/2025_07_02_saq.jpg}}]]
+
+----
+
+*Texas Radio Shortwave (2025-06-06) - AM - Program: Music of Kris Kristofferson (digital)*
+
+{{assets/images/2025_06_06_TRSW_Kris_Kristofferson.jpg}}
+
+----
+
+*BPM (2025-03-07) 15MHz - AM (paper)*
+
+{{assets/images/2025_03_07_BPM.jpg}}
+
+----
+
+*XSG (2025-02-13) - CW - Special Event "120 Years of XSG: Special World Radio Day" (paper)*
+
+{{assets/images/2025_02_13_XSG.jpg}}
+
+----
+
+*Diwata-2 (PO-101) (2025-05-06) - QSO as SWL (digital) [Time (UTC): 10:05:00AM (!)]*
+
+[[https://db.satnogs.org/satellite/43678|{{assets/images/2025-05-06_diwata-2.jpg}}]]
+
+
