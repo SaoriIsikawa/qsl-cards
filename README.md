@@ -1,6 +1,6 @@
 # 业余无线电台 BG7XTQ 的 QSL 卡收藏
 
-## 📬 QSL 卡目录
+## 📬 快速导航
 <table>
 <tr><td valign="top">
 
@@ -52,10 +52,6 @@
 
 </td><td valign="top">
 
-[Radyo Pilipinas World Service (2025-12-01)](#radyo-pilipinas-world-service-2025-12-01)  
-[RTI’s German service (2025-07-26)](#rti-s-german-service-2025-07-26)  
-[NHK World-Japan (2025-03-11)](#nhk-world-japan-2025-03-11)  
-[NHK World-Japan (2025-03-02)](#nhk-world-japan-2025-03-02)  
 [STARS (2025-05-25)](#stars-kukai-daughter-jr5ybo-2025-05-25)  
 [TechnoSat (2025-05-24)](#technosat-dp0tba-2025-05-24)  
 [TIGRISAT (2025-05-23)](#tigrisat-hnatig-2025-05-23)  
@@ -162,10 +158,6 @@
 | <div id="nushsat-1-2025-05-13"></div><br><br> **Name:** NUSHSat-1 <br> **Mode:** 1k2 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [63211](https://db.satnogs.org/satellite/63211) | [![NUSHSat-1 QSL Card 2025-05-13](assets/images/2025_05_13_NUSHSat-1.jpg)](https://db.satnogs.org/satellite/63211) |
 | <div id="horizon-rs59s-2025-08-10"></div><br><br> **Name:** Horizon <br> **Callsign:** `RS59S` <br> **Mode:** 9k6 Image Data <br> **QSL Format:** Digital <br> **SatNOGS DB:** [61757](https://db.satnogs.org/satellite/61757) | [![Horizon QSL Card 2025-08-10](assets/images/2025_08_10_Horizon_RS59S.jpg)](https://db.satnogs.org/satellite/61757) |
 | <div id="nightjar-2025-07-17"></div><br><br> **Name:** Nightjar, 夜鷹號 <br> **Callsign:** `XX0UHF` <br> **Mode:** 4k8 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [60535](https://db.satnogs.org/satellite/60535) | [![Nightjar QSL Card 2025-07-17](assets/images/2025-07-17_nightjar.jpg)](https://db.satnogs.org/satellite/60535) |
-| <div id="radyo-pilipinas-world-service-2025-12-01"></div><br><br> **Name:** Radyo Pilipinas World Service <br> **Mode:** AM <br> **QSL Format:** Digital | [![Radyo Pilipinas World Service QSL Card 2025-03-02](assets/images/2025-12-01_Radyo_Pilipinas_World_Service.jpg)](2025-12-02_Radyo_Pilipinas_World_Service.m4a) |
-| <div id="rti-s-german-service-2025-07-26"></div><br><br> **Name:** RTI’s German service <br> **Mode:** AM <br> **QSL Format:** Paper | [![RTI’s German service QSL Card 2025-03-02](assets/images/2025-07-26_RTI-DE.jpg)](https://www.rti.org.tw/de/information?uid=15&pid=731) |
-| <div id="nhk-world-japan-2025-03-11"></div><br><br> **Name:** NHK World-Japan <br> **Mode:** AM <br> **QSL Format:** Paper | [![NHK World-Japan QSL Card 2025-03-11](assets/images/2025-03-11_nhk_world-japan.jpg)](assets/images/2025-03-11_nhk_world-japan.jpg) |
-| <div id="nhk-world-japan-2025-03-02"></div><br><br> **Name:** NHK World-Japan <br> **Mode:** AM <br> **QSL Format:** Paper | [![NHK World-Japan QSL Card 2025-03-02](assets/images/2025-03-02_nhk_world-japan.jpg)](assets/images/2025-03-02_nhk_world-japan.jpg) |
 | <div id="stars-kukai-daughter-jr5ybo-2025-05-25"></div><br><br> **Name:** STARS KUKAI: Daughter (子) <br> **Callsign:** `JR5YBO` <br> **Mode:** CW <br> **QSL Format:** Digital <br> **SatNOGS DB:** [33498](https://db.satnogs.org/satellite/33498) | [![STARS KUKAI: Daughter (子) QSL Card 2025-05-25](assets/images/2025-05-25_STARS_KUKAI_daughter.jpg)](https://db.satnogs.org/satellite/33498) |
 | <div id="technosat-dp0tba-2025-05-24"></div><br><br> **Name:** TechnoSat <br> **Callsign:** `DP0TBA` <br> **Mode:** CW[^technosat] <br> **QSL Format:** Digital <br> **SatNOGS DB:** [42829](https://db.satnogs.org/satellite/42829) | [![TechnoSat QSL Card 2025-05-24](assets/images/2025_05_24_TechnoSat_DP0TBA.jpg)](https://db.satnogs.org/satellite/42829) |
 | <div id="tigrisat-hnatig-2025-05-23"></div><br><br> **Name:** TIGRISAT <br> **Callsign:** `HNATIG` <br> **Mode:** 9k6 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [40043](https://db.satnogs.org/satellite/40043) | [![TIGRISAT QSL Card 2025-05-23](assets/images/2025_05_23_TIGRISAT_HNATIG.jpg)](https://db.satnogs.org/satellite/40043) |

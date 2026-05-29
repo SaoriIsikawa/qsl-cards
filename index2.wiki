@@ -7,9 +7,12 @@
 [[#b100iaru|B100IARU]] |
 [[#ba8afk|BA8AFK]] |
 [[#bg7ruf|BG7RUF]] |
-[[#diwata2-sat|Diwata-2(卫星)]] |
+[[#diwata2|Diwata-2]] |
+[[#dzrp|DZRP]] |
+[[#rti|RTI]] |
+[[#nhk|NHK]] |
 [[#vorw|VORW]] |
-[[#trsw|Texas Radio]] |
+[[#trsw|TRSW]] |
 [[#saq|SAQ]] |
 [[#bpm|BPM]] |
 [[#xsg|XSG]]
@@ -30,12 +33,27 @@
 *BG7RUF (2026-02-09) - FM (digital)* (BG7RUF confirmed my QSO via SO-125)
 {{assets/images/2026-02-09_bg7ruf_so-125.jpg}}
 ----
-<div id="diwata2-sat"></div>
+<div id="diwata2"></div>
 *Diwata-2 (PO-101) (2025-05-06) - QSO as SWL (digital) [Time (UTC): 10:05:00AM (!)]*
 [[https://db.satnogs.org/satellite/43678|{{assets/images/2025-05-06_diwata-2.jpg}}]]
 
 == 短波 AM 广播 QSL 卡 ==
 
+<div id="dzrp"></div>
+*Radyo Pilipinas World Service (2025-12-01) - AM (digital)*
+[[2025-12-02_Radyo_Pilipinas_World_Service.m4a|{{assets/images/2025-12-01_Radyo_Pilipinas_World_Service.jpg}}]]
+----
+<div id="rti"></div>
+*RTI's German Service (2025-07-26) - AM (paper)*
+[[https://www.rti.org.tw/de/information?uid=15&pid=731|{{assets/images/2025-07-26_RTI-DE.jpg}}]]
+----
+<div id="nhk"></div>
+*NHK World-Japan (2025-03-02) - AM (paper)*
+[[assets/images/2025-03-02_nhk_world-japan.jpg|{{assets/images/2025-03-02_nhk_world-japan.jpg}}]]
+----
+*NHK World-Japan (2025-03-11) - AM (paper)*
+[[assets/images/2025-03-11_nhk_world-japan.jpg|{{assets/images/2025-03-11_nhk_world-japan.jpg}}]]
+----
 <div id="vorw"></div>
 *VORW Radio International. (2025-12-04) - AM (digital)*
 {{assets/images/2025-12-04_VORW.jpg}}
