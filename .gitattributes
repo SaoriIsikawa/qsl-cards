@@ -1,5 +1,6 @@
 *.md text eol=crlf
-*.html text eol=crlf
+index.html text eol=crlf
+index2.html text eol=lf
 *.bat text eol=crlf
 *.wiki text eol=crlf
 *.sh text eol=lf
