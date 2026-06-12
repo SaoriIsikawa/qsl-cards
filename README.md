@@ -5,7 +5,6 @@
 <tr><td valign="top">
 
 [PARUS-6U1 (2026-04-01)](#parus-6u1-2026-04-01)  
-[HAARP (2025-11-21)](#haarp-2025-11-21)  
 [SONATE-2 (2026-03-08)](#sonate-2-2026-03-08)  
 [CubeBug-2 (2026-03-22)](#cubebug-2-2026-03-22)  
 [LilacSat-2 (2025-05-16)](#lilacsat-2-2025-05-16)  
@@ -101,8 +100,8 @@
 - [2026-02-24 Contest "Photo of the Earth from the Horizon satellite"](#contest-horizon-2026-02-24)
 - [2026-04-11 Horizon satellite Cosmonautics Day game](#horizon-satellite-cosmonautics-day-game-2026-04-11)
 - [2025-11-04 ~ 2026-02-29 BOTAN APRS 受信証明書](#botan-aprs-shoumeisho)
-- [2026-02-06~09 92nd Anniversary of LABRE (from RS40S)](#92nd-anniversary-of-labre-2026-02-06)
-- [2026-04-23~26 Scouts Day - Rádio Clube de Pelotas (from RS40S)](#2026-04-26-scouts-day)
+- [2026-02-06~09 RS40S 92nd Anniversary of LABRE](#92nd-anniversary-of-labre-2026-02-06)
+- [2026-04-23~26 RS40S Scouts Day Special Event in SSTV](#2026-04-26-scouts-day)
 
 ## 📬 ISS QSL 卡
 
@@ -116,7 +115,6 @@
 | 📡 QSL Information | 🖼️ QSL Preview |
 | :--- | :--- |
 | <div id="parus-6u1-2026-04-01"></div><br><br> **Name:** PARUS-6U1 <br> **Callsign:** `BN0TIT` <br> **Mode:** 9k6 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [68456](https://db.satnogs.org/satellite/68456) | [![PARUS-6U1 QSL Card 2026-04-01](assets/images/2026-04-01_parus-6u1.jpg)](https://db.satnogs.org/satellite/68456) |
-| <div id="haarp-2025-11-21"></div><br><br> **Name:** HAARP <br> **Mode:** AM[^haarp] <br> **QSL Format:** Paper | ![HAARP QSL Card 2025-11-21](assets/images/2025-11-21_haarp.jpg) |
 | <div id="sonate-2-2026-03-08"></div><br><br> **Name:** SONATE-2 <br> **Callsign:** `DP0SNX` <br> **Mode:** SSTV Martin M1 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [59112](https://db.satnogs.org/satellite/59112) | [![SONATE-2 QSL Card 2026-03-08](assets/images/2026-03-08_sonate-2.jpg)](https://db.satnogs.org/satellite/59112) |
 | <div id="cubebug-2-2026-03-22"></div><br><br> **Name:** CubeBug-2 <br> **Callsign:** `CUBEB2` <br> **Mode:** 1k2 AFSK <br> **QSL Format:** Digital <br> **SatNOGS DB:** [39440](https://db.satnogs.org/satellite/39440) | [![CubeBug-2 QSL Card 2026-03-22](assets/images/2026-03-22_cubebug-2.jpg)](https://db.satnogs.org/satellite/39440) |
 | <div id="lilacsat-2-2025-05-16"></div><br><br> **Name:** LilacSat-2, CAS-3H, <br> &nbsp;&nbsp;紫丁香2号 <br> **Callsign:** `BJ1SI` <br> **Mode:** 4k8 <br> **QSL Format:** Paper <br> **SatNOGS DB:** [40908](https://db.satnogs.org/satellite/40908) | ![LilacSat-2 QSL Card](assets/images/2025-05-16_lilacsat-2.jpg) |
@@ -364,13 +362,13 @@
 ---
 
 <a name="92nd-anniversary-of-labre-2026-02-06"></a>
-**2026-02-06~09 92nd Anniversary of LABRE (from RS40S)**  
+**2026-02-06~09 RS40S 92nd Anniversary of LABRE**  
 ![assets/images/labre_92nd.jpg](assets/images/labre_92nd.jpg)
 
 ---
 
 <a name="2026-04-26-scouts-day"></a>
-**2026-04-23~26 Scouts Day - Rádio Clube de Pelotas (from RS40S)**  
+**2026-04-23~26 RS40S Scouts Day Special Event in SSTV**  
 ![assets/images/2026-04-26_scouts-day.jpg](assets/images/2026-04-26_scouts-day.jpg)
 
 
@@ -386,7 +384,6 @@
 ---
 ### 脚注内容
 
-[^haarp]: I use WebSDR.
 [^hana]: I see HANA's singal but not decoded.
 [^itupsat]: CW in FM.
 [^polyitan]: I received text message "CQ de EM0UKPI QSL via UT4UZB k".

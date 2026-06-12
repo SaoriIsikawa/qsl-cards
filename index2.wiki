@@ -8,6 +8,7 @@
 [[#ba8afk|BA8AFK]] |
 [[#bg7ruf|BG7RUF]] |
 [[#diwata2|Diwata-2]] |
+[[#haarp|haarp]] |
 [[#dzrp|DZRP]] |
 [[#rti|RTI]] |
 [[#nhk|NHK]] |
@@ -39,6 +40,10 @@
 
 == 短波 AM 广播 QSL 卡 ==
 
+<div id="haarp"></div>
+*HAARP (2025-11-21) - AM (paper)*
+[[assets/images/2025-11-21_haarp.jpg|{{assets/images/2025-11-21_haarp.jpg}}]]
+----
 <div id="dzrp"></div>
 *Radyo Pilipinas World Service (2025-12-01) - AM (digital)*
 [[2025-12-02_Radyo_Pilipinas_World_Service.m4a|{{assets/images/2025-12-01_Radyo_Pilipinas_World_Service.jpg}}]]
