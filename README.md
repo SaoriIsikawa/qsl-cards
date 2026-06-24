@@ -102,6 +102,7 @@
 - [2025-11-04 ~ 2026-02-29 BOTAN APRS 受信証明書](#botan-aprs-shoumeisho)
 - [2026-02-06~09 RS40S 92nd Anniversary of LABRE](#92nd-anniversary-of-labre-2026-02-06)
 - [2026-04-23~26 RS40S Scouts Day Special Event in SSTV](#2026-04-26-scouts-day)
+- [2026-06-19~21 RS40S White Radio Night's 2026](#2026-06-21-white-radio-nights-2026)
 
 ## 📬 ISS QSL 卡
 
@@ -370,6 +371,12 @@
 <a name="2026-04-26-scouts-day"></a>
 **2026-04-23~26 RS40S Scouts Day Special Event in SSTV**  
 ![assets/images/2026-04-26_scouts-day.jpg](assets/images/2026-04-26_scouts-day.jpg)
+
+---
+
+<a name="2026-06-21-white-radio-nights-2026"></a>
+**2026-06-19~21 RS40S White Radio Night's 2026**  
+![assets/images/white_radio_nights_2026.jpg](assets/images/white_radio_nights_2026.jpg)
 
 
 ## ISS QSL 卡
