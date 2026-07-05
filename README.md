@@ -116,7 +116,7 @@
 
 | 📡 QSL Information | 🖼️ QSL Preview |
 | :--- | :--- |
-| <div id="bee-1000-2025-12-09"></div><br><br> **Name:** BEE-1000 <br> **Mode:** 4k8 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [98493](https://db.satnogs.org/satellite/98493) | [![BEE-1000 QSL Card 2025-12-09](assets/images/2025-12-09_bee-1000.jpg)](https://db.satnogs.org/satellite/98493) |
+| <div id="bee-1000-2025-12-09"></div><br><br> **Name:** BEE-1000 <br> **Mode:** 4k8 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [66650](https://db.satnogs.org/satellite/98493) | [![BEE-1000 QSL Card 2025-12-09](assets/images/2025-12-09_bee-1000.jpg)](https://db.satnogs.org/satellite/98493) |
 | <div id="parus-6u1-2026-04-01"></div><br><br> **Name:** PARUS-6U1 <br> **Callsign:** `BN0TIT` <br> **Mode:** 9k6 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [68456](https://db.satnogs.org/satellite/68456) | [![PARUS-6U1 QSL Card 2026-04-01](assets/images/2026-04-01_parus-6u1.jpg)](https://db.satnogs.org/satellite/68456) |
 | <div id="sonate-2-2026-03-08"></div><br><br> **Name:** SONATE-2 <br> **Callsign:** `DP0SNX` <br> **Mode:** SSTV Martin M1 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [59112](https://db.satnogs.org/satellite/59112) | [![SONATE-2 QSL Card 2026-03-08](assets/images/2026-03-08_sonate-2.jpg)](https://db.satnogs.org/satellite/59112) |
 | <div id="cubebug-2-2026-03-22"></div><br><br> **Name:** CubeBug-2 <br> **Callsign:** `CUBEB2` <br> **Mode:** 1k2 AFSK <br> **QSL Format:** Digital <br> **SatNOGS DB:** [39440](https://db.satnogs.org/satellite/39440) | [![CubeBug-2 QSL Card 2026-03-22](assets/images/2026-03-22_cubebug-2.jpg)](https://db.satnogs.org/satellite/39440) |
