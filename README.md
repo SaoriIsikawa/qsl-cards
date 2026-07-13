@@ -50,6 +50,7 @@
 [ITUpSAT1 (2025-05-20)](#itupsat-1-2025-05-20)  
 [SNUGLITE-I (2025-08-22)](#snuglite-i-2025-08-22)  
 [LASARsat (2026-03-24)](#lasarsat-2026-03-24)  
+[LASARsat (2025-05-18)](#lasarsat-2025-05-18)  
 
 </td><td valign="top">
 
@@ -69,7 +70,8 @@
 [Diwata-2 (2024-11-18)](#diwata-2-po-101-2024-11-18)  
 [SamSat-Ionosphere (2025-05-11)](#samsat-ionosphere-rs75s-2025-05-11)  
 [SamSat-Ionosphere (2025-04-10)](#samsat-ionosphere-rs75s-2025-04-10)  
-[CroCube (2025-04-10)](#crocube-9a0cc-2025-04-10)  
+[CroCube (2026-03-31)](#crocube-2026-03-31)  
+[CroCube (2025-04-10)](#crocube-2025-04-10)  
 [ArcticSat-1 (2025-04-01)](#arcticsat-1-rs74s-2025-04-01)  
 [YOMOGI (2024-12-10)](#yomogi-js1ymx-2024-12-10)  
 [UmKA-1 (2025-03-01)](#umka-1-rs40s-2025-03-01)  
@@ -165,6 +167,7 @@
 | <div id="itupsat-1-2025-05-20"></div><br><br> **Name:** ITUpSAT1 <br> **Callsign:** `ITUPSAT` <br> **Mode:** CW[^itupsat] <br> **QSL Format:** Digital <br> **SatNOGS DB:** [35935](https://db.satnogs.org/satellite/35935) <br>[🔝 Back to Index](#top) | [![ITUpSAT1 QSL Card 2025-05-20](assets/images/itupsat1.jpg)](https://db.satnogs.org/satellite/35935)  |
 | <div id="snuglite-i-2025-08-22"></div><br><br> **Name:** SNUGLITE-I <br> **Mode:** 9k6 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [43784](https://db.satnogs.org/satellite/43784) <br>[🔝 Back to Index](#top) | [![SNUGLITE-I QSL Card 2025-08-22](assets/images/2025_08_22_snuglite-i.jpg)](https://db.satnogs.org/satellite/43784)  |
 | <div id="lasarsat-2026-03-24"></div><br><br> **Name:** LASARsat <br> **Callsign:** `OK0LSR` <br> **Mode:** 9k6 <br> **QSL Format:** Digital <br> **Frequency:** ~~436.254~~ 436.925 MHz <br> **SatNOGS DB:** [62391](https://db.satnogs.org/satellite/62391) <br>[🔝 Back to Index](#top) | [![LASARsat QSL Card 2026-03-24](assets/images/2026-03-24_lasarsat.jpg)](https://db.satnogs.org/satellite/62391)  |
+| <div id="lasarsat-2025-05-18"></div><br><br> **Name:** LASARsat <br> **Callsign:** `OK0LSR` <br> **Mode:** 9k6 <br> **QSL Format:** Digital <br> **Frequency:** 436.925 MHz <br> **SatNOGS DB:** [62391](https://db.satnogs.org/satellite/62391) <br>[🔝 Back to Index](#top) | [![LASARsat QSL Card 2025-05-18](assets/images/2025-05-18_lasarsat.jpg)](https://db.satnogs.org/satellite/62391)  |
 | <div id="lasarsat-2025-04-08"></div><br><br> **Name:** LASARsat <br> **Callsign:** `OK0LSR` <br> **Mode:** CW <br> **QSL Format:** Digital <br> **SatNOGS DB:** [62391](https://db.satnogs.org/satellite/62391) <br>[🔝 Back to Index](#top) | [![LASARsat QSL Card 2025-04-08](assets/images/2025-04-08_lasarsat.jpg)](https://db.satnogs.org/satellite/62391)  |
 | <div id="utmn-2-rs27s-2025-06-04"></div><br><br> **Name:** UTMN-2, ТюмГУ <br> **Callsign:** `RS27S` <br> **Mode:** USP 9k6 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [57203](https://db.satnogs.org/satellite/57203) <br>[🔝 Back to Index](#top) | [![UTMN-2 QSL Card 2025-06-04](assets/images/2025_06_04_UTMN-2_RS27S.jpg)](https://db.satnogs.org/satellite/57203)  |
 | <div id="nushsat-1-2025-05-13"></div><br><br> **Name:** NUSHSat-1 <br> **Mode:** 1k2 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [63211](https://db.satnogs.org/satellite/63211) <br>[🔝 Back to Index](#top) | [![NUSHSat-1 QSL Card 2025-05-13](assets/images/2025_05_13_NUSHSat-1.jpg)](https://db.satnogs.org/satellite/63211)  |
@@ -180,7 +183,8 @@
 | <div id="robusta-3a-fx6frd-2025-05-13"></div><br><br> **Name:** ROBUSTA-3A <br> **Callsign:** `FX6FRD` <br> **Mode:** 9k6 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [60243](https://db.satnogs.org/satellite/60243) <br>[🔝 Back to Index](#top) | [![ROBUSTA-3A QSL Card 2025-05-13](assets/images/2025-05-13_ROBUSTA-3A_FX6FRD.jpg)](https://db.satnogs.org/satellite/60243)  |
 | <div id="samsat-ionosphere-rs75s-2025-05-11"></div><br><br> **Name:** SamSat-Ionosphere <br> **Callsign:** `RS75S` <br> **Mode:** 1k2 FSK <br> **Event:** Victory Day <br> **QSL Format:** Digital <br> **SatNOGS DB:** [61784](https://db.satnogs.org/satellite/61784) <br>[🔝 Back to Index](#top) | [![SamSat-Ionosphere QSL Card 2025-05-11](assets/images/2025-05-11_RS75S.jpg)](https://db.satnogs.org/satellite/61784)  |
 | <div id="samsat-ionosphere-rs75s-2025-04-10"></div><br><br> **Name:** SamSat-Ionosphere <br> **Callsign:** `RS75S` <br> **Mode:** 1k2 FSK <br> **Event:** Gagarin's Day <br> **QSL Format:** Digital <br> **SatNOGS DB:** [61784](https://db.satnogs.org/satellite/61784) <br>[🔝 Back to Index](#top) | [![SamSat-Ionosphere QSL Card 2025-04-10](assets/images/2025-04-10_RS75S.jpg)](https://db.satnogs.org/satellite/61784)  |
-| <div id="crocube-9a0cc-2025-04-10"></div><br><br> **Name:** CroCube <br> **Callsign:** `9A0CC` <br> **Mode:** 9k6 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [62394](https://db.satnogs.org/satellite/62394) <br>[🔝 Back to Index](#top) | [![CroCube QSL Card 2025-04-10](assets/images/2025_04_10_CroCube_9A0CC.jpg)](https://db.satnogs.org/satellite/62394)  |
+| <div id="crocube-2026-03-31"></div><br><br> **Name:** CroCube <br> **Callsign:** `9A0CC` <br> **Mode:** 9k6 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [62394](https://db.satnogs.org/satellite/62394) <br>[🔝 Back to Index](#top) | [![CroCube QSL Card 2026-03-31](assets/images/2026-03-31_crocube.jpg)](https://db.satnogs.org/satellite/62394)  |
+| <div id="crocube-2025-04-10"></div><br><br> **Name:** CroCube <br> **Callsign:** `9A0CC` <br> **Mode:** 9k6 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [62394](https://db.satnogs.org/satellite/62394) <br>[🔝 Back to Index](#top) | [![CroCube QSL Card 2025-04-10](assets/images/2025-04-10_crocube.jpg)](https://db.satnogs.org/satellite/62394)  |
 | <div id="arcticsat-1-rs74s-2025-04-01"></div><br><br> **Name:** ArcticSat-1 <br> **Callsign:** `RS74S` <br> **Mode:** SSTV Robot36 <br> **Event:** 1st of April Event <br> **QSL Format:** Digital <br> **SatNOGS DB:** [61762](https://db.satnogs.org/satellite/61762) <br>[🔝 Back to Index](#top) | [![ArcticSat-1 QSL Card 2025-04-01](assets/images/2025-04-01_ArcticSat-1_RS74S.jpg)](https://db.satnogs.org/satellite/61762)  |
 | <div id="yomogi-js1ymx-2024-12-10"></div><br><br> **Name:** YOMOGI <br> **Callsign:** `JS1YMX` <br> **Mode:** CW <br> **QSL Format:** Digital <br> **SatNOGS DB:** [62298](https://db.satnogs.org/satellite/62298) <br>[🔝 Back to Index](#top) | [![名称 QSL Card 2024-12-10](assets/images/2024-12-10_YOMOGI_JS1YMX.jpg)](https://db.satnogs.org/satellite/62298)  |
 
