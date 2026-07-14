@@ -83,7 +83,7 @@
 
 </td></tr></table>
 
-## 📜 证书与奖项
+## 📃 证书与奖项
 
 - [2025-08-11~25 ENSO First Game](#enso-first-game-who-is)
 - [OrbiCraft-Zorkiy Farewell Diploma](#rs15s-orbicraft-zorkiy-farewell-diploma)
@@ -122,7 +122,7 @@
 
 ## 📡 QSL 卡详情
 
-| ℹ️ QSL Information | 🖼️ QSL Preview |
+| 📋 QSL Information | 🖼️ QSL Preview |
 | :--- | :--- |
 | <div id="grbbeta-2026-03-31"></div><br><br> **Name:** GRBBeta <br> **Callsign:** `HA2GRB` <br> **Mode:** 9k6 (SWL only) <br> **QSL Format:** Digital <br> **SatNOGS DB:** [60237](https://db.satnogs.org/satellite/60237) <br>[🔝 Back to Index](#top) | [![GRBBeta QSL Card 2026-03-31](assets/images/2026-03-31_grbbeta.jpg)](https://db.satnogs.org/satellite/60237)  |
 | <div id="marina-9k6-2026-07-10"></div><br><br> **Name:** Marina <br> **Callsign:** `OM9MAR` <br> **Mode:** 9k6 (SWL only) <br> **QSL Format:** Digital <br> **SatNOGS DB:** [98293](https://db.satnogs.org/satellite/98293) <br>[🔝 Back to Index](#top) | [![MARINA QSL Card 2026-07-10](assets/images/2026-07-10_marina_9k6.jpg)](https://db.satnogs.org/satellite/98293)  |
