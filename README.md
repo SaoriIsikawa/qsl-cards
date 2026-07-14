@@ -1,7 +1,7 @@
 # 业余无线电台 BG7XTQ 的 QSL 卡收藏
 <a id="top"></a>
 
-## 📬 快速导航
+## 📖 快速导航
 <table>
 <tr><td valign="top">
 
@@ -113,7 +113,7 @@
 - [2026-04-23~26 RS40S Scouts Day Special Event in SSTV](#2026-04-26-scouts-day)
 - [2026-06-19~21 RS40S White Radio Night's 2026](#2026-06-21-white-radio-nights-2026)
 
-## 📬 ISS QSL 卡
+## 🛰️ ISS QSL 卡
 
 - [ISS SSTV RS0ISS (2024-10-13)](#iss-2024-10-13)
 - [ISS CW NA1SS (2025-09-04)](#iss-2025-09-04)
@@ -122,7 +122,7 @@
 
 ## 📡 QSL 卡详情
 
-| 📡 QSL Information | 🖼️ QSL Preview |
+| ℹ️ QSL Information | 🖼️ QSL Preview |
 | :--- | :--- |
 | <div id="grbbeta-2026-03-31"></div><br><br> **Name:** GRBBeta <br> **Callsign:** `HA2GRB` <br> **Mode:** 9k6 (SWL only) <br> **QSL Format:** Digital <br> **SatNOGS DB:** [60237](https://db.satnogs.org/satellite/60237) <br>[🔝 Back to Index](#top) | [![GRBBeta QSL Card 2026-03-31](assets/images/2026-03-31_grbbeta.jpg)](https://db.satnogs.org/satellite/60237)  |
 | <div id="marina-9k6-2026-07-10"></div><br><br> **Name:** Marina <br> **Callsign:** `OM9MAR` <br> **Mode:** 9k6 (SWL only) <br> **QSL Format:** Digital <br> **SatNOGS DB:** [98293](https://db.satnogs.org/satellite/98293) <br>[🔝 Back to Index](#top) | [![MARINA QSL Card 2026-07-10](assets/images/2026-07-10_marina_9k6.jpg)](https://db.satnogs.org/satellite/98293)  |
@@ -154,10 +154,10 @@
 | <div id="asrtu-1-2025-10-30"></div><br><br> **Name:** ASRTU-1, AO-123, <br> &nbsp;&nbsp;阿斯图友谊号 <br> **Callsign:** `RS64S` `BJ2CR` <br> **Mode:** USB <br> &nbsp;&nbsp;BPSK 9k6 SSDV <br> **QSL Format:** Paper <br> **SatNOGS DB:** [61781](https://db.satnogs.org/satellite/61781) <br>[🔝 Back to Index](#top) | [![ASRTU-1 QSL Card 2025-10-30](assets/images/2025-10-30_asrtu-1.jpg)](https://db.satnogs.org/satellite/61781)  |
 | <div id="spirone-2025-11-29"></div><br><br> **Name:** SPIRONE <br> **Callsign:** `6K0FX` <br> **Mode:** 9k6 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [98492](https://db.satnogs.org/satellite/98492) <br>[🔝 Back to Index](#top) | [![SPIRONE QSL Card 2025-11-29](assets/images/2025-11-29_spirone.jpg)](https://db.satnogs.org/satellite/98492)  |
 | <div id="tubin-2025-12-10"></div><br><br> **Name:** TUBIN, TUBSAT-27 <br> **Callsign:** `DP0TBN` <br> **Mode:** 4k8 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [48900](https://db.satnogs.org/satellite/48900) <br>[🔝 Back to Index](#top) | [![TUBIN QSL Card 2025-12-10](assets/images/2025-12-10_tubin.jpg)](https://db.satnogs.org/satellite/48900)  |
-| <div id="tubin-2025-12-10"></div><br><br> **Name:** TUBIN, TUBSAT-27 <br> **Callsign:** `DP0TBN` <br> **Mode:** 4k8 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [48900](https://db.satnogs.org/satellite/48900) <br>[🔝 Back to Index](#top) | [![TUBIN QSL Card 2025-12-10](assets/images/2025-12-10_tubin_2.jpg)](https://db.satnogs.org/satellite/48900)  |
-| <div id="pixl-1-2025-09-03"></div><br><br> **Name:** PIXL-1, CUBEL <br> **Callsign:**  <br>  **Frequency:** 400.575 MHz <br> **Mode:** 9k6 <br> [commercial] <br> **QSL Format:** Digital <br> **SatNOGS DB:** [47448](https://db.satnogs.org/satellite/47448) <br>[🔝 Back to Index](#top) | [![PIXL-1 QSL Card 2025-09-03](assets/images/2025-09-03_pixl-1.jpg)](https://db.satnogs.org/satellite/47448)  |
+| <div id="tubin-2025-12-10-2"></div><br><br> **Name:** TUBIN, TUBSAT-27 <br> **Callsign:** `DP0TBN` <br> **Mode:** 4k8 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [48900](https://db.satnogs.org/satellite/48900) <br>[🔝 Back to Index](#top) | [![TUBIN QSL Card 2025-12-10](assets/images/2025-12-10_tubin_2.jpg)](https://db.satnogs.org/satellite/48900)  |
+| <div id="pixl-1-2025-09-03"></div><br><br> **Name:** PIXL-1, CUBEL <br>  **Frequency:** 400.575 MHz <br> **Mode:** 9k6 <br> [commercial] <br> **QSL Format:** Digital <br> **SatNOGS DB:** [47448](https://db.satnogs.org/satellite/47448) <br>[🔝 Back to Index](#top) | [![PIXL-1 QSL Card 2025-09-03](assets/images/2025-09-03_pixl-1.jpg)](https://db.satnogs.org/satellite/47448)  |
 | <div id="polyitan-1-2025-09-01"></div><br><br> **Name:** PolyITAN-1 <br> **Callsign:** `EM0UKP` <br> **Mode:** 9k6[^polyitan] <br> ~~**[✓] Confirming our QSO**~~ <br> **~~2~~ 1 Way** <br> **QSL Format:** Paper <br> **SatNOGS DB:** [40042](https://db.satnogs.org/satellite/40042) <br>[🔝 Back to Index](#top) | [![PolyITAN-1 QSL Card 2025-09-01](assets/images/2025-09-01_PolyITAN-1.jpg)](https://db.satnogs.org/satellite/40042)  |
-| <div id="rsp-03-2025-10-25"></div><br><br> **Name:** RSP-03 <br> **Callsign:** `JS1YOY` <br> **Mode:** CW <br> **QSL Format:** Digital <br> **SatNOGS DB:** [65732](https://db.satnogs.org/satellite/65732) <br>[🔝 Back to Index](#top) | [![RSP-03 QSL Card 2025-10-25](assets/images/2025-10-25_rsp-03.jpg)](https://db.satnogs.org/satellite/2025-10-25)  |
+| <div id="rsp-03-2025-10-25"></div><br><br> **Name:** RSP-03 <br> **Callsign:** `JS1YOY` <br> **Mode:** CW <br> **QSL Format:** Digital <br> **SatNOGS DB:** [65732](https://db.satnogs.org/satellite/65732) <br>[🔝 Back to Index](#top) | [![RSP-03 QSL Card 2025-10-25](assets/images/2025-10-25_rsp-03.jpg)](https://db.satnogs.org/satellite/65732)  |
 | <div id="real-wr9xtx-2025-08-30"></div><br><br> **Name:** REAL <br> **Callsign:** `WR9XTX` <br> **Mode ~~2-WAY~~ 1-WAY:** ~~SSB~~ 9k6 <br> **QSL Format:** Paper <br> **SatNOGS DB:** [64875](https://db.satnogs.org/satellite/64875) <br>[🔝 Back to Index](#top) | [![REAL QSL Card 2025-08-30](assets/images/2025-08-30_real.jpg)](https://db.satnogs.org/satellite/64875)  |
 | <div id="cubebel-2-2025-10-10"></div><br><br> **Name:** CubeBel-2 <br> **Callsign:** `EU11S` <br> **Mode:** 9k6 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [57175](https://db.satnogs.org/satellite/57175) <br>[🔝 Back to Index](#top) | [![CubeBel-2 QSL Card 2025-10-10](assets/images/2025-10-10_CubeBel-2.jpg)](https://db.satnogs.org/satellite/57175)  |
 | <div id="botan-2025-11-14"></div><br><br> **Name:** BOTAN <br> **Callsign:** `JS1YPT` <br> **Mode:** 1k2 Digipeater <br> **QSL Format:** Digital <br> **SatNOGS DB:** [65942](https://db.satnogs.org/satellite/65942) <br>[🔝 Back to Index](#top) | [![BOTAN QSL Card 2025-11-14](assets/images/2025-11-14_botan_digi.jpg)](https://db.satnogs.org/satellite/65942)  |
