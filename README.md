@@ -16,6 +16,7 @@
 [CubeBug-2 (2026-03-22)](#cubebug-2-2026-03-22)  
 [LilacSat-2 (2025-05-16)](#lilacsat-2-2025-05-16)  
 [SNUGLITE-III HANA, SNUGLITE-III DURI](#snuglite-iii-hana-duri)  
+[SAKHACUBE-CHOLBON (2026-06-01)](#sakhacube-cholbon-2026-06-01)  
 [SAKHACUBE-CHOLBON (2026-04-26)](#sakhacube-cholbon-2026-04-26)  
 [SAKHACUBE-CHOLBON (2026-04-11)](#sakhacube-cholbon-2026-04-11)  
 [SAKHACUBE-CHOLBON (2026-03-07)](#sakhacube-cholbon-2026-03-07)  
@@ -135,6 +136,7 @@
 | <div id="cubebug-2-2026-03-22"></div><br><br> **Name:** CubeBug-2 <br> **Callsign:** `CUBEB2` <br> **Mode:** 1k2 AFSK <br> **QSL Format:** Digital <br> **SatNOGS DB:** [39440](https://db.satnogs.org/satellite/39440) <br>[🔝 Back to Index](#top) | [![CubeBug-2 QSL Card 2026-03-22](assets/images/2026-03-22_cubebug-2.jpg)](https://db.satnogs.org/satellite/39440)  |
 | <div id="lilacsat-2-2025-05-16"></div><br><br> **Name:** LilacSat-2, CAS-3H, <br> &nbsp;&nbsp;紫丁香2号 <br> **Callsign:** `BJ1SI` <br> **Mode:** 4k8 <br> **QSL Format:** Paper <br> **SatNOGS DB:** [40908](https://db.satnogs.org/satellite/40908) <br>[🔝 Back to Index](#top) | ![LilacSat-2 QSL Card](assets/images/2025-05-16_lilacsat-2.jpg)  |
 | <div id="snuglite-iii-hana-duri"></div><br><br> **Name:** SNUGLITE-III HANA, <br> &nbsp;&nbsp;SNUGLITE-III DURI <br> **Callsign:** `DS0DH` <br> **Mode:** 9k6 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [98496](https://db.satnogs.org/satellite/98496) [98497](https://db.satnogs.org/satellite/98497) <br>[🔝 Back to Index](#top) | ![SNUGLITE-III DURI & HANA QSL Card](assets/images/snuglite-iii_hana_duri.jpg)  |
+| <div id="sakhacube-cholbon-2026-06-01"></div><br><br> **Name:** SAKHACUBE-CHOLBON <br> **Callsign:** `RS18S` <br> **Mode:** SSTV <br> **QSL Format:** Digital <br> **SatNOGS DB:** [67290](https://db.satnogs.org/satellite/67290) <br>[🔝 Back to Index](#top) | [![RS18S QSL Card 2026-06-01](assets/images/2026-06-01_rs18s.jpg)](https://db.satnogs.org/satellite/67290)  |
 | <div id="sakhacube-cholbon-2026-04-26"></div><br><br> **Name:** SAKHACUBE-CHOLBON <br> **Callsign:** `RS18S` <br> **Mode:** SSTV & 9k6 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [67290](https://db.satnogs.org/satellite/67290) <br>[🔝 Back to Index](#top) | [![RS18S QSL Card 2026-04-26](assets/images/2026-04-26_rs18s.jpg)](https://db.satnogs.org/satellite/67290)  |
 | <div id="sakhacube-cholbon-2026-04-11"></div><br><br> **Name:** SAKHACUBE-CHOLBON <br> **Callsign:** `RS18S` <br> **Mode:** SSTV <br> **Notes:** ~~Gpredict;~~ <br> **QSL Format:** Digital <br> **SatNOGS DB:** [67290](https://db.satnogs.org/satellite/67290) <br>[🔝 Back to Index](#top) | [![RS18S QSL Card 2026-04-11](assets/images/2026-04-11_rs18s.jpg)](https://db.satnogs.org/satellite/67290)  |
 | <div id="sakhacube-cholbon-2026-03-07"></div><br><br> **Name:** SAKHACUBE-CHOLBON <br> **Callsign:** `RS18S` <br> **Mode:** SSTV <br> **QSL Format:** Digital <br> **SatNOGS DB:** [67290](https://db.satnogs.org/satellite/67290) <br>[🔝 Back to Index](#top) | [![RS18S QSL Card 2026-03-07](assets/images/2026-03-07_rs18s.jpg)](https://db.satnogs.org/satellite/67290)  |
