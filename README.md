@@ -9,6 +9,7 @@
 [Marina 9k6 (2026-07-10)](#marina-9k6-2026-07-10)  
 [Marina CW (2026-07-10)](#marina-cw-2026-07-10)  
 [KOYO (2026-07-09)](#koyo-2026-07-09)  
+[KOSTKA (2026-07-11)](#kostka-2026-07-11)  
 [KOSTKA (2026-07-09)](#kostka-2026-07-09)  
 [BEE-1000 (2025-12-09)](#bee-1000-2025-12-09)  
 [PARUS-6U1 (2026-04-01)](#parus-6u1-2026-04-01)  
@@ -129,6 +130,7 @@
 | <div id="marina-9k6-2026-07-10"></div><br><br> **Name:** Marina <br> **Callsign:** `OM9MAR` <br> **Mode:** 9k6 <br> **Direction:** 1-way <br> **QSL Format:** Digital <br> **SatNOGS DB:** [98293](https://db.satnogs.org/satellite/98293) <br>[🔝 Back to Index](#top) | [![MARINA QSL Card 2026-07-10](assets/images/2026-07-10_marina_9k6.jpg)](https://db.satnogs.org/satellite/98293)  |
 | <div id="marina-cw-2026-07-10"></div><br><br> **Name:** Marina <br> **Callsign:** `OM9MAR` <br> **Mode:** CW <br> **QSL Format:** Digital <br> **SatNOGS DB:** [98293](https://db.satnogs.org/satellite/98293) <br>[🔝 Back to Index](#top) | [![MARINA QSL Card 2026-07-10](assets/images/2026-07-10_marina_cw.jpg)](https://db.satnogs.org/satellite/98293)  |
 | <div id="koyo-2026-07-09"></div><br><br> **Name:** KOYO <br> **Callsign:** `KOYOSC` <br> **Mode:** 9k6 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [98273](https://db.satnogs.org/satellite/98273) <br>[🔝 Back to Index](#top) | [![KOYO QSL Card 2026-07-09](assets/images/2026-07-09_koyo.jpg)](https://db.satnogs.org/satellite/98273)  |
+| <div id="kostka-2026-07-11"></div><br><br> **Name:** KOSTKA <br> **Callsign:** `OK0KST` <br> **Mode:** CW <br> **QSL Format:** Digital <br> **SatNOGS DB:** [98395](https://db.satnogs.org/satellite/98395) <br>[🔝 Back to Index](#top) | [![KOSTKA QSL Card 2026-07-11](assets/images/2026-07-11_kostka.jpg)](https://db.satnogs.org/satellite/98395)  |
 | <div id="kostka-2026-07-09"></div><br><br> **Name:** KOSTKA <br> **Callsign:** `OK0KST` <br> **Mode:** 9k6 <br> **Direction:** 1-way <br> **QSL Format:** Digital <br> **SatNOGS DB:** [98395](https://db.satnogs.org/satellite/98395) <br>[🔝 Back to Index](#top) | [![KOSTKA QSL Card 2026-07-09](assets/images/2026-07-09_kostka.jpg)](https://db.satnogs.org/satellite/98395)  |
 | <div id="bee-1000-2025-12-09"></div><br><br> **Name:** BEE-1000 <br> **Mode:** 4k8 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [66650](https://db.satnogs.org/satellite/98493) <br>[🔝 Back to Index](#top) | [![BEE-1000 QSL Card 2025-12-09](assets/images/2025-12-09_bee-1000.jpg)](https://db.satnogs.org/satellite/98493)  |
 | <div id="parus-6u1-2026-04-01"></div><br><br> **Name:** PARUS-6U1 <br> **Callsign:** `BN0TIT` <br> **Mode:** 9k6 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [68456](https://db.satnogs.org/satellite/68456) <br>[🔝 Back to Index](#top) | [![PARUS-6U1 QSL Card 2026-04-01](assets/images/2026-04-01_parus-6u1.jpg)](https://db.satnogs.org/satellite/68456)  |
