@@ -51,6 +51,7 @@
 [EIRSAT-1 (2025-09-03)](#eirsat-1-2025-09-03)  
 [ITUpSAT1 (2025-05-20)](#itupsat-1-2025-05-20)  
 [SNUGLITE-I (2025-08-22)](#snuglite-i-2025-08-22)  
+[LASARsat (2026-07-16)](#lasarsat-2026-07-16)  
 [LASARsat (2026-03-24)](#lasarsat-2026-03-24)  
 [LASARsat (2025-05-18)](#lasarsat-2025-05-18)  
 
@@ -170,6 +171,7 @@
 | <div id="eirsat-1-2025-09-03"></div><br><br> **Name:** EIRSAT-1 <br> **Mode:** 9k6 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [58472](https://db.satnogs.org/satellite/58472) <br>[🔝 Back to Index](#top) | [![EIRSAT-1 QSL Card 2025-09-03](assets/images/2025-09-03_EIRSAT-1.jpg)](https://db.satnogs.org/satellite/58472)  |
 | <div id="itupsat-1-2025-05-20"></div><br><br> **Name:** ITUpSAT1 <br> **Callsign:** `ITUPSAT` <br> **Mode:** CW[^itupsat] <br> **QSL Format:** Digital <br> **SatNOGS DB:** [35935](https://db.satnogs.org/satellite/35935) <br>[🔝 Back to Index](#top) | [![ITUpSAT1 QSL Card 2025-05-20](assets/images/itupsat1.jpg)](https://db.satnogs.org/satellite/35935)  |
 | <div id="snuglite-i-2025-08-22"></div><br><br> **Name:** SNUGLITE-I <br> **Mode:** 9k6 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [43784](https://db.satnogs.org/satellite/43784) <br>[🔝 Back to Index](#top) | [![SNUGLITE-I QSL Card 2025-08-22](assets/images/2025_08_22_snuglite-i.jpg)](https://db.satnogs.org/satellite/43784)  |
+| <div id="lasarsat-2026-07-16"></div><br><br> **Name:** LASARsat <br> **Callsign:** `OK0LSR` <br> **Mode:** CW <br> **QSL Format:** Digital <br> **Frequency:** 436.925 MHz <br> **SatNOGS DB:** [62391](https://db.satnogs.org/satellite/62391) <br>[🔝 Back to Index](#top) | [![LASARsat QSL Card 2026-07-16](assets/images/2026-07-16_lasarsat.jpg)](https://db.satnogs.org/satellite/62391)  |
 | <div id="lasarsat-2026-03-24"></div><br><br> **Name:** LASARsat <br> **Callsign:** `OK0LSR` <br> **Mode:** 9k6 <br> **Direction:** 1-way <br> **QSL Format:** Digital <br> **Frequency:** ~~436.254~~ 436.925 MHz <br> **SatNOGS DB:** [62391](https://db.satnogs.org/satellite/62391) <br>[🔝 Back to Index](#top) | [![LASARsat QSL Card 2026-03-24](assets/images/2026-03-24_lasarsat.jpg)](https://db.satnogs.org/satellite/62391)  |
 | <div id="lasarsat-2025-05-18"></div><br><br> **Name:** LASARsat <br> **Callsign:** `OK0LSR` <br> **Mode:** 9k6 <br> **Direction:** 1-way <br> **QSL Format:** Digital <br> **Frequency:** 436.925 MHz <br> **SatNOGS DB:** [62391](https://db.satnogs.org/satellite/62391) <br>[🔝 Back to Index](#top) | [![LASARsat QSL Card 2025-05-18](assets/images/2025-05-18_lasarsat.jpg)](https://db.satnogs.org/satellite/62391)  |
 | <div id="lasarsat-2025-04-08"></div><br><br> **Name:** LASARsat <br> **Callsign:** `OK0LSR` <br> **Mode:** CW <br> **QSL Format:** Digital <br> **SatNOGS DB:** [62391](https://db.satnogs.org/satellite/62391) <br>[🔝 Back to Index](#top) | [![LASARsat QSL Card 2025-04-08](assets/images/2025-04-08_lasarsat.jpg)](https://db.satnogs.org/satellite/62391)  |
