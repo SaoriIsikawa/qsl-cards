@@ -454,5 +454,5 @@
 ### 脚注内容
 
 [^itupsat]: CW in FM.
-[^polyitan]: I received text message "CQ de EM0UKPI QSL via UT4UZB k".
+[^polyitan]: Reception of a text message "CQ de EM0UKPI QSL via UT4UZB k".
 [^technosat]: CW in FM.
