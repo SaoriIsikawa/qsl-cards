@@ -195,61 +195,13 @@
 | <div id="crocube-2025-04-10"></div><br><br> **Name:** CroCube <br> **Callsign:** `9A0CC` <br> **Mode:** 9k6 <br> **Direction:** 1-way <br> **QSL Format:** Digital <br> **SatNOGS DB:** [62394](https://db.satnogs.org/satellite/62394) <br>[🔝 Back to Index](#top) | [![CroCube QSL Card 2025-04-10](assets/images/2025-04-10_crocube.jpg)](https://db.satnogs.org/satellite/62394)  |
 | <div id="arcticsat-1-rs74s-2025-04-01"></div><br><br> **Name:** ArcticSat-1 <br> **Callsign:** `RS74S` <br> **Mode:** SSTV Robot36 <br> **Event:** 1st of April Event <br> **QSL Format:** Digital <br> **SatNOGS DB:** [61762](https://db.satnogs.org/satellite/61762) <br>[🔝 Back to Index](#top) | [![ArcticSat-1 QSL Card 2025-04-01](assets/images/2025-04-01_ArcticSat-1_RS74S.jpg)](https://db.satnogs.org/satellite/61762)  |
 | <div id="yomogi-js1ymx-2024-12-10"></div><br><br> **Name:** YOMOGI <br> **Callsign:** `JS1YMX` <br> **Mode:** CW <br> **QSL Format:** Digital <br> **SatNOGS DB:** [62298](https://db.satnogs.org/satellite/62298) <br>[🔝 Back to Index](#top) | [![名称 QSL Card 2024-12-10](assets/images/2024-12-10_YOMOGI_JS1YMX.jpg)](https://db.satnogs.org/satellite/62298)  |
-
-
-[//]:   | <div id="锚点"></div><br><br> **Name:** 名称 <br> **Callsign:** `呼号` <br> **Mode:** 模式 <br> **Direction:** 1-way/2-way <br> **QSL Format:** Digital <br> **SatNOGS DB:** [00000](https://db.satnogs.org/satellite/00000) | [![名称 QSL Card yyyy-mm-dd](assets/images/文件名.jpg)](https://db.satnogs.org/satellite/00000) |
-
-
-
----
-
-<a name="umka-1-rs40s-2025-03-01"></a>
-**RS40S (UmKA-1, УмКА-1) (2025-03-01) - 9k6 (digital)**  
-[🔝 Back to Index](#top)  
-[![assets/images/2025-03-01_UMKA-1_RS40S.jpg](assets/images/2025-03-01_UMKA-1_RS40S.jpg)](https://db.satnogs.org/satellite/57172)
-
----
-
-<a name="umka-1-rs40s-2024-10-05"></a>
-**RS40S (UmKA-1, УмКА-1) (2024-10-05) - SSTV (digital)**  
-[🔝 Back to Index](#top)  
-[![assets/images/2024-10-05_UMKA-1_RS40S.jpg](assets/images/2024-10-05_UMKA-1_RS40S.jpg)](https://db.satnogs.org/satellite/57172)
-
----
-
-<a name="reshucube-2-rs37s-2025-01-28"></a>
-**RS37S (ReshUCube-2) (2025-01-28) - LoRa (digital)**  
-[🔝 Back to Index](#top)  
-[![assets/images/2025_01_28_ReshUCube-2_RS37S.jpg](assets/images/2025_01_28_ReshUCube-2_RS37S.jpg)](https://db.satnogs.org/satellite/57168)
-
----
-
-<a name="hyperview-1g-rs66s-2025-01-05"></a>
-**RS66S New Year's festive broadcast (2025-01-05)**  
-[🔝 Back to Index](#top)  
-[![assets/images/2025-01-05_HyperView-1G_RS66S.jpg](assets/images/2025-01-05_HyperView-1G_RS66S.jpg)](https://db.satnogs.org/satellite/61772)
-
----
-
-<a name="diwata-2-po-101-2024-11-18"></a>
-**Diwata-2 (PO-101) (2024-11-18) - QSO as SWL (digital)**  
-[🔝 Back to Index](#top)  
-![assets/images/2024_11_18_diwata-2.jpg](assets/images/2024_11_18_diwata-2.jpg)
-
----
-
-<a name="sakura-js1yni-2024-10-08"></a>
-**SAKURA (JS1YNI) (2024-10-08) - CW(!) (digital)**  
-[🔝 Back to Index](#top)  
-[![assets/images/2024_10_08_SAKURA_JS1YNI.jpg](assets/images/2024_10_08_SAKURA_JS1YNI.jpg)](https://db.satnogs.org/satellite/60954)
-
----
-
-<a name="orbicraft-zorkiy-rs15s-2023-05-09"></a>
-**RS15S (OrbiCraft-Zorkiy) (2023-05-09) - SSTV (digital)**  
-[🔝 Back to Index](#top)  
-[![assets/images/2023-05-09_OrbiCraft-Zorkiy.jpg](assets/images/2023-05-09_OrbiCraft-Zorkiy.jpg)](https://db.satnogs.org/satellite/47960)
-
+| <div id="umka-1-rs40s-2025-03-01"></div><br><br> **Name:** UmKA-1 <br> **Callsign:** `RS40S` <br> **Mode:** 9k6 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [57172](https://db.satnogs.org/satellite/57172) <br>[🔝 Back to Index](#top) | [![UmKA-1 QSL Card 2025-03-01](assets/images/2025-03-01_UMKA-1_RS40S.jpg)](https://db.satnogs.org/satellite/57172) |
+| <div id="umka-1-rs40s-2024-10-05"></div><br><br> **Name:** UmKA-1 <br> **Callsign:** `RS40S` <br> **Mode:** 9k6 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [57172](https://db.satnogs.org/satellite/57172) <br>[🔝 Back to Index](#top) | [![UmKA-1 QSL Card 2024-10-05](assets/images/2024-10-05_UMKA-1_RS40S.jpg)](https://db.satnogs.org/satellite/57172) |
+| <div id="reshucube-2-rs37s-2025-01-28"></div><br><br> **Name:** ReshUCube-2 <br> **Callsign:** `RS37S` <br> **Mode:** LoRa <br> **QSL Format:** Digital <br> **SatNOGS DB:** [57168](https://db.satnogs.org/satellite/57168) <br>[🔝 Back to Index](#top) | [![ReshUCube-2 QSL Card 2025-01-28](assets/images/2025_01_28_ReshUCube-2_RS37S.jpg)](https://db.satnogs.org/satellite/57168) |
+| <div id="hyperview-1g-rs66s-2025-01-05"></div><br><br> **Name:** HyperView-1G <br> **Callsign:** `RS66S` <br> **Mode:** SSTV Robot 72 <br> **Event:** New Year's festive broadcast <br> **QSL Format:** Digital <br> **SatNOGS DB:** [61772](https://db.satnogs.org/satellite/61772) <br>[🔝 Back to Index](#top) | [![HyperView-1G QSL Card 2025-01-05](assets/images/2025-01-05_HyperView-1G_RS66S.jpg)](https://db.satnogs.org/satellite/61772) |
+| <div id="diwata-2-po-101-2024-11-18"></div><br><br> **Name:** Diwata-2, PO-101 <br> **Callsign:** `D1W2PH` <br> **Mode:** Voice Repeater <br> **Direction:** 1-way <br> **QSL Format:** Digital <br> **SatNOGS DB:** [43678](https://db.satnogs.org/satellite/43678) <br>[🔝 Back to Index](#top) | [![Diwata-2 QSL Card 2024-11-18](assets/images/2024_11_18_diwata-2.jpg)](https://db.satnogs.org/satellite/43678) |
+| <div id="sakura-js1yni-2024-10-08"></div><br><br> **Name:** SAKURA <br> **Callsign:** `JS1YNI` <br> **Mode:** CW <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;~~GMSK~~ <br> **QSL Format:** Digital <br> **SatNOGS DB:** [60954](https://db.satnogs.org/satellite/60954) <br>[🔝 Back to Index](#top) | [![SAKURA QSL Card 2024-10-08](assets/images/2024_10_08_SAKURA_JS1YNI.jpg)](https://db.satnogs.org/satellite/60954) |
+| <div id="orbicraft-zorkiy-rs15s-2023-05-09"></div><br><br> **Name:** OrbiCraft-Zorkiy <br> **Callsign:** `RS15S` <br> **Mode:** SSTV Robot 72 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [47960](https://db.satnogs.org/satellite/47960) <br>[🔝 Back to Index](#top) | [![OrbiCraft-Zorkiy QSL Card 2023-05-09](assets/images/2023-05-09_OrbiCraft-Zorkiy.jpg)](https://db.satnogs.org/satellite/47960) |
 
 ## 📜 确认图像接收的证书与奖项
 
