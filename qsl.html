@@ -1,0 +1,501 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>QSL 卡片生成器 - BG7XTQ</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700;900&display=swap" rel="stylesheet">
+<style type="text/css">
+  * {
+    box-sizing: border-box;
+  }
+  body {
+    font-family: "Noto Sans", Arial, Helvetica, sans-serif;
+    background-color: #e8e8e8;
+    margin: 0;
+    padding: 20px;
+    color: #222222;
+  }
+  h1 {
+    text-align: center;
+    font-size: 22px;
+    margin-bottom: 5px;
+  }
+  p.sub {
+    text-align: center;
+    font-size: 13px;
+    color: #555555;
+    margin-top: 0;
+    margin-bottom: 20px;
+  }
+  .wrap {
+    max-width: 900px;
+    margin: 0 auto;
+  }
+  .panel {
+    background: #ffffff;
+    border: 1px solid #bbbbbb;
+    padding: 15px;
+    margin-bottom: 20px;
+  }
+  .panel h2 {
+    font-size: 15px;
+    margin-top: 0;
+    border-bottom: 1px solid #dddddd;
+    padding-bottom: 6px;
+  }
+  .row {
+    margin-bottom: 10px;
+  }
+  label {
+    display: inline-block;
+    width: 110px;
+    font-size: 13px;
+    vertical-align: top;
+  }
+  input[type="text"], input[type="file"] {
+    font-family: "Noto Sans", Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    padding: 4px;
+    border: 1px solid #999999;
+  }
+  input[type="text"] {
+    width: 200px;
+  }
+  input.small {
+    width: 60px;
+  }
+  button {
+    font-family: "Noto Sans", Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    padding: 8px 16px;
+    margin-right: 8px;
+    margin-top: 5px;
+    background-color: #444444;
+    color: #ffffff;
+    border: none;
+    cursor: pointer;
+  }
+  button:hover {
+    background-color: #666666;
+  }
+
+  /* ===== QSL CARD ===== */
+  #cardOuter {
+    width: 825px;
+    height: 525px;
+    margin: 0 auto;
+    overflow: hidden;
+  }
+  #card {
+    position: relative;
+    width: 825px;
+    height: 525px;
+    background-color: #ffffff;
+    background-image: url('./qsl_background.png');
+    background-size: 100% 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: "Noto Sans", Arial, Helvetica, sans-serif;
+    color: #111111;
+    box-sizing: border-box;
+    border: 1px solid #333333;
+  }
+
+  .topline {
+    position: absolute;
+    top: 16px;
+    left: 20px;
+    right: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    text-shadow: 0 0 4px #ffffff, 0 0 4px #ffffff;
+  }
+  .topline .side {
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    color: #111111;
+  }
+  .topline .center {
+    font-size: 17px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    color: #111111;
+  }
+
+  .callsign {
+    position: absolute;
+    top: 52px;
+    left: 0;
+    right: 0;
+    text-align: center;
+    font-size: 118px;
+    font-weight: 900;
+    letter-spacing: -3px;
+    line-height: 1;
+    color: #e30613;
+    text-shadow: 0 0 6px #ffffff, 0 0 6px #ffffff, 0 0 6px #ffffff;
+  }
+
+  .checkcluster {
+    position: absolute;
+    top: 244px;
+  }
+  .checkcluster.left {
+    left: 35px;
+  }
+  .checkcluster.right {
+    left: 500px;
+  }
+  .checkitem {
+    display: flex;
+    align-items: center;
+    margin-bottom: 8px;
+    background-color: rgba(255, 255, 255, 0.75);
+  }
+  .checkitem span.label {
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    color: #111111;
+    text-shadow: 0 0 3px #ffffff, 0 0 3px #ffffff;
+  }
+  .checkbox {
+    width: 15px;
+    height: 15px;
+    border: 2px solid #111111;
+    background-color: #ffffff;
+    display: inline-block;
+    margin-right: 7px;
+    position: relative;
+    cursor: pointer;
+    flex-shrink: 0;
+  }
+  .checkbox.checked::after {
+    content: "\2714";
+    position: absolute;
+    top: -5px;
+    left: 1px;
+    font-size: 14px;
+    font-weight: bold;
+  }
+
+  table.qsotable {
+    position: absolute;
+    top: 322px;
+    left: 35px;
+    width: 755px;
+    border-collapse: collapse;
+    background-color: rgba(255, 255, 255, 0.85);
+    font-size: 12px;
+    table-layout: fixed;
+  }
+  table.qsotable th {
+    border: 2px solid #111111;
+    padding: 5px 3px;
+    background-color: #ffffff;
+    font-weight: 700;
+  }
+  table.qsotable td {
+    border: 2px solid #111111;
+    padding: 2px;
+    text-align: center;
+    height: 40px;
+  }
+  table.qsotable input {
+    width: 92%;
+    border: none;
+    background: transparent;
+    text-align: center;
+    font-family: "Noto Sans", Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    font-weight: 700;
+    color: #111111;
+  }
+  table.qsotable input:focus {
+    outline: 1px dotted #666666;
+  }
+  table.qsotable input.datepart {
+    color: #3a5aa0;
+    font-size: 12px;
+    letter-spacing: -0.5px;
+  }
+  table.qsotable input.datepart::placeholder {
+    color: #3a5aa0;
+    font-weight: 700;
+    opacity: 1;
+  }
+  .col-to { width: 14%; }
+  .col-dmy { width: 15%; }
+  .col-other { width: 10.75%; }
+
+  .remarksbox {
+    position: absolute;
+    top: 425px;
+    right: 22px;
+    width: 230px;
+    height: 58px;
+    border: 2px solid #111111;
+    background-color: rgba(255, 255, 255, 0.85);
+  }
+  .remarksbox input {
+    width: 100%;
+    height: 100%;
+    border: none;
+    background: transparent;
+    text-align: center;
+    font-family: "Noto Sans", Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    padding: 0 6px;
+  }
+
+  .footer73 {
+    position: absolute;
+    top: 425px;
+    left: 485px;
+    width: 230px;
+    height: 58px;
+    line-height: 58px;
+    text-align: center;
+    font-size: 36px;
+    font-weight: 900;
+    color: #111111;
+    text-shadow: 0 0 6px #ffffff, 0 0 6px #ffffff;
+  }
+
+  #hint {
+    font-size: 12px;
+    color: #666666;
+    margin-top: 8px;
+  }
+</style>
+</head>
+<body>
+
+<div class="wrap">
+  <h1>业余无线电 QSL 卡片自助生成器（发卡电台：BG7XTQ）</h1>
+  <p class="sub">Amateur Radio QSL Card Generator &mdash; Issuer: BG7XTQ</p>
+
+  <div class="panel">
+    <h2>1. QSO 信息 QSO Information</h2>
+    <div class="row"><label>TO RADIO</label><input type="text" id="f_to" placeholder="e.g. JA1XYZ"></div>
+    <div class="row">
+      <label>DATE</label>
+      <input type="text" class="small" id="f_day" placeholder="DD">
+      <input type="text" class="small" id="f_month" placeholder="MM">
+      <input type="text" class="small" id="f_year" placeholder="YYYY">
+    </div>
+    <div class="row"><label>UTC</label><input type="text" id="f_utc" placeholder="e.g. 0432"></div>
+    <div class="row"><label>MHz</label><input type="text" id="f_mhz" placeholder="e.g. 14.074"></div>
+    <div class="row"><label>MODE</label><input type="text" id="f_mode" placeholder="e.g. FT8 / SSB / CW"></div>
+    <div class="row"><label>RST</label><input type="text" id="f_rst" placeholder="e.g. 599"></div>
+    <div class="row"><label>REMARKS</label><input type="text" id="f_remarks" placeholder="optional remarks / RIG / ANT"></div>
+  </div>
+
+  <div class="panel">
+    <h2>2. 预览 Preview（勾选框可直接在卡片上点击，也可直接截图，或使用下方按钮导出）</h2>
+    <div id="cardOuter">
+      <div id="card">
+        <div class="topline">
+          <span class="side">CQ 24</span>
+          <span class="center">PEOPLE'S REPUBLIC OF CHINA</span>
+          <span class="side">ITU 43</span>
+        </div>
+        <div class="callsign">BG7XTQ</div>
+
+        <div class="checkcluster left">
+          <div class="checkitem"><span class="checkbox" id="box_pse" onclick="toggleBox('pse')"></span><span class="label">PSE QSL</span></div>
+          <div class="checkitem"><span class="checkbox" id="box_tnx" onclick="toggleBox('tnx')"></span><span class="label">TNX QSL</span></div>
+        </div>
+        <div class="checkcluster right">
+          <div class="checkitem"><span class="checkbox" id="box_2way" onclick="toggleBox('2way')"></span><span class="label">CONFIRMING 2-WAY QSL</span></div>
+          <div class="checkitem"><span class="checkbox" id="box_swl" onclick="toggleBox('swl')"></span><span class="label">SWL REPORT</span></div>
+        </div>
+
+        <table class="qsotable">
+          <tr>
+            <th class="col-to">TO RADIO</th>
+            <th class="col-dmy" colspan="3">DATE</th>
+            <th class="col-other">UTC</th>
+            <th class="col-other">MHz</th>
+            <th class="col-other">MODE</th>
+            <th class="col-other">RST</th>
+          </tr>
+          <tr>
+            <td><input type="text" id="t_to"></td>
+            <td><input type="text" class="datepart" id="t_day" placeholder="D"></td>
+            <td><input type="text" class="datepart" id="t_month" placeholder="M"></td>
+            <td><input type="text" class="datepart" id="t_year" placeholder="Y"></td>
+            <td><input type="text" id="t_utc"></td>
+            <td><input type="text" id="t_mhz"></td>
+            <td><input type="text" id="t_mode"></td>
+            <td><input type="text" id="t_rst"></td>
+          </tr>
+        </table>
+
+        <div class="remarksbox">
+          <input type="text" id="t_remarks" placeholder="REMARKS">
+        </div>
+
+        <div class="footer73">73</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="panel">
+    <h2>3. 导出 Export</h2>
+    <button type="button" onclick="downloadPNG()">下载为图片 Download PNG</button>
+    <button type="button" onclick="downloadPDF()">下载为 PDF Download PDF</button>
+    <button type="button" onclick="window.print()">打印 / 另存为PDF Print</button>
+    <p id="hint">提示：如果导出按钮在您的浏览器中不可用，也可以直接对上方预览区域进行截图保存。</p>
+  </div>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+<script type="text/javascript">
+
+  // ---- checkbox toggle (click directly on the card) ----
+  var boxState = { pse: false, tnx: false, "2way": false, swl: false };
+  function toggleBox(name) {
+    boxState[name] = !boxState[name];
+    var el = document.getElementById('box_' + name);
+    el.className = boxState[name] ? 'checkbox checked' : 'checkbox';
+  }
+
+  // ---- form fields -> card table sync ----
+  function bindField(srcId, dstId) {
+    document.getElementById(srcId).addEventListener('input', function () {
+      document.getElementById(dstId).value = this.value;
+    });
+  }
+  bindField('f_to', 't_to');
+  bindField('f_day', 't_day');
+  bindField('f_month', 't_month');
+  bindField('f_year', 't_year');
+  bindField('f_utc', 't_utc');
+  bindField('f_mhz', 't_mhz');
+  bindField('f_mode', 't_mode');
+  bindField('f_rst', 't_rst');
+  bindField('f_remarks', 't_remarks');
+
+  // ---- export functions ----
+  // Standard QSL card size: 5.5 in x 3.5 in at 300 dpi = 1650 x 1050 pixels.
+  function renderCard(callback) {
+    html2canvas(document.getElementById('card'), {
+      width: 825,
+      height: 525,
+      scale: 2,
+      useCORS: true,
+      backgroundColor: '#ffffff'
+    }).then(function (canvas) {
+      callback(canvas);
+    });
+  }
+
+  // ---- minimal CRC32 implementation (needed to embed a PNG pHYs/DPI chunk) ----
+  var crcTable = null;
+  function makeCrcTable() {
+    var table = [];
+    for (var n = 0; n < 256; n++) {
+      var c = n;
+      for (var k = 0; k < 8; k++) {
+        c = (c & 1) ? (0xEDB88320 ^ (c >>> 1)) : (c >>> 1);
+      }
+      table[n] = c >>> 0;
+    }
+    return table;
+  }
+  function crc32(bytes) {
+    if (!crcTable) { crcTable = makeCrcTable(); }
+    var c = 0xFFFFFFFF;
+    for (var i = 0; i < bytes.length; i++) {
+      c = crcTable[(c ^ bytes[i]) & 0xFF] ^ (c >>> 8);
+    }
+    return (c ^ 0xFFFFFFFF) >>> 0;
+  }
+
+  function dataURLToUint8Array(dataURL) {
+    var base64 = dataURL.split(',')[1];
+    var binary = atob(base64);
+    var bytes = new Uint8Array(binary.length);
+    for (var i = 0; i < binary.length; i++) {
+      bytes[i] = binary.charCodeAt(i);
+    }
+    return bytes;
+  }
+
+  function writeUint32BE(value) {
+    return [
+      (value >>> 24) & 0xFF,
+      (value >>> 16) & 0xFF,
+      (value >>> 8) & 0xFF,
+      value & 0xFF
+    ];
+  }
+
+  // Inserts a pHYs chunk right after the IHDR chunk to mark the PNG as 300 dpi.
+  function addDpiToPng(pngBytes, dpi) {
+    var pixelsPerMeter = Math.round(dpi * 39.3701); // 1 inch = 0.0254 m
+    var typeBytes = [0x70, 0x48, 0x59, 0x73]; // "pHYs"
+    var dataBytes = writeUint32BE(pixelsPerMeter)
+      .concat(writeUint32BE(pixelsPerMeter))
+      .concat([1]); // unit specifier: 1 = meters
+    var chunkBody = typeBytes.concat(dataBytes);
+    var crc = crc32(new Uint8Array(chunkBody));
+    var lengthBytes = writeUint32BE(dataBytes.length);
+    var crcBytes = writeUint32BE(crc);
+    var newChunk = lengthBytes.concat(chunkBody).concat(crcBytes);
+
+    // PNG signature (8 bytes) + IHDR chunk (4 length + 4 type + 13 data + 4 crc = 25 bytes) = 33
+    var insertPos = 33;
+    var result = new Uint8Array(pngBytes.length + newChunk.length);
+    result.set(pngBytes.subarray(0, insertPos), 0);
+    result.set(new Uint8Array(newChunk), insertPos);
+    result.set(pngBytes.subarray(insertPos), insertPos + newChunk.length);
+    return result;
+  }
+
+  function downloadBytesAsFile(bytes, filename, mimeType) {
+    var blob = new Blob([bytes], { type: mimeType });
+    var url = URL.createObjectURL(blob);
+    var link = document.createElement('a');
+    link.download = filename;
+    link.href = url;
+    link.click();
+    setTimeout(function () { URL.revokeObjectURL(url); }, 1000);
+  }
+
+  function downloadPNG() {
+    renderCard(function (canvas) {
+      var dataURL = canvas.toDataURL('image/png');
+      var pngBytes = dataURLToUint8Array(dataURL);
+      var pngWithDpi = addDpiToPng(pngBytes, 300);
+      downloadBytesAsFile(pngWithDpi, 'BG7XTQ_QSL_card.png', 'image/png');
+    });
+  }
+
+  function downloadPDF() {
+    renderCard(function (canvas) {
+      var imgData = canvas.toDataURL('image/png');
+      // Standard QSL card: 5.5 in x 3.5 in physical page size.
+      // The embedded 1650 x 1050 px image over a 5.5in x 3.5in page
+      // is exactly 300 dpi (1650 / 5.5 = 300, 1050 / 3.5 = 300).
+      var jsPDFCtor = window.jspdf.jsPDF;
+      var pdf = new jsPDFCtor({
+        orientation: 'landscape',
+        unit: 'in',
+        format: [5.5, 3.5]
+      });
+      pdf.addImage(imgData, 'PNG', 0, 0, 5.5, 3.5);
+      pdf.save('BG7XTQ_QSL_card.pdf');
+    });
+  }
+
+</script>
+
+</body>
+</html>
