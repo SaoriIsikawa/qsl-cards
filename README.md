@@ -5,6 +5,7 @@
 <table>
 <tr><td valign="top">
 
+[GRBBeta (2026-07-25)](#grbbeta-2026-07-25)  
 [GRBBeta (2026-03-31)](#grbbeta-2026-03-31)  
 [Marina (2026-07-18)](#marina-9k6-2026-07-18)  
 [Marina (2026-07-10)](#marina-9k6-2026-07-10)  
@@ -128,6 +129,7 @@
 
 | 📋 QSL Information | 🖼️ QSL Preview |
 | :--- | :--- |
+| <div id="grbbeta-2026-07-25"></div><br><br> **Name:** GRBBeta <br> **Callsign:** `HA2GRB` <br> **Mode:** 9k6 <br> **Direction:** 1-way <br> **QSL Format:** Digital <br> **SatNOGS DB:** [60237](https://db.satnogs.org/satellite/60237) <br>[🔝 Back to Index](#top) | [![GRBBeta QSL Card 2026-07-25](assets/images/2026-07-25_grbbeta.jpg)](https://db.satnogs.org/satellite/60237)  |
 | <div id="grbbeta-2026-03-31"></div><br><br> **Name:** GRBBeta <br> **Callsign:** `HA2GRB` <br> **Mode:** 9k6 <br> **Direction:** 1-way <br> **QSL Format:** Digital <br> **SatNOGS DB:** [60237](https://db.satnogs.org/satellite/60237) <br>[🔝 Back to Index](#top) | [![GRBBeta QSL Card 2026-03-31](assets/images/2026-03-31_grbbeta.jpg)](https://db.satnogs.org/satellite/60237)  |
 | <div id="marina-9k6-2026-07-18"></div><br><br> **Name:** Marina <br> **Callsign:** `OM9MAR` <br> **Mode:** 9k6 <br> **Direction:** 1-way <br> **QSL Format:** Digital <br> **SatNOGS DB:** [98293](https://db.satnogs.org/satellite/98293) <br>[🔝 Back to Index](#top) | [![MARINA QSL Card 2026-07-18](assets/images/2026-07-18_marina_9k6.jpg)](https://db.satnogs.org/satellite/98293)  |
 | <div id="marina-9k6-2026-07-10"></div><br><br> **Name:** Marina <br> **Callsign:** `OM9MAR` <br> **Mode:** 9k6 <br> **Direction:** 1-way <br> **QSL Format:** Digital <br> **SatNOGS DB:** [98293](https://db.satnogs.org/satellite/98293) <br>[🔝 Back to Index](#top) | [![MARINA QSL Card 2026-07-10](assets/images/2026-07-10_marina_9k6.jpg)](https://db.satnogs.org/satellite/98293)  |
