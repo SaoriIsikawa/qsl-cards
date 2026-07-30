@@ -125,6 +125,7 @@
 - [ISS CW NA1SS (2025-09-04)](#iss-2025-09-04)
 - [ISS APRS RS0ISS 1-way (2025-08-19)](#iss-2025-08-19)
 - [ISS APRS RS0ISS 2-way (2026-02-27)](#iss-2026-02-27)
+- [ISS APRS RS0ISS 1-way (2026-05-10)](#iss-2026-05-10)
 
 ## 📡 QSL 卡详情
 
