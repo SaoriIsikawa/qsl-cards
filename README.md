@@ -123,7 +123,7 @@
 
 - [ISS VHF SSTV (2024-10-13)](#iss-2024-10-13)
 - [ISS VHF UHF SSTV (2024-11-13)](#iss-2024-11-13)
-- [ISS Voice Repeater CW (2025-09-04)](#iss-2025-09-04)
+- [ISS Repeater CW (2025-09-04)](#iss-2025-09-04)
 - [ISS UHF VHF APRS 1-way (2025-08-19)](#iss-2025-08-19)
 - [ISS UHF APRS 2-way (2026-02-27)](#iss-2026-02-27)
 - [ISS UHF APRS 1-way (2026-05-10)](#iss-2026-05-10)
