@@ -121,12 +121,12 @@
 
 ## 🛰️ ISS QSL 卡
 
-- [ISS SSTV RS0ISS (2024-10-13)](#iss-2024-10-13)
-- [ISS SSTV RS0ISS (2024-11-13)](#iss-2024-11-13)
-- [ISS CW NA1SS (2025-09-04)](#iss-2025-09-04)
-- [ISS APRS RS0ISS 1-way (2025-08-19)](#iss-2025-08-19)
-- [ISS APRS RS0ISS 2-way (2026-02-27)](#iss-2026-02-27)
-- [ISS APRS RS0ISS 1-way (2026-05-10)](#iss-2026-05-10)
+- [ISS VHF SSTV (2024-10-13)](#iss-2024-10-13)
+- [ISS VHF UHF SSTV (2024-11-13)](#iss-2024-11-13)
+- [ISS Voice Repeater CW (2025-09-04)](#iss-2025-09-04)
+- [ISS UHF VHF APRS 1-way (2025-08-19)](#iss-2025-08-19)
+- [ISS UHF APRS 2-way (2026-02-27)](#iss-2026-02-27)
+- [ISS UHF APRS 1-way (2026-05-10)](#iss-2026-05-10)
 
 ## 📡 QSL 卡详情
 
@@ -403,12 +403,12 @@
 
 | 📡 QSL Information | 🖼️ QSL Preview |
 | :--- | :--- |
-| <div id="iss-2024-10-13"></div><br><br> **Name:** ISS <br> **Callsign:** `RS0ISS` <br> **Mode:** SSTV <br> **QSL Format:** Paper <br> **SatNOGS DB:** [25544](https://db.satnogs.org/satellite/25544) <br>[🔝 Back to Index](#top) | [![ISS QSL Card 2024-10-13](assets/images/2024-10-13_iss_sstv.jpg)](https://db.satnogs.org/satellite/25544)  |
-| <div id="iss-2024-11-13"></div><br><br> **Name:** ISS <br> **Callsign:** `RS0ISS` <br> **Mode:** SSTV <br> **QSL Format:** Paper <br> **SatNOGS DB:** [25544](https://db.satnogs.org/satellite/25544) <br>[🔝 Back to Index](#top) | [![ISS QSL Card 2024-11-13](assets/images/2024-11-13_iss_sstv.jpg)](https://db.satnogs.org/satellite/25544)  |
-| <div id="iss-2025-09-04"></div><br><br> **Name:** ISS <br> **Callsign:** `NA1SS` <br> **Mode:** Repeater CW ID <br> **Direction:** 1-way <br> **QSL Format:** Paper <br> **SatNOGS DB:** [25544](https://db.satnogs.org/satellite/25544) <br>[🔝 Back to Index](#top) | [![ISS QSL Card 2025-09-04](assets/images/2025-09-04_iss_cw.jpg)](https://db.satnogs.org/satellite/25544)  |
-| <div id="iss-2025-08-19"></div><br><br> **Name:** ISS <br> **Callsign:** `RS0ISS` <br> **Mode:** APRS <br> **Direction:** 1-way <br> **QSL Format:** Paper <br> **SatNOGS DB:** [25544](https://db.satnogs.org/satellite/25544) <br>[🔝 Back to Index](#top) | [![ISS QSL Card 2025-08-19](assets/images/2025-08-19_iss_aprs.jpg)](https://db.satnogs.org/satellite/25544)  |
-| <div id="iss-2026-02-27"></div><br><br> **Name:** ISS <br> **Callsign:** `RS0ISS` <br> **Mode:** APRS <br> **Direction:** 2-way <br> **QSL Format:** Paper <br> **SatNOGS DB:** [25544](https://db.satnogs.org/satellite/25544) <br>[🔝 Back to Index](#top) | [![ISS QSL Card 2026-02-27](assets/images/2026-02-27_iss_aprs_2-way.jpg)](https://db.satnogs.org/satellite/25544)  |
-| <div id="iss-2026-05-10"></div><br><br> **Name:** ISS <br> **Callsign:** `RS0ISS` <br> **Mode:** APRS <br> **Direction:** 1-way <br> **QSL Format:** Paper <br> **SatNOGS DB:** [25544](https://db.satnogs.org/satellite/25544) <br>[🔝 Back to Index](#top) | [![ISS QSL Card 2026-05-10](assets/images/2026-05-10_iss_aprs.jpg)](https://db.satnogs.org/satellite/25544)  |
+| <div id="iss-2024-10-13"></div><br><br> **Name:** ISS <br> **Callsign:** `RS0ISS` <br> **Mode:** SSTV PD120 <br> **QSL Format:** Paper <br> **SatNOGS DB:** [25544](https://db.satnogs.org/satellite/25544) <br>[🔝 Back to Index](#top) | [![ISS QSL Card 2024-10-13](assets/images/2024-10-13_iss_sstv.jpg)](https://db.satnogs.org/satellite/25544)  |
+| <div id="iss-2024-11-13"></div><br><br> **Name:** ISS <br> **Callsign:** `RS0ISS` <br> **Mode:** SSTV PD120, <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SSTV Robot36 <br> **QSL Format:** Paper <br> **SatNOGS DB:** [25544](https://db.satnogs.org/satellite/25544) <br>[🔝 Back to Index](#top) | [![ISS QSL Card 2024-11-13](assets/images/2024-11-13_iss_sstv.jpg)](https://db.satnogs.org/satellite/25544)  |
+| <div id="iss-2025-09-04"></div><br><br> **Name:** ISS <br> **Callsign:** `NA1SS` <br> **Mode:** Voice Repeater CW ID <br> **Direction:** 1-way <br> **QSL Format:** Paper <br> **SatNOGS DB:** [25544](https://db.satnogs.org/satellite/25544) <br>[🔝 Back to Index](#top) | [![ISS QSL Card 2025-09-04](assets/images/2025-09-04_iss_cw.jpg)](https://db.satnogs.org/satellite/25544)  |
+| <div id="iss-2025-08-19"></div><br><br> **Name:** ISS <br> **Callsign:** `RS0ISS` <br> **Mode:** VHF APRS <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;UHF APRS <br> **Direction:** 1-way <br> **QSL Format:** Paper <br> **SatNOGS DB:** [25544](https://db.satnogs.org/satellite/25544) <br>[🔝 Back to Index](#top) | [![ISS QSL Card 2025-08-19](assets/images/2025-08-19_iss_aprs.jpg)](https://db.satnogs.org/satellite/25544)  |
+| <div id="iss-2026-02-27"></div><br><br> **Name:** ISS <br> **Callsign:** `RS0ISS` <br> **Mode:** UHF APRS <br> **Direction:** 2-way <br> **QSL Format:** Paper <br> **SatNOGS DB:** [25544](https://db.satnogs.org/satellite/25544) <br>[🔝 Back to Index](#top) | [![ISS QSL Card 2026-02-27](assets/images/2026-02-27_iss_aprs_2-way.jpg)](https://db.satnogs.org/satellite/25544)  |
+| <div id="iss-2026-05-10"></div><br><br> **Name:** ISS <br> **Callsign:** `RS0ISS` <br> **Mode:** UHF APRS <br> **Direction:** 1-way <br> **QSL Format:** Paper <br> **SatNOGS DB:** [25544](https://db.satnogs.org/satellite/25544) <br>[🔝 Back to Index](#top) | [![ISS QSL Card 2026-05-10](assets/images/2026-05-10_iss_aprs.jpg)](https://db.satnogs.org/satellite/25544)  |
 
 ---
 ### 脚注内容
