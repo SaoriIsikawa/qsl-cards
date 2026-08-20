@@ -119,7 +119,7 @@
 - [2026-02-06~09 RS40S 92nd Anniversary of LABRE](#92nd-anniversary-of-labre-2026-02-06)
 - [2026-04-23~26 RS40S Scouts Day Special Event in SSTV](#2026-04-26-scouts-day)
 - [2026-06-19~21 RS40S White Radio Night's 2026](#2026-06-21-white-radio-nights-2026)
-- [2026-07-20~26 International Moon Day 2026](#2026-07-21-international-moon-day-2026)
+- [2026-07-20~26 RS40S International Moon Day 2026](#2026-07-21-international-moon-day-2026)
 
 
 ## 🛰️ ISS QSL 卡
@@ -405,7 +405,7 @@
 ---
 
 <a name="2026-07-21-international-moon-day-2026"></a>
-**2026-07-20~26 International Moon Day 2026**  
+**2026-07-20~26 RS40S International Moon Day 2026**  
 [🔝 Back to Index](#top)  
 ![assets/images/rs40s_moon_day_2026.jpg](assets/images/rs40s_moon_day_2026.jpg)
 
