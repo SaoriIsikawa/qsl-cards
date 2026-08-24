@@ -3,33 +3,33 @@ chcp 65001 >nul
 setlocal enabledelayedexpansion
 
 echo ========================================
-echo VimWiki .wiki ÅúÁ¿×ª»» HTML
+echo VimWiki .wiki æ‰¹é‡è½¬æ¢ HTML
 echo ========================================
 
-:: ÅäÖÃÇø - ¸ù¾İÄãµÄÊµ¼ÊÂ·¾¶ĞŞ¸Ä
+:: é…ç½®åŒº - æ ¹æ®ä½ çš„å®é™…è·¯å¾„ä¿®æ”¹
 set WIKI_DIR=%USERPROFILE%\dev\qsl-cards
 set VIM_EXE=vim
 
-:: ¼ì²é wiki Ä¿Â¼ÊÇ·ñ´æÔÚ
+:: æ£€æŸ¥ wiki ç›®å½•æ˜¯å¦å­˜åœ¨
 if not exist "%WIKI_DIR%" (
-    echo [´íÎó] Wiki Ä¿Â¼²»´æÔÚ: %WIKI_DIR%
+    echo [é”™è¯¯] Wiki ç›®å½•ä¸å­˜åœ¨: %WIKI_DIR%
     pause
     exit /b 1
 )
 
-:: ¼ÆÊıÆ÷
+:: è®¡æ•°å™¨
 set /a count=0
 set /a success=0
 set /a failed=0
 
-echo [ĞÅÏ¢] Wiki Ä¿Â¼: %WIKI_DIR%
-echo [ĞÅÏ¢] ¿ªÊ¼×ª»»...
+echo [ä¿¡æ¯] Wiki ç›®å½•: %WIKI_DIR%
+echo [ä¿¡æ¯] å¼€å§‹è½¬æ¢...
 echo.
 
-:: ±éÀúËùÓĞ .wiki ÎÄ¼ş
+:: éå†æ‰€æœ‰ .wiki æ–‡ä»¶
 for /r "%WIKI_DIR%" %%f in (*.wiki) do (
     set /a count+=1
-    echo [×ª»»] %%~nxf
+    echo [è½¬æ¢] %%~nxf
 
     %VIM_EXE% -E -s -u %USERPROFILE%\_vimrc "%%f" ^
         -c "Vimwiki2HTML" ^
@@ -37,18 +37,18 @@ for /r "%WIKI_DIR%" %%f in (*.wiki) do (
 
     if !errorlevel! == 0 (
         set /a success+=1
-        echo        ³É¹¦
+        echo        æˆåŠŸ
     ) else (
         set /a failed+=1
-        echo        Ê§°Ü
+        echo        å¤±è´¥
     )
 )
 
 echo.
 echo ========================================
-echo ×ª»»Íê³É
-echo   ×Ü¼Æ: !count! ¸öÎÄ¼ş
-echo   ³É¹¦: !success! ¸ö
-echo   Ê§°Ü: !failed! ¸ö
+echo è½¬æ¢å®Œæˆ
+echo   æ€»è®¡: !count! ä¸ªæ–‡ä»¶
+echo   æˆåŠŸ: !success! ä¸ª
+echo   å¤±è´¥: !failed! ä¸ª
 echo ========================================
 pause
