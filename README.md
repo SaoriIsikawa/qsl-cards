@@ -3,7 +3,8 @@
 
 ## 📖 快速导航
 <table>
-<tr><td valign="top">
+<tbody>
+<tr><td>
 
 [Luca (2026-02-03)](#luca-2026-02-03)  
 [GRBBeta (2026-07-25)](#grbbeta-2026-07-25)  
@@ -30,7 +31,7 @@
 [239Alferov (2025-08-17)](#239alferov-2025-08-17)  
 [LEOPARD (2026-02-04)](#leopard-2026-02-04)  
 
-</td><td valign="top">
+</td><td>
 
 [QMR-KWT-2 (2026-05-16)](#qmr-kwt-2-2026-05-16)  
 [QMR-KWT-2 (2026-04-12)](#qmr-kwt-2-2026-04-12)  
@@ -59,7 +60,7 @@
 [LASARsat (2026-03-24)](#lasarsat-2026-03-24)  
 [LASARsat (2025-05-18)](#lasarsat-2025-05-18)  
 
-</td><td valign="top">
+</td><td>
 
 [LASARsat (2025-04-08)](#lasarsat-2025-04-08)  
 [UTMN-2 (2026-07-01)](#utmn-2-2026-07-01)  
@@ -89,7 +90,7 @@
 [SAKURA (2024-10-08)](#sakura-js1yni-2024-10-08)  
 [OrbiCraft-Zorkiy (2023-05-09)](#orbicraft-zorkiy-rs15s-2023-05-09)
 
-</td></tr></table>
+</td></tr></tbody></table>
 
 ## 📃 证书与奖项
 

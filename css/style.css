@@ -43,3 +43,8 @@ body {
 .collapsible-content.hidden {
     display: none;
 }
+
+td, th {
+    vertical-align: top;    /* 垂直方向向上对齐 */
+    text-align: left;       /* 水平方向靠左对齐 */
+}

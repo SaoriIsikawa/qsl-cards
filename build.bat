@@ -38,17 +38,14 @@ del "%TMP_HTML%"
 rem echo [3/5] 验证 HTML...
 rem npx html-validate "%OUT%"
 
-rem echo [4/5] 原生懒加载...
-rem python add_lazy.py index.html
-
-rem echo [4/5] 修复html锚点...
-rem 执行转换，输出到临时文件
-rem C:\cmdtool32\awk.exe -f fix_anchors.awk index.html > index.tmp
-
+echo [4/5] 修复html锚点...
+awk -f prog.awk "%OUT%" > index.tmp
 rem 检查上一步是否成功（避免报错时误删原文件）
-rem if %ERRORLEVEL% EQU 0 (
-rem     move /y index.tmp index.html
-rem )
+if %ERRORLEVEL% EQU 0 (
+    move /y index.tmp "%OUT%"
+)
+
+
 
 echo [5/5] 完成：%OUT%
 
