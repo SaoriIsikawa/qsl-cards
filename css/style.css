@@ -1,7 +1,7 @@
 /* 2. 设置页面的整体背景和文字颜色，匹配暗色主题 */
 body {
-    background-color: #0d1117; /* GitHub 暗色模式的标准背景色 */
-    color: #c9d1d9;
+    background-color: #212830; /* GitHub 暗色柔和版（Dimmed）模式的标准背景色 */
+    color: #f0f6fc;
     color-scheme: dark;        /* 告诉浏览器这是暗色页面，适配表单、滚动条等原生元素 */
 }
 
