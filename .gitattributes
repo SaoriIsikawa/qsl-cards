@@ -1,14 +1,22 @@
+* text=auto eol=lf
+
 *.md text eol=crlf
 index.html text eol=crlf
 index2.html text eol=lf
+
 *.bat text eol=crlf
+*.cmd text eol=crlf
+
 *.wiki text eol=crlf
 *.sh text eol=lf
 *.css text eol=lf
+
 .gitignore text eol=lf
 .gitattributes text eol=lf
+
 *.png binary
 *.gif binary
 *.jpg binary
 *.jpeg binary
-* text=auto
+*.webp binary
+*.bmp binary
