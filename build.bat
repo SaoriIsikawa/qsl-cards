@@ -3,7 +3,7 @@ chcp 65001 >nul
 setlocal EnableDelayedExpansion
 
 set MD=README.md
-set CSS=css\github-markdown.css
+set CSS=css\style.css
 set OUT=index.html
 set TMP_HTML=content.html
 
@@ -21,6 +21,7 @@ if not exist "%CSS%" (
 
 echo [1/5] 渲染 Markdown...
 cmark-gfm -t html --github-pre-lang --unsafe -e table -e autolink -e strikethrough -e tasklist -e footnotes -e tagfilter "%MD%" > "%TMP_HTML%"
+rem comrak --gfm --unsafe -e footnotes "%MD%" > "%TMP_HTML%"
 
 echo [2/5] 生成 HTML 头 + 内联 CSS...
 (
@@ -34,15 +35,8 @@ echo [2/5] 生成 HTML 头 + 内联 CSS...
 
 del "%TMP_HTML%"
 
-echo [3/5] tidy 美化 HTML...
-tidy.exe ^
-  -quiet ^
-  -indent ^
-  --indent-spaces 2 ^
-  -wrap 0 ^
-  -utf8 ^
-  -modify ^
-  "%OUT%"
+rem echo [3/5] 验证 HTML...
+rem npx html-validate "%OUT%"
 
 rem echo [4/5] 原生懒加载...
 rem python add_lazy.py index.html
@@ -58,3 +52,4 @@ rem )
 
 echo [5/5] 完成：%OUT%
 
+pause
