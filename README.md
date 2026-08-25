@@ -216,7 +216,7 @@
 | <div id="sakura-js1yni-2024-10-08"></div><br><br> **Name:** SAKURA <br> **Callsign:** `JS1YNI` <br> **Mode:** CW <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;~~GMSK~~ <br> **QSL Format:** Digital <br> **SatNOGS DB:** [60954](https://db.satnogs.org/satellite/60954) <br>[🔝 Back to Index](#top) | [![SAKURA QSL Card 2024-10-08](assets/images/2024_10_08_SAKURA_JS1YNI.jpg)](https://db.satnogs.org/satellite/60954) |
 | <div id="orbicraft-zorkiy-rs15s-2023-05-09"></div><br><br> **Name:** OrbiCraft-Zorkiy <br> **Callsign:** `RS15S` <br> **Mode:** SSTV Robot 72 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [47960](https://db.satnogs.org/satellite/47960) <br>[🔝 Back to Index](#top) | [![OrbiCraft-Zorkiy QSL Card 2023-05-09](assets/images/2023-05-09_OrbiCraft-Zorkiy.jpg)](https://db.satnogs.org/satellite/47960) |
 
-## 📜 确认图像接收的证书与奖项
+## 📃 确认图像接收的证书与奖项
 
 <a id="enso-first-game-who-is"></a>
 **2025-08-11~25 ROBUSTA-1E (ENSO, FX6FRC) - First game "Who is?"**  
