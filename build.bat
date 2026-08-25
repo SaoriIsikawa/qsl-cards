@@ -45,8 +45,6 @@ if %ERRORLEVEL% EQU 0 (
     move /y index.tmp "%OUT%"
 )
 
-
-
 echo [5/5] 完成：%OUT%
 
 pause
