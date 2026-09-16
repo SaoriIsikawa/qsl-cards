@@ -7,6 +7,8 @@
 <tr><td>
 
 [TOM-3 (2026-08-27)](#tom-3-2026-08-27)  
+[TOM-2 (2026-07-09)](#tom-2-2026-07-09)  
+[TOM-1 (2026-07-09)](#tom-1-2026-07-09)  
 [Luca (2026-02-03)](#luca-2026-02-03)  
 [GRBBeta (2026-07-25)](#grbbeta-2026-07-25)  
 [GRBBeta (2026-03-31)](#grbbeta-2026-03-31)  
@@ -139,6 +141,8 @@
 | 📋 QSL Information | 🖼️ QSL Preview |
 | :--- | :--- |
 | <div id="tom-3-2026-08-27"></div><br><br> **Name:** TOM-3 <br> **Callsign:** `DP2TOC` <br> **Mode:** 9k6 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [98262](https://db.satnogs.org/satellite/98262) <br>[🔝 Back to Index](#top) | [![TOM-3 QSL Card 2026-08-27](assets/images/2026-08-27_tom-3.jpg)](https://db.satnogs.org/satellite/98262)  |
+| <div id="tom-2-2026-07-09"></div><br><br> **Name:** TOM-2 <br> **Callsign:** `DP2TOB` <br> **Mode:** 9k6 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [98263](https://db.satnogs.org/satellite/98263) <br>[🔝 Back to Index](#top) | [![TOM-2 QSL Card 2026-07-09](assets/images/2026-07-09_tom-2.jpg)](https://db.satnogs.org/satellite/98263)  |
+| <div id="tom-1-2026-07-09"></div><br><br> **Name:** TOM-1 <br> **Callsign:** `DP2TOA` <br> **Mode:** 9k6 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [98264](https://db.satnogs.org/satellite/98264) <br>[🔝 Back to Index](#top) | [![TOM-3 QSL Card 2026-07-09](assets/images/2026-07-09_tom-1.jpg)](https://db.satnogs.org/satellite/98264)  |
 | <div id="luca-2026-02-03"></div><br><br> **Name:** Luca <br> **Callsign:** `RS90S` <br> **Mode:** 2k4 USP <br> **QSL Format:** Digital <br> **SatNOGS DB:** [67287](https://db.satnogs.org/satellite/67287) <br>[🔝 Back to Index](#top) | [![Luca QSL Card 2026-02-03](assets/images/2026-02-03_luca.jpg)](https://db.satnogs.org/satellite/67287)  |
 | <div id="grbbeta-2026-07-25"></div><br><br> **Name:** GRBBeta <br> **Callsign:** `HA2GRB` <br> **Mode:** 9k6 <br> **Direction:** 1-way <br> **QSL Format:** Digital <br> **SatNOGS DB:** [60237](https://db.satnogs.org/satellite/60237) <br>[🔝 Back to Index](#top) | [![GRBBeta QSL Card 2026-07-25](assets/images/2026-07-25_grbbeta.jpg)](https://db.satnogs.org/satellite/60237)  |
 | <div id="grbbeta-2026-03-31"></div><br><br> **Name:** GRBBeta <br> **Callsign:** `HA2GRB` <br> **Mode:** 9k6 <br> **Direction:** 1-way <br> **QSL Format:** Digital <br> **SatNOGS DB:** [60237](https://db.satnogs.org/satellite/60237) <br>[🔝 Back to Index](#top) | [![GRBBeta QSL Card 2026-03-31](assets/images/2026-03-31_grbbeta.jpg)](https://db.satnogs.org/satellite/60237)  |
