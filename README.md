@@ -106,6 +106,7 @@
 - [2025-07-14~20 Expedition 73 - ARISS Series 28 - Apollo Soyuz and STS-51F](#expedition-73-ariss-series-28-apollo-soyuz-and-sts-51f-2025-07-14)
 - [2026-04-10~14 Expedition 74 - ARISS Series 31 - World Space Commemoration](#ariss-sstv-award-2026-04-10)
 - [2026-05-08~12 Expedition 74 - ARISS Series 32 - Cooperation in Space](#ariss-sstv-award-2026-05-08)
+- [2026-10-02~06 Expedition 75 - ARISS Series 33 - Student Education](#ariss-sstv-award-2026-10-02)
 - [2025-07-14~20 Russia ISS SSTV Diploma](#russia-iss-sstv-diploma-2025-07-15)
 - [2026-05-08~12 Russia ISS SSTV Diploma](#russia-iss-sstv-diploma-2026-05-08)
 - [2024-12-04 SSTV Diploma - Palace of Pioneers](#sstv-diploma-85th-anniversary-of-the-palace-of-pioneers-2024-12-04)
@@ -279,6 +280,13 @@
 **2026-05-08~12 Expedition 74 - ARISS Series 32 - Cooperation in Space**  
 [🔝 Back to Index](#top)  
 ![assets/images/ariss_sstv_award_2026-05-08.jpg](assets/images/ariss_sstv_award_2026-05-08.jpg)
+
+---
+
+<a id="ariss-sstv-award-2026-10-02"></a>
+**2026-10-02~06 Expedition 75 - ARISS Series 33 - Student Education**  
+[🔝 Back to Index](#top)  
+![assets/images/ariss_sstv_award_2026-10-02.jpg](assets/images/ariss_sstv_award_2026-10-02.jpg)
 
 ---
 
