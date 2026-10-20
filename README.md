@@ -6,6 +6,7 @@
 <tbody>
 <tr><td>
 
+[Foresail-1p (2026-07-11)](#foresail-1p-2026-07-11)  
 [GBSAT (2026-10-08)](#gbsat-2026-10-08)  
 [TOM-3 (2026-08-27)](#tom-3-2026-08-27)  
 [TOM-2 (2026-07-09)](#tom-2-2026-07-09)  
@@ -32,12 +33,12 @@
 [SAKHACUBE-CHOLBON (2026-04-11)](#sakhacube-cholbon-2026-04-11)  
 [SAKHACUBE-CHOLBON (2026-03-07)](#sakhacube-cholbon-2026-03-07)  
 [SAKHACUBE-CHOLBON (2026-02-21)](#sakhacube-cholbon-2026-02-21)  
-[InnoSat3, Geoscan-1 - Geoscan-6, InnoSat16](#innosat3-geoscan-1-geoscan-6-innosat16)  
-[239Alferov (2025-08-17)](#rs61s-2025-08-17)  
-[LEOPARD (2026-02-04)](#leopard-2026-02-04)  
 
 </td><td>
 
+[InnoSat3, Geoscan-1 - Geoscan-6, InnoSat16](#innosat3-geoscan-1-geoscan-6-innosat16)  
+[239Alferov (2025-08-17)](#rs61s-2025-08-17)  
+[LEOPARD (2026-02-04)](#leopard-2026-02-04)  
 [QMR-KWT-2 (2026-05-16)](#qmr-kwt-2-2026-05-16)  
 [QMR-KWT-2 (2026-04-12)](#qmr-kwt-2-2026-04-12)  
 [QMR-KWT-2 (2026-02-25)](#qmr-kwt-2-2026-02-25)  
@@ -141,7 +142,8 @@
 
 | 📋 QSL Information | 🖼️ QSL Preview |
 | :--- | :--- |
-| <div id="gbsat-2026-10-08"></div><br><br> **Name:** GBSAT <br> **Mode:** 9k6 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [98243](https://db.satnogs.org/satellite/98243) <br>[🔝 Back to Index](#top) | [![GBSAT QSL Card 2026-10-08](assets/images/2026-10-08_gbsat.jpg)](https://db.satnogs.org/satellite/98243)  |
+| <div id="foresail-1p-2026-07-11"></div><br><br> **Name:** Foresail-1p <br> **Callsign:** `OH2F1S` <br> **Mode:** 9k6 <br> **QSL Format:** Paper <br> **SatNOGS DB:** [66778](https://db.satnogs.org/satellite/66778) <br>[🔝 Back to Index](#top) | [![Foresail-1p QSL Card 2026-07-11](assets/images/2026-07-11_foresail-1p.jpg)](https://db.satnogs.org/satellite/66778)  |
+| <div id="gbsat-2026-10-08"></div><br><br> **Name:** GBSAT <br> **Callsign:** `6M2CK` <br> **Mode:** 9k6 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [98243](https://db.satnogs.org/satellite/98243) <br>[🔝 Back to Index](#top) | [![GBSAT QSL Card 2026-10-08](assets/images/2026-10-08_gbsat.jpg)](https://db.satnogs.org/satellite/98243)  |
 | <div id="tom-3-2026-08-27"></div><br><br> **Name:** TOM-3 <br> **Callsign:** `DP2TOC` <br> **Mode:** 9k6 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [98262](https://db.satnogs.org/satellite/98262) <br>[🔝 Back to Index](#top) | [![TOM-3 QSL Card 2026-08-27](assets/images/2026-08-27_tom-3.jpg)](https://db.satnogs.org/satellite/98262)  |
 | <div id="tom-2-2026-07-09"></div><br><br> **Name:** TOM-2 <br> **Callsign:** `DP2TOB` <br> **Mode:** 9k6 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [98263](https://db.satnogs.org/satellite/98263) <br>[🔝 Back to Index](#top) | [![TOM-2 QSL Card 2026-07-09](assets/images/2026-07-09_tom-2.jpg)](https://db.satnogs.org/satellite/98263)  |
 | <div id="tom-1-2026-07-09"></div><br><br> **Name:** TOM-1 <br> **Callsign:** `DP2TOA` <br> **Mode:** 9k6 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [98264](https://db.satnogs.org/satellite/98264) <br>[🔝 Back to Index](#top) | [![TOM-3 QSL Card 2026-07-09](assets/images/2026-07-09_tom-1.jpg)](https://db.satnogs.org/satellite/98264)  |
