@@ -8,6 +8,7 @@
 
 [Foresail-1p (2026-07-11)](#foresail-1p-2026-07-11)  
 [GBSAT (2026-10-08)](#gbsat-2026-10-08)  
+[CloudCT-Precursor (2026-10-25)](#cloudct-precursor-2026-10-25)  
 [TOM-3 (2026-08-27)](#tom-3-2026-08-27)  
 [TOM-2 (2026-07-09)](#tom-2-2026-07-09)  
 [TOM-1 (2026-07-09)](#tom-1-2026-07-09)  
@@ -107,6 +108,7 @@
 - [2026-04-10~14 Expedition 74 - ARISS Series 31 - World Space Commemoration](#ariss-sstv-award-2026-04-10)
 - [2026-05-08~12 Expedition 74 - ARISS Series 32 - Cooperation in Space](#ariss-sstv-award-2026-05-08)
 - [2026-10-02~06 Expedition 75 - ARISS Series 33 - Student Education](#ariss-sstv-award-2026-10-02)
+- [2026-10-22~26 Expedition 75 - ARISS Series 34 - ARISS Hardware](#ariss-sstv-award-2026-10-22)
 - [2025-07-14~20 Russia ISS SSTV Diploma](#russia-iss-sstv-diploma-2025-07-15)
 - [2026-05-08~12 Russia ISS SSTV Diploma](#russia-iss-sstv-diploma-2026-05-08)
 - [2024-12-04 SSTV Diploma - Palace of Pioneers](#sstv-diploma-85th-anniversary-of-the-palace-of-pioneers-2024-12-04)
@@ -144,6 +146,7 @@
 | :--- | :--- |
 | <div id="foresail-1p-2026-07-11"></div><br><br> **Name:** Foresail-1p <br> **Callsign:** `OH2F1S` <br> **Mode:** 9k6 <br> **QSL Format:** Paper <br> **SatNOGS DB:** [66778](https://db.satnogs.org/satellite/66778) <br>[🔝 Back to Index](#top) | [![Foresail-1p QSL Card 2026-07-11](assets/images/2026-07-11_foresail-1p.jpg)](https://db.satnogs.org/satellite/66778)  |
 | <div id="gbsat-2026-10-08"></div><br><br> **Name:** GBSAT <br> **Callsign:** `6M2CK` <br> **Mode:** 9k6 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [98243](https://db.satnogs.org/satellite/98243) <br>[🔝 Back to Index](#top) | [![GBSAT QSL Card 2026-10-08](assets/images/2026-10-08_gbsat.jpg)](https://db.satnogs.org/satellite/98243)  |
+| <div id="cloudct-precursor-2026-10-25"></div><br><br> **Name:** CloudCT-Precursor <br> **Callsign:** `DP2CTP` <br> **Mode:** 9k6 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [98278](https://db.satnogs.org/satellite/98278) <br>[🔝 Back to Index](#top) | [![CloudCT-Precursor QSL Card 2026-10-25](assets/images/2026-10-25_CloudCT-Precursor.jpg)](https://db.satnogs.org/satellite/98278)  |
 | <div id="tom-3-2026-08-27"></div><br><br> **Name:** TOM-3 <br> **Callsign:** `DP2TOC` <br> **Mode:** 9k6 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [98262](https://db.satnogs.org/satellite/98262) <br>[🔝 Back to Index](#top) | [![TOM-3 QSL Card 2026-08-27](assets/images/2026-08-27_tom-3.jpg)](https://db.satnogs.org/satellite/98262)  |
 | <div id="tom-2-2026-07-09"></div><br><br> **Name:** TOM-2 <br> **Callsign:** `DP2TOB` <br> **Mode:** 9k6 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [98263](https://db.satnogs.org/satellite/98263) <br>[🔝 Back to Index](#top) | [![TOM-2 QSL Card 2026-07-09](assets/images/2026-07-09_tom-2.jpg)](https://db.satnogs.org/satellite/98263)  |
 | <div id="tom-1-2026-07-09"></div><br><br> **Name:** TOM-1 <br> **Callsign:** `DP2TOA` <br> **Mode:** 9k6 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [98264](https://db.satnogs.org/satellite/98264) <br>[🔝 Back to Index](#top) | [![TOM-3 QSL Card 2026-07-09](assets/images/2026-07-09_tom-1.jpg)](https://db.satnogs.org/satellite/98264)  |
@@ -287,6 +290,13 @@
 **2026-10-02~06 Expedition 75 - ARISS Series 33 - Student Education**  
 [🔝 Back to Index](#top)  
 ![assets/images/ariss_sstv_award_2026-10-02.jpg](assets/images/ariss_sstv_award_2026-10-02.jpg)
+
+---
+
+<a id="ariss-sstv-award-2026-10-22"></a>
+**2026-10-22~26 Expedition 75 - ARISS Series 34 - ARISS Hardware**  
+[🔝 Back to Index](#top)  
+![assets/images/ariss_sstv_award_2026-10-22.jpg](assets/images/ariss_sstv_award_2026-10-22.jpg)
 
 ---
 
