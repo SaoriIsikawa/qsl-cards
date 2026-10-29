@@ -207,11 +207,11 @@ window.onload = function() {
     alert('无法加载 background.png，请检查文件是否存在。');
   };
 
-  backgroundImg.src = '../assets/images/background.png';
+  backgroundImg.src = 'images/background.png';
 
   const logo = new Image();
   logo.onload = function() { logoImg = logo; renderQSL(); };
-  logo.src = '../assets/images/logo.png';
+  logo.src = 'images/logo.png';
 
   document.fonts.load('900 165px Roboto').then(function() {
     renderQSL();
