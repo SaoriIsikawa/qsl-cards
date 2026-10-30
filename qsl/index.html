@@ -4,7 +4,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>QSL 卡自助发卡器</title>
-<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700;900&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;0,700;0,900;1,400;1,500;1,700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@700&display=swap" rel="stylesheet">
 <style>
 * { box-sizing: border-box; }
 body {
@@ -95,8 +96,8 @@ h2 {
   <h2>填写 QSO 信息</h2>
   <div class="form-grid" oninput="syncForm()">
     <div>
-      <label for="inCall">呼号 Call</label>
-      <input type="text" id="inCall" placeholder="BG7ABC" maxlength="10" autocomplete="off" style="text-transform:uppercase;">
+      <label for="inCall">呼号 Callsign</label>
+      <input type="text" id="inCall" placeholder="BG7ABC / SWL" maxlength="14" autocomplete="off" style="text-transform:uppercase;" autocapitalize="characters" autocorrect="off" spellcheck="false">
     </div>
     <div>
       <label for="inDate">日期 (UTC)</label>
@@ -108,15 +109,15 @@ h2 {
     </div>
     <div>
       <label for="inFreq">频率 MHz</label>
-      <input type="text" id="inFreq" placeholder="14.270">
+      <input type="text" id="inFreq" placeholder="14.074">
     </div>
     <div>
       <label for="inMode">模式 Mode</label>
-      <input type="text" id="inMode" placeholder="SSB / FT8" maxlength="8" autocomplete="off" style="text-transform:uppercase;">
+      <input type="text" id="inMode" placeholder="FT8 / SSB" maxlength="8" autocomplete="off" style="text-transform:uppercase;" autocapitalize="characters" autocorrect="off" spellcheck="false">
     </div>
     <div>
       <label for="inRst">信号报告 RST</label>
-      <input type="text" id="inRst" placeholder="59" maxlength="7">
+      <input type="text" id="inRst" placeholder="-10 / 59" maxlength="7">
     </div>
   </div>
 </div>
@@ -153,9 +154,9 @@ h2 {
   <input type="range" id="h_topBar" value="10">
   <input type="range" id="op_topBar" value="65">
 
-  <input type="checkbox" id="c_bottomBar" checked>
+  <input type="checkbox" id="c_bottomBar">
   <input type="color" id="col_bottomBar" value="#000000">
-  <input type="range" id="h_bottomBar" value="25">
+  <input type="range" id="h_bottomBar" value="34">
   <input type="range" id="op_bottomBar" value="65">
 
   <input type="checkbox" id="c_logo" checked>
@@ -177,14 +178,14 @@ let logoObj = { x: 1225, y: 30, w: 400, h: 400 };
 let draggingElement = null;
 
 const qslElementsDef = [
-  { id: 'myCall', lbl: 'My Callsign', defTxt: 'BG7XTQ', size: 165, x: 65, y: 185, wt: 900, b: true, i: false, col: '#ff0000', stroke: '#000000', sw: 12, fnt: '"Roboto", sans-serif' },
-  { id: 'city', lbl: 'My City', defTxt: 'Nanning, China', size: 42, x: 75, y: 300, b: true, i: false, col: '#000000', stroke: '#ffffff', sw: 4, fnt: '"Roboto", sans-serif' },
-  { id: 'grid', lbl: 'GRID', defTxt: 'OL42dt', size: 42, x: 75, y: 350, b: true, i: false, col: '#000000', stroke: '#ffffff', sw: 4, fnt: '"Roboto", sans-serif' },
+  { id: 'myCall', lbl: 'My Callsign', defTxt: 'BG7XTQ', size: 165, x: 65, y: 185, wt: 900, b: true, i: false, col: '#ff0000', stroke: '#000000', sw: 12, fnt: '"Roboto Mono", monospace' },
+  { id: 'city', lbl: 'My City', defTxt: 'Nanning, China', size: 44, x: 75, y: 300, wt: 500, b: false, i: false, col: '#222222', stroke: '#ffffff', sw: 0, so: false, fnt: '"Roboto", sans-serif' },
+  { id: 'grid', lbl: 'GRID', defTxt: 'OL42dt', size: 36, x: 75, y: 350, wt: 700, b: true, i: false, col: '#1f5fbf', stroke: '#ffffff', sw: 0, so: false, fnt: '"Roboto Mono", monospace' },
   { id: 'qsoData', lbl: 'QSO Data', defTxt: '', size: 55, x: 65, y: 965, b: true, i: false, col: '#ffffff', stroke: '#000000', sw: 7, fnt: 'Roboto' },
   { id: 'note', lbl: 'Note', defTxt: '', size: 34, x: 65, y: 1048, b: false, i: false, col: '#ffffff', stroke: '#000000', sw: 5, fnt: 'Roboto' }
 ];
 
-const fonts = ['Arial', '"Roboto", sans-serif', 'Verdana', '"Courier New", monospace', '"Dancing Script", cursive', '"Caveat", cursive', '"Times New Roman", serif', '"Poor Richard", serif', 'Georgia', '"Comic Sans MS", cursive', 'Tahoma', '"Trebuchet MS", sans-serif', 'Impact', '"Lucida Console", monospace', 'Palatino Linotype', 'Book Antiqua'];
+const fonts = ['Arial', '"Roboto", sans-serif', '"Roboto Mono", monospace', 'Verdana', '"Courier New", monospace', '"Dancing Script", cursive', '"Caveat", cursive', '"Times New Roman", serif', '"Poor Richard", serif', 'Georgia', '"Comic Sans MS", cursive', 'Tahoma', '"Trebuchet MS", sans-serif', 'Impact', '"Lucida Console", monospace', 'Palatino Linotype', 'Book Antiqua'];
 
 window.onload = function() {
   qslCanvas = document.getElementById('qslCanvas');
@@ -214,6 +215,15 @@ window.onload = function() {
   logo.src = 'images/logo.png';
 
   document.fonts.load('900 165px Roboto').then(function() {
+    renderQSL();
+  });
+  document.fonts.load('700 165px "Roboto Mono"').then(function() {
+    renderQSL();
+  });
+  document.fonts.load('italic 500 38px Roboto').then(function() {
+    renderQSL();
+  });
+  document.fonts.load('500 44px Roboto').then(function() {
     renderQSL();
   });
   document.fonts.ready.then(function() {
@@ -261,7 +271,7 @@ function initFields() {
       <input type="text" id="txt_qsl_${el.id}" placeholder="${el.lbl}" value="${el.defTxt}">
       <input type="color" id="col_qsl_${el.id}" value="${el.col}" title="Colore testo">
       <input type="color" id="strk_qsl_${el.id}" value="${el.stroke}" title="Colore contorno">
-      <label class="outline-toggle" title="Contorno on/off"><input type="checkbox" id="so_qsl_${el.id}" checked>S</label>
+      <label class="outline-toggle" title="Contorno on/off"><input type="checkbox" id="so_qsl_${el.id}" ${el.so === false ? '' : 'checked'}>S</label>
       <input type="number" id="sw_qsl_${el.id}" value="${el.sw}" min="0" max="50" title="Spessore contorno">
       <select id="fnt_qsl_${el.id}">${fontOptions}</select>
       <input type="number" id="sz_qsl_${el.id}" value="${el.size}" min="10" max="300" title="Dimensione">
@@ -362,6 +372,42 @@ function hexToRgba(hex, opacity) {
   return `rgba(${r}, ${g}, ${b}, ${opacity / 100})`;
 }
 
+function drawCallsign(ctx, text, x, y, size) {
+  const s = size / 165;                       // 以 165px 为基准等比缩放
+  ctx.save();
+  ctx.font = `700 ${size}px "Roboto Mono", monospace`;
+  if ('letterSpacing' in ctx) ctx.letterSpacing = (8 * s) + 'px';
+  ctx.textAlign = 'left';
+  ctx.lineJoin = 'round';
+
+  ctx.shadowColor = 'rgba(0,0,0,0.6)';
+  ctx.shadowBlur = 14 * s;
+  ctx.shadowOffsetX = 5 * s;
+  ctx.shadowOffsetY = 6 * s;
+  ctx.strokeStyle = '#111111';
+  ctx.lineWidth = 18 * s;
+  ctx.strokeText(text, x, y);
+
+  ctx.shadowColor = 'transparent';
+  ctx.shadowBlur = 0;
+  ctx.shadowOffsetX = 0;
+  ctx.shadowOffsetY = 0;
+  ctx.strokeStyle = '#ffffff';
+  ctx.lineWidth = 13 * s;
+  ctx.strokeText(text, x, y);
+
+  const g = ctx.createLinearGradient(0, y - size * 0.72, 0, y);
+  g.addColorStop(0, '#ff5a3c');               // M3 改成 '#fff3a0'
+  g.addColorStop(1, '#c1121f');               // M3 改成 '#ffb703'
+  ctx.fillStyle = g;
+  ctx.fillText(text, x, y);
+
+  const w = ctx.measureText(text).width;      // 返回宽度，供拖动命中检测使用
+  ctx.restore();
+  return w;
+}
+
+
 function renderQSL() {
   if (!qslCtx) return;
   const w = qslCanvas.width, h = qslCanvas.height;
@@ -433,6 +479,11 @@ function renderQSL() {
     const obj = dragObjects[el.id];
     const size = parseInt(document.getElementById('sz_qsl_' + el.id).value) || 30;
     obj.size = size; obj.h = size;
+    // ↓ 新增：只对呼号走新的绘制函数
+    if (el.id === 'myCall') {
+      obj.w = drawCallsign(qslCtx, text, obj.x, obj.y, size);
+      return;
+    }
     const isItalic = document.getElementById('i_qsl_' + el.id).checked;
     const isBold = document.getElementById('b_qsl_' + el.id).checked;
     const strokeOn = document.getElementById('so_qsl_' + el.id).checked;
@@ -456,15 +507,15 @@ qslCtx.save();
 qslCtx.font = 'bold 32px Roboto';
 qslCtx.textAlign = 'left';
 qslCtx.textBaseline = 'bottom';
-qslCtx.fillStyle = '#ffffff';
-qslCtx.fillText('Confirming the following:', 65, 860);
+qslCtx.fillStyle = '#222222';
+qslCtx.fillText('Confirming the following:', 65, 760);
 qslCtx.restore();
 
 
 
   // 绘制 QSO 信息表格
   const tableX = 65;
-  const tableY = 870;
+  const tableY = 770;
   const tableW = QSL_WIDTH - 130;
   const rowH = 64;
   const colWidths = [
@@ -475,16 +526,17 @@ qslCtx.restore();
     tableW * 0.14,
     tableW * 0.14
   ];
-  const headers = ['To Radio', 'Date (UTC)', 'Time (UTC)', 'MHz', 'Mode', 'RST'];
+  const headers = ['TO RADIO', 'DATE', 'UTC', 'MHz', 'MODE', 'RST'];
   const rows = 2;
 
+  // 绘制表头
   qslCtx.save();
-  qslCtx.font = 'bold 32px Roboto';
+  qslCtx.font = 'italic bold 28px Roboto';
   qslCtx.textAlign = 'center';
   qslCtx.textBaseline = 'middle';
   qslCtx.lineWidth = 3;
-  qslCtx.strokeStyle = '#ffffff';
-  qslCtx.fillStyle = 'rgba(0, 0, 0, 0.65)';
+  qslCtx.strokeStyle = '#333333';
+  qslCtx.fillStyle = 'rgba(255, 255, 255, 0.88)';
 
   qslCtx.fillRect(tableX, tableY, tableW, rowH * rows);
 
@@ -501,7 +553,7 @@ qslCtx.restore();
   headers.forEach((header, i) => {
     const cellW = colWidths[i];
 
-    qslCtx.fillStyle = '#ffffff';
+    qslCtx.fillStyle = '#333333';
     qslCtx.fillText(
       header,
       x + cellW / 2,
@@ -538,34 +590,33 @@ const values = [
     formattedDate,
     document.getElementById('inTime').value,
     document.getElementById('inFreq').value,
-    document.getElementById('inMode').value,
+    document.getElementById('inMode').value.trim().toUpperCase(),
     document.getElementById('inRst').value
 ];
   x = tableX;
-  qslCtx.font = 'bold 34px Roboto';
   values.forEach((val, i) => {
-    qslCtx.fillStyle = '#ffffff';
-    qslCtx.fillText(val, x + colWidths[i] / 2, tableY + rowH * 1.5);
-    x += colWidths[i];
-  });
+  qslCtx.font = (i === 0)
+    ? '700 34px "Roboto Mono", monospace'    // 第 1 列：访客呼号用 Roboto Mono
+    : 'bold 34px Roboto';
+  qslCtx.fillStyle = (i === 3) ? '#c1121f' : '#111111';   // 第 4 列 MHz 用深红
+  qslCtx.fillText(val, x + colWidths[i] / 2, tableY + rowH * 1.5);
+  x += colWidths[i];
+});
 
   qslCtx.restore();
 
-  // 表格右下方的 73
+  // 表格右下方的签名
   qslCtx.save();
-  qslCtx.font = 'bold 48px Roboto';
+  qslCtx.font = 'italic 500 38px Roboto';
   qslCtx.textAlign = 'right';
-  qslCtx.textBaseline = 'middle';
-  qslCtx.fillStyle = '#ffffff';
-  qslCtx.fillText('73', tableX + tableW, tableY + rowH * rows + 33);
+  qslCtx.textBaseline = 'alphabetic';
+  qslCtx.fillStyle = '#222222';
+  qslCtx.fillText('73 DE Funing', tableX + tableW, tableY + rowH * rows + 44);
   qslCtx.restore();
 
 
   if (logoImg && document.getElementById('c_logo').checked) {
-    qslCtx.shadowColor = "black";
-    qslCtx.shadowBlur = 10;
     qslCtx.drawImage(logoImg, logoObj.x, logoObj.y, logoObj.w, logoObj.h);
-    qslCtx.shadowBlur = 0;
   }
 }
 
