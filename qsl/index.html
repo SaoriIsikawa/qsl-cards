@@ -174,13 +174,15 @@ let backgroundImg = null;
 let cropMode = false, cropBox = null, cropAction = null, cropStartPos = null;
 let offset = { x: 0, y: 0 };
 let dragObjects = {};
-let logoObj = { x: 1225, y: 30, w: 400, h: 400 };
+let logoObj = { x: 1229, y: 65, w: 360, h: 360 };
 let draggingElement = null;
+let flagImg = null;
+let qrImg = null;
 
 const qslElementsDef = [
   { id: 'myCall', lbl: 'My Callsign', defTxt: 'BG7XTQ', size: 165, x: 65, y: 185, wt: 900, b: true, i: false, col: '#ff0000', stroke: '#000000', sw: 12, fnt: '"Roboto Mono", monospace' },
-  { id: 'city', lbl: 'My City', defTxt: 'Nanning, China', size: 44, x: 75, y: 300, wt: 500, b: false, i: false, col: '#222222', stroke: '#ffffff', sw: 0, so: false, fnt: '"Roboto", sans-serif' },
-  { id: 'grid', lbl: 'GRID', defTxt: 'OL42dt', size: 36, x: 75, y: 350, wt: 700, b: true, i: false, col: '#1f5fbf', stroke: '#ffffff', sw: 0, so: false, fnt: '"Roboto Mono", monospace' },
+  { id: 'qth', lbl: 'QTH', defTxt: 'Nanning', size: 44, x: 65, y: 300, wt: 500, b: false, i: false, col: '#222222', stroke: '#ffffff', sw: 0, so: false, fnt: '"Roboto", sans-serif' },
+  { id: 'grid', lbl: 'GRID', defTxt: 'OL42dt', size: 36, x: 65, y: 350, wt: 700, b: true, i: false, col: '#1f5fbf', stroke: '#ffffff', sw: 0, so: false, fnt: '"Roboto Mono", monospace' },
   { id: 'qsoData', lbl: 'QSO Data', defTxt: '', size: 55, x: 65, y: 965, b: true, i: false, col: '#ffffff', stroke: '#000000', sw: 7, fnt: 'Roboto' },
   { id: 'note', lbl: 'Note', defTxt: '', size: 34, x: 65, y: 1048, b: false, i: false, col: '#ffffff', stroke: '#000000', sw: 5, fnt: 'Roboto' }
 ];
@@ -213,6 +215,14 @@ window.onload = function() {
   const logo = new Image();
   logo.onload = function() { logoImg = logo; renderQSL(); };
   logo.src = 'images/logo.png';
+
+  const flag = new Image();
+  flag.onload = function() { flagImg = flag; renderQSL(); };
+  flag.src = 'images/flag.png';
+
+  const qr = new Image();
+  qr.onload = function() { qrImg = qr; renderQSL(); };
+  qr.src = 'images/qr.png';
 
   document.fonts.load('900 165px Roboto').then(function() {
     renderQSL();
@@ -372,39 +382,132 @@ function hexToRgba(hex, opacity) {
   return `rgba(${r}, ${g}, ${b}, ${opacity / 100})`;
 }
 
+
+// 剥落效果参数（165px 字号下的数值，会随字号等比缩放）
+const PEEL = { count: 3, lift: 28, dx: -34, rot: -0.24, shrink: 0.26, tuck: 0.30 };
+
 function drawCallsign(ctx, text, x, y, size) {
-  const s = size / 165;                       // 以 165px 为基准等比缩放
+  const s = size / 165;
+  const n = text.length;
+  const capH = size * 0.72;
+  const gap = 8 * s;
+
   ctx.save();
   ctx.font = `700 ${size}px "Roboto Mono", monospace`;
-  if ('letterSpacing' in ctx) ctx.letterSpacing = (8 * s) + 'px';
+  if ('letterSpacing' in ctx) ctx.letterSpacing = '0px';
   ctx.textAlign = 'left';
+  ctx.textBaseline = 'alphabetic';
   ctx.lineJoin = 'round';
 
-  ctx.shadowColor = 'rgba(0,0,0,0.6)';
-  ctx.shadowBlur = 14 * s;
-  ctx.shadowOffsetX = 5 * s;
-  ctx.shadowOffsetY = 6 * s;
-  ctx.strokeStyle = '#111111';
-  ctx.lineWidth = 18 * s;
-  ctx.strokeText(text, x, y);
+  // 1. 逐个字母排版：最后 PEEL.count 个字母逐渐剥落，字距同时收紧
+  const letters = [];
+  let cx = x;
+  for (let i = 0; i < n; i++) {
+    const adv = ctx.measureText(text[i]).width;
+    const k = Math.min(1, Math.max(0, (i - (n - PEEL.count - 1)) / PEEL.count));
+    const e = k * k;                         // 0 = 贴在卡上，1 = 剥落最多
+    letters.push({ ch: text[i], x: cx, adv: adv, e: e });
+    cx += (adv + gap) * (1 - e * PEEL.tuck);
+  }
 
-  ctx.shadowColor = 'transparent';
-  ctx.shadowBlur = 0;
-  ctx.shadowOffsetX = 0;
-  ctx.shadowOffsetY = 0;
-  ctx.strokeStyle = '#ffffff';
-  ctx.lineWidth = 13 * s;
-  ctx.strokeText(text, x, y);
+  // 2. 卡片上留下的字形印记
+  ctx.fillStyle = 'rgba(0,0,0,0.08)';
+  ctx.strokeStyle = 'rgba(0,0,0,0.18)';
+  ctx.lineWidth = 2 * s;
+  letters.forEach(L => {
+    if (L.e <= 0) return;
+    ctx.fillText(L.ch, L.x, y);
+    ctx.strokeText(L.ch, L.x, y);
+  });
 
-  const g = ctx.createLinearGradient(0, y - size * 0.72, 0, y);
-  g.addColorStop(0, '#ff5a3c');               // M3 改成 '#fff3a0'
-  g.addColorStop(1, '#c1121f');               // M3 改成 '#ffb703'
-  ctx.fillStyle = g;
-  ctx.fillText(text, x, y);
+  // 3. 逐个字母绘制：侧面厚度（最深一层带投影）→ 外描边 → 白描边 → 渐变正面
+  letters.forEach(L => {
+    const e = L.e;
+    const sx = 1 - PEEL.shrink * e;
+    const sy = 1 - PEEL.shrink * 0.45 * e;
+    const depth = Math.max(2, Math.round((4 + e * 10) * s));
 
-  const w = ctx.measureText(text).width;      // 返回宽度，供拖动命中检测使用
+    ctx.save();
+    ctx.translate(L.x + L.adv / 2 + PEEL.dx * s * e, y - capH / 2 - PEEL.lift * s * e);
+    ctx.rotate(PEEL.rot * e);
+    ctx.transform(sx, 0, 0, sy, 0, 0);
+    const ox = -L.adv / 2, oy = capH / 2;
+
+    for (let d = depth; d >= 1; d--) {
+      if (d === depth) {
+        ctx.shadowColor = 'rgba(0,0,0,0.38)';
+        ctx.shadowBlur = (10 + e * 16) * s;
+        ctx.shadowOffsetX = (4 + e * 14) * s;
+        ctx.shadowOffsetY = (6 + e * 22) * s;
+      } else {
+        ctx.shadowColor = 'transparent';
+      }
+      ctx.strokeStyle = '#4a0b11';
+      ctx.lineWidth = 18 * s;
+      ctx.strokeText(L.ch, ox + d * 0.55, oy + d * 0.85);
+    }
+    ctx.shadowColor = 'transparent';
+    ctx.shadowBlur = 0;
+    ctx.shadowOffsetX = 0;
+    ctx.shadowOffsetY = 0;
+
+    ctx.strokeStyle = '#111111';
+    ctx.lineWidth = 18 * s;
+    ctx.strokeText(L.ch, ox, oy);
+    ctx.strokeStyle = '#ffffff';
+    ctx.lineWidth = 13 * s;
+    ctx.strokeText(L.ch, ox, oy);
+
+    const g = ctx.createLinearGradient(0, -capH / 2, 0, capH / 2);
+    g.addColorStop(0, '#ff5a3c');
+    g.addColorStop(1, '#c1121f');
+    ctx.fillStyle = g;
+    ctx.fillText(L.ch, ox, oy);
+    ctx.restore();
+  });
+
   ctx.restore();
-  return w;
+  return cx - x - gap;                       // 总宽度，供拖动命中检测使用
+}
+
+function drawMorse(ctx, text, x, y, u, color) {
+  const MORSE = {
+    A:'.-', B:'-...', C:'-.-.', D:'-..', E:'.', F:'..-.', G:'--.', H:'....', I:'..',
+    J:'.---', K:'-.-', L:'.-..', M:'--', N:'-.', O:'---', P:'.--.', Q:'--.-', R:'.-.',
+    S:'...', T:'-', U:'..-', V:'...-', W:'.--', X:'-..-', Y:'-.--', Z:'--..',
+    '0':'-----', '1':'.----', '2':'..---', '3':'...--', '4':'....-',
+    '5':'.....', '6':'-....', '7':'--...', '8':'---..', '9':'----.', '/':'-..-.'
+  };
+  const t = u * 0.7;                              // 点划的粗细
+  ctx.save();
+  ctx.fillStyle = color;
+  ctx.strokeStyle = color;
+  ctx.lineWidth = t;
+  ctx.lineCap = 'round';
+  let cx = x;
+  for (const ch of text.toUpperCase()) {
+    if (ch === ' ') { cx += 7 * u; continue; }
+    const code = MORSE[ch];
+    if (!code) continue;
+    for (const sym of code) {
+      if (sym === '.') {
+        ctx.beginPath();
+        ctx.arc(cx + u / 2, y, t / 2, 0, Math.PI * 2);
+        ctx.fill();
+        cx += u;
+      } else {
+        ctx.beginPath();
+        ctx.moveTo(cx + t / 2, y);
+        ctx.lineTo(cx + 3 * u - t / 2, y);
+        ctx.stroke();
+        cx += 3 * u;
+      }
+      cx += u;                                    // 符号之间 1 个单位
+    }
+    cx += 2 * u;                                  // 字母之间补足到 3 个单位
+  }
+  ctx.restore();
+  return cx - x;
 }
 
 
@@ -508,7 +611,7 @@ qslCtx.font = 'bold 32px Roboto';
 qslCtx.textAlign = 'left';
 qslCtx.textBaseline = 'bottom';
 qslCtx.fillStyle = '#222222';
-qslCtx.fillText('Confirming the following:', 65, 760);
+qslCtx.fillText('Confirming the following:', 65, 730);
 qslCtx.restore();
 
 
@@ -536,7 +639,7 @@ qslCtx.restore();
   qslCtx.textBaseline = 'middle';
   qslCtx.lineWidth = 3;
   qslCtx.strokeStyle = '#333333';
-  qslCtx.fillStyle = 'rgba(255, 255, 255, 0.88)';
+  qslCtx.fillStyle = 'rgba(255, 255, 255, 0.72)';
 
   qslCtx.fillRect(tableX, tableY, tableW, rowH * rows);
 
@@ -618,6 +721,36 @@ const values = [
   if (logoImg && document.getElementById('c_logo').checked) {
     qslCtx.drawImage(logoImg, logoObj.x, logoObj.y, logoObj.w, logoObj.h);
   }
+
+  // ↓ 新增：国旗（官方标准图，不加任何特效）
+  if (flagImg) {
+    qslCtx.imageSmoothingQuality = 'high';
+    const fw = 220;                                   // 宽度，可调
+    const fh = fw * flagImg.height / flagImg.width;   // 按原图比例，约 3:2
+    qslCtx.drawImage(flagImg, 65, 395, fw, fh);       // 位置见下面的说明
+  }
+
+  // 摩尔斯装饰条：内容取自呼号输入框
+//  drawMorse(qslCtx, document.getElementById('txt_qsl_myCall').value, 65, 645, 5, '#1f5fbf');
+
+ // QSL 说明行（表格下方，底边留白区之上）
+//  qslCtx.save();
+//  qslCtx.font = '400 26px Roboto';
+//  qslCtx.textAlign = 'left';
+//  qslCtx.textBaseline = 'alphabetic';
+//  qslCtx.fillStyle = '#444444';
+//  qslCtx.fillText('PSE / TNX QSL  ·  LoTW  ·  eQSL', 65, 905);
+//  qslCtx.restore();
+
+  // 二维码：用一张事先生成好的 PNG，不需要额外的库
+  if (qrImg) {
+    qslCtx.save();
+    // 鹿角用，不用锐利代码 qslCtx.imageSmoothingEnabled = false;       // 保持锐利，扫码更稳
+    qslCtx.drawImage(qrImg, 1449, 470, 140, 140);
+    qslCtx.restore();
+  }
+
+
 }
 
 function getQslPos(e) {
@@ -981,8 +1114,8 @@ function printQSL() {
     win.document.write(
       '<html><head><title>QSL卡片</title><style>' +
       'body{margin:0;display:flex;justify-content:center;align-items:center;height:100vh;}' +
-      'img{width:151mm;height:105mm;object-fit:contain;}' +
-      '@media print{@page{size:151mm 105mm;margin:0;}body{margin:0;}img{width:151mm;height:105mm;}}' +
+      'img{width:140mm;height:90mm;object-fit:contain;}' +
+      '@media print{@page{size:140mm 90mm;margin:0;}body{margin:0;}img{width:140mm;height:90mm;}}' +
       '</style></head><body><img src="' + url + '" onload="window.print();"></body></html>'
     );
     win.document.close();
