@@ -1,8 +1,8 @@
 * text=auto eol=lf
 
 *.md text eol=crlf
-*.html text eol=crlf
-*.css text eol=crlf
+#*.html text eol=crlf
+#*.css text eol=crlf
 *.awk text eol=crlf
 
 *.bat text eol=crlf
