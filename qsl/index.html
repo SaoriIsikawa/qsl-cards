@@ -180,7 +180,7 @@ let flagImg = null;
 let qrImg = null;
 
 const qslElementsDef = [
-  { id: 'myCall', lbl: 'My Callsign', defTxt: 'BG7XTQ', size: 165, x: 65, y: 185, wt: 900, b: true, i: false, col: '#ff0000', stroke: '#000000', sw: 12, fnt: '"Roboto Mono", monospace' },
+  { id: 'myCall', lbl: 'My Callsign', defTxt: 'BG7XTQ', size: 165, x: 65, y: 185, wt: 700, b: true, i: false, col: '#ff0000', stroke: '#000000', sw: 12, fnt: '"Roboto Mono", monospace' },
   { id: 'qth', lbl: 'QTH', defTxt: 'Nanning', size: 44, x: 65, y: 300, wt: 500, b: false, i: false, col: '#222222', stroke: '#ffffff', sw: 0, so: false, fnt: '"Roboto", sans-serif' },
   { id: 'grid', lbl: 'GRID', defTxt: 'OL42dt', size: 36, x: 65, y: 350, wt: 700, b: true, i: false, col: '#1f5fbf', stroke: '#ffffff', sw: 0, so: false, fnt: '"Roboto Mono", monospace' },
   { id: 'qsoData', lbl: 'QSO Data', defTxt: '', size: 55, x: 65, y: 965, b: true, i: false, col: '#ffffff', stroke: '#000000', sw: 7, fnt: 'Roboto' },
@@ -382,52 +382,93 @@ function hexToRgba(hex, opacity) {
   return `rgba(${r}, ${g}, ${b}, ${opacity / 100})`;
 }
 
-// 贴纸描边参数
-const STICKER = {
-  fill: '#ff0000',      // 字母填充色
-  ink: '#000000',       // 黑色内描边
-  edge: '#ffffff',      // 白色贴纸边
-  edgeW: 34,            // 白边宽度（165px 字号下）
-  inkW: 12              // 黑描边宽度
-};
 
-function drawCallsignSticker(ctx, text, x, y, size) {
+// 剥落效果参数（165px 字号下的数值，会随字号等比缩放）
+const PEEL = { count: 3, lift: 28, dx: -34, rot: -0.24, shrink: 0.26, tuck: 0.30 };
+
+function drawCallsign(ctx, text, x, y, size) {
   const s = size / 165;
+  const n = text.length;
+  const capH = size * 0.72;
+  const gap = 8 * s;
+
   ctx.save();
   ctx.font = `700 ${size}px "Roboto Mono", monospace`;
+  if ('letterSpacing' in ctx) ctx.letterSpacing = '0px';
   ctx.textAlign = 'left';
   ctx.textBaseline = 'alphabetic';
   ctx.lineJoin = 'round';
-  const w = ctx.measureText(text).width;
 
-  // 1. 白边加柔和投影：让贴纸"浮"在卡片上
-  ctx.save();
-  ctx.shadowColor = 'rgba(0,0,0,0.35)';
-  ctx.shadowBlur = 14 * s;
-  ctx.shadowOffsetY = 6 * s;
-  ctx.strokeStyle = STICKER.edge;
-  ctx.lineWidth = (STICKER.edgeW + 4) * s;
-  ctx.strokeText(text, x, y);
+  // 1. 逐个字母排版：最后 PEEL.count 个字母逐渐剥落，字距同时收紧
+  const letters = [];
+  let cx = x;
+  for (let i = 0; i < n; i++) {
+    const adv = ctx.measureText(text[i]).width;
+    const k = Math.min(1, Math.max(0, (i - (n - PEEL.count - 1)) / PEEL.count));
+    const e = k * k;                         // 0 = 贴在卡上，1 = 剥落最多
+    letters.push({ ch: text[i], x: cx, adv: adv, e: e });
+    cx += (adv + gap) * (1 - e * PEEL.tuck);
+  }
+
+  // 2. 卡片上留下的字形印记
+  ctx.fillStyle = 'rgba(0,0,0,0.08)';
+  ctx.strokeStyle = 'rgba(0,0,0,0.18)';
+  ctx.lineWidth = 2 * s;
+  letters.forEach(L => {
+    if (L.e <= 0) return;
+    ctx.fillText(L.ch, L.x, y);
+    ctx.strokeText(L.ch, L.x, y);
+  });
+
+  // 3. 逐个字母绘制：侧面厚度（最深一层带投影）→ 外描边 → 白描边 → 渐变正面
+  letters.forEach(L => {
+    const e = L.e;
+    const sx = 1 - PEEL.shrink * e;
+    const sy = 1 - PEEL.shrink * 0.45 * e;
+    const depth = Math.max(2, Math.round((4 + e * 10) * s));
+
+    ctx.save();
+    ctx.translate(L.x + L.adv / 2 + PEEL.dx * s * e, y - capH / 2 - PEEL.lift * s * e);
+    ctx.rotate(PEEL.rot * e);
+    ctx.transform(sx, 0, 0, sy, 0, 0);
+    const ox = -L.adv / 2, oy = capH / 2;
+
+    for (let d = depth; d >= 1; d--) {
+      if (d === depth) {
+        ctx.shadowColor = 'rgba(0,0,0,0.38)';
+        ctx.shadowBlur = (10 + e * 16) * s;
+        ctx.shadowOffsetX = (4 + e * 14) * s;
+        ctx.shadowOffsetY = (6 + e * 22) * s;
+      } else {
+        ctx.shadowColor = 'transparent';
+      }
+      ctx.strokeStyle = '#4a0b11';
+      ctx.lineWidth = 18 * s;
+      ctx.strokeText(L.ch, ox + d * 0.55, oy + d * 0.85);
+    }
+    ctx.shadowColor = 'transparent';
+    ctx.shadowBlur = 0;
+    ctx.shadowOffsetX = 0;
+    ctx.shadowOffsetY = 0;
+
+    ctx.strokeStyle = '#111111';
+    ctx.lineWidth = 18 * s;
+    ctx.strokeText(L.ch, ox, oy);
+    ctx.strokeStyle = '#ffffff';
+    ctx.lineWidth = 13 * s;
+    ctx.strokeText(L.ch, ox, oy);
+
+    const g = ctx.createLinearGradient(0, -capH / 2, 0, capH / 2);
+    g.addColorStop(0, '#ff5a3c');
+    g.addColorStop(1, '#c1121f');
+    ctx.fillStyle = g;
+    ctx.fillText(L.ch, ox, oy);
+    ctx.restore();
+  });
+
   ctx.restore();
-
-  // 2. 再盖一层不带投影的白边，保证边缘干净
-  ctx.strokeStyle = STICKER.edge;
-  ctx.lineWidth = STICKER.edgeW * s;
-  ctx.strokeText(text, x, y);
-
-  // 3. 黑色内描边
-  ctx.strokeStyle = STICKER.ink;
-  ctx.lineWidth = STICKER.inkW * s;
-  ctx.strokeText(text, x, y);
-
-  // 4. 填充
-  ctx.fillStyle = STICKER.fill;
-  ctx.fillText(text, x, y);
-
-  ctx.restore();
-  return w;                                  // 供拖动命中检测使用
+  return cx - x - gap;                       // 总宽度，供拖动命中检测使用
 }
-
 
 function drawMorse(ctx, text, x, y, u, color) {
   const MORSE = {
@@ -543,7 +584,7 @@ function renderQSL() {
     obj.size = size; obj.h = size;
     // ↓ 新增：只对呼号走新的绘制函数
     if (el.id === 'myCall') {
-      obj.w = drawCallsignSticker(qslCtx, text, obj.x, obj.y, size);
+      obj.w = drawCallsign(qslCtx, text, obj.x, obj.y, size);
       return;
     }
     const isItalic = document.getElementById('i_qsl_' + el.id).checked;
