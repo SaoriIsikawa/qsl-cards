@@ -750,8 +750,18 @@ const values = [
     qslCtx.restore();
   }
 
+  // 裁切边框：沿线裁切
+  qslCtx.save();
+  qslCtx.strokeStyle = '#000000';   // 线条颜色
+  qslCtx.lineWidth = 3;             // 线条粗细（像素）
+  const m = 6;                      // 边框距卡片边缘的距离（像素）
+  qslCtx.strokeRect(m, m, QSL_WIDTH - m * 2, QSL_HEIGHT - m * 2);
+  qslCtx.restore();
 
 }
+
+
+
 
 function getQslPos(e) {
   const rect = qslCanvas.getBoundingClientRect();
