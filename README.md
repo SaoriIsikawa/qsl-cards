@@ -13,7 +13,8 @@
 [TOM-3 (2026-08-27)](#tom-3-2026-08-27)  
 [TOM-2 (2026-07-09)](#tom-2-2026-07-09)  
 [TOM-1 (2026-07-09)](#tom-1-2026-07-09)  
-[Luca (2026-02-03)](#luca-2026-02-03)  
+[Luca-1 (2026-11-14)](#luca-1-2026-11-14)  
+[Luca-1 (2026-02-03)](#luca-1-2026-02-03)  
 [GRBBeta (2026-07-25)](#grbbeta-2026-07-25)  
 [GRBBeta (2026-03-31)](#grbbeta-2026-03-31)  
 [Marina (2026-07-18)](#marina-9k6-2026-07-18)  
@@ -110,6 +111,7 @@
 - [2026-05-08~12 Expedition 74 - ARISS Series 32 - Cooperation in Space](#ariss-sstv-award-2026-05-08)
 - [2026-10-02~06 Expedition 75 - ARISS Series 33 - Student Education](#ariss-sstv-award-2026-10-02)
 - [2026-10-22~26 Expedition 75 - ARISS Series 34 - ARISS Hardware](#ariss-sstv-award-2026-10-22)
+- [2026-11-09~16 Expedition 75 - ARISS Series 35 - Space Memories](#ariss-sstv-award-2026-11-09)
 - [2025-07-14~20 Russia ISS SSTV Diploma](#russia-iss-sstv-diploma-2025-07-15)
 - [2026-05-08~12 Russia ISS SSTV Diploma](#russia-iss-sstv-diploma-2026-05-08)
 - [2024-12-04 SSTV Diploma - Palace of Pioneers](#sstv-diploma-85th-anniversary-of-the-palace-of-pioneers-2024-12-04)
@@ -152,7 +154,8 @@
 | <div id="tom-3-2026-08-27"></div><br><br> **Name:** TOM-3 <br> **Callsign:** `DP2TOC` <br> **Mode:** 9k6 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [98262](https://db.satnogs.org/satellite/98262) <br>[🔝 Back to Index](#top) | [![TOM-3 QSL Card 2026-08-27](assets/images/2026-08-27_tom-3.jpg)](https://db.satnogs.org/satellite/98262)  |
 | <div id="tom-2-2026-07-09"></div><br><br> **Name:** TOM-2 <br> **Callsign:** `DP2TOB` <br> **Mode:** 9k6 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [98263](https://db.satnogs.org/satellite/98263) <br>[🔝 Back to Index](#top) | [![TOM-2 QSL Card 2026-07-09](assets/images/2026-07-09_tom-2.jpg)](https://db.satnogs.org/satellite/98263)  |
 | <div id="tom-1-2026-07-09"></div><br><br> **Name:** TOM-1 <br> **Callsign:** `DP2TOA` <br> **Mode:** 9k6 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [98264](https://db.satnogs.org/satellite/98264) <br>[🔝 Back to Index](#top) | [![TOM-3 QSL Card 2026-07-09](assets/images/2026-07-09_tom-1.jpg)](https://db.satnogs.org/satellite/98264)  |
-| <div id="luca-2026-02-03"></div><br><br> **Name:** Luca <br> **Callsign:** `RS90S` <br> **Mode:** 2k4 USP <br> **QSL Format:** Digital <br> **SatNOGS DB:** [67287](https://db.satnogs.org/satellite/67287) <br>[🔝 Back to Index](#top) | [![Luca QSL Card 2026-02-03](assets/images/2026-02-03_luca.jpg)](https://db.satnogs.org/satellite/67287)  |
+| <div id="luca-1-2026-11-14"></div><br><br> **Name:** Luca-1 <br> **Callsign:** `RS90S` <br> **Mode:** SSTV Robot36 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [67287](https://db.satnogs.org/satellite/67287) <br>[🔝 Back to Index](#top) | [![Luca-1 QSL Card 2026-11-14](assets/images/2026-11-14_luca-1.jpg)](https://db.satnogs.org/satellite/67287)  |
+| <div id="luca-1-2026-02-03"></div><br><br> **Name:** Luca-1 <br> **Callsign:** `RS90S` <br> **Mode:** 2k4 USP <br> **QSL Format:** Digital <br> **SatNOGS DB:** [67287](https://db.satnogs.org/satellite/67287) <br>[🔝 Back to Index](#top) | [![Luca-1 QSL Card 2026-02-03](assets/images/2026-02-03_luca-1.jpg)](https://db.satnogs.org/satellite/67287)  |
 | <div id="grbbeta-2026-07-25"></div><br><br> **Name:** GRBBeta <br> **Callsign:** `HA2GRB` <br> **Mode:** 9k6 <br> **Direction:** 1-way <br> **QSL Format:** Digital <br> **SatNOGS DB:** [60237](https://db.satnogs.org/satellite/60237) <br>[🔝 Back to Index](#top) | [![GRBBeta QSL Card 2026-07-25](assets/images/2026-07-25_grbbeta.jpg)](https://db.satnogs.org/satellite/60237)  |
 | <div id="grbbeta-2026-03-31"></div><br><br> **Name:** GRBBeta <br> **Callsign:** `HA2GRB` <br> **Mode:** 9k6 <br> **Direction:** 1-way <br> **QSL Format:** Digital <br> **SatNOGS DB:** [60237](https://db.satnogs.org/satellite/60237) <br>[🔝 Back to Index](#top) | [![GRBBeta QSL Card 2026-03-31](assets/images/2026-03-31_grbbeta.jpg)](https://db.satnogs.org/satellite/60237)  |
 | <div id="marina-9k6-2026-07-18"></div><br><br> **Name:** Marina <br> **Callsign:** `OM9MAR` <br> **Mode:** 9k6 <br> **Direction:** 1-way <br> **QSL Format:** Digital <br> **SatNOGS DB:** [98293](https://db.satnogs.org/satellite/98293) <br>[🔝 Back to Index](#top) | [![MARINA QSL Card 2026-07-18](assets/images/2026-07-18_marina_9k6.jpg)](https://db.satnogs.org/satellite/98293)  |
@@ -299,6 +302,13 @@
 **2026-10-22~26 Expedition 75 - ARISS Series 34 - ARISS Hardware**  
 [🔝 Back to Index](#top)  
 ![assets/images/ariss_sstv_award_2026-10-22.jpg](assets/images/ariss_sstv_award_2026-10-22.jpg)
+
+---
+
+<a id="ariss-sstv-award-2026-11-09"></a>
+**2026-11-09~16 Expedition 75 - ARISS Series 35 - Space Memories**  
+[🔝 Back to Index](#top)  
+![assets/images/ariss_sstv_award_2026-11-09.jpg](assets/images/ariss_sstv_award_2026-11-09.jpg)
 
 ---
 
