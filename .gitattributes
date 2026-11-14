@@ -1,7 +1,7 @@
 * text=auto eol=lf
 
 *.md text eol=crlf
-#*.html text eol=crlf
+index.html text eol=crlf
 #*.css text eol=crlf
 *.awk text eol=crlf
 
