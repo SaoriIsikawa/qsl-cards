@@ -6,6 +6,7 @@
 <tbody>
 <tr><td>
 
+[SCION-X (2026-11-07)](#scion-x-2026-11-07)  
 [UNNE-1B (2026-10-08)](#unne-1b-2026-10-08)  
 [Foresail-1p (2026-07-11)](#foresail-1p-2026-07-11)  
 [GBSAT (2026-10-08)](#gbsat-2026-10-08)  
@@ -147,6 +148,7 @@
 
 | 📋 QSL Information | 🖼️ QSL Preview |
 | :--- | :--- |
+| <div id="scion-x-2026-11-07"></div><br><br> **Name:** SCION-X <br> **Mode:** 9k6 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [98266](https://db.satnogs.org/satellite/98266) <br>[🔝 Back to Index](#top) | [![SCION-X QSL Card 2026-11-07](assets/images/2026-11-07_scion-x_no_qr.jpg)](https://db.satnogs.org/satellite/98266)  |
 | <div id="unne-1b-2026-10-08"></div><br><br> **Name:** UNNE-1B <br> **Mode:** BPSK 200 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [98205](https://db.satnogs.org/satellite/98205) <br>[🔝 Back to Index](#top) | [![UNNE-1B QSL Card 2026-10-08](assets/images/2026-10-08_unne-1b.jpg)](https://db.satnogs.org/satellite/98205)  |
 | <div id="foresail-1p-2026-07-11"></div><br><br> **Name:** Foresail-1p <br> **Callsign:** `OH2F1S` <br> **Mode:** 9k6 <br> **QSL Format:** Paper <br> **SatNOGS DB:** [66778](https://db.satnogs.org/satellite/66778) <br>[🔝 Back to Index](#top) | [![Foresail-1p QSL Card 2026-07-11](assets/images/2026-07-11_foresail-1p.jpg)](https://db.satnogs.org/satellite/66778)  |
 | <div id="gbsat-2026-10-08"></div><br><br> **Name:** GBSAT <br> **Callsign:** `6M2CK` <br> **Mode:** 9k6 <br> **QSL Format:** Digital <br> **SatNOGS DB:** [98243](https://db.satnogs.org/satellite/98243) <br>[🔝 Back to Index](#top) | [![GBSAT QSL Card 2026-10-08](assets/images/2026-10-08_gbsat.jpg)](https://db.satnogs.org/satellite/98243)  |
