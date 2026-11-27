@@ -133,7 +133,7 @@
 - [2026-04-23~26 RS40S Scouts Day Special Event in SSTV](#scouts-day-2026-04-26)
 - [2026-06-19~21 RS40S White Radio Night's 2026](#white-radio-nights-2026-06-21)
 - [2026-07-20~26 RS40S International Moon Day 2026](#international-moon-day-2026-07-21)
-
+- [2026-10-08~10 China's Space Industry 70th Anniversary SSTV/SSDV Reception Award](#china70-award-2026)
 
 ## 🛰️ ISS QSL 卡
 
@@ -452,6 +452,12 @@
 [🔝 Back to Index](#top)  
 ![assets/images/rs40s_moon_day_2026.jpg](assets/images/rs40s_moon_day_2026.jpg)
 
+---
+
+<a id="china70-award-2026"></a>
+**2026-10-08~10 China's Space Industry 70th Anniversary SSTV/SSDV Reception Award**  
+[🔝 Back to Index](#top)  
+![assets/images/2026_china70_award.jpg](assets/images/2026_china70_award.jpg)
 
 ## ISS QSL 卡
 
